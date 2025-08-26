@@ -1,58 +1,169 @@
 
-time="2025-08-18T09:40:10Z" level=warning msg="/home/ubuntu/rinha-de-backend-2025/participantes/caio-caminha-kotlin/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2025-08-21T13:00:17Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/caio-caminha-kotlin/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
  api-2 Pulling 
+ load-balancer Pulling 
  api-1 Pulling 
- a3be5d4ce401 Already exists 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ a3be5d4ce401 Pulling fs layer 
  63ddc0dbd9ef Pulling fs layer 
  88d38c6fc4e8 Pulling fs layer 
- a3be5d4ce401 Already exists 
+ a3be5d4ce401 Waiting 
+ 63ddc0dbd9ef Waiting 
+ 88d38c6fc4e8 Waiting 
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ a3be5d4ce401 Pulling fs layer 
  63ddc0dbd9ef Pulling fs layer 
  88d38c6fc4e8 Pulling fs layer 
+ a3be5d4ce401 Waiting 
+ 63ddc0dbd9ef Waiting 
+ 88d38c6fc4e8 Waiting 
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ a3be5d4ce401 Downloading [>                                                  ]  299.1kB/29.54MB
+ a3be5d4ce401 Downloading [>                                                  ]  299.1kB/29.54MB
+ 63ddc0dbd9ef Verifying Checksum 
  63ddc0dbd9ef Downloading [==================================================>]      93B/93B
  63ddc0dbd9ef Verifying Checksum 
  63ddc0dbd9ef Download complete 
- 63ddc0dbd9ef Verifying Checksum 
  63ddc0dbd9ef Download complete 
+ cb1ff4086f82 Downloading [>                                                  ]  171.9kB/16.84MB
+ a3be5d4ce401 Downloading [=============>                                     ]  7.953MB/29.54MB
+ a3be5d4ce401 Downloading [=============>                                     ]  7.953MB/29.54MB
+ cb1ff4086f82 Downloading [==================>                                ]  6.074MB/16.84MB
+ a3be5d4ce401 Downloading [======================================>            ]  22.95MB/29.54MB
+ a3be5d4ce401 Downloading [======================================>            ]  22.95MB/29.54MB
+ a3be5d4ce401 Verifying Checksum 
+ a3be5d4ce401 Download complete 
+ a3be5d4ce401 Download complete 
+ cb1ff4086f82 Downloading [============================>                      ]  9.449MB/16.84MB
+ a3be5d4ce401 Extracting [>                                                  ]  327.7kB/29.54MB
+ a3be5d4ce401 Extracting [>                                                  ]  327.7kB/29.54MB
+ cb1ff4086f82 Downloading [=============================================>     ]  15.38MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ a3be5d4ce401 Extracting [=========>                                         ]  5.571MB/29.54MB
+ a3be5d4ce401 Extracting [=========>                                         ]  5.571MB/29.54MB
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ 88d38c6fc4e8 Downloading [>                                                  ]  388.2kB/38.45MB
+ 88d38c6fc4e8 Downloading [>                                                  ]  388.2kB/38.45MB
+ cb1ff4086f82 Extracting [========>                                          ]  2.949MB/16.84MB
+ a3be5d4ce401 Extracting [=============>                                     ]  8.192MB/29.54MB
+ a3be5d4ce401 Extracting [=============>                                     ]  8.192MB/29.54MB
+ 88d38c6fc4e8 Downloading [========>                                          ]  6.265MB/38.45MB
+ 88d38c6fc4e8 Downloading [========>                                          ]  6.265MB/38.45MB
+ cb1ff4086f82 Extracting [============================>                      ]  9.634MB/16.84MB
+ a3be5d4ce401 Extracting [=================>                                 ]  10.16MB/29.54MB
+ a3be5d4ce401 Extracting [=================>                                 ]  10.16MB/29.54MB
+ 88d38c6fc4e8 Downloading [================>                                  ]  12.54MB/38.45MB
+ 88d38c6fc4e8 Downloading [================>                                  ]  12.54MB/38.45MB
+ cb1ff4086f82 Extracting [=============================================>     ]  15.34MB/16.84MB
+ a3be5d4ce401 Extracting [===========================>                       ]  16.06MB/29.54MB
+ a3be5d4ce401 Extracting [===========================>                       ]  16.06MB/29.54MB
+ 88d38c6fc4e8 Downloading [=====================>                             ]  16.82MB/38.45MB
+ 88d38c6fc4e8 Downloading [=====================>                             ]  16.82MB/38.45MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ a3be5d4ce401 Extracting [=====================================>             ]  22.28MB/29.54MB
+ a3be5d4ce401 Extracting [=====================================>             ]  22.28MB/29.54MB
+ 88d38c6fc4e8 Downloading [==========================>                        ]  20.36MB/38.45MB
+ 88d38c6fc4e8 Downloading [==========================>                        ]  20.36MB/38.45MB
+ cb1ff4086f82 Pull complete 
+ load-balancer Pulled 
+ a3be5d4ce401 Extracting [===========================================>       ]  25.56MB/29.54MB
+ a3be5d4ce401 Extracting [===========================================>       ]  25.56MB/29.54MB
+ 88d38c6fc4e8 Downloading [==============================>                    ]   23.5MB/38.45MB
+ 88d38c6fc4e8 Downloading [==============================>                    ]   23.5MB/38.45MB
+ a3be5d4ce401 Extracting [===========================================>       ]  25.89MB/29.54MB
+ a3be5d4ce401 Extracting [===========================================>       ]  25.89MB/29.54MB
+ 88d38c6fc4e8 Downloading [========================================>          ]  30.97MB/38.45MB
+ 88d38c6fc4e8 Downloading [========================================>          ]  30.97MB/38.45MB
+ 88d38c6fc4e8 Downloading [============================================>      ]  34.49MB/38.45MB
+ 88d38c6fc4e8 Downloading [============================================>      ]  34.49MB/38.45MB
+ a3be5d4ce401 Extracting [===============================================>   ]  28.18MB/29.54MB
+ a3be5d4ce401 Extracting [===============================================>   ]  28.18MB/29.54MB
+ 88d38c6fc4e8 Verifying Checksum 
+ 88d38c6fc4e8 Verifying Checksum 
+ 88d38c6fc4e8 Download complete 
+ 88d38c6fc4e8 Download complete 
+ a3be5d4ce401 Extracting [=================================================> ]  29.16MB/29.54MB
+ a3be5d4ce401 Extracting [=================================================> ]  29.16MB/29.54MB
+ a3be5d4ce401 Extracting [==================================================>]  29.54MB/29.54MB
+ a3be5d4ce401 Extracting [==================================================>]  29.54MB/29.54MB
+ a3be5d4ce401 Pull complete 
+ a3be5d4ce401 Pull complete 
  63ddc0dbd9ef Extracting [==================================================>]      93B/93B
  63ddc0dbd9ef Extracting [==================================================>]      93B/93B
  63ddc0dbd9ef Extracting [==================================================>]      93B/93B
  63ddc0dbd9ef Extracting [==================================================>]      93B/93B
  63ddc0dbd9ef Pull complete 
  63ddc0dbd9ef Pull complete 
- 88d38c6fc4e8 Downloading [>                                                  ]  398.9kB/38.45MB
- 88d38c6fc4e8 Downloading [>                                                  ]  398.9kB/38.45MB
- 88d38c6fc4e8 Downloading [=======================>                           ]     18MB/38.45MB
- 88d38c6fc4e8 Downloading [=======================>                           ]     18MB/38.45MB
- 88d38c6fc4e8 Downloading [============================================>      ]  33.88MB/38.45MB
- 88d38c6fc4e8 Downloading [============================================>      ]  33.88MB/38.45MB
- 88d38c6fc4e8 Verifying Checksum 
- 88d38c6fc4e8 Download complete 
- 88d38c6fc4e8 Verifying Checksum 
- 88d38c6fc4e8 Download complete 
  88d38c6fc4e8 Extracting [>                                                  ]  393.2kB/38.45MB
  88d38c6fc4e8 Extracting [>                                                  ]  393.2kB/38.45MB
- 88d38c6fc4e8 Extracting [=======>                                           ]  5.505MB/38.45MB
- 88d38c6fc4e8 Extracting [=======>                                           ]  5.505MB/38.45MB
- 88d38c6fc4e8 Extracting [===============>                                   ]   11.8MB/38.45MB
- 88d38c6fc4e8 Extracting [===============>                                   ]   11.8MB/38.45MB
- 88d38c6fc4e8 Extracting [=========================>                         ]  19.27MB/38.45MB
- 88d38c6fc4e8 Extracting [=========================>                         ]  19.27MB/38.45MB
- 88d38c6fc4e8 Extracting [==================================>                ]  26.35MB/38.45MB
- 88d38c6fc4e8 Extracting [==================================>                ]  26.35MB/38.45MB
- 88d38c6fc4e8 Extracting [==========================================>        ]  33.03MB/38.45MB
- 88d38c6fc4e8 Extracting [==========================================>        ]  33.03MB/38.45MB
+ 88d38c6fc4e8 Extracting [=========>                                         ]  7.471MB/38.45MB
+ 88d38c6fc4e8 Extracting [=========>                                         ]  7.471MB/38.45MB
+ 88d38c6fc4e8 Extracting [===================>                               ]  14.94MB/38.45MB
+ 88d38c6fc4e8 Extracting [===================>                               ]  14.94MB/38.45MB
+ 88d38c6fc4e8 Extracting [=============================>                     ]  22.41MB/38.45MB
+ 88d38c6fc4e8 Extracting [=============================>                     ]  22.41MB/38.45MB
+ 88d38c6fc4e8 Extracting [====================================>              ]  28.31MB/38.45MB
+ 88d38c6fc4e8 Extracting [====================================>              ]  28.31MB/38.45MB
+ 88d38c6fc4e8 Extracting [================================================>  ]  36.96MB/38.45MB
+ 88d38c6fc4e8 Extracting [================================================>  ]  36.96MB/38.45MB
  88d38c6fc4e8 Extracting [==================================================>]  38.45MB/38.45MB
  88d38c6fc4e8 Extracting [==================================================>]  38.45MB/38.45MB
  88d38c6fc4e8 Pull complete 
  88d38c6fc4e8 Pull complete 
- api-2 Pulled 
  api-1 Pulled 
+ api-2 Pulled 
  Network caio-caminha-kotlin_backend  Creating
  Network caio-caminha-kotlin_backend  Created
  Container caio-caminha-kotlin-api-2-1  Creating
  Container caio-caminha-kotlin-api-1-1  Creating
- Container caio-caminha-kotlin-api-2-1  Created
  Container caio-caminha-kotlin-api-1-1  Created
+ Container caio-caminha-kotlin-api-2-1  Created
  Container rinha-load-balancer  Creating
  Container rinha-load-balancer  Created
 Attaching to api-1-1, api-2-1, rinha-load-balancer
@@ -66,8 +177,8 @@ api-2-1  |  =========|_|==============|___/=/_/_/_/
 api-2-1  | 
 api-2-1  |  :: Spring Boot ::                (v3.5.3)
 api-2-1  | 
-api-2-1  | 2025-08-18T09:40:14.209Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Starting AOT-processed RinhaBackendKotlinSpringNativeApplicationKt using Java 21.0.2 with PID 1 (/app/rinha-backend-kotlin-spring-native started by ? in /app)
-api-2-1  | 2025-08-18T09:40:14.209Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : No active profile set, falling back to 1 default profile: "default"
+api-2-1  | 2025-08-21T13:00:24.835Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Starting AOT-processed RinhaBackendKotlinSpringNativeApplicationKt using Java 21.0.2 with PID 1 (/app/rinha-backend-kotlin-spring-native started by ? in /app)
+api-2-1  | 2025-08-21T13:00:24.835Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : No active profile set, falling back to 1 default profile: "default"
 api-1-1  | 
 api-1-1  |   .   ____          _            __ _ _
 api-1-1  |  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -78,24 +189,24 @@ api-1-1  |  =========|_|==============|___/=/_/_/_/
 api-1-1  | 
 api-1-1  |  :: Spring Boot ::                (v3.5.3)
 api-1-1  | 
-api-1-1  | 2025-08-18T09:40:14.222Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Starting AOT-processed RinhaBackendKotlinSpringNativeApplicationKt using Java 21.0.2 with PID 1 (/app/rinha-backend-kotlin-spring-native started by ? in /app)
-api-1-1  | 2025-08-18T09:40:14.223Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : No active profile set, falling back to 1 default profile: "default"
-api-2-1  | 2025-08-18T09:40:14.258Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Started RinhaBackendKotlinSpringNativeApplicationKt in 0.068 seconds (process running for 0.077)
+api-1-1  | 2025-08-21T13:00:24.850Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Starting AOT-processed RinhaBackendKotlinSpringNativeApplicationKt using Java 21.0.2 with PID 1 (/app/rinha-backend-kotlin-spring-native started by ? in /app)
+api-1-1  | 2025-08-21T13:00:24.851Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : No active profile set, falling back to 1 default profile: "default"
+api-2-1  | 2025-08-21T13:00:24.875Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Started RinhaBackendKotlinSpringNativeApplicationKt in 0.059 seconds (process running for 0.064)
 api-2-1  | Starting worker 0
 api-2-1  | Starting worker 1
 api-2-1  | Starting worker 2
-api-2-1  | 2025-08-18T09:40:14.262Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] io.undertow                              : starting server: Undertow - 2.3.18.Final
-api-2-1  | 2025-08-18T09:40:14.262Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio                                 : XNIO version 3.8.16.Final
-api-2-1  | 2025-08-18T09:40:14.262Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.16.Final
-api-2-1  | 2025-08-18T09:40:14.264Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
-api-1-1  | 2025-08-18T09:40:14.268Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Started RinhaBackendKotlinSpringNativeApplicationKt in 0.065 seconds (process running for 0.07)
+api-2-1  | 2025-08-21T13:00:24.878Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] io.undertow                              : starting server: Undertow - 2.3.18.Final
+api-2-1  | 2025-08-21T13:00:24.878Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio                                 : XNIO version 3.8.16.Final
+api-2-1  | 2025-08-21T13:00:24.878Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.16.Final
+api-2-1  | 2025-08-21T13:00:24.879Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+api-1-1  | 2025-08-21T13:00:24.921Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] haBackendKotlinSpringNativeApplicationKt : Started RinhaBackendKotlinSpringNativeApplicationKt in 0.087 seconds (process running for 0.093)
 api-1-1  | Starting worker 0
 api-1-1  | Starting worker 1
 api-1-1  | Starting worker 2
-api-1-1  | 2025-08-18T09:40:14.271Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] io.undertow                              : starting server: Undertow - 2.3.18.Final
-api-1-1  | 2025-08-18T09:40:14.271Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio                                 : XNIO version 3.8.16.Final
-api-1-1  | 2025-08-18T09:40:14.272Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.16.Final
-api-1-1  | 2025-08-18T09:40:14.274Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+api-1-1  | 2025-08-21T13:00:24.925Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] io.undertow                              : starting server: Undertow - 2.3.18.Final
+api-1-1  | 2025-08-21T13:00:24.925Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio                                 : XNIO version 3.8.16.Final
+api-1-1  | 2025-08-21T13:00:24.925Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.16.Final
+api-1-1  | 2025-08-21T13:00:24.927Z  INFO 1 --- [rinha-backend-kotlin-spring-native] [           main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
 rinha-load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 rinha-load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 rinha-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -105,42 +216,43 @@ rinha-load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-l
 rinha-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 rinha-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 rinha-load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
-rinha-load-balancer  | 2025/08/18 09:40:15 [error] 35#35: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:15 [error] 35#35: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:15 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:20 [error] 33#33: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:20 [error] 33#33: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:20 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:25 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:25 [error] 34#34: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:25 [error] 34#34: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:30 [error] 34#34: *10 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://backend_cluster/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:30 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:35 [error] 33#33: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:35 [error] 33#33: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:35 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:40 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:40 [error] 35#35: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:40 [error] 35#35: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:45 [error] 32#32: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:40:45 [error] 32#32: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:45 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:50 [error] 35#35: *20 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://backend_cluster/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:50 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:40:55 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:40:55 [error] 32#32: *21 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://backend_cluster/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:41:00 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:41:00 [error] 34#34: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:41:00 [error] 34#34: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:41:05 [error] 32#32: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:41:05 [error] 32#32: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:41:05 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:41:10 [error] 33#33: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:41:10 [error] 33#33: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:41:10 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:41:15 [error] 37#37: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 2025/08/18 09:41:15 [error] 37#37: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:41:15 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
-rinha-load-balancer  | 2025/08/18 09:41:20 [error] 37#37: *34 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://backend_cluster/payments-summary", host: "localhost:9999"
-rinha-load-balancer  | 172.21.0.1 - - [18/Aug/2025:09:41:20 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:27 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:27 [error] 32#32: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:27 [error] 32#32: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:32 [error] 33#33: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:32 [error] 33#33: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:32 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:37 [error] 35#35: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:37 [error] 35#35: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:37 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:42 [error] 30#30: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:42 [error] 30#30: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:42 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:47 [error] 33#33: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:47 [error] 33#33: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:47 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:52 [error] 35#35: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:52 [error] 35#35: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:52 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:00:57 [error] 32#32: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:00:57 [error] 32#32: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:00:57 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:01:02 [error] 34#34: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:02 [error] 34#34: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:02 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:07 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:01:07 [error] 32#32: *25 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://backend_cluster/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:12 [error] 30#30: *26 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:12 [error] 30#30: *26 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:12 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:01:17 [error] 31#31: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:17 [error] 31#31: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:17 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:01:22 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:22 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:22 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
+rinha-load-balancer  | 2025/08/21 13:01:27 [error] 36#36: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 2025/08/21 13:01:27 [error] 36#36: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.2:8080/payments-summary", host: "localhost:9999"
+rinha-load-balancer  | 172.21.0.1 - - [21/Aug/2025:13:01:27 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.14.1"
 [Krinha-load-balancer exited with code 0
+[Kapi-2-1 exited with code 143

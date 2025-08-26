@@ -1,4 +1,302 @@
 
+ backend1 Pulling 
+ backend2 Pulling 
+ haproxy Pulling 
+ 9824c27679d3 Already exists 
+ a2ba33acdd26 Pulling fs layer 
+ 8988afcd1754 Pulling fs layer 
+ 960c5713500a Pulling fs layer 
+ d4d23bb5eb8f Pulling fs layer 
+ 404f47a35055 Pulling fs layer 
+ 4d466c741908 Pulling fs layer 
+ 404f47a35055 Waiting 
+ d4d23bb5eb8f Waiting 
+ 4d466c741908 Waiting 
+ 9824c27679d3 Already exists 
+ a2ba33acdd26 Pulling fs layer 
+ 8988afcd1754 Pulling fs layer 
+ 960c5713500a Pulling fs layer 
+ d4d23bb5eb8f Pulling fs layer 
+ 404f47a35055 Pulling fs layer 
+ 4d466c741908 Pulling fs layer 
+ 4d466c741908 Waiting 
+ d4d23bb5eb8f Waiting 
+ 404f47a35055 Waiting 
+ 960c5713500a Downloading [==================================================>]     130B/130B
+ 960c5713500a Download complete 
+ 960c5713500a Download complete 
+ 9824c27679d3 Already exists 
+ 123b92336b82 Pulling fs layer 
+ e7cee334a64b Pulling fs layer 
+ 536eff87c11a Pulling fs layer 
+ 0b2aa9ab96ae Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ e7cee334a64b Waiting 
+ 536eff87c11a Waiting 
+ 0b2aa9ab96ae Waiting 
+ 123b92336b82 Waiting 
+ 4f4fb700ef54 Waiting 
+ a2ba33acdd26 Downloading [>                                                  ]  213.5kB/21.1MB
+ a2ba33acdd26 Downloading [>                                                  ]  213.5kB/21.1MB
+ 8988afcd1754 Downloading [>                                                  ]  532.5kB/158MB
+ 8988afcd1754 Downloading [>                                                  ]  532.5kB/158MB
+ a2ba33acdd26 Download complete 
+ a2ba33acdd26 Verifying Checksum 
+ a2ba33acdd26 Download complete 
+ a2ba33acdd26 Extracting [>                                                  ]  229.4kB/21.1MB
+ a2ba33acdd26 Extracting [>                                                  ]  229.4kB/21.1MB
+ 8988afcd1754 Downloading [=========>                                         ]  29.93MB/158MB
+ 8988afcd1754 Downloading [=========>                                         ]  29.93MB/158MB
+ a2ba33acdd26 Extracting [===>                                               ]  1.606MB/21.1MB
+ a2ba33acdd26 Extracting [===>                                               ]  1.606MB/21.1MB
+ 8988afcd1754 Downloading [==================>                                ]   58.8MB/158MB
+ 8988afcd1754 Downloading [==================>                                ]   58.8MB/158MB
+ a2ba33acdd26 Extracting [================>                                  ]  6.881MB/21.1MB
+ a2ba33acdd26 Extracting [================>                                  ]  6.881MB/21.1MB
+ 8988afcd1754 Downloading [==========================>                        ]  83.84MB/158MB
+ 8988afcd1754 Downloading [==========================>                        ]  83.84MB/158MB
+ a2ba33acdd26 Extracting [==============================>                    ]  13.07MB/21.1MB
+ a2ba33acdd26 Extracting [==============================>                    ]  13.07MB/21.1MB
+ 8988afcd1754 Downloading [===================================>               ]  111.5MB/158MB
+ 8988afcd1754 Downloading [===================================>               ]  111.5MB/158MB
+ a2ba33acdd26 Extracting [=====================================>             ]  15.83MB/21.1MB
+ a2ba33acdd26 Extracting [=====================================>             ]  15.83MB/21.1MB
+ 8988afcd1754 Downloading [==========================================>        ]  132.8MB/158MB
+ 8988afcd1754 Downloading [==========================================>        ]  132.8MB/158MB
+ 8988afcd1754 Downloading [===============================================>   ]  151.5MB/158MB
+ a2ba33acdd26 Extracting [==================================================>]   21.1MB/21.1MB
+ 8988afcd1754 Downloading [===============================================>   ]  151.5MB/158MB
+ a2ba33acdd26 Extracting [==================================================>]   21.1MB/21.1MB
+ 8988afcd1754 Verifying Checksum 
+ 8988afcd1754 Download complete 
+ 8988afcd1754 Verifying Checksum 
+ 8988afcd1754 Download complete 
+ d4d23bb5eb8f Downloading [======================>                            ]  1.009kB/2.28kB
+ d4d23bb5eb8f Downloading [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Downloading [======================>                            ]  1.009kB/2.28kB
+ d4d23bb5eb8f Downloading [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Verifying Checksum 
+ d4d23bb5eb8f Download complete 
+ d4d23bb5eb8f Verifying Checksum 
+ d4d23bb5eb8f Download complete 
+ a2ba33acdd26 Pull complete 
+ a2ba33acdd26 Pull complete 
+ 8988afcd1754 Extracting [>                                                  ]  557.1kB/158MB
+ 8988afcd1754 Extracting [>                                                  ]  557.1kB/158MB
+ 8988afcd1754 Extracting [=======>                                           ]  23.95MB/158MB
+ 8988afcd1754 Extracting [=======>                                           ]  23.95MB/158MB
+ 404f47a35055 Downloading [==================================================>]      92B/92B
+ 404f47a35055 Verifying Checksum 
+ 404f47a35055 Downloading [==================================================>]      92B/92B
+ 404f47a35055 Download complete 
+ 404f47a35055 Download complete 
+ 8988afcd1754 Extracting [==============>                                    ]  45.68MB/158MB
+ 8988afcd1754 Extracting [==============>                                    ]  45.68MB/158MB
+ 8988afcd1754 Extracting [=====================>                             ]   67.4MB/158MB
+ 8988afcd1754 Extracting [=====================>                             ]   67.4MB/158MB
+ 123b92336b82 Downloading [>                                                  ]  3.785kB/282.4kB
+ 123b92336b82 Downloading [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Verifying Checksum 
+ 123b92336b82 Download complete 
+ 123b92336b82 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 8988afcd1754 Extracting [=========================>                         ]  81.33MB/158MB
+ 8988afcd1754 Extracting [=========================>                         ]  81.33MB/158MB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Pull complete 
+ 8988afcd1754 Extracting [=============================>                     ]  91.91MB/158MB
+ 8988afcd1754 Extracting [=============================>                     ]  91.91MB/158MB
+ e7cee334a64b Downloading [==================================================>]     964B/964B
+ e7cee334a64b Verifying Checksum 
+ e7cee334a64b Download complete 
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ 8988afcd1754 Extracting [===============================>                   ]  99.71MB/158MB
+ 8988afcd1754 Extracting [===============================>                   ]  99.71MB/158MB
+ e7cee334a64b Pull complete 
+ 8988afcd1754 Extracting [==================================>                ]  108.1MB/158MB
+ 8988afcd1754 Extracting [==================================>                ]  108.1MB/158MB
+ 4d466c741908 Downloading [>                                                  ]    258kB/25.56MB
+ 4d466c741908 Downloading [>                                                  ]    258kB/25.56MB
+ 8988afcd1754 Extracting [====================================>              ]  116.4MB/158MB
+ 8988afcd1754 Extracting [====================================>              ]  116.4MB/158MB
+ 4d466c741908 Downloading [=>                                                 ]  774.1kB/25.56MB
+ 4d466c741908 Downloading [=>                                                 ]  774.1kB/25.56MB
+ 536eff87c11a Downloading [>                                                  ]  110.7kB/11.02MB
+ 8988afcd1754 Extracting [=======================================>           ]  124.2MB/158MB
+ 8988afcd1754 Extracting [=======================================>           ]  124.2MB/158MB
+ 4d466c741908 Downloading [===>                                               ]  1.819MB/25.56MB
+ 4d466c741908 Downloading [===>                                               ]  1.819MB/25.56MB
+ 536eff87c11a Downloading [=========================================>         ]   9.13MB/11.02MB
+ 536eff87c11a Verifying Checksum 
+ 536eff87c11a Download complete 
+ 536eff87c11a Extracting [>                                                  ]  131.1kB/11.02MB
+ 8988afcd1754 Extracting [=========================================>         ]  130.9MB/158MB
+ 8988afcd1754 Extracting [=========================================>         ]  130.9MB/158MB
+ 4d466c741908 Downloading [=======>                                           ]  3.633MB/25.56MB
+ 4d466c741908 Downloading [=======>                                           ]  3.633MB/25.56MB
+ 536eff87c11a Extracting [========================>                          ]  5.374MB/11.02MB
+ 0b2aa9ab96ae Downloading [==================================================>]     440B/440B
+ 0b2aa9ab96ae Verifying Checksum 
+ 0b2aa9ab96ae Download complete 
+ 8988afcd1754 Extracting [===========================================>       ]  136.5MB/158MB
+ 8988afcd1754 Extracting [===========================================>       ]  136.5MB/158MB
+ 4d466c741908 Downloading [=============>                                     ]  7.012MB/25.56MB
+ 4d466c741908 Downloading [=============>                                     ]  7.012MB/25.56MB
+ 536eff87c11a Extracting [==================================================>]  11.02MB/11.02MB
+ 536eff87c11a Pull complete 
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 0b2aa9ab96ae Pull complete 
+ 8988afcd1754 Extracting [============================================>      ]  141.5MB/158MB
+ 8988afcd1754 Extracting [============================================>      ]  141.5MB/158MB
+ 4d466c741908 Downloading [=========================>                         ]  13.03MB/25.56MB
+ 4d466c741908 Downloading [=========================>                         ]  13.03MB/25.56MB
+ 8988afcd1754 Extracting [==============================================>    ]  147.6MB/158MB
+ 8988afcd1754 Extracting [==============================================>    ]  147.6MB/158MB
+ 4d466c741908 Downloading [===========================================>       ]   22.4MB/25.56MB
+ 4d466c741908 Downloading [===========================================>       ]   22.4MB/25.56MB
+ 4d466c741908 Download complete 
+ 4d466c741908 Download complete 
+ 8988afcd1754 Extracting [================================================>  ]  154.9MB/158MB
+ 8988afcd1754 Extracting [================================================>  ]  154.9MB/158MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 8988afcd1754 Extracting [==================================================>]    158MB/158MB
+ 8988afcd1754 Extracting [==================================================>]    158MB/158MB
+ 4f4fb700ef54 Pull complete 
+ 8988afcd1754 Pull complete 
+ 8988afcd1754 Pull complete 
+ 960c5713500a Extracting [==================================================>]     130B/130B
+ 960c5713500a Extracting [==================================================>]     130B/130B
+ 960c5713500a Extracting [==================================================>]     130B/130B
+ 960c5713500a Extracting [==================================================>]     130B/130B
+ haproxy Pulled 
+ 960c5713500a Pull complete 
+ 960c5713500a Pull complete 
+ d4d23bb5eb8f Extracting [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Extracting [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Extracting [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Extracting [==================================================>]   2.28kB/2.28kB
+ d4d23bb5eb8f Pull complete 
+ d4d23bb5eb8f Pull complete 
+ 404f47a35055 Extracting [==================================================>]      92B/92B
+ 404f47a35055 Extracting [==================================================>]      92B/92B
+ 404f47a35055 Extracting [==================================================>]      92B/92B
+ 404f47a35055 Extracting [==================================================>]      92B/92B
+ 404f47a35055 Pull complete 
+ 404f47a35055 Pull complete 
+ 4d466c741908 Extracting [>                                                  ]  262.1kB/25.56MB
+ 4d466c741908 Extracting [>                                                  ]  262.1kB/25.56MB
+ 4d466c741908 Extracting [==========================================>        ]   21.5MB/25.56MB
+ 4d466c741908 Extracting [==========================================>        ]   21.5MB/25.56MB
+ 4d466c741908 Extracting [==================================================>]  25.56MB/25.56MB
+ 4d466c741908 Extracting [==================================================>]  25.56MB/25.56MB
+ 4d466c741908 Pull complete 
+ 4d466c741908 Pull complete 
+ backend2 Pulled 
+ backend1 Pulled 
  Network backend_net  Creating
- Network backend_net  Error
-failed to create network backend_net: Error response from daemon: invalid pool request: Pool overlaps with other one on this address space
+ Network backend_net  Created
+ Container brunokiau-jvm-backend2-1  Creating
+ Container brunokiau-jvm-backend1-1  Creating
+ Container brunokiau-jvm-backend2-1  Created
+ Container brunokiau-jvm-backend1-1  Created
+ Container brunokiau-jvm-haproxy-1  Creating
+ Container brunokiau-jvm-haproxy-1  Created
+Attaching to backend1-1, backend2-1, haproxy-1
+backend1-1  | defaultServer=[http://payment-processor-default:8080] fallbackServer=[http://payment-processor-fallback:8080] threadCount=[2] useVirtualThreads=[true] maxAttempts=[3] backoffMillis=[0] fallbackEnabled=true]
+backend2-1  | defaultServer=[http://payment-processor-default:8080] fallbackServer=[http://payment-processor-fallback:8080] threadCount=[2] useVirtualThreads=[true] maxAttempts=[3] backoffMillis=[0] fallbackEnabled=true]
+haproxy-1   | [NOTICE]   (1) : Initializing new worker (8)
+haproxy-1   | [NOTICE]   (1) : Loading success.
+backend1-1  | Gateway Default: http://payment-processor-default:8080
+backend1-1  | Gateway Fallback: http://payment-processor-fallback:8080
+backend2-1  | Gateway Default: http://payment-processor-default:8080
+backend2-1  | Gateway Fallback: http://payment-processor-fallback:8080
+backend1-1  | Initializing payment metrics....Initializing payment clientFactory....Initializing payment processor....Inicializando thread  threadlocal with gateway provider.
+backend1-1  | Inicializando thread  threadlocal with gateway provider.
+backend2-1  | Initializing payment metrics....Initializing payment clientFactory....Initializing payment processor....Inicializando thread  threadlocal with gateway provider.
+backend2-1  | Inicializando thread  threadlocal with gateway provider.
+backend1-1  | Initializing payment SummaryService....Starting server...2025-08-21 06:55:25.401 [INFO] ChannelAcceptor -charset               : [ UTF-8 ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -protocol              : [ minimal-http-keepalive ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -event loop size       : [ 1 ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -enable ssl            : [ false ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -enable epoll          : [ true ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -channel idle          : [ 30000 ]
+backend1-1  | 2025-08-21 06:55:25.403 [INFO] ChannelAcceptor -host and port         : [ 0.0.0.0:8080 ]
+backend1-1  | 2025-08-21 06:55:25.406 [INFO] ChannelAcceptor -memory pool           : [ 512/2048/2048/1.00M (direct) ]
+backend2-1  | Initializing payment SummaryService....Starting server...2025-08-21 06:55:25.447 [INFO] ChannelAcceptor -charset               : [ UTF-8 ]
+backend2-1  | 2025-08-21 06:55:25.448 [INFO] ChannelAcceptor -protocol              : [ minimal-http-keepalive ]
+backend2-1  | 2025-08-21 06:55:25.448 [INFO] ChannelAcceptor -event loop size       : [ 1 ]
+backend2-1  | 2025-08-21 06:55:25.449 [INFO] ChannelAcceptor -enable ssl            : [ false ]
+backend2-1  | 2025-08-21 06:55:25.449 [INFO] ChannelAcceptor -enable epoll          : [ true ]
+backend2-1  | 2025-08-21 06:55:25.449 [INFO] ChannelAcceptor -channel idle          : [ 30000 ]
+backend2-1  | 2025-08-21 06:55:25.449 [INFO] ChannelAcceptor -host and port         : [ 0.0.0.0:8080 ]
+backend2-1  | 2025-08-21 06:55:25.451 [INFO] ChannelAcceptor -memory pool           : [ 512/2048/2048/1.00M (direct) ]
+backend2-1  | 2025-08-21 06:55:25.457 [INFO] ChannelAcceptor -server listening @/0.0.0.0:8080
+backend2-1  | Server is up!
+backend1-1  | 2025-08-21 06:55:25.495 [INFO] ChannelAcceptor -server listening @/0.0.0.0:8080
+backend1-1  | Server is up!
+backend1-1  | Created a new gateway client instance. type=DEFAULT  host=http://payment-processor-default:8080 total=1
+backend1-1  | Created a new gateway client instance. type=DEFAULT  host=http://payment-processor-default:8080 total=2
+backend1-1  | Created a new gateway client instance. type=FALLBACK  host=http://payment-processor-fallback:8080 total=3
+backend2-1  | Created a new gateway client instance. type=DEFAULT  host=http://payment-processor-default:8080 total=1
+backend2-1  | Created a new gateway client instance. type=FALLBACK  host=http://payment-processor-fallback:8080 total=2
+backend2-1  | Created a new gateway client instance. type=DEFAULT  host=http://payment-processor-default:8080 total=3
+backend2-1  | Created a new gateway client instance. type=FALLBACK  host=http://payment-processor-fallback:8080 total=4
+backend1-1  | Created a new gateway client instance. type=FALLBACK  host=http://payment-processor-fallback:8080 total=4
+haproxy-1   | HAProxy version 3.2.4-98813a1 2025/08/13 - https://haproxy.org/
+haproxy-1   | Status: long-term supported branch - will stop receiving fixes around Q2 2030.
+haproxy-1   | Known bugs: http://www.haproxy.org/bugs/bugs-3.2.4.html
+haproxy-1   | Running on: Linux 6.12.41+deb13-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.41-1 (2025-08-12) x86_64
+haproxy-1   | [NOTICE]   (1) : haproxy version is 3.2.4-98813a1
+haproxy-1   | [ALERT]    (1) : Current worker (8) exited with code 137 (Killed)
+haproxy-1   | [WARNING]  (1) : A worker process unexpectedly died and this can only be explained by a bug in haproxy or its dependencies.
+haproxy-1   | Please check that you are running an up to date and maintained version of haproxy and open a bug report.
+haproxy-1   | [ALERT]    (1) : exit-on-failure: killing every processes with SIGTERM
+haproxy-1   | [WARNING]  (1) : All workers exited. Exiting... (137)
+[Khaproxy-1 exited with code 137
+backend1-1  | 2025-08-21 07:00:42.334 [ERROR] LifeCycle -class com.firenio.common.Unsafe (in unnamed module @0x1e94da2b) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x1e94da2b
+backend1-1  | 2025-08-21 07:00:42.334 [ERROR] LifeCycle -
+backend1-1  | java.lang.IllegalAccessError: class com.firenio.common.Unsafe (in unnamed module @0x1e94da2b) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x1e94da2b
+backend1-1  | 	at com.firenio.common.Unsafe.freeByteBuffer(Unsafe.java:497)
+backend1-1  | 	at com.firenio.buffer.DirectPooledByteBufAllocator.freeMemory(DirectPooledByteBufAllocator.java:61)
+backend1-1  | 	at com.firenio.buffer.PooledByteBufAllocator.doStop(PooledByteBufAllocator.java:243)
+backend1-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend1-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend1-1  | 	at com.firenio.buffer.ByteBufAllocatorGroup.doStop(ByteBufAllocatorGroup.java:64)
+backend1-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend1-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend1-1  | 	at com.firenio.component.NioEventLoopGroup.doStop(NioEventLoopGroup.java:128)
+backend1-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend1-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend1-1  | 	at com.firenio.component.ChannelContext.stopEventLoopGroup(ChannelContext.java:406)
+backend1-1  | 	at com.firenio.component.ChannelContext.doStop(ChannelContext.java:168)
+backend1-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend1-1  | 	at com.brunomad.rb25.server.FirenioServer.close(FirenioServer.java:42)
+backend1-1  | 	at com.brunomad.rb25.Main.lambda$v1$0(Main.java:62)
+backend1-1  | 	at java.lang.Thread.run(Thread.java:1583)
+backend2-1  | 2025-08-21 07:00:42.339 [ERROR] LifeCycle -class com.firenio.common.Unsafe (in unnamed module @0x45af9d23) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x45af9d23
+backend2-1  | 2025-08-21 07:00:42.339 [ERROR] LifeCycle -
+backend2-1  | java.lang.IllegalAccessError: class com.firenio.common.Unsafe (in unnamed module @0x45af9d23) cannot access class sun.nio.ch.DirectBuffer (in module java.base) because module java.base does not export sun.nio.ch to unnamed module @0x45af9d23
+backend2-1  | 	at com.firenio.common.Unsafe.freeByteBuffer(Unsafe.java:497)
+backend2-1  | 	at com.firenio.buffer.DirectPooledByteBufAllocator.freeMemory(DirectPooledByteBufAllocator.java:61)
+backend2-1  | 	at com.firenio.buffer.PooledByteBufAllocator.doStop(PooledByteBufAllocator.java:243)
+backend2-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend2-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend2-1  | 	at com.firenio.buffer.ByteBufAllocatorGroup.doStop(ByteBufAllocatorGroup.java:64)
+backend2-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend2-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend2-1  | 	at com.firenio.component.NioEventLoopGroup.doStop(NioEventLoopGroup.java:128)
+backend2-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend2-1  | 	at com.firenio.common.Util.stop(Util.java:473)
+backend2-1  | 	at com.firenio.component.ChannelContext.stopEventLoopGroup(ChannelContext.java:406)
+backend2-1  | 	at com.firenio.component.ChannelContext.doStop(ChannelContext.java:168)
+backend2-1  | 	at com.firenio.LifeCycle.stop(LifeCycle.java:149)
+backend2-1  | 	at com.brunomad.rb25.server.FirenioServer.close(FirenioServer.java:42)
+backend2-1  | 	at com.brunomad.rb25.Main.lambda$v1$0(Main.java:62)
+backend2-1  | 	at java.lang.Thread.run(Thread.java:1583)
+[Kbackend1-1 exited with code 143
+log truncated at line 1000

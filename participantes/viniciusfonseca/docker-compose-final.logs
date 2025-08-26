@@ -1,4 +1,689 @@
 
+ worker Pulling 
+ lb Pulling 
+ postgres Pulling 
+ api02 Pulling 
+ api01 Pulling 
+ 70091c719f74 Pulling fs layer 
+ de96d4178b82 Pulling fs layer 
+ 70091c719f74 Pulling fs layer 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ a2da0c0f2353 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ 70091c719f74 Downloading [>                                                  ]  9.668kB/831.6kB
+ 70091c719f74 Downloading [>                                                  ]  9.668kB/831.6kB
+ 70091c719f74 Verifying Checksum 
+ 70091c719f74 Download complete 
+ 70091c719f74 Downloading [==================================================>]  831.6kB/831.6kB
+ 70091c719f74 Verifying Checksum 
+ 70091c719f74 Download complete 
+ 70091c719f74 Extracting [=>                                                 ]  32.77kB/831.6kB
+ 70091c719f74 Extracting [=>                                                 ]  32.77kB/831.6kB
+ 70091c719f74 Extracting [==================================================>]  831.6kB/831.6kB
+ 70091c719f74 Extracting [==================================================>]  831.6kB/831.6kB
+ 70091c719f74 Extracting [==================================================>]  831.6kB/831.6kB
+ 70091c719f74 Extracting [==================================================>]  831.6kB/831.6kB
+ 70091c719f74 Pull complete 
+ 70091c719f74 Pull complete 
+ de96d4178b82 Downloading [>                                                  ]  13.25kB/1.282MB
+ de96d4178b82 Downloading [==================================================>]  1.282MB/1.282MB
+ de96d4178b82 Verifying Checksum 
+ de96d4178b82 Download complete 
+ de96d4178b82 Extracting [=>                                                 ]  32.77kB/1.282MB
+ de96d4178b82 Extracting [==================================================>]  1.282MB/1.282MB
+ de96d4178b82 Pull complete 
+ api02 Pulled 
+ d29c5b694d8e Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ d29c5b694d8e Waiting 
+ 4f4fb700ef54 Waiting 
+ worker Pulled 
+ b1badc6e5066 Downloading [>                                                  ]  290.8kB/28.23MB
+ b1badc6e5066 Downloading [=====>                                             ]  3.191MB/28.23MB
+ b1badc6e5066 Downloading [==================>                                ]  10.72MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ b1badc6e5066 Downloading [================================>                  ]  18.56MB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [======>                                            ]  5.808MB/44.07MB
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ a2da0c0f2353 Downloading [========>                                          ]  7.586MB/44.07MB
+ b1badc6e5066 Downloading [=================================================> ]  27.87MB/28.23MB
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [============>                                      ]   10.7MB/44.07MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [====================>                              ]  17.87MB/44.07MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ a2da0c0f2353 Downloading [=========================>                         ]  22.33MB/44.07MB
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ a2da0c0f2353 Downloading [==============================>                    ]  26.78MB/44.07MB
+ api01 Pulled 
+ b1badc6e5066 Extracting [================================>                  ]  18.28MB/28.23MB
+ a2da0c0f2353 Downloading [==================================>                ]  30.82MB/44.07MB
+ b1badc6e5066 Extracting [=========================================>         ]  23.59MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ a2da0c0f2353 Downloading [=======================================>           ]  34.37MB/44.07MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ a2da0c0f2353 Downloading [==========================================>        ]   37.5MB/44.07MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ a2da0c0f2353 Downloading [===============================================>   ]  41.53MB/44.07MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ d29c5b694d8e Downloading [>                                                  ]  528.5kB/1.027GB
+ a2da0c0f2353 Extracting [========>                                          ]   7.34MB/44.07MB
+ d29c5b694d8e Downloading [>                                                  ]  3.754MB/1.027GB
+ a2da0c0f2353 Extracting [===============>                                   ]  13.76MB/44.07MB
+ d29c5b694d8e Downloading [>                                                  ]  7.494MB/1.027GB
+ a2da0c0f2353 Extracting [=========================>                         ]  22.48MB/44.07MB
+ d29c5b694d8e Downloading [>                                                  ]  17.15MB/1.027GB
+ a2da0c0f2353 Extracting [===================================>               ]   31.2MB/44.07MB
+ d29c5b694d8e Downloading [=>                                                 ]  24.12MB/1.027GB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.08MB/44.07MB
+ d29c5b694d8e Downloading [=>                                                 ]  28.95MB/1.027GB
+ d29c5b694d8e Downloading [=>                                                 ]  32.68MB/1.027GB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ d29c5b694d8e Downloading [=>                                                 ]  35.34MB/1.027GB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ d29c5b694d8e Downloading [==>                                                ]  42.29MB/1.027GB
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ d29c5b694d8e Downloading [==>                                                ]  48.17MB/1.027GB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ lb Pulled 
+ d29c5b694d8e Downloading [==>                                                ]  51.93MB/1.027GB
+ d29c5b694d8e Downloading [==>                                                ]  54.61MB/1.027GB
+ d29c5b694d8e Downloading [==>                                                ]  55.15MB/1.027GB
+ d29c5b694d8e Downloading [==>                                                ]   58.9MB/1.027GB
+ d29c5b694d8e Downloading [===>                                               ]  66.39MB/1.027GB
+ d29c5b694d8e Downloading [===>                                               ]  77.62MB/1.027GB
+ d29c5b694d8e Downloading [====>                                              ]  82.44MB/1.027GB
+ d29c5b694d8e Downloading [====>                                              ]  89.39MB/1.027GB
+ d29c5b694d8e Downloading [====>                                              ]  94.74MB/1.027GB
+ d29c5b694d8e Downloading [====>                                              ]  96.34MB/1.027GB
+ d29c5b694d8e Downloading [====>                                              ]  98.48MB/1.027GB
+ d29c5b694d8e Downloading [=====>                                             ]  104.4MB/1.027GB
+ d29c5b694d8e Downloading [=====>                                             ]    113MB/1.027GB
+ d29c5b694d8e Downloading [=====>                                             ]  116.7MB/1.027GB
+ d29c5b694d8e Downloading [======>                                            ]  123.6MB/1.027GB
+ d29c5b694d8e Downloading [======>                                            ]  129.5MB/1.027GB
+ d29c5b694d8e Downloading [======>                                            ]  143.5MB/1.027GB
+ d29c5b694d8e Downloading [=======>                                           ]  155.2MB/1.027GB
+ d29c5b694d8e Downloading [=======>                                           ]  163.8MB/1.027GB
+ d29c5b694d8e Downloading [========>                                          ]  170.7MB/1.027GB
+ d29c5b694d8e Downloading [========>                                          ]  179.8MB/1.027GB
+ d29c5b694d8e Downloading [=========>                                         ]  190.5MB/1.027GB
+ d29c5b694d8e Downloading [=========>                                         ]  197.5MB/1.027GB
+ d29c5b694d8e Downloading [==========>                                        ]    206MB/1.027GB
+ d29c5b694d8e Downloading [==========>                                        ]    213MB/1.027GB
+ d29c5b694d8e Downloading [==========>                                        ]  218.8MB/1.027GB
+ d29c5b694d8e Downloading [==========>                                        ]  225.8MB/1.027GB
+ d29c5b694d8e Downloading [===========>                                       ]  239.7MB/1.027GB
+ d29c5b694d8e Downloading [============>                                      ]  247.1MB/1.027GB
+ d29c5b694d8e Downloading [============>                                      ]  252.5MB/1.027GB
+ d29c5b694d8e Downloading [============>                                      ]  265.9MB/1.027GB
+ d29c5b694d8e Downloading [=============>                                     ]  269.6MB/1.027GB
+ d29c5b694d8e Downloading [=============>                                     ]  272.8MB/1.027GB
+ d29c5b694d8e Downloading [=============>                                     ]  279.2MB/1.027GB
+ d29c5b694d8e Downloading [=============>                                     ]  281.9MB/1.027GB
+ d29c5b694d8e Downloading [==============>                                    ]  297.4MB/1.027GB
+ d29c5b694d8e Downloading [==============>                                    ]  305.5MB/1.027GB
+ d29c5b694d8e Downloading [==============>                                    ]  307.6MB/1.027GB
+ d29c5b694d8e Downloading [===============>                                   ]  309.2MB/1.027GB
+ d29c5b694d8e Downloading [===============>                                   ]  314.6MB/1.027GB
+ d29c5b694d8e Downloading [===============>                                   ]  319.9MB/1.027GB
+ d29c5b694d8e Downloading [===============>                                   ]    322MB/1.027GB
+ d29c5b694d8e Downloading [================>                                  ]    329MB/1.027GB
+ d29c5b694d8e Downloading [================>                                  ]  334.9MB/1.027GB
+ d29c5b694d8e Downloading [================>                                  ]  338.1MB/1.027GB
+ d29c5b694d8e Downloading [================>                                  ]  345.6MB/1.027GB
+ d29c5b694d8e Downloading [=================>                                 ]    351MB/1.027GB
+ d29c5b694d8e Downloading [=================>                                 ]  360.6MB/1.027GB
+ d29c5b694d8e Downloading [=================>                                 ]  365.9MB/1.027GB
+ d29c5b694d8e Downloading [==================>                                ]  372.9MB/1.027GB
+ d29c5b694d8e Downloading [==================>                                ]  377.7MB/1.027GB
+ d29c5b694d8e Downloading [==================>                                ]  386.8MB/1.027GB
+ d29c5b694d8e Downloading [===================>                               ]  395.8MB/1.027GB
+ d29c5b694d8e Downloading [===================>                               ]  400.1MB/1.027GB
+ d29c5b694d8e Downloading [===================>                               ]  403.9MB/1.027GB
+ d29c5b694d8e Downloading [===================>                               ]  407.6MB/1.027GB
+ d29c5b694d8e Downloading [====================>                              ]  416.7MB/1.027GB
+ d29c5b694d8e Downloading [====================>                              ]    421MB/1.027GB
+ d29c5b694d8e Downloading [====================>                              ]  426.3MB/1.027GB
+ d29c5b694d8e Downloading [=====================>                             ]  437.6MB/1.027GB
+ d29c5b694d8e Downloading [=====================>                             ]  447.3MB/1.027GB
+ d29c5b694d8e Downloading [======================>                            ]  455.3MB/1.027GB
+ d29c5b694d8e Downloading [======================>                            ]    459MB/1.027GB
+ d29c5b694d8e Downloading [======================>                            ]  470.8MB/1.027GB
+ d29c5b694d8e Downloading [=======================>                           ]  478.8MB/1.027GB
+ d29c5b694d8e Downloading [=======================>                           ]  483.1MB/1.027GB
+ d29c5b694d8e Downloading [=======================>                           ]    489MB/1.027GB
+ d29c5b694d8e Downloading [========================>                          ]  500.2MB/1.027GB
+ d29c5b694d8e Downloading [========================>                          ]  508.2MB/1.027GB
+ d29c5b694d8e Downloading [=========================>                         ]    520MB/1.027GB
+ d29c5b694d8e Downloading [=========================>                         ]  530.2MB/1.027GB
+ d29c5b694d8e Downloading [==========================>                        ]  535.5MB/1.027GB
+ d29c5b694d8e Downloading [==========================>                        ]  543.5MB/1.027GB
+ d29c5b694d8e Downloading [===========================>                       ]  554.7MB/1.027GB
+ d29c5b694d8e Downloading [===========================>                       ]    559MB/1.027GB
+ d29c5b694d8e Downloading [===========================>                       ]    574MB/1.027GB
+ d29c5b694d8e Downloading [============================>                      ]  588.5MB/1.027GB
+ d29c5b694d8e Downloading [=============================>                     ]  600.4MB/1.027GB
+ d29c5b694d8e Downloading [=============================>                     ]  606.2MB/1.027GB
+ d29c5b694d8e Downloading [=============================>                     ]  613.2MB/1.027GB
+ d29c5b694d8e Downloading [==============================>                    ]  616.4MB/1.027GB
+ d29c5b694d8e Downloading [==============================>                    ]  624.9MB/1.027GB
+ d29c5b694d8e Downloading [==============================>                    ]  627.1MB/1.027GB
+ d29c5b694d8e Downloading [==============================>                    ]  630.3MB/1.027GB
+ d29c5b694d8e Downloading [===============================>                   ]  643.1MB/1.027GB
+ d29c5b694d8e Downloading [===============================>                   ]  646.9MB/1.027GB
+ d29c5b694d8e Downloading [===============================>                   ]  653.8MB/1.027GB
+ d29c5b694d8e Downloading [================================>                  ]  660.8MB/1.027GB
+ d29c5b694d8e Downloading [================================>                  ]  668.3MB/1.027GB
+ d29c5b694d8e Downloading [=================================>                 ]  679.5MB/1.027GB
+ d29c5b694d8e Downloading [=================================>                 ]  685.9MB/1.027GB
+ d29c5b694d8e Downloading [=================================>                 ]  692.9MB/1.027GB
+ d29c5b694d8e Downloading [==================================>                ]  700.4MB/1.027GB
+ d29c5b694d8e Downloading [==================================>                ]  708.4MB/1.027GB
+ d29c5b694d8e Downloading [==================================>                ]  713.2MB/1.027GB
+ d29c5b694d8e Downloading [===================================>               ]  721.2MB/1.027GB
+ d29c5b694d8e Downloading [===================================>               ]  732.4MB/1.027GB
+ d29c5b694d8e Downloading [====================================>              ]  740.4MB/1.027GB
+ d29c5b694d8e Downloading [====================================>              ]  746.3MB/1.027GB
+ d29c5b694d8e Downloading [====================================>              ]  749.5MB/1.027GB
+ d29c5b694d8e Downloading [====================================>              ]  754.3MB/1.027GB
+ d29c5b694d8e Downloading [=====================================>             ]    766MB/1.027GB
+ d29c5b694d8e Downloading [=====================================>             ]  774.6MB/1.027GB
+ d29c5b694d8e Downloading [======================================>            ]  785.8MB/1.027GB
+ d29c5b694d8e Downloading [======================================>            ]  792.8MB/1.027GB
+ d29c5b694d8e Downloading [======================================>            ]  798.1MB/1.027GB
+ d29c5b694d8e Downloading [=======================================>           ]  803.4MB/1.027GB
+ d29c5b694d8e Downloading [=======================================>           ]  808.8MB/1.027GB
+ d29c5b694d8e Downloading [=======================================>           ]    811MB/1.027GB
+ d29c5b694d8e Downloading [=======================================>           ]  816.8MB/1.027GB
+ d29c5b694d8e Downloading [========================================>          ]  828.1MB/1.027GB
+ d29c5b694d8e Downloading [========================================>          ]  836.7MB/1.027GB
+ d29c5b694d8e Downloading [=========================================>         ]  846.3MB/1.027GB
+ d29c5b694d8e Downloading [=========================================>         ]  852.7MB/1.027GB
+ d29c5b694d8e Downloading [=========================================>         ]  855.9MB/1.027GB
+ d29c5b694d8e Downloading [==========================================>        ]  862.8MB/1.027GB
+ d29c5b694d8e Downloading [==========================================>        ]  878.8MB/1.027GB
+ d29c5b694d8e Downloading [==========================================>        ]    881MB/1.027GB
+ d29c5b694d8e Downloading [===========================================>       ]  890.6MB/1.027GB
+ d29c5b694d8e Downloading [===========================================>       ]  899.7MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]  911.4MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]    914MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]  916.2MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]  917.8MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]  920.5MB/1.027GB
+ d29c5b694d8e Downloading [============================================>      ]  922.1MB/1.027GB
+ d29c5b694d8e Downloading [=============================================>     ]    928MB/1.027GB
+ d29c5b694d8e Downloading [=============================================>     ]  934.4MB/1.027GB
+ d29c5b694d8e Downloading [=============================================>     ]    936MB/1.027GB
+ d29c5b694d8e Downloading [=============================================>     ]  940.3MB/1.027GB
+ d29c5b694d8e Downloading [=============================================>     ]    944MB/1.027GB
+ d29c5b694d8e Downloading [==============================================>    ]  946.2MB/1.027GB
+ d29c5b694d8e Downloading [==============================================>    ]  948.8MB/1.027GB
+ d29c5b694d8e Downloading [==============================================>    ]  958.4MB/1.027GB
+ d29c5b694d8e Downloading [===============================================>   ]  968.6MB/1.027GB
+ d29c5b694d8e Downloading [===============================================>   ]  979.3MB/1.027GB
+ d29c5b694d8e Downloading [================================================>  ]  992.1MB/1.027GB
+ d29c5b694d8e Downloading [================================================>  ]  999.7MB/1.027GB
+ d29c5b694d8e Downloading [================================================>  ]  1.002GB/1.027GB
+ d29c5b694d8e Downloading [=================================================> ]  1.012GB/1.027GB
+ d29c5b694d8e Downloading [=================================================> ]  1.021GB/1.027GB
+ d29c5b694d8e Downloading [=================================================> ]  1.025GB/1.027GB
+ d29c5b694d8e Verifying Checksum 
+ d29c5b694d8e Download complete 
+ d29c5b694d8e Extracting [>                                                  ]  557.1kB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  1.671MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  5.571MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  7.799MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  8.913MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]   9.47MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  13.37MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]  18.38MB/1.027GB
+ d29c5b694d8e Extracting [>                                                  ]   19.5MB/1.027GB
+ d29c5b694d8e Extracting [=>                                                 ]  21.73MB/1.027GB
+ d29c5b694d8e Extracting [=>                                                 ]   27.3MB/1.027GB
+ d29c5b694d8e Extracting [=>                                                 ]   31.2MB/1.027GB
+ d29c5b694d8e Extracting [=>                                                 ]  37.88MB/1.027GB
+ d29c5b694d8e Extracting [=>                                                 ]  40.11MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  41.22MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  42.34MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  43.45MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  44.01MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  45.12MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  49.58MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  54.03MB/1.027GB
+ d29c5b694d8e Extracting [==>                                                ]  56.26MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  62.39MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  65.18MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  66.85MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  73.53MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  76.32MB/1.027GB
+ d29c5b694d8e Extracting [===>                                               ]  81.89MB/1.027GB
+ d29c5b694d8e Extracting [====>                                              ]  85.23MB/1.027GB
+ d29c5b694d8e Extracting [====>                                              ]  89.69MB/1.027GB
+ d29c5b694d8e Extracting [====>                                              ]  98.04MB/1.027GB
+ d29c5b694d8e Extracting [=====>                                             ]  104.7MB/1.027GB
+ d29c5b694d8e Extracting [=====>                                             ]  111.4MB/1.027GB
+ d29c5b694d8e Extracting [=====>                                             ]  118.7MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  124.8MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  125.9MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  128.1MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  130.9MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  133.1MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  134.8MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]    137MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  138.7MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  139.8MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  140.4MB/1.027GB
+ d29c5b694d8e Extracting [======>                                            ]  143.7MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  144.8MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  148.7MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  149.3MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  150.4MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  151.5MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  152.6MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  153.7MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  155.4MB/1.027GB
+ d29c5b694d8e Extracting [=======>                                           ]  159.3MB/1.027GB
+ d29c5b694d8e Extracting [========>                                          ]  164.3MB/1.027GB
+ d29c5b694d8e Extracting [========>                                          ]  168.8MB/1.027GB
+ d29c5b694d8e Extracting [=========>                                         ]  188.8MB/1.027GB
+ d29c5b694d8e Extracting [=========>                                         ]  195.5MB/1.027GB
+ d29c5b694d8e Extracting [=========>                                         ]  201.1MB/1.027GB
+ d29c5b694d8e Extracting [==========>                                        ]  208.3MB/1.027GB
+ d29c5b694d8e Extracting [==========>                                        ]  214.5MB/1.027GB
+ d29c5b694d8e Extracting [==========>                                        ]  220.6MB/1.027GB
+ d29c5b694d8e Extracting [===========>                                       ]  240.6MB/1.027GB
+ d29c5b694d8e Extracting [============>                                      ]  247.9MB/1.027GB
+ d29c5b694d8e Extracting [============>                                      ]  254.6MB/1.027GB
+ d29c5b694d8e Extracting [============>                                      ]  260.7MB/1.027GB
+ d29c5b694d8e Extracting [============>                                      ]  264.6MB/1.027GB
+ d29c5b694d8e Extracting [=============>                                     ]  269.6MB/1.027GB
+ d29c5b694d8e Extracting [=============>                                     ]  274.6MB/1.027GB
+ d29c5b694d8e Extracting [=============>                                     ]  279.1MB/1.027GB
+ d29c5b694d8e Extracting [=============>                                     ]  284.7MB/1.027GB
+ d29c5b694d8e Extracting [==============>                                    ]    293MB/1.027GB
+ d29c5b694d8e Extracting [==============>                                    ]  301.9MB/1.027GB
+ d29c5b694d8e Extracting [===============>                                   ]  310.8MB/1.027GB
+ d29c5b694d8e Extracting [===============>                                   ]  319.8MB/1.027GB
+ d29c5b694d8e Extracting [================>                                  ]  328.7MB/1.027GB
+ d29c5b694d8e Extracting [================>                                  ]  337.6MB/1.027GB
+ d29c5b694d8e Extracting [================>                                  ]  346.5MB/1.027GB
+ d29c5b694d8e Extracting [=================>                                 ]  354.8MB/1.027GB
+ d29c5b694d8e Extracting [=================>                                 ]  363.2MB/1.027GB
+ d29c5b694d8e Extracting [==================>                                ]  372.1MB/1.027GB
+ d29c5b694d8e Extracting [==================>                                ]  380.5MB/1.027GB
+ d29c5b694d8e Extracting [==================>                                ]  388.8MB/1.027GB
+ d29c5b694d8e Extracting [===================>                               ]  396.6MB/1.027GB
+ d29c5b694d8e Extracting [===================>                               ]  404.4MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  412.2MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  413.3MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  413.9MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  414.4MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  416.1MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  417.8MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  419.5MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  421.1MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  422.8MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  423.9MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]    425MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  426.1MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  426.7MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  427.3MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  427.8MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]  428.9MB/1.027GB
+ d29c5b694d8e Extracting [====================>                              ]    430MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  431.7MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  433.4MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  435.1MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  436.2MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  437.3MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  439.5MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  440.6MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  442.9MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  444.5MB/1.027GB
+ d29c5b694d8e Extracting [=====================>                             ]  447.3MB/1.027GB
+ d29c5b694d8e Extracting [======================>                            ]    454MB/1.027GB
+ d29c5b694d8e Extracting [======================>                            ]  462.4MB/1.027GB
+ d29c5b694d8e Extracting [======================>                            ]  470.7MB/1.027GB
+ d29c5b694d8e Extracting [=======================>                           ]  479.1MB/1.027GB
+ d29c5b694d8e Extracting [=======================>                           ]    483MB/1.027GB
+ d29c5b694d8e Extracting [=======================>                           ]    488MB/1.027GB
+ d29c5b694d8e Extracting [========================>                          ]  495.2MB/1.027GB
+ d29c5b694d8e Extracting [========================>                          ]  503.6MB/1.027GB
+ d29c5b694d8e Extracting [========================>                          ]  511.9MB/1.027GB
+ d29c5b694d8e Extracting [=========================>                         ]  520.8MB/1.027GB
+ d29c5b694d8e Extracting [=========================>                         ]  528.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================>                        ]  537.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================>                        ]  544.8MB/1.027GB
+ d29c5b694d8e Extracting [==========================>                        ]  552.6MB/1.027GB
+ d29c5b694d8e Extracting [===========================>                       ]  557.1MB/1.027GB
+ d29c5b694d8e Extracting [===========================>                       ]  560.4MB/1.027GB
+ d29c5b694d8e Extracting [===========================>                       ]  564.3MB/1.027GB
+ d29c5b694d8e Extracting [===========================>                       ]  565.4MB/1.027GB
+ d29c5b694d8e Extracting [============================>                      ]    576MB/1.027GB
+ d29c5b694d8e Extracting [============================>                      ]  584.4MB/1.027GB
+ d29c5b694d8e Extracting [============================>                      ]  592.7MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  598.8MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  602.2MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  602.7MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  603.8MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  604.4MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  605.5MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  609.4MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  610.5MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  611.6MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]  613.3MB/1.027GB
+ d29c5b694d8e Extracting [=============================>                     ]    615MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  616.1MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  617.2MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  618.9MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  620.6MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  622.2MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  623.3MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  624.5MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  631.1MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]    635MB/1.027GB
+ d29c5b694d8e Extracting [==============================>                    ]  636.2MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  637.3MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  638.9MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  642.8MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]    644MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  645.6MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  647.3MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  651.8MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  653.4MB/1.027GB
+ d29c5b694d8e Extracting [===============================>                   ]  655.1MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  657.3MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  661.2MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  666.2MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  666.8MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  672.4MB/1.027GB
+ d29c5b694d8e Extracting [================================>                  ]  676.3MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  678.5MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  679.6MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  681.3MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  682.4MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  684.1MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  685.2MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  690.7MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  693.5MB/1.027GB
+ d29c5b694d8e Extracting [=================================>                 ]  696.3MB/1.027GB
+ d29c5b694d8e Extracting [==================================>                ]  704.7MB/1.027GB
+ d29c5b694d8e Extracting [==================================>                ]  711.9MB/1.027GB
+ d29c5b694d8e Extracting [==================================>                ]    718MB/1.027GB
+ d29c5b694d8e Extracting [===================================>               ]  725.8MB/1.027GB
+ d29c5b694d8e Extracting [===================================>               ]  733.1MB/1.027GB
+ d29c5b694d8e Extracting [===================================>               ]  734.8MB/1.027GB
+ d29c5b694d8e Extracting [===================================>               ]  738.1MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  740.9MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  743.1MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  747.6MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  748.1MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  749.8MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  755.4MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]    757MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  757.6MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  758.2MB/1.027GB
+ d29c5b694d8e Extracting [====================================>              ]  758.7MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  759.8MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  760.9MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  762.1MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  763.2MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  764.3MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  765.4MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  766.5MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  767.1MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  768.2MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  769.3MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  769.9MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  770.4MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  772.1MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  773.2MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  773.8MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  774.3MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]    776MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  777.1MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  778.2MB/1.027GB
+ d29c5b694d8e Extracting [=====================================>             ]  779.3MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  780.4MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  781.5MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  782.1MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  782.7MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  783.2MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  784.3MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  784.9MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  787.1MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  789.3MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  792.1MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  793.8MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  795.5MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  797.7MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  799.4MB/1.027GB
+ d29c5b694d8e Extracting [======================================>            ]  800.5MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  801.6MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  802.7MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  803.8MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  804.9MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  806.1MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  807.2MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  808.3MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  808.8MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]    810MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  811.1MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  812.2MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  816.1MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  817.2MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  819.4MB/1.027GB
+ d29c5b694d8e Extracting [=======================================>           ]  820.5MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  822.2MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  823.3MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  823.9MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  824.4MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  826.1MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  827.2MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  828.3MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  829.5MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  830.6MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  831.7MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  832.2MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  833.4MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  833.9MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  835.6MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  836.1MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  837.3MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  837.8MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  838.9MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  839.5MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]    840MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  840.6MB/1.027GB
+ d29c5b694d8e Extracting [========================================>          ]  841.7MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  842.8MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  843.4MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  843.9MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  844.5MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  845.6MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  846.2MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  847.3MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  848.4MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]    849MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  850.1MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  851.2MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  852.3MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  853.4MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]    854MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  855.1MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  856.8MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  857.9MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]    859MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  860.1MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  860.7MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  861.8MB/1.027GB
+ d29c5b694d8e Extracting [=========================================>         ]  862.3MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  863.4MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]    864MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  864.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  865.1MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  866.2MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  867.9MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  869.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  871.2MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  872.3MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  873.5MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  874.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  875.7MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  876.2MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  877.4MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  877.9MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]    879MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  879.6MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  880.7MB/1.027GB
+ d29c5b694d8e Extracting [==========================================>        ]  881.8MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  882.9MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]    884MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  885.2MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  886.3MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  887.4MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  888.5MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  889.6MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  890.2MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  891.3MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  891.8MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  893.5MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  895.2MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  895.7MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  897.4MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  898.5MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  899.6MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  900.8MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]  901.9MB/1.027GB
+ d29c5b694d8e Extracting [===========================================>       ]    903MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  903.5MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  904.1MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  905.2MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  905.8MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  906.3MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  907.4MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  908.6MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  909.7MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  910.8MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  911.9MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]    913MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  914.1MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  915.2MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  916.4MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  917.5MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  918.6MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  919.1MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  920.3MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  921.4MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]  922.5MB/1.027GB
+ d29c5b694d8e Extracting [============================================>      ]    923MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  924.7MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  925.3MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  926.4MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  926.9MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  928.1MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  929.2MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  930.3MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  930.8MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  931.4MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]    932MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  933.1MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  934.7MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]    937MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  939.2MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]    942MB/1.027GB
+ d29c5b694d8e Extracting [=============================================>     ]  944.2MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  946.4MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  948.7MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  951.5MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  952.6MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  953.1MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  956.5MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]    957MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  959.3MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  961.5MB/1.027GB
+ d29c5b694d8e Extracting [==============================================>    ]  963.7MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  965.4MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]    967MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  968.7MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  969.3MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  970.9MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  972.1MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  975.4MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  977.6MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]    981MB/1.027GB
+ d29c5b694d8e Extracting [===============================================>   ]  984.3MB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]  987.7MB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]    991MB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]  994.3MB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]  997.7MB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]  1.001GB/1.027GB
+ d29c5b694d8e Extracting [================================================>  ]  1.004GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.008GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.008GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]   1.01GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.011GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.017GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.024GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.026GB/1.027GB
+ d29c5b694d8e Extracting [=================================================> ]  1.026GB/1.027GB
+ d29c5b694d8e Extracting [==================================================>]  1.027GB/1.027GB
+ d29c5b694d8e Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ postgres Pulled 
  Network backend  Creating
  Network backend  Created
  Volume "viniciusfonseca_sockets"  Creating
@@ -32,6 +717,8 @@ postgres-1  | selecting default time zone ... Etc/UTC
 postgres-1  | creating configuration files ... ok
 postgres-1  | running bootstrap script ... ok
 postgres-1  | performing post-bootstrap initialization ... ok
+postgres-1  | initdb: warning: enabling "trust" authentication for local connections
+postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
 postgres-1  | syncing data to disk ... ok
 postgres-1  | 
 postgres-1  | 
@@ -39,18 +726,16 @@ postgres-1  | Success. You can now start the database server using:
 postgres-1  | 
 postgres-1  |     pg_ctl -D /home/postgres/pgdata/data -l logfile start
 postgres-1  | 
-postgres-1  | initdb: warning: enabling "trust" authentication for local connections
-postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
-postgres-1  | waiting for server to start....2025-08-19 19:57:18.746 GMT [38] LOG:  00000: starting PostgreSQL 17.5 (Ubuntu 17.5-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
-postgres-1  | 2025-08-19 19:57:18.746 GMT [38] LOCATION:  PostmasterMain, postmaster.c:1080
-postgres-1  | 2025-08-19 19:57:18.749 GMT [38] LOG:  00000: listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-19 19:57:18.749 GMT [38] LOCATION:  ListenServerPort, pqcomm.c:657
-postgres-1  | 2025-08-19 19:57:18.799 GMT [41] LOG:  00000: database system was shut down at 2025-08-19 19:57:16 GMT
-postgres-1  | 2025-08-19 19:57:18.799 GMT [41] LOCATION:  StartupXLOG, xlog.c:5445
-postgres-1  | 2025-08-19 19:57:18.812 GMT [38] LOG:  00000: database system is ready to accept connections
-postgres-1  | 2025-08-19 19:57:18.812 GMT [38] LOCATION:  process_pm_child_exit, postmaster.c:2484
-postgres-1  | 2025-08-19 19:57:18.812 GMT [44] LOG:  00000: TimescaleDB background worker launcher connected to shared catalogs
-postgres-1  | 2025-08-19 19:57:18.812 GMT [44] LOCATION:  ts_bgw_cluster_launcher_main, bgw_launcher.c:851
+postgres-1  | waiting for server to start....2025-08-21 19:13:26.939 GMT [38] LOG:  00000: starting PostgreSQL 17.5 (Ubuntu 17.5-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+postgres-1  | 2025-08-21 19:13:26.939 GMT [38] LOCATION:  PostmasterMain, postmaster.c:1080
+postgres-1  | 2025-08-21 19:13:26.941 GMT [38] LOG:  00000: listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 19:13:26.941 GMT [38] LOCATION:  ListenServerPort, pqcomm.c:657
+postgres-1  | 2025-08-21 19:13:26.948 GMT [41] LOG:  00000: database system was shut down at 2025-08-21 19:13:24 GMT
+postgres-1  | 2025-08-21 19:13:26.948 GMT [41] LOCATION:  StartupXLOG, xlog.c:5445
+postgres-1  | 2025-08-21 19:13:26.958 GMT [38] LOG:  00000: database system is ready to accept connections
+postgres-1  | 2025-08-21 19:13:26.958 GMT [38] LOCATION:  process_pm_child_exit, postmaster.c:2484
+postgres-1  | 2025-08-21 19:13:26.959 GMT [44] LOG:  00000: TimescaleDB background worker launcher connected to shared catalogs
+postgres-1  | 2025-08-21 19:13:26.959 GMT [44] LOCATION:  ts_bgw_cluster_launcher_main, bgw_launcher.c:851
 postgres-1  |  done
 postgres-1  | server started
 postgres-1  | CREATE DATABASE
@@ -58,19 +743,15 @@ postgres-1  |
 postgres-1  | 
 postgres-1  | /docker-entrypoint.sh: sourcing /docker-entrypoint-initdb.d/000_install_timescaledb.sh
 postgres-1  | CREATE EXTENSION
+postgres-1  | 2025-08-21 19:13:28.432 GMT [69] ERROR:  XX000: background worker "TimescaleDB Background Worker Scheduler for database 1" trying to connect to template database, exiting
+postgres-1  | 2025-08-21 19:13:28.432 GMT [69] LOCATION:  database_checks, bgw_launcher.c:940
 postgres-1  | CREATE EXTENSION
-postgres-1  | 2025-08-19 19:57:19.720 GMT [69] ERROR:  XX000: background worker "TimescaleDB Background Worker Scheduler for database 1" trying to connect to template database, exiting
-postgres-1  | 2025-08-19 19:57:19.720 GMT [69] LOCATION:  database_checks, bgw_launcher.c:940
 postgres-1  | CREATE EXTENSION
 postgres-1  | 
 postgres-1  | /docker-entrypoint.sh: running /docker-entrypoint-initdb.d/001_timescaledb_tune.sh
 postgres-1  | [37;1mUsing postgresql.conf at this path:
 postgres-1  | [0m/home/postgres/pgdata/data/postgresql.conf
 postgres-1  | 
-postgres-1  | [37;1mWriting backup to:
-postgres-1  | [0m/tmp/timescaledb_tune.backup202508191957
-postgres-1  | 
-postgres-1  | [37;1mRecommendations based on 210.00 MB of available memory and 1 CPUs for PostgreSQL 17
 postgres-1  | shared_buffers = 53760kB
 postgres-1  | effective_cache_size = 161280kB
 postgres-1  | maintenance_work_mem = 26880kB
@@ -87,8 +768,12 @@ postgres-1  | autovacuum_naptime = 10
 postgres-1  | default_toast_compression = lz4
 postgres-1  | jit = off
 postgres-1  | effective_io_concurrency = 256
-postgres-1  | timescaledb.last_tuned = '2025-08-19T19:57:20Z'
-postgres-1  | timescaledb.last_tuned_version = '0.18.0'
+postgres-1  | timescaledb.last_tuned = '2025-08-21T19:13:28Z'
+postgres-1  | timescaledb.last_tuned_version = '0.18.1'
+postgres-1  | [37;1mWriting backup to:
+postgres-1  | [0m/tmp/timescaledb_tune.backup202508211913
+postgres-1  | 
+postgres-1  | [37;1mRecommendations based on 210.00 MB of available memory and 1 CPUs for PostgreSQL 17
 postgres-1  | [0m[37;1mSaving changes to: /home/postgres/pgdata/data/postgresql.conf
 postgres-1  | 
 postgres-1  | /docker-entrypoint.sh: running /docker-entrypoint-initdb.d/010_install_timescaledb_toolkit.sh
@@ -110,386 +795,207 @@ postgres-1  |
 postgres-1  | 
 postgres-1  | /docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/postgresql.conf
 postgres-1  | 
-postgres-1  | waiting for server to shut down....2025-08-19 19:57:21.120 GMT [38] LOG:  00000: received fast shutdown request
-postgres-1  | 2025-08-19 19:57:21.120 GMT [38] LOCATION:  process_pm_shutdown_request, postmaster.c:2274
-postgres-1  | 2025-08-19 19:57:21.128 GMT [38] LOG:  00000: aborting any active transactions
-postgres-1  | 2025-08-19 19:57:21.128 GMT [38] LOCATION:  process_pm_shutdown_request, postmaster.c:2292
-postgres-1  | 2025-08-19 19:57:21.131 GMT [44] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Launcher" due to administrator command
-postgres-1  | 2025-08-19 19:57:21.131 GMT [44] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 19:57:21.131 GMT [72] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
-postgres-1  | 2025-08-19 19:57:21.131 GMT [72] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 19:57:21.132 GMT [56] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
-postgres-1  | 2025-08-19 19:57:21.132 GMT [56] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 19:57:21.135 GMT [38] LOG:  00000: background worker "logical replication launcher" (PID 45) exited with exit code 1
-postgres-1  | 2025-08-19 19:57:21.135 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 19:57:21.135 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 72) exited with exit code 1
-postgres-1  | 2025-08-19 19:57:21.135 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 19:57:21.136 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 56) exited with exit code 1
-postgres-1  | 2025-08-19 19:57:21.136 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 19:57:21.137 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Launcher" (PID 44) exited with exit code 1
-postgres-1  | 2025-08-19 19:57:21.137 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 19:57:21.137 GMT [39] LOG:  00000: shutting down
-postgres-1  | 2025-08-19 19:57:21.137 GMT [39] LOCATION:  ShutdownXLOG, xlog.c:6611
-postgres-1  | 2025-08-19 19:57:21.139 GMT [39] LOG:  00000: checkpoint starting: shutdown immediate
-postgres-1  | 2025-08-19 19:57:21.139 GMT [39] LOCATION:  LogCheckpointStart, xlog.c:6661
+postgres-1  | waiting for server to shut down....2025-08-21 19:13:29.665 GMT [38] LOG:  00000: received fast shutdown request
+postgres-1  | 2025-08-21 19:13:29.665 GMT [38] LOCATION:  process_pm_shutdown_request, postmaster.c:2274
+postgres-1  | 2025-08-21 19:13:29.669 GMT [38] LOG:  00000: aborting any active transactions
+postgres-1  | 2025-08-21 19:13:29.669 GMT [38] LOCATION:  process_pm_shutdown_request, postmaster.c:2292
+postgres-1  | 2025-08-21 19:13:29.669 GMT [72] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
+postgres-1  | 2025-08-21 19:13:29.669 GMT [72] LOCATION:  ProcessInterrupts, postgres.c:3310
+postgres-1  | 2025-08-21 19:13:29.669 GMT [56] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
+postgres-1  | 2025-08-21 19:13:29.669 GMT [56] LOCATION:  ProcessInterrupts, postgres.c:3310
+postgres-1  | 2025-08-21 19:13:29.670 GMT [44] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Launcher" due to administrator command
+postgres-1  | 2025-08-21 19:13:29.670 GMT [44] LOCATION:  ProcessInterrupts, postgres.c:3310
+postgres-1  | 2025-08-21 19:13:29.718 GMT [38] LOG:  00000: background worker "logical replication launcher" (PID 45) exited with exit code 1
+postgres-1  | 2025-08-21 19:13:29.718 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
+postgres-1  | 2025-08-21 19:13:29.721 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 56) exited with exit code 1
+postgres-1  | 2025-08-21 19:13:29.721 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
+postgres-1  | 2025-08-21 19:13:29.721 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 72) exited with exit code 1
+postgres-1  | 2025-08-21 19:13:29.721 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
+postgres-1  | 2025-08-21 19:13:29.725 GMT [38] LOG:  00000: background worker "TimescaleDB Background Worker Launcher" (PID 44) exited with exit code 1
+postgres-1  | 2025-08-21 19:13:29.725 GMT [38] LOCATION:  LogChildExit, postmaster.c:3077
+postgres-1  | 2025-08-21 19:13:29.727 GMT [39] LOG:  00000: shutting down
+postgres-1  | 2025-08-21 19:13:29.727 GMT [39] LOCATION:  ShutdownXLOG, xlog.c:6611
+postgres-1  | 2025-08-21 19:13:29.733 GMT [39] LOG:  00000: checkpoint starting: shutdown immediate
+postgres-1  | 2025-08-21 19:13:29.733 GMT [39] LOCATION:  LogCheckpointStart, xlog.c:6661
 lb-1        | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 lb-1        | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 lb-1        | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+postgres-1  | 2025-08-21 19:13:29.841 GMT [39] LOG:  00000: checkpoint complete: wrote 2317 buffers (3.5%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.040 s, sync=0.051 s, total=0.114 s; sync files=850, longest=0.008 s, average=0.001 s; distance=16706 kB, estimate=16706 kB; lsn=0/2533258, redo lsn=0/2533258
+postgres-1  | 2025-08-21 19:13:29.841 GMT [39] LOCATION:  LogCheckpointEnd, xlog.c:6750
 lb-1        | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
 lb-1        | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
 lb-1        | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
 lb-1        | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 lb-1        | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 lb-1        | /docker-entrypoint.sh: Configuration complete; ready for start up
-postgres-1  | .2025-08-19 19:57:23.054 GMT [39] LOG:  00000: checkpoint complete: wrote 2312 buffers (3.5%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.072 s, sync=1.829 s, total=1.917 s; sync files=853, longest=0.009 s, average=0.003 s; distance=16707 kB, estimate=16707 kB; lsn=0/2533738, redo lsn=0/2533738
-postgres-1  | 2025-08-19 19:57:23.054 GMT [39] LOCATION:  LogCheckpointEnd, xlog.c:6750
-postgres-1  | 2025-08-19 19:57:23.085 GMT [38] LOG:  00000: database system is shut down
-postgres-1  | 2025-08-19 19:57:23.085 GMT [38] LOCATION:  UnlinkLockFiles, miscinit.c:1191
+postgres-1  | 2025-08-21 19:13:29.875 GMT [38] LOG:  00000: database system is shut down
+postgres-1  | 2025-08-21 19:13:29.875 GMT [38] LOCATION:  UnlinkLockFiles, miscinit.c:1191
 postgres-1  |  done
 postgres-1  | server stopped
 postgres-1  | 
 postgres-1  | PostgreSQL init process complete; ready for start up.
 postgres-1  | 
-postgres-1  | 2025-08-19 19:57:23.233 GMT [1] LOG:  00000: starting PostgreSQL 17.5 (Ubuntu 17.5-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
-postgres-1  | 2025-08-19 19:57:23.233 GMT [1] LOCATION:  PostmasterMain, postmaster.c:1080
-postgres-1  | 2025-08-19 19:57:23.234 GMT [1] LOG:  00000: listening on IPv4 address "0.0.0.0", port 5432
-postgres-1  | 2025-08-19 19:57:23.234 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:661
-postgres-1  | 2025-08-19 19:57:23.234 GMT [1] LOG:  00000: listening on IPv6 address "::", port 5432
-postgres-1  | 2025-08-19 19:57:23.234 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:661
-postgres-1  | 2025-08-19 19:57:23.240 GMT [1] LOG:  00000: listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-19 19:57:23.240 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:657
-postgres-1  | 2025-08-19 19:57:23.251 GMT [113] LOG:  00000: database system was shut down at 2025-08-19 19:57:23 GMT
-postgres-1  | 2025-08-19 19:57:23.251 GMT [113] LOCATION:  StartupXLOG, xlog.c:5445
-postgres-1  | 2025-08-19 19:57:23.261 GMT [1] LOG:  00000: database system is ready to accept connections
-postgres-1  | 2025-08-19 19:57:23.261 GMT [1] LOCATION:  process_pm_child_exit, postmaster.c:2484
-postgres-1  | 2025-08-19 19:57:23.297 GMT [116] LOG:  00000: TimescaleDB background worker launcher connected to shared catalogs
-postgres-1  | 2025-08-19 19:57:23.297 GMT [116] LOCATION:  ts_bgw_cluster_launcher_main, bgw_launcher.c:851
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOG:  00000: starting PostgreSQL 17.5 (Ubuntu 17.5-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOCATION:  PostmasterMain, postmaster.c:1080
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOG:  00000: listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:661
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOG:  00000: listening on IPv6 address "::", port 5432
+postgres-1  | 2025-08-21 19:13:30.054 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:661
+postgres-1  | 2025-08-21 19:13:30.060 GMT [1] LOG:  00000: listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 19:13:30.060 GMT [1] LOCATION:  ListenServerPort, pqcomm.c:657
+postgres-1  | 2025-08-21 19:13:30.070 GMT [114] LOG:  00000: database system was shut down at 2025-08-21 19:13:29 GMT
+postgres-1  | 2025-08-21 19:13:30.070 GMT [114] LOCATION:  StartupXLOG, xlog.c:5445
+postgres-1  | 2025-08-21 19:13:30.079 GMT [1] LOG:  00000: database system is ready to accept connections
+postgres-1  | 2025-08-21 19:13:30.079 GMT [1] LOCATION:  process_pm_child_exit, postmaster.c:2484
+postgres-1  | 2025-08-21 19:13:30.080 GMT [117] LOG:  00000: TimescaleDB background worker launcher connected to shared catalogs
+postgres-1  | 2025-08-21 19:13:30.080 GMT [117] LOCATION:  ts_bgw_cluster_launcher_main, bgw_launcher.c:851
 api01-1     | Binding to socket: /tmp/sockets/api01.sock
 api02-1     | Binding to socket: /tmp/sockets/api02.sock
 api01-1     | [*] Accepted connection
-api01-1     | Got summary in 3ms
+api01-1     | Got summary in 2ms
 api01-1     | [*] Accepted connection
 api01-1     | Purging payments
 api01-1     | Finished purging payments
 api01-1     | [*] Accepted connection
-api01-1     | Got summary in 1ms
-api02-1     | [*] Accepted connection
+api01-1     | Got summary in 0ms
 api01-1     | [*] Accepted connection
 api02-1     | [*] Accepted connection
 api02-1     | [*] Accepted connection
-api02-1     | Got summary in 3ms
 api02-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api02-1     | Got summary in 2ms
 api01-1     | Got summary in 1ms
-api01-1     | Got summary in 2ms
-api01-1     | Got summary in 0ms
-api02-1     | [*] Accepted connection
 api02-1     | Got summary in 1ms
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | Got summary in 0ms
-api02-1     | Got summary in 0ms
-api01-1     | [*] Accepted connection
-api01-1     | Got summary in 0ms
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
 api01-1     | Got summary in 1ms
-worker-1    | Both payment processors are failing. Break worker loop
-worker-1    | Error processing payment: Payment processor returned error
-worker-1    | Error processing payment: Payment processor returned error
-worker-1    | Error processing payment: Payment processor returned error
-worker-1    | Error processing payment: Payment processor returned error
-worker-1    | Both payment processors are failing. Break worker loop
-worker-1    | Both payment processors are failing. Break worker loop
-worker-1    | Both payment processors are failing. Break worker loop
-worker-1    | Default payment processor is failing for 5 seconds
-api02-1     | Connection closed
+api02-1     | Got summary in 0ms
 api02-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api01-1     | [*] Accepted connection
+api01-1     | [*] Accepted connection
+api01-1     | Got summary in 0ms
+api02-1     | Got summary in 0ms
+api01-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api01-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api02-1     | Got summary in 0ms
+api01-1     | Got summary in 1ms
+api01-1     | Connection closed
+worker-1    | Both payment processors are failing. Break worker loop
+worker-1    | Both payment processors are failing. Break worker loop
+worker-1    | Error processing payment: Payment processor returned error
+worker-1    | Error processing payment: Payment processor returned error
+worker-1    | Error processing payment: Payment processor returned error
+worker-1    | Error processing payment: Payment processor returned error
+worker-1    | Both payment processors are failing. Break worker loop
+worker-1    | Both payment processors are failing. Break worker loop
 api01-1     | Connection closed
 api01-1     | [*] Accepted connection
-worker-1    | Default payment processor is failing for 10 seconds
-api01-1     | Got summary in 0ms
-worker-1    | Default payment processor is failing for 15 seconds
+worker-1    | Default payment processor is failing for 5 seconds
+api01-1     | [*] Accepted connection
 api02-1     | Connection closed
 api02-1     | [*] Accepted connection
+worker-1    | Default payment processor is failing for 10 seconds
 api02-1     | Connection closed
+api02-1     | Got summary in 0ms
+api02-1     | Connection closed
+api01-1     | Connection closed
+api02-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
 api01-1     | [*] Accepted connection
+api01-1     | [*] Accepted connection
+worker-1    | Default payment processor is failing for 15 seconds
 api02-1     | [*] Accepted connection
 worker-1    | Default payment processor is failing for 20 seconds
-api02-1     | Got summary in 0ms
-api01-1     | Connection closed
+api01-1     | Got summary in 0ms
+api02-1     | [*] Accepted connection
 worker-1    | Default payment processor is failing for 25 seconds
 api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
 worker-1    | Default payment processor is failing for 30 seconds
-api02-1     | Got summary in 0ms
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-worker-1    | Default payment processor is failing for 35 seconds
-worker-1    | Default payment processor is failing for 40 seconds
-api02-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
 api01-1     | Got summary in 0ms
+api01-1     | [*] Accepted connection
+worker-1    | Default payment processor is failing for 35 seconds
+api02-1     | [*] Accepted connection
+worker-1    | Default payment processor is failing for 40 seconds
+api02-1     | [*] Accepted connection
+api02-1     | Got summary in 0ms
+api01-1     | Connection closed
+api01-1     | [*] Accepted connection
 worker-1    | Default payment processor is failing for 45 seconds
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
 worker-1    | Default payment processor is failing for 50 seconds
+api01-1     | Got summary in 0ms
+worker-1    | Default payment processor is failing for 55 seconds
+api02-1     | Connection closed
+worker-1    | Default payment processor is failing for 60 seconds
 api01-1     | Connection closed
 api01-1     | [*] Accepted connection
+api02-1     | Connection closed
+api01-1     | Got summary in 0ms
+api02-1     | Connection closed
 api02-1     | [*] Accepted connection
 api02-1     | Connection closed
-api02-1     | Got summary in 0ms
 api02-1     | [*] Accepted connection
-worker-1    | Default payment processor is failing for 55 seconds
-api01-1     | Connection closed
 api01-1     | [*] Accepted connection
-worker-1    | Default payment processor is failing for 60 seconds
-api02-1     | Got summary in 0ms
+api02-1     | Connection closed
+api02-1     | [*] Accepted connection
+api01-1     | Connection closed
 worker-1    | One of the payment processors is healthy. Start consuming payments
 api02-1     | [*] Accepted connection
+api01-1     | Connection closed
+api02-1     | Connection closed
+api01-1     | [*] Accepted connection
+api01-1     | Got summary in 7ms
 api01-1     | [*] Accepted connection
 api01-1     | Connection closed
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
+api01-1     | Connection closed
+api01-1     | Connection closed
 api01-1     | [*] Accepted connection
 api02-1     | Connection closed
 api02-1     | [*] Accepted connection
 api02-1     | [*] Accepted connection
+api01-1     | Got summary in 15ms
 api02-1     | [*] Accepted connection
 api01-1     | [*] Accepted connection
-api01-1     | Got summary in 9ms
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | Got summary in 16ms
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | Connection closed
-api01-1     | Got summary in 5ms
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | Got summary in 1ms
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api02-1     | [*] Accepted connection
 api01-1     | [*] Accepted connection
 api01-1     | Connection closed
 api01-1     | [*] Accepted connection
+api01-1     | Got summary in 4ms
+api02-1     | Connection closed
 api01-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api01-1     | Connection closed
+api01-1     | [*] Accepted connection
+api01-1     | Connection closed
+api01-1     | [*] Accepted connection
+api02-1     | Connection closed
+api02-1     | Connection closed
+api02-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api01-1     | Got summary in 1ms
+api01-1     | [*] Accepted connection
+api02-1     | [*] Accepted connection
+api02-1     | Connection closed
 api02-1     | [*] Accepted connection
 api01-1     | [*] Accepted connection
 api01-1     | Got summary in 0ms
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | Connection closed
 api02-1     | [*] Accepted connection
 api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | Got summary in 1ms
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api02-1     | Connection closed
 api01-1     | [*] Accepted connection
 api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
+api01-1     | Connection closed
 api02-1     | [*] Accepted connection
 api01-1     | Connection closed
-api01-1     | [*] Accepted connection
+api02-1     | Connection closed
+api02-1     | [*] Accepted connection
 api01-1     | [*] Accepted connection
 api01-1     | Got summary in 1ms
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
 api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | Got summary in 0ms
-api01-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api01-1     | Got summary in 0ms
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | Got summary in 0ms
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Got summary in 0ms
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api01-1     | Connection closed
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | Connection closed
-api01-1     | Got summary in 0ms
 api02-1     | Connection closed
 api02-1     | [*] Accepted connection
 api01-1     | Connection closed
 api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | Got summary in 0ms
 api01-1     | Connection closed
 api01-1     | [*] Accepted connection
 api02-1     | Connection closed
 api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | [*] Accepted connection
-api01-1     | Got summary in 0ms
-api01-1     | Connection closed
-api02-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api02-1     | Connection closed
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api01-1     | [*] Accepted connection
-api02-1     | [*] Accepted connection
-api02-1     | Connection closed
-api02-1     | [*] Accepted connection
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api01-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-api02-1     | Connection closed
-[Klb-1 exited with code 0
-[Kapi01-1 exited with code 137
-[Kapi02-1 exited with code 137
-[Kworker-1 exited with code 137
-postgres-1  | 2025-08-19 20:02:56.416 GMT [1] LOG:  00000: received fast shutdown request
-postgres-1  | 2025-08-19 20:02:56.416 GMT [1] LOCATION:  process_pm_shutdown_request, postmaster.c:2274
-postgres-1  | 2025-08-19 20:02:56.420 GMT [1] LOG:  00000: aborting any active transactions
-postgres-1  | 2025-08-19 20:02:56.420 GMT [1] LOCATION:  process_pm_shutdown_request, postmaster.c:2292
-postgres-1  | 2025-08-19 20:02:56.420 GMT [119] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
-postgres-1  | 2025-08-19 20:02:56.420 GMT [119] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 20:02:56.420 GMT [118] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Scheduler" due to administrator command
-postgres-1  | 2025-08-19 20:02:56.420 GMT [118] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 20:02:56.420 GMT [116] FATAL:  57P01: terminating background worker "TimescaleDB Background Worker Launcher" due to administrator command
-postgres-1  | 2025-08-19 20:02:56.420 GMT [116] LOCATION:  ProcessInterrupts, postgres.c:3310
-postgres-1  | 2025-08-19 20:02:56.423 GMT [1] LOG:  00000: background worker "logical replication launcher" (PID 117) exited with exit code 1
-postgres-1  | 2025-08-19 20:02:56.423 GMT [1] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 20:02:56.424 GMT [1] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 119) exited with exit code 1
-postgres-1  | 2025-08-19 20:02:56.424 GMT [1] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 20:02:56.425 GMT [1] LOG:  00000: background worker "TimescaleDB Background Worker Launcher" (PID 116) exited with exit code 1
-postgres-1  | 2025-08-19 20:02:56.425 GMT [1] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 20:02:56.425 GMT [1] LOG:  00000: background worker "TimescaleDB Background Worker Scheduler" (PID 118) exited with exit code 1
-postgres-1  | 2025-08-19 20:02:56.425 GMT [1] LOCATION:  LogChildExit, postmaster.c:3077
-postgres-1  | 2025-08-19 20:02:56.429 GMT [111] LOG:  00000: shutting down
-postgres-1  | 2025-08-19 20:02:56.429 GMT [111] LOCATION:  ShutdownXLOG, xlog.c:6611
-postgres-1  | 2025-08-19 20:02:56.432 GMT [111] LOG:  00000: checkpoint starting: shutdown immediate
-postgres-1  | 2025-08-19 20:02:56.432 GMT [111] LOCATION:  LogCheckpointStart, xlog.c:6661
-postgres-1  | 2025-08-19 20:02:56.634 GMT [111] LOG:  00000: checkpoint complete: wrote 1329 buffers (2.0%); 0 WAL file(s) added, 0 removed, 1 recycled; write=0.019 s, sync=0.170 s, total=0.205 s; sync files=134, longest=0.005 s, average=0.002 s; distance=16676 kB, estimate=16676 kB; lsn=0/357C8C0, redo lsn=0/357C8C0
-postgres-1  | 2025-08-19 20:02:56.634 GMT [111] LOCATION:  LogCheckpointEnd, xlog.c:6750
-postgres-1  | 2025-08-19 20:02:56.664 GMT [1] LOG:  00000: database system is shut down
-postgres-1  | 2025-08-19 20:02:56.664 GMT [1] LOCATION:  UnlinkLockFiles, miscinit.c:1191
 log truncated at line 1000

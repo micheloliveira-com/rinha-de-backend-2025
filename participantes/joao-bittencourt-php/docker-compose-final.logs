@@ -1,22 +1,617 @@
 
+ db Pulling 
+ nginx Pulling 
+ app2 Pulling 
+ app1 Pulling 
+ 9824c27679d3 Already exists 
+ 9824c27679d3 Already exists 
+ f1db43a4ea3d Pulling fs layer 
+ 9989c82a7a60 Pulling fs layer 
+ 39f13429a4bd Pulling fs layer 
+ af2281902356 Pulling fs layer 
+ 275fa77e2fce Pulling fs layer 
+ 2dfbc1430968 Pulling fs layer 
+ e14bef5a7619 Pulling fs layer 
+ 00e63df209a3 Pulling fs layer 
+ 62811451839e Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 1bbaf1fb5af4 Pulling fs layer 
+ d431e0de0c48 Pulling fs layer 
+ 196821e2571d Pulling fs layer 
+ c09d60b5e18f Pulling fs layer 
+ c85dcc3311fa Pulling fs layer 
+ efb234d2531c Pulling fs layer 
+ 2dfbc1430968 Waiting 
+ e14bef5a7619 Waiting 
+ 00e63df209a3 Waiting 
+ 62811451839e Waiting 
+ 4f4fb700ef54 Waiting 
+ 1bbaf1fb5af4 Waiting 
+ d431e0de0c48 Waiting 
+ 196821e2571d Waiting 
+ c09d60b5e18f Waiting 
+ c85dcc3311fa Waiting 
+ efb234d2531c Waiting 
+ af2281902356 Waiting 
+ 275fa77e2fce Waiting 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ 7a8a46741e18 Waiting 
+ cb1ff4086f82 Waiting 
+ 6bc572a340ec Waiting 
+ 9adfbae99cb7 Waiting 
+ 403e3f251637 Waiting 
+ 9824c27679d3 Already exists 
+ f1db43a4ea3d Pulling fs layer 
+ 9989c82a7a60 Pulling fs layer 
+ 39f13429a4bd Pulling fs layer 
+ af2281902356 Pulling fs layer 
+ 275fa77e2fce Pulling fs layer 
+ 2dfbc1430968 Pulling fs layer 
+ e14bef5a7619 Pulling fs layer 
+ 00e63df209a3 Pulling fs layer 
+ 62811451839e Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 1bbaf1fb5af4 Pulling fs layer 
+ d431e0de0c48 Pulling fs layer 
+ 196821e2571d Pulling fs layer 
+ c09d60b5e18f Pulling fs layer 
+ c85dcc3311fa Pulling fs layer 
+ efb234d2531c Pulling fs layer 
+ 00e63df209a3 Waiting 
+ af2281902356 Waiting 
+ 275fa77e2fce Waiting 
+ 2dfbc1430968 Waiting 
+ e14bef5a7619 Waiting 
+ d431e0de0c48 Waiting 
+ 62811451839e Waiting 
+ 4f4fb700ef54 Waiting 
+ 1bbaf1fb5af4 Waiting 
+ c09d60b5e18f Waiting 
+ c85dcc3311fa Waiting 
+ 196821e2571d Waiting 
+ efb234d2531c Waiting 
+ bd37f6d99203 Pulling fs layer 
+ d2433cba0951 Pulling fs layer 
+ 13702d9fe3c3 Pulling fs layer 
+ 83bcc87284a1 Pulling fs layer 
+ c38d8660e1fa Pulling fs layer 
+ 7e1bc321f421 Pulling fs layer 
+ bd37f6d99203 Waiting 
+ d2433cba0951 Waiting 
+ 13702d9fe3c3 Waiting 
+ bddd54b9c549 Pulling fs layer 
+ 83bcc87284a1 Waiting 
+ 4eaae1e844ac Pulling fs layer 
+ c38d8660e1fa Waiting 
+ 7e1bc321f421 Waiting 
+ bddd54b9c549 Waiting 
+ 5196e1e87d8f Pulling fs layer 
+ 6586d096303c Pulling fs layer 
+ cf55ff1c80af Pulling fs layer 
+ 4eaae1e844ac Waiting 
+ 5196e1e87d8f Waiting 
+ 6586d096303c Waiting 
+ cf55ff1c80af Waiting 
+ 39f13429a4bd Downloading [==================================================>]     215B/215B
+ 39f13429a4bd Downloading [==================================================>]     215B/215B
+ 39f13429a4bd Verifying Checksum 
+ 39f13429a4bd Download complete 
+ 39f13429a4bd Download complete 
+ 9989c82a7a60 Downloading [==================================================>]     934B/934B
+ 9989c82a7a60 Verifying Checksum 
+ 9989c82a7a60 Download complete 
+ 9989c82a7a60 Downloading [==================================================>]     934B/934B
+ 9989c82a7a60 Verifying Checksum 
+ 9989c82a7a60 Download complete 
+ f1db43a4ea3d Downloading [>                                                  ]  35.61kB/3.461MB
+ f1db43a4ea3d Downloading [>                                                  ]  35.61kB/3.461MB
+ f1db43a4ea3d Downloading [==================================================>]  3.461MB/3.461MB
+ f1db43a4ea3d Verifying Checksum 
+ f1db43a4ea3d Download complete 
+ f1db43a4ea3d Verifying Checksum 
+ f1db43a4ea3d Download complete 
+ f1db43a4ea3d Extracting [>                                                  ]  65.54kB/3.461MB
+ f1db43a4ea3d Extracting [>                                                  ]  65.54kB/3.461MB
+ f1db43a4ea3d Extracting [==================================================>]  3.461MB/3.461MB
+ f1db43a4ea3d Extracting [==================================================>]  3.461MB/3.461MB
+ f1db43a4ea3d Extracting [==================================================>]  3.461MB/3.461MB
+ f1db43a4ea3d Extracting [==================================================>]  3.461MB/3.461MB
+ f1db43a4ea3d Pull complete 
+ f1db43a4ea3d Pull complete 
+ 9989c82a7a60 Extracting [==================================================>]     934B/934B
+ 9989c82a7a60 Extracting [==================================================>]     934B/934B
+ 9989c82a7a60 Extracting [==================================================>]     934B/934B
+ 9989c82a7a60 Extracting [==================================================>]     934B/934B
+ 9989c82a7a60 Pull complete 
+ 9989c82a7a60 Pull complete 
+ 39f13429a4bd Extracting [==================================================>]     215B/215B
+ 39f13429a4bd Extracting [==================================================>]     215B/215B
+ 39f13429a4bd Extracting [==================================================>]     215B/215B
+ 39f13429a4bd Extracting [==================================================>]     215B/215B
+ 39f13429a4bd Pull complete 
+ 39f13429a4bd Pull complete 
+ 275fa77e2fce Downloading [==================================================>]     487B/487B
+ 275fa77e2fce Verifying Checksum 
+ 275fa77e2fce Downloading [==================================================>]     487B/487B
+ 275fa77e2fce Verifying Checksum 
+ 275fa77e2fce Download complete 
+ af2281902356 Downloading [>                                                  ]  139.5kB/13.65MB
+ af2281902356 Downloading [>                                                  ]  139.5kB/13.65MB
+ 2dfbc1430968 Downloading [>                                                  ]  159.9kB/15.71MB
+ 2dfbc1430968 Downloading [>                                                  ]  159.9kB/15.71MB
+ af2281902356 Downloading [=========================>                         ]  7.011MB/13.65MB
+ af2281902356 Downloading [=========================>                         ]  7.011MB/13.65MB
+ 2dfbc1430968 Downloading [===================================>               ]  11.19MB/15.71MB
+ 2dfbc1430968 Downloading [===================================>               ]  11.19MB/15.71MB
+ 2dfbc1430968 Verifying Checksum 
+ 2dfbc1430968 Download complete 
+ 2dfbc1430968 Verifying Checksum 
+ 2dfbc1430968 Download complete 
+ af2281902356 Download complete 
+ af2281902356 Download complete 
+ af2281902356 Extracting [>                                                  ]  163.8kB/13.65MB
+ af2281902356 Extracting [>                                                  ]  163.8kB/13.65MB
+ af2281902356 Extracting [==================================================>]  13.65MB/13.65MB
+ af2281902356 Extracting [==================================================>]  13.65MB/13.65MB
+ af2281902356 Pull complete 
+ af2281902356 Pull complete 
+ 275fa77e2fce Extracting [==================================================>]     487B/487B
+ 275fa77e2fce Extracting [==================================================>]     487B/487B
+ 275fa77e2fce Extracting [==================================================>]     487B/487B
+ 275fa77e2fce Extracting [==================================================>]     487B/487B
+ 275fa77e2fce Pull complete 
+ 275fa77e2fce Pull complete 
+ 2dfbc1430968 Extracting [>                                                  ]  163.8kB/15.71MB
+ 2dfbc1430968 Extracting [>                                                  ]  163.8kB/15.71MB
+ 2dfbc1430968 Extracting [==================>                                ]  5.734MB/15.71MB
+ 2dfbc1430968 Extracting [==================>                                ]  5.734MB/15.71MB
+ e14bef5a7619 Downloading [===================>                               ]     933B/2.452kB
+ e14bef5a7619 Downloading [===================>                               ]     933B/2.452kB
+ e14bef5a7619 Downloading [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Downloading [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Verifying Checksum 
+ e14bef5a7619 Download complete 
+ e14bef5a7619 Verifying Checksum 
+ e14bef5a7619 Download complete 
+ 2dfbc1430968 Extracting [===========================>                       ]  8.684MB/15.71MB
+ 2dfbc1430968 Extracting [===========================>                       ]  8.684MB/15.71MB
+ 00e63df209a3 Downloading [==>                                                ]     934B/19.95kB
+ 00e63df209a3 Downloading [==>                                                ]     934B/19.95kB
+ 00e63df209a3 Downloading [==================================================>]  19.95kB/19.95kB
+ 00e63df209a3 Verifying Checksum 
+ 00e63df209a3 Download complete 
+ 00e63df209a3 Verifying Checksum 
+ 00e63df209a3 Download complete 
+ 62811451839e Downloading [==>                                                ]     934B/19.95kB
+ 62811451839e Downloading [==>                                                ]     934B/19.95kB
+ 62811451839e Downloading [==================================================>]  19.95kB/19.95kB
+ 62811451839e Download complete 
+ 62811451839e Downloading [==================================================>]  19.95kB/19.95kB
+ 62811451839e Verifying Checksum 
+ 2dfbc1430968 Extracting [==============================>                    ]  9.667MB/15.71MB
+ 2dfbc1430968 Extracting [==============================>                    ]  9.667MB/15.71MB
+ 2dfbc1430968 Extracting [==============================================>    ]  14.58MB/15.71MB
+ 2dfbc1430968 Extracting [==============================================>    ]  14.58MB/15.71MB
+ 2dfbc1430968 Extracting [==================================================>]  15.71MB/15.71MB
+ 2dfbc1430968 Extracting [==================================================>]  15.71MB/15.71MB
+ 2dfbc1430968 Pull complete 
+ 2dfbc1430968 Pull complete 
+ e14bef5a7619 Extracting [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Extracting [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Extracting [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Extracting [==================================================>]  2.452kB/2.452kB
+ e14bef5a7619 Pull complete 
+ e14bef5a7619 Pull complete 
+ 00e63df209a3 Extracting [==================================================>]  19.95kB/19.95kB
+ 00e63df209a3 Extracting [==================================================>]  19.95kB/19.95kB
+ 00e63df209a3 Extracting [==================================================>]  19.95kB/19.95kB
+ 00e63df209a3 Extracting [==================================================>]  19.95kB/19.95kB
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 00e63df209a3 Pull complete 
+ 00e63df209a3 Pull complete 
+ 62811451839e Extracting [==================================================>]  19.95kB/19.95kB
+ 62811451839e Extracting [==================================================>]  19.95kB/19.95kB
+ 62811451839e Extracting [==================================================>]  19.95kB/19.95kB
+ 62811451839e Extracting [==================================================>]  19.95kB/19.95kB
+ 62811451839e Pull complete 
+ 62811451839e Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 1bbaf1fb5af4 Downloading [=====>                                             ]     933B/9.191kB
+ 1bbaf1fb5af4 Downloading [=====>                                             ]     933B/9.191kB
+ 1bbaf1fb5af4 Download complete 
+ 1bbaf1fb5af4 Extracting [==================================================>]  9.191kB/9.191kB
+ 1bbaf1fb5af4 Downloading [==================================================>]  9.191kB/9.191kB
+ 1bbaf1fb5af4 Download complete 
+ 1bbaf1fb5af4 Extracting [==================================================>]  9.191kB/9.191kB
+ 1bbaf1fb5af4 Extracting [==================================================>]  9.191kB/9.191kB
+ 1bbaf1fb5af4 Extracting [==================================================>]  9.191kB/9.191kB
+ d431e0de0c48 Downloading [>                                                  ]  531.9kB/117.8MB
+ d431e0de0c48 Downloading [>                                                  ]  531.9kB/117.8MB
+ 1bbaf1fb5af4 Pull complete 
+ 1bbaf1fb5af4 Pull complete 
+ d431e0de0c48 Downloading [===>                                               ]  8.551MB/117.8MB
+ d431e0de0c48 Downloading [===>                                               ]  8.551MB/117.8MB
+ d431e0de0c48 Downloading [=======>                                           ]  18.71MB/117.8MB
+ d431e0de0c48 Downloading [=======>                                           ]  18.71MB/117.8MB
+ 196821e2571d Downloading [>                                                  ]  9.007kB/867.4kB
+ 196821e2571d Downloading [>                                                  ]  9.007kB/867.4kB
+ 196821e2571d Downloading [==================================================>]  867.4kB/867.4kB
+ 196821e2571d Verifying Checksum 
+ 196821e2571d Download complete 
+ 196821e2571d Verifying Checksum 
+ 196821e2571d Download complete 
+ d431e0de0c48 Downloading [===========>                                       ]  27.26MB/117.8MB
+ d431e0de0c48 Downloading [===========>                                       ]  27.26MB/117.8MB
+ c09d60b5e18f Downloading [==================================================>]     355B/355B
+ c09d60b5e18f Verifying Checksum 
+ c09d60b5e18f Download complete 
+ c09d60b5e18f Downloading [==================================================>]     355B/355B
+ c09d60b5e18f Verifying Checksum 
+ c09d60b5e18f Download complete 
+ d431e0de0c48 Downloading [==============>                                    ]  35.27MB/117.8MB
+ d431e0de0c48 Downloading [==============>                                    ]  35.27MB/117.8MB
+ d431e0de0c48 Downloading [=================>                                 ]   42.2MB/117.8MB
+ d431e0de0c48 Downloading [=================>                                 ]   42.2MB/117.8MB
+ d431e0de0c48 Downloading [====================>                              ]  47.56MB/117.8MB
+ d431e0de0c48 Downloading [====================>                              ]  47.56MB/117.8MB
+ c85dcc3311fa Verifying Checksum 
+ c85dcc3311fa Download complete 
+ c85dcc3311fa Downloading [==================================================>]     336B/336B
+ c85dcc3311fa Verifying Checksum 
+ c85dcc3311fa Download complete 
+ d431e0de0c48 Downloading [======================>                            ]  53.96MB/117.8MB
+ d431e0de0c48 Downloading [======================>                            ]  53.96MB/117.8MB
+ efb234d2531c Downloading [=========================>                         ]     935B/1.844kB
+ efb234d2531c Downloading [==================================================>]  1.844kB/1.844kB
+ efb234d2531c Downloading [==================================================>]  1.844kB/1.844kB
+ efb234d2531c Verifying Checksum 
+ efb234d2531c Download complete 
+ efb234d2531c Verifying Checksum 
+ efb234d2531c Download complete 
+ d431e0de0c48 Downloading [===========================>                       ]   64.1MB/117.8MB
+ d431e0de0c48 Downloading [===========================>                       ]   64.1MB/117.8MB
+ d431e0de0c48 Downloading [===============================>                   ]  73.21MB/117.8MB
+ d431e0de0c48 Downloading [===============================>                   ]  73.21MB/117.8MB
+ d431e0de0c48 Downloading [===================================>               ]  82.82MB/117.8MB
+ d431e0de0c48 Downloading [===================================>               ]  82.82MB/117.8MB
+ d431e0de0c48 Downloading [====================================>              ]  86.03MB/117.8MB
+ d431e0de0c48 Downloading [====================================>              ]  86.03MB/117.8MB
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ d431e0de0c48 Downloading [=====================================>             ]  89.24MB/117.8MB
+ d431e0de0c48 Downloading [=====================================>             ]  89.24MB/117.8MB
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Download complete 
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ d431e0de0c48 Downloading [==========================================>        ]    101MB/117.8MB
+ d431e0de0c48 Downloading [==========================================>        ]    101MB/117.8MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ d431e0de0c48 Downloading [==============================================>    ]  109.1MB/117.8MB
+ d431e0de0c48 Downloading [==============================================>    ]  109.1MB/117.8MB
+ d431e0de0c48 Downloading [=================================================> ]    116MB/117.8MB
+ d431e0de0c48 Downloading [=================================================> ]    116MB/117.8MB
+ d431e0de0c48 Verifying Checksum 
+ d431e0de0c48 Download complete 
+ d431e0de0c48 Download complete 
+ d431e0de0c48 Extracting [>                                                  ]  557.1kB/117.8MB
+ d431e0de0c48 Extracting [>                                                  ]  557.1kB/117.8MB
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ d431e0de0c48 Extracting [===>                                               ]  8.913MB/117.8MB
+ d431e0de0c48 Extracting [===>                                               ]  8.913MB/117.8MB
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ d431e0de0c48 Extracting [=======>                                           ]  17.27MB/117.8MB
+ d431e0de0c48 Extracting [=======>                                           ]  17.27MB/117.8MB
+ d431e0de0c48 Extracting [==========>                                        ]  24.51MB/117.8MB
+ d431e0de0c48 Extracting [==========>                                        ]  24.51MB/117.8MB
+ d431e0de0c48 Extracting [============>                                      ]  30.08MB/117.8MB
+ d431e0de0c48 Extracting [============>                                      ]  30.08MB/117.8MB
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ d431e0de0c48 Extracting [==============>                                    ]  33.98MB/117.8MB
+ d431e0de0c48 Extracting [==============>                                    ]  33.98MB/117.8MB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ cb1ff4086f82 Downloading [>                                                  ]  168.9kB/16.84MB
+ a992fbc61ecc Pull complete 
+ d431e0de0c48 Extracting [==============>                                    ]  35.09MB/117.8MB
+ d431e0de0c48 Extracting [==============>                                    ]  35.09MB/117.8MB
+ cb1ff4086f82 Downloading [===================>                               ]  6.451MB/16.84MB
+ cb1ff4086f82 Downloading [==========================>                        ]  8.974MB/16.84MB
+ d431e0de0c48 Extracting [===============>                                   ]  36.21MB/117.8MB
+ d431e0de0c48 Extracting [===============>                                   ]  36.21MB/117.8MB
+ cb1ff4086f82 Downloading [===================================>               ]  12.05MB/16.84MB
+ d431e0de0c48 Extracting [===============>                                   ]  37.32MB/117.8MB
+ d431e0de0c48 Extracting [===============>                                   ]  37.32MB/117.8MB
+ cb1ff4086f82 Downloading [================================================>  ]  16.37MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ bd37f6d99203 Downloading [>                                                  ]  524.3kB/51.32MB
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ d431e0de0c48 Extracting [=================>                                 ]  40.67MB/117.8MB
+ d431e0de0c48 Extracting [=================>                                 ]  40.67MB/117.8MB
+ d2433cba0951 Downloading [==================================================>]     884B/884B
+ d2433cba0951 Verifying Checksum 
+ d2433cba0951 Download complete 
+ bd37f6d99203 Downloading [=======>                                           ]  7.315MB/51.32MB
+ cb1ff4086f82 Extracting [========>                                          ]  2.949MB/16.84MB
+ d431e0de0c48 Extracting [=================>                                 ]  41.78MB/117.8MB
+ d431e0de0c48 Extracting [=================>                                 ]  41.78MB/117.8MB
+ bd37f6d99203 Downloading [==============>                                    ]  14.63MB/51.32MB
+ cb1ff4086f82 Extracting [============================>                      ]  9.437MB/16.84MB
+ d431e0de0c48 Extracting [===================>                               ]  45.68MB/117.8MB
+ d431e0de0c48 Extracting [===================>                               ]  45.68MB/117.8MB
+ bd37f6d99203 Downloading [=====================>                             ]  21.96MB/51.32MB
+ cb1ff4086f82 Extracting [===========================================>       ]  14.75MB/16.84MB
+ d431e0de0c48 Extracting [=====================>                             ]  51.81MB/117.8MB
+ d431e0de0c48 Extracting [=====================>                             ]  51.81MB/117.8MB
+ bd37f6d99203 Downloading [==========================>                        ]  27.68MB/51.32MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ bd37f6d99203 Downloading [=================================>                 ]  33.96MB/51.32MB
+ cb1ff4086f82 Pull complete 
+ d431e0de0c48 Extracting [========================>                          ]  57.38MB/117.8MB
+ d431e0de0c48 Extracting [========================>                          ]  57.38MB/117.8MB
+ 13702d9fe3c3 Downloading [>                                                  ]  10.63kB/983kB
+ nginx Pulled 
+ 13702d9fe3c3 Downloading [==================================================>]    983kB/983kB
+ 13702d9fe3c3 Verifying Checksum 
+ 13702d9fe3c3 Download complete 
+ bd37f6d99203 Downloading [========================================>          ]  41.29MB/51.32MB
+ 83bcc87284a1 Downloading [>                                                  ]  46.04kB/4.6MB
+ d431e0de0c48 Extracting [==========================>                        ]  61.28MB/117.8MB
+ d431e0de0c48 Extracting [==========================>                        ]  61.28MB/117.8MB
+ 83bcc87284a1 Verifying Checksum 
+ 83bcc87284a1 Download complete 
+ bd37f6d99203 Downloading [============================================>      ]  45.98MB/51.32MB
+ d431e0de0c48 Extracting [=============================>                     ]  69.63MB/117.8MB
+ d431e0de0c48 Extracting [=============================>                     ]  69.63MB/117.8MB
+ bd37f6d99203 Verifying Checksum 
+ bd37f6d99203 Download complete 
+ bd37f6d99203 Extracting [>                                                  ]  524.3kB/51.32MB
+ d431e0de0c48 Extracting [================================>                  ]  76.32MB/117.8MB
+ d431e0de0c48 Extracting [================================>                  ]  76.32MB/117.8MB
+ bd37f6d99203 Extracting [=====>                                             ]  5.243MB/51.32MB
+ d431e0de0c48 Extracting [===================================>               ]  84.12MB/117.8MB
+ d431e0de0c48 Extracting [===================================>               ]  84.12MB/117.8MB
+ bd37f6d99203 Extracting [======>                                            ]  6.816MB/51.32MB
+ d431e0de0c48 Extracting [======================================>            ]  91.36MB/117.8MB
+ d431e0de0c48 Extracting [======================================>            ]  91.36MB/117.8MB
+ c38d8660e1fa Downloading [==========================>                        ]  1.369kB/2.604kB
+ c38d8660e1fa Downloading [==================================================>]  2.604kB/2.604kB
+ c38d8660e1fa Verifying Checksum 
+ c38d8660e1fa Download complete 
+ bd37f6d99203 Extracting [==========>                                        ]  10.49MB/51.32MB
+ d431e0de0c48 Extracting [==========================================>        ]  99.16MB/117.8MB
+ d431e0de0c48 Extracting [==========================================>        ]  99.16MB/117.8MB
+ 7e1bc321f421 Downloading [==================================================>]     334B/334B
+ 7e1bc321f421 Verifying Checksum 
+ 7e1bc321f421 Download complete 
+ bd37f6d99203 Extracting [================>                                  ]   17.3MB/51.32MB
+ d431e0de0c48 Extracting [=============================================>     ]  106.4MB/117.8MB
+ d431e0de0c48 Extracting [=============================================>     ]  106.4MB/117.8MB
+ bddd54b9c549 Downloading [>                                                  ]  540.7kB/58.51MB
+ bd37f6d99203 Extracting [=======================>                           ]  24.12MB/51.32MB
+ d431e0de0c48 Extracting [===============================================>   ]  110.9MB/117.8MB
+ d431e0de0c48 Extracting [===============================================>   ]  110.9MB/117.8MB
+ bddd54b9c549 Downloading [======>                                            ]  8.028MB/58.51MB
+ bd37f6d99203 Extracting [=============================>                     ]  30.41MB/51.32MB
+ d431e0de0c48 Extracting [================================================>  ]  113.6MB/117.8MB
+ d431e0de0c48 Extracting [================================================>  ]  113.6MB/117.8MB
+ bddd54b9c549 Downloading [===========>                                       ]  13.89MB/58.51MB
+ 4eaae1e844ac Downloading [==================================================>]     316B/316B
+ 4eaae1e844ac Verifying Checksum 
+ 4eaae1e844ac Download complete 
+ bd37f6d99203 Extracting [=================================>                 ]   34.6MB/51.32MB
+ d431e0de0c48 Extracting [================================================>  ]  115.3MB/117.8MB
+ d431e0de0c48 Extracting [================================================>  ]  115.3MB/117.8MB
+ bddd54b9c549 Downloading [==============>                                    ]   17.1MB/58.51MB
+ bd37f6d99203 Extracting [========================================>          ]  41.42MB/51.32MB
+ 5196e1e87d8f Downloading [>                                                  ]  540.7kB/59.32MB
+ d431e0de0c48 Extracting [=================================================> ]  116.4MB/117.8MB
+ d431e0de0c48 Extracting [=================================================> ]  116.4MB/117.8MB
+ bddd54b9c549 Downloading [===================>                               ]  22.45MB/58.51MB
+ bd37f6d99203 Extracting [=============================================>     ]  47.19MB/51.32MB
+ 5196e1e87d8f Downloading [=====>                                             ]  6.431MB/59.32MB
+ bddd54b9c549 Downloading [====================>                              ]  24.05MB/58.51MB
+ d431e0de0c48 Extracting [==================================================>]  117.8MB/117.8MB
+ d431e0de0c48 Extracting [==================================================>]  117.8MB/117.8MB
+ 5196e1e87d8f Downloading [=========>                                         ]  11.23MB/59.32MB
+ bddd54b9c549 Downloading [======================>                            ]  26.72MB/58.51MB
+ 5196e1e87d8f Downloading [==============>                                    ]  17.66MB/59.32MB
+ 6586d096303c Downloading [==========>                                        ]  1.049kB/5.178kB
+ 6586d096303c Verifying Checksum 
+ 6586d096303c Download complete 
+ bddd54b9c549 Downloading [==========================>                        ]  30.47MB/58.51MB
+ d431e0de0c48 Pull complete 
+ d431e0de0c48 Pull complete 
+ 196821e2571d Extracting [=>                                                 ]  32.77kB/867.4kB
+ 196821e2571d Extracting [=>                                                 ]  32.77kB/867.4kB
+ 196821e2571d Extracting [==================================================>]  867.4kB/867.4kB
+ 196821e2571d Extracting [==================================================>]  867.4kB/867.4kB
+ 196821e2571d Extracting [==================================================>]  867.4kB/867.4kB
+ 196821e2571d Extracting [==================================================>]  867.4kB/867.4kB
+ 196821e2571d Pull complete 
+ 196821e2571d Pull complete 
+ 5196e1e87d8f Downloading [=================>                                 ]  20.91MB/59.32MB
+ c09d60b5e18f Extracting [==================================================>]     355B/355B
+ c09d60b5e18f Extracting [==================================================>]     355B/355B
+ c09d60b5e18f Extracting [==================================================>]     355B/355B
+ c09d60b5e18f Extracting [==================================================>]     355B/355B
+ c09d60b5e18f Pull complete 
+ c09d60b5e18f Pull complete 
+ c85dcc3311fa Extracting [==================================================>]     336B/336B
+ c85dcc3311fa Extracting [==================================================>]     336B/336B
+ c85dcc3311fa Extracting [==================================================>]     336B/336B
+ c85dcc3311fa Extracting [==================================================>]     336B/336B
+ c85dcc3311fa Pull complete 
+ c85dcc3311fa Pull complete 
+ efb234d2531c Extracting [==================================================>]  1.844kB/1.844kB
+ efb234d2531c Extracting [==================================================>]  1.844kB/1.844kB
+ efb234d2531c Extracting [==================================================>]  1.844kB/1.844kB
+ efb234d2531c Extracting [==================================================>]  1.844kB/1.844kB
+ bddd54b9c549 Downloading [===========================>                       ]  32.63MB/58.51MB
+ bd37f6d99203 Extracting [================================================>  ]  49.81MB/51.32MB
+ efb234d2531c Pull complete 
+ efb234d2531c Pull complete 
+ 5196e1e87d8f Downloading [=======================>                           ]  27.85MB/59.32MB
+ app2 Pulled 
+ app1 Pulled 
+ bddd54b9c549 Downloading [===============================>                   ]   36.9MB/58.51MB
+ 5196e1e87d8f Downloading [===========================>                       ]  32.69MB/59.32MB
+ bd37f6d99203 Extracting [=================================================> ]  50.33MB/51.32MB
+ bd37f6d99203 Extracting [==================================================>]  51.32MB/51.32MB
+ bddd54b9c549 Downloading [==================================>                ]  40.63MB/58.51MB
+ bd37f6d99203 Pull complete 
+ d2433cba0951 Extracting [==================================================>]     884B/884B
+ d2433cba0951 Extracting [==================================================>]     884B/884B
+ d2433cba0951 Pull complete 
+ 5196e1e87d8f Downloading [===============================>                   ]  36.98MB/59.32MB
+ 13702d9fe3c3 Extracting [=>                                                 ]  32.77kB/983kB
+ 13702d9fe3c3 Extracting [==================================================>]    983kB/983kB
+ 13702d9fe3c3 Extracting [==================================================>]    983kB/983kB
+ 13702d9fe3c3 Pull complete 
+ bddd54b9c549 Downloading [======================================>            ]  45.45MB/58.51MB
+ 83bcc87284a1 Extracting [>                                                  ]  65.54kB/4.6MB
+ cf55ff1c80af Download complete 
+ 5196e1e87d8f Downloading [================================>                  ]  39.11MB/59.32MB
+ bddd54b9c549 Downloading [=======================================>           ]  46.53MB/58.51MB
+ 83bcc87284a1 Extracting [===========================>                       ]   2.49MB/4.6MB
+ 83bcc87284a1 Extracting [==================================================>]    4.6MB/4.6MB
+ 5196e1e87d8f Downloading [===================================>               ]   41.8MB/59.32MB
+ 83bcc87284a1 Pull complete 
+ c38d8660e1fa Extracting [==================================================>]  2.604kB/2.604kB
+ c38d8660e1fa Extracting [==================================================>]  2.604kB/2.604kB
+ bddd54b9c549 Downloading [============================================>      ]  51.87MB/58.51MB
+ c38d8660e1fa Pull complete 
+ 7e1bc321f421 Extracting [==================================================>]     334B/334B
+ 7e1bc321f421 Extracting [==================================================>]     334B/334B
+ 7e1bc321f421 Pull complete 
+ 5196e1e87d8f Downloading [=======================================>           ]  47.14MB/59.32MB
+ bddd54b9c549 Downloading [================================================>  ]  57.23MB/58.51MB
+ bddd54b9c549 Download complete 
+ bddd54b9c549 Extracting [>                                                  ]  557.1kB/58.51MB
+ 5196e1e87d8f Downloading [==========================================>        ]  50.87MB/59.32MB
+ bddd54b9c549 Extracting [======>                                            ]  7.799MB/58.51MB
+ 5196e1e87d8f Downloading [=============================================>     ]   54.1MB/59.32MB
+ bddd54b9c549 Extracting [============>                                      ]  15.04MB/58.51MB
+ 5196e1e87d8f Downloading [==============================================>    ]  55.18MB/59.32MB
+ bddd54b9c549 Extracting [==================>                                ]  21.17MB/58.51MB
+ 5196e1e87d8f Downloading [================================================>  ]  57.87MB/59.32MB
+ bddd54b9c549 Extracting [========================>                          ]  28.41MB/58.51MB
+ 5196e1e87d8f Verifying Checksum 
+ 5196e1e87d8f Download complete 
+ bddd54b9c549 Extracting [==============================>                    ]  35.65MB/58.51MB
+ bddd54b9c549 Extracting [=====================================>             ]  43.45MB/58.51MB
+ bddd54b9c549 Extracting [==========================================>        ]  49.58MB/58.51MB
+ bddd54b9c549 Extracting [===============================================>   ]  55.71MB/58.51MB
+ bddd54b9c549 Extracting [==================================================>]  58.51MB/58.51MB
+ bddd54b9c549 Pull complete 
+ 4eaae1e844ac Extracting [==================================================>]     316B/316B
+ 4eaae1e844ac Extracting [==================================================>]     316B/316B
+ 4eaae1e844ac Pull complete 
+ 5196e1e87d8f Extracting [>                                                  ]  557.1kB/59.32MB
+ 5196e1e87d8f Extracting [=======>                                           ]  8.356MB/59.32MB
+ 5196e1e87d8f Extracting [=============>                                     ]  16.15MB/59.32MB
+ 5196e1e87d8f Extracting [==================>                                ]  21.73MB/59.32MB
+ 5196e1e87d8f Extracting [=====================>                             ]  25.07MB/59.32MB
+ 5196e1e87d8f Extracting [======================>                            ]  26.18MB/59.32MB
+ 5196e1e87d8f Extracting [======================>                            ]  26.74MB/59.32MB
+ 5196e1e87d8f Extracting [=======================>                           ]   27.3MB/59.32MB
+ 5196e1e87d8f Extracting [=======================>                           ]  27.85MB/59.32MB
+ 5196e1e87d8f Extracting [=======================>                           ]  28.41MB/59.32MB
+ 5196e1e87d8f Extracting [========================>                          ]  28.97MB/59.32MB
+ 5196e1e87d8f Extracting [========================>                          ]  29.52MB/59.32MB
+ 5196e1e87d8f Extracting [=========================>                         ]  30.08MB/59.32MB
+ 5196e1e87d8f Extracting [=========================>                         ]  30.64MB/59.32MB
+ 5196e1e87d8f Extracting [==========================>                        ]   31.2MB/59.32MB
+ 5196e1e87d8f Extracting [==========================>                        ]  31.75MB/59.32MB
+ 5196e1e87d8f Extracting [===========================>                       ]  32.31MB/59.32MB
+ 5196e1e87d8f Extracting [===========================>                       ]  32.87MB/59.32MB
+ 5196e1e87d8f Extracting [============================>                      ]  33.42MB/59.32MB
+ 5196e1e87d8f Extracting [============================>                      ]  33.98MB/59.32MB
+ 5196e1e87d8f Extracting [=============================>                     ]  34.54MB/59.32MB
+ 5196e1e87d8f Extracting [=============================>                     ]  35.09MB/59.32MB
+ 5196e1e87d8f Extracting [==============================>                    ]  35.65MB/59.32MB
+ 5196e1e87d8f Extracting [==============================>                    ]  36.21MB/59.32MB
+ 5196e1e87d8f Extracting [===============================>                   ]  37.32MB/59.32MB
+ 5196e1e87d8f Extracting [================================>                  ]  38.99MB/59.32MB
+ 5196e1e87d8f Extracting [=================================>                 ]  40.11MB/59.32MB
+ 5196e1e87d8f Extracting [==================================>                ]  41.22MB/59.32MB
+ 5196e1e87d8f Extracting [=====================================>             ]  44.56MB/59.32MB
+ 5196e1e87d8f Extracting [======================================>            ]  46.24MB/59.32MB
+ 5196e1e87d8f Extracting [=======================================>           ]  47.35MB/59.32MB
+ 5196e1e87d8f Extracting [========================================>          ]  47.91MB/59.32MB
+ 5196e1e87d8f Extracting [==========================================>        ]  50.69MB/59.32MB
+ 5196e1e87d8f Extracting [============================================>      ]  52.36MB/59.32MB
+ 5196e1e87d8f Extracting [================================================>  ]  57.38MB/59.32MB
+ 5196e1e87d8f Extracting [==================================================>]  59.32MB/59.32MB
+ 5196e1e87d8f Pull complete 
+ 6586d096303c Extracting [==================================================>]  5.178kB/5.178kB
+ 6586d096303c Extracting [==================================================>]  5.178kB/5.178kB
+ 6586d096303c Pull complete 
+ cf55ff1c80af Extracting [==================================================>]     122B/122B
+ cf55ff1c80af Extracting [==================================================>]     122B/122B
+ cf55ff1c80af Pull complete 
+ db Pulled 
  Network joao-bittencourt-php_rinha  Creating
  Network joao-bittencourt-php_rinha  Created
  Container joao-bittencourt-php-app2-1  Creating
  Container joao-bittencourt-php-db-1  Creating
  Container joao-bittencourt-php-app1-1  Creating
- Container joao-bittencourt-php-app1-1  Created
  Container joao-bittencourt-php-app2-1  Created
+ Container joao-bittencourt-php-app1-1  Created
  Container joao-bittencourt-php-nginx-1  Creating
  Container joao-bittencourt-php-db-1  Created
  Container joao-bittencourt-php-nginx-1  Created
 Attaching to app1-1, app2-1, db-1, nginx-1
-app2-1  | Cannot load Zend OPcache - it was already loaded
-db-1    | 2025-08-18 21:39:43+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1  | 2025-08-21 14:59:29+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 app1-1  | Cannot load Zend OPcache - it was already loaded
-app2-1  | [18-Aug-2025 21:39:43] NOTICE: fpm is running, pid 1
-app2-1  | [18-Aug-2025 21:39:43] NOTICE: ready to handle connections
-app1-1  | [18-Aug-2025 21:39:43] NOTICE: fpm is running, pid 1
-app1-1  | [18-Aug-2025 21:39:43] NOTICE: ready to handle connections
+app2-1  | Cannot load Zend OPcache - it was already loaded
+app1-1  | [21-Aug-2025 14:59:29] NOTICE: fpm is running, pid 1
+app2-1  | [21-Aug-2025 14:59:29] NOTICE: fpm is running, pid 1
+app2-1  | [21-Aug-2025 14:59:29] NOTICE: ready to handle connections
+app1-1  | [21-Aug-2025 14:59:29] NOTICE: ready to handle connections
+db-1    | 2025-08-21 14:59:29+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1    | 2025-08-21 14:59:29+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -26,169 +621,150 @@ nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolve
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: using the "epoll" event method
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: nginx/1.29.1
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: OS: Linux 6.14.0-1010-aws
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: start worker processes
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: start worker process 29
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: start worker process 30
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: start worker process 31
-nginx-1  | 2025/08/18 21:39:44 [notice] 1#1: start worker process 32
-db-1     | 2025-08-18 21:39:44+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:39:44+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:39:44+00:00 [Note] [Entrypoint]: Initializing database files
-db-1     | 2025-08-18T21:39:44.577795Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:44.578874Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:44.579795Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.36) initializing of server in progress as process 80
-db-1     | 2025-08-18T21:39:44.597734Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:44.606340Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-db-1     | 2025-08-18T21:39:45.298508Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
-db-1     | 2025-08-18T21:39:46.869360Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
-db-1     | 2025-08-18T21:39:47.109490Z 6 [Warning] [MY-013360] [Server] Plugin mysql_native_password reported: ''mysql_native_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:39:47 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18 21:39:50+00:00 [Note] [Entrypoint]: Database files initialized
-db-1     | 2025-08-18 21:39:50+00:00 [Note] [Entrypoint]: Starting temporary server
-db-1     | 2025-08-18T21:39:50.741799Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:50.744049Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:50.744074Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 124
-db-1     | 2025-08-18T21:39:50.779817Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:50.789943Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-db-1     | 2025-08-18T21:39:50.999449Z 0 [ERROR] [MY-011065] [Server] Unable to determine if daemon is running: Inappropriate ioctl for device (rc=0).
-db-1     | 2025-08-18T21:39:50.999457Z 0 [ERROR] [MY-010946] [Server] Failed to start mysqld daemon. Check mysqld error log.
-db-1     | 2025-08-18 21:39:51+00:00 [ERROR] [Entrypoint]: Unable to start server.
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: using the "epoll" event method
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: nginx/1.29.1
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: OS: Linux 6.12.41+deb13-cloud-amd64
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1073741816:1073741816
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: start worker processes
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: start worker process 29
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: start worker process 30
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: start worker process 31
+nginx-1  | 2025/08/21 14:59:30 [notice] 1#1: start worker process 32
+db-1     | 2025-08-21 14:59:30+00:00 [Note] [Entrypoint]: Initializing database files
+db-1     | 2025-08-21T14:59:30.123249Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:30.123331Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:30.123353Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.36) initializing of server in progress as process 80
+db-1     | 2025-08-21T14:59:30.130471Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:30.131694Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:30.656206Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+db-1     | 2025-08-21T14:59:32.219891Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+db-1     | 2025-08-21T14:59:32.503964Z 6 [Warning] [MY-013360] [Server] Plugin mysql_native_password reported: ''mysql_native_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+app1-1   | 172.21.0.5 -  21/Aug/2025:14:59:33 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 14:59:35+00:00 [Note] [Entrypoint]: Database files initialized
+db-1     | 2025-08-21 14:59:35+00:00 [Note] [Entrypoint]: Starting temporary server
+db-1     | 2025-08-21T14:59:35.816808Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:35.819322Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:35.819346Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 124
+db-1     | 2025-08-21T14:59:35.831885Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:35.833886Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:36.720461Z 0 [ERROR] [MY-011065] [Server] Unable to determine if daemon is running: Inappropriate ioctl for device (rc=0).
+db-1     | 2025-08-21T14:59:36.720471Z 0 [ERROR] [MY-010946] [Server] Failed to start mysqld daemon. Check mysqld error log.
+db-1     | 2025-08-21 14:59:36+00:00 [ERROR] [Entrypoint]: Unable to start server.
 [Kdb-1 exited with code 1
-db-1     | 2025-08-18 21:39:51+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:39:51+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:39:51+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:37+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:37+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:37+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:39:52.355288Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:52.357001Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:52.357989Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:39:52.372291Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:52.381212Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:37.829320Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:37.831030Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:37.831053Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:37.835798Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:37.837329Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+app1-1   | 172.21.0.5 -  21/Aug/2025:14:59:38 +0000 "GET /payments-summary" 500
 [Kdb-1 exited with code 137
-db-1     | 2025-08-18 21:39:52+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:39:53+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:39:53+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:38+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:39+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:39+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:39:52 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18T21:39:53.997734Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:53.999386Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:54.000356Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:39:54.014316Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:54.023519Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:39.608726Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:39.610355Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:39.610378Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:39.615258Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:39.616799Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-db-1     | 2025-08-18 21:39:54+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:39:55+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:39:55+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:40+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:40+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:40+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:39:55.785862Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:55.787530Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:55.788600Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:39:55.802830Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:55.812166Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:41.416672Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:41.418274Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:41.418298Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:41.423219Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:41.424893Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-db-1     | 2025-08-18 21:39:56+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:39:57+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:39:57+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:43+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+app1-1   | 172.21.0.5 -  21/Aug/2025:14:59:43 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 14:59:43+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:43+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:39:57.984118Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:39:57.985849Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:39:57.987013Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:39:58.001041Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:39:58.010042Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:43.779783Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:43.780608Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:43.780631Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:43.785726Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:43.787299Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-db-1     | 2025-08-18 21:39:59+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:40:00+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:40:00+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:46+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:46+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:46+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:40:00.995181Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:40:00.996855Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:40:00.997846Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:40:01.012028Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:40:01.020939Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:46.894092Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:46.895657Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:46.895680Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:46.900668Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:46.902242Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:39:58 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18 21:40:04+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:40:05+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:40:05+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+app1-1   | 172.21.0.5 -  21/Aug/2025:14:59:48 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 14:59:50+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:51+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:51+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:40:05.669790Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:40:05.671535Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:40:05.672547Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:40:05.687333Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:40:05.696813Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:51.527677Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:51.529362Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:51.529386Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:51.534205Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:51.535735Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:40:06 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18 21:40:12+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:40:12+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:40:12+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+app2-1   | 172.21.0.5 -  21/Aug/2025:14:59:53 +0000 "GET /payments-summary" 500
+app1-1   | 172.21.0.5 -  21/Aug/2025:14:59:58 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 14:59:58+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+db-1     | 2025-08-21 14:59:59+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 14:59:59+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:40:13.475525Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:40:13.477330Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:40:13.478314Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:40:13.492689Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:40:13.501319Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T14:59:59.489440Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T14:59:59.491026Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T14:59:59.491049Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T14:59:59.495986Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T14:59:59.497516Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-app2-1   | 172.21.0.5 -  18/Aug/2025:21:40:14 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18 21:40:26+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:40:27+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:40:27+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+app2-1   | 172.21.0.5 -  21/Aug/2025:15:00:03 +0000 "GET /payments-summary" 500
+app1-1   | 172.21.0.5 -  21/Aug/2025:15:00:08 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 15:00:13+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
+app2-1   | 172.21.0.5 -  21/Aug/2025:15:00:13 +0000 "GET /payments-summary" 500
+db-1     | 2025-08-21 15:00:13+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+db-1     | 2025-08-21 15:00:13+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
 db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:40:27.666852Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:40:27.668533Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:40:27.669676Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:40:27.683604Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:40:27.692726Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+db-1     | 2025-08-21T15:00:13.855369Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+db-1     | 2025-08-21T15:00:13.856940Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+db-1     | 2025-08-21T15:00:13.856963Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
+db-1     | 2025-08-21T15:00:13.861882Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
+db-1     | 2025-08-21T15:00:13.863460Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
 [Kdb-1 exited with code 137
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:40:22 +0000 "GET /payments-summary" 500
-app2-1   | 172.21.0.5 -  18/Aug/2025:21:40:31 +0000 "GET /payments-summary" 500
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:40:39 +0000 "GET /payments-summary" 500
-app2-1   | 172.21.0.5 -  18/Aug/2025:21:40:47 +0000 "GET /payments-summary" 500
-db-1     | 2025-08-18 21:40:53+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | 2025-08-18 21:40:54+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
-db-1     | 2025-08-18 21:40:54+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.36-1.el8 started.
-db-1     | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
-db-1     | 2025-08-18T21:40:54.675331Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
-db-1     | 2025-08-18T21:40:54.677052Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-db-1     | 2025-08-18T21:40:54.678079Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.36) starting as process 1
-db-1     | 2025-08-18T21:40:54.692199Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=33554432. Please use innodb_redo_log_capacity instead.
-db-1     | 2025-08-18T21:40:54.701082Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-[Kdb-1 exited with code 137
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:40:55 +0000 "GET /payments-summary" 500
-app2-1   | 172.21.0.5 -  18/Aug/2025:21:41:03 +0000 "GET /payments-summary" 500
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:41:11 +0000 "GET /payments-summary" 500
-app2-1   | 172.21.0.5 -  18/Aug/2025:21:41:19 +0000 "GET /payments-summary" 500
-app1-1   | 172.21.0.5 -  18/Aug/2025:21:41:27 +0000 "GET /payments-summary" 500
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
-nginx-1  | 2025/08/18 21:41:35 [notice] 29#29: gracefully shutting down
-nginx-1  | 2025/08/18 21:41:35 [notice] 29#29: exiting
-nginx-1  | 2025/08/18 21:41:35 [notice] 31#31: gracefully shutting down
-nginx-1  | 2025/08/18 21:41:35 [notice] 30#30: gracefully shutting down
-nginx-1  | 2025/08/18 21:41:35 [notice] 31#31: exiting
-nginx-1  | 2025/08/18 21:41:35 [notice] 30#30: exiting
-nginx-1  | 2025/08/18 21:41:35 [notice] 29#29: exit
-nginx-1  | 2025/08/18 21:41:35 [notice] 30#30: exit
-nginx-1  | 2025/08/18 21:41:35 [notice] 31#31: exit
-nginx-1  | 2025/08/18 21:41:35 [notice] 32#32: gracefully shutting down
-nginx-1  | 2025/08/18 21:41:35 [notice] 32#32: exiting
-nginx-1  | 2025/08/18 21:41:35 [notice] 32#32: exit
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 17 (SIGCHLD) received from 31
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: worker process 31 exited with code 0
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 29 (SIGIO) received
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 17 (SIGCHLD) received from 32
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: worker process 32 exited with code 0
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 29 (SIGIO) received
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 17 (SIGCHLD) received from 29
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: worker process 29 exited with code 0
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 29 (SIGIO) received
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: signal 17 (SIGCHLD) received from 30
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: worker process 30 exited with code 0
-nginx-1  | 2025/08/18 21:41:35 [notice] 1#1: exit
+app1-1   | 172.21.0.5 -  21/Aug/2025:15:00:18 +0000 "GET /payments-summary" 500
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+nginx-1  | 2025/08/21 15:00:23 [notice] 29#29: gracefully shutting down
+nginx-1  | 2025/08/21 15:00:23 [notice] 29#29: exiting
+nginx-1  | 2025/08/21 15:00:23 [notice] 31#31: gracefully shutting down
+nginx-1  | 2025/08/21 15:00:23 [notice] 32#32: gracefully shutting down
+nginx-1  | 2025/08/21 15:00:23 [notice] 31#31: exiting
+nginx-1  | 2025/08/21 15:00:23 [notice] 32#32: exiting
+nginx-1  | 2025/08/21 15:00:23 [notice] 30#30: gracefully shutting down
+nginx-1  | 2025/08/21 15:00:23 [notice] 30#30: exiting
+nginx-1  | 2025/08/21 15:00:23 [notice] 31#31: exit
+nginx-1  | 2025/08/21 15:00:23 [notice] 32#32: exit
+nginx-1  | 2025/08/21 15:00:23 [notice] 30#30: exit
+nginx-1  | 2025/08/21 15:00:23 [notice] 29#29: exit
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: worker process 32 exited with code 0
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: signal 29 (SIGIO) received
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: worker process 29 exited with code 0
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: worker process 31 exited with code 0
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: worker process 30 exited with code 0
+nginx-1  | 2025/08/21 15:00:23 [notice] 1#1: exit
 [Knginx-1 exited with code 0
-app1-1   | [18-Aug-2025 21:41:35] NOTICE: Finishing ...
-app2-1   | [18-Aug-2025 21:41:35] NOTICE: Finishing ...
-app2-1   | [18-Aug-2025 21:41:35] NOTICE: exiting, bye-bye!
-app1-1   | [18-Aug-2025 21:41:35] NOTICE: exiting, bye-bye!
+app2-1   | [21-Aug-2025 15:00:23] NOTICE: Finishing ...
+app2-1   | [21-Aug-2025 15:00:23] NOTICE: exiting, bye-bye!
+app1-1   | [21-Aug-2025 15:00:23] NOTICE: Finishing ...
+app1-1   | [21-Aug-2025 15:00:23] NOTICE: exiting, bye-bye!
+[Kapp2-1 exited with code 0

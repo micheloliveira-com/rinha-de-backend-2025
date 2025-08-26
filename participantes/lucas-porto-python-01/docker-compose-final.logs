@@ -1,27 +1,697 @@
 
+ worker3 Pulling 
+ haproxy Pulling 
+ redis Pulling 
+ worker1 Pulling 
+ worker2 Pulling 
+ app Pulling 
+ 59e22667830b Pulling fs layer 
+ abd846fa1cdb Pulling fs layer 
+ b7b61708209a Pulling fs layer 
+ 4085babbc570 Pulling fs layer 
+ decf00fb4d04 Pulling fs layer 
+ 95dcf19350c6 Pulling fs layer 
+ 1d8cdb699779 Pulling fs layer 
+ c30309fae91c Pulling fs layer 
+ 2fce2d72ea5e Pulling fs layer 
+ 4085babbc570 Waiting 
+ decf00fb4d04 Waiting 
+ 95dcf19350c6 Waiting 
+ 1d8cdb699779 Waiting 
+ c30309fae91c Waiting 
+ 2fce2d72ea5e Waiting 
+ 0368fd46e3c6 Already exists 
+ 59e22667830b Pulling fs layer 
+ abd846fa1cdb Pulling fs layer 
+ b7b61708209a Pulling fs layer 
+ 4085babbc570 Pulling fs layer 
+ decf00fb4d04 Pulling fs layer 
+ 95dcf19350c6 Pulling fs layer 
+ 1d8cdb699779 Pulling fs layer 
+ c30309fae91c Pulling fs layer 
+ 2fce2d72ea5e Pulling fs layer 
+ 2fce2d72ea5e Waiting 
+ 4085babbc570 Waiting 
+ decf00fb4d04 Waiting 
+ 95dcf19350c6 Waiting 
+ 1d8cdb699779 Waiting 
+ c30309fae91c Waiting 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ a2cadbfeca72 Waiting 
+ 4f4fb700ef54 Waiting 
+ a976ed7e7808 Waiting 
+ 5e28347af205 Waiting 
+ 311eca34042e Waiting 
+ 4c55286bbede Waiting 
+ 59e22667830b Pulling fs layer 
+ abd846fa1cdb Pulling fs layer 
+ b7b61708209a Pulling fs layer 
+ 4085babbc570 Pulling fs layer 
+ decf00fb4d04 Pulling fs layer 
+ 95dcf19350c6 Pulling fs layer 
+ 1d8cdb699779 Pulling fs layer 
+ c30309fae91c Pulling fs layer 
+ 2fce2d72ea5e Pulling fs layer 
+ 2fce2d72ea5e Waiting 
+ 4085babbc570 Waiting 
+ 95dcf19350c6 Waiting 
+ decf00fb4d04 Waiting 
+ 1d8cdb699779 Waiting 
+ c30309fae91c Waiting 
+ 59e22667830b Pulling fs layer 
+ abd846fa1cdb Pulling fs layer 
+ b7b61708209a Pulling fs layer 
+ 4085babbc570 Pulling fs layer 
+ decf00fb4d04 Pulling fs layer 
+ 95dcf19350c6 Pulling fs layer 
+ 1d8cdb699779 Pulling fs layer 
+ c30309fae91c Pulling fs layer 
+ 2fce2d72ea5e Pulling fs layer 
+ 2fce2d72ea5e Waiting 
+ 4085babbc570 Waiting 
+ decf00fb4d04 Waiting 
+ 95dcf19350c6 Waiting 
+ 1d8cdb699779 Waiting 
+ c30309fae91c Waiting 
+ abd846fa1cdb Downloading [>                                                  ]  35.61kB/3.514MB
+ abd846fa1cdb Downloading [>                                                  ]  35.61kB/3.514MB
+ abd846fa1cdb Downloading [>                                                  ]  35.61kB/3.514MB
+ abd846fa1cdb Downloading [>                                                  ]  35.61kB/3.514MB
+ b7b61708209a Downloading [>                                                  ]  163.9kB/16.21MB
+ b7b61708209a Downloading [>                                                  ]  163.9kB/16.21MB
+ b7b61708209a Downloading [>                                                  ]  163.9kB/16.21MB
+ b7b61708209a Downloading [>                                                  ]  163.9kB/16.21MB
+ 59e22667830b Downloading [>                                                  ]  282.7kB/28.23MB
+ 59e22667830b Downloading [>                                                  ]  282.7kB/28.23MB
+ 59e22667830b Downloading [>                                                  ]  282.7kB/28.23MB
+ 59e22667830b Downloading [>                                                  ]  282.7kB/28.23MB
+ abd846fa1cdb Verifying Checksum 
+ abd846fa1cdb Download complete 
+ abd846fa1cdb Verifying Checksum 
+ abd846fa1cdb Download complete 
+ abd846fa1cdb Verifying Checksum 
+ abd846fa1cdb Download complete 
+ abd846fa1cdb Verifying Checksum 
+ abd846fa1cdb Download complete 
+ b7b61708209a Downloading [===============================================>   ]   15.3MB/16.21MB
+ b7b61708209a Downloading [===============================================>   ]   15.3MB/16.21MB
+ b7b61708209a Downloading [===============================================>   ]   15.3MB/16.21MB
+ b7b61708209a Downloading [===============================================>   ]   15.3MB/16.21MB
+ b7b61708209a Verifying Checksum 
+ b7b61708209a Verifying Checksum 
+ b7b61708209a Verifying Checksum 
+ b7b61708209a Download complete 
+ b7b61708209a Download complete 
+ b7b61708209a Verifying Checksum 
+ b7b61708209a Download complete 
+ b7b61708209a Download complete 
+ 59e22667830b Downloading [==========================>                        ]  15.16MB/28.23MB
+ 59e22667830b Downloading [==========================>                        ]  15.16MB/28.23MB
+ 59e22667830b Downloading [==========================>                        ]  15.16MB/28.23MB
+ 59e22667830b Downloading [==========================>                        ]  15.16MB/28.23MB
+ 59e22667830b Verifying Checksum 
+ 59e22667830b Download complete 
+ 59e22667830b Verifying Checksum 
+ 59e22667830b Download complete 
+ 59e22667830b Download complete 
+ 59e22667830b Download complete 
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 59e22667830b Extracting [>                                                  ]  294.9kB/28.23MB
+ 59e22667830b Extracting [=========>                                         ]  5.603MB/28.23MB
+ 59e22667830b Extracting [=========>                                         ]  5.603MB/28.23MB
+ 59e22667830b Extracting [=========>                                         ]  5.603MB/28.23MB
+ 59e22667830b Extracting [=========>                                         ]  5.603MB/28.23MB
+ 9824c27679d3 Already exists 
+ 30ee98c44382 Pulling fs layer 
+ c7ae30c542a9 Pulling fs layer 
+ 7b1adda3059f Pulling fs layer 
+ 907588963660 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ c7ae30c542a9 Waiting 
+ 7b1adda3059f Waiting 
+ 907588963660 Waiting 
+ 4f4fb700ef54 Waiting 
+ 30ee98c44382 Waiting 
+ 4085babbc570 Downloading [==================================================>]     249B/249B
+ 4085babbc570 Verifying Checksum 
+ 4085babbc570 Download complete 
+ 4085babbc570 Downloading [==================================================>]     249B/249B
+ 4085babbc570 Download complete 
+ 4085babbc570 Downloading [==================================================>]     249B/249B
+ 4085babbc570 Verifying Checksum 
+ 4085babbc570 Download complete 
+ 4085babbc570 Downloading [==================================================>]     249B/249B
+ 4085babbc570 Verifying Checksum 
+ 4085babbc570 Download complete 
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ 59e22667830b Extracting [================>                                  ]  9.142MB/28.23MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ 59e22667830b Extracting [===================>                               ]  11.21MB/28.23MB
+ 95dcf19350c6 Downloading [==================================================>]      93B/93B
+ 95dcf19350c6 Verifying Checksum 
+ 95dcf19350c6 Downloading [==================================================>]      93B/93B
+ 95dcf19350c6 Downloading [==================================================>]      93B/93B
+ 95dcf19350c6 Verifying Checksum 
+ 95dcf19350c6 Download complete 
+ 95dcf19350c6 Downloading [==================================================>]      93B/93B
+ 95dcf19350c6 Verifying Checksum 
+ 95dcf19350c6 Download complete 
+ 95dcf19350c6 Verifying Checksum 
+ 95dcf19350c6 Download complete 
+ 95dcf19350c6 Download complete 
+ 59e22667830b Extracting [================================>                  ]  18.58MB/28.23MB
+ 59e22667830b Extracting [================================>                  ]  18.58MB/28.23MB
+ 59e22667830b Extracting [================================>                  ]  18.58MB/28.23MB
+ 59e22667830b Extracting [================================>                  ]  18.58MB/28.23MB
+ 1d8cdb699779 Downloading [>                                                  ]     934B/60.72kB
+ 1d8cdb699779 Downloading [>                                                  ]     934B/60.72kB
+ 1d8cdb699779 Downloading [>                                                  ]     934B/60.72kB
+ 1d8cdb699779 Downloading [>                                                  ]     934B/60.72kB
+ 1d8cdb699779 Verifying Checksum 
+ 1d8cdb699779 Download complete 
+ 1d8cdb699779 Verifying Checksum 
+ 1d8cdb699779 Download complete 
+ 1d8cdb699779 Downloading [==================================================>]  60.72kB/60.72kB
+ 1d8cdb699779 Verifying Checksum 
+ 1d8cdb699779 Download complete 
+ 1d8cdb699779 Verifying Checksum 
+ 1d8cdb699779 Download complete 
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ 59e22667830b Extracting [==========================================>        ]  23.89MB/28.23MB
+ c30309fae91c Downloading [>                                                  ]  299.1kB/29.9MB
+ c30309fae91c Downloading [>                                                  ]  299.1kB/29.9MB
+ c30309fae91c Downloading [>                                                  ]  299.1kB/29.9MB
+ c30309fae91c Downloading [>                                                  ]  299.1kB/29.9MB
+ decf00fb4d04 Downloading [>                                                  ]  540.7kB/84.46MB
+ decf00fb4d04 Downloading [>                                                  ]  540.7kB/84.46MB
+ decf00fb4d04 Downloading [>                                                  ]  540.7kB/84.46MB
+ decf00fb4d04 Downloading [>                                                  ]  540.7kB/84.46MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ 59e22667830b Extracting [===============================================>   ]  26.84MB/28.23MB
+ c30309fae91c Downloading [==========================>                        ]  15.69MB/29.9MB
+ c30309fae91c Downloading [==========================>                        ]  15.69MB/29.9MB
+ c30309fae91c Downloading [==========================>                        ]  15.69MB/29.9MB
+ c30309fae91c Downloading [==========================>                        ]  15.69MB/29.9MB
+ decf00fb4d04 Downloading [=>                                                 ]  3.199MB/84.46MB
+ decf00fb4d04 Downloading [=>                                                 ]  3.199MB/84.46MB
+ decf00fb4d04 Downloading [=>                                                 ]  3.199MB/84.46MB
+ decf00fb4d04 Downloading [=>                                                 ]  3.199MB/84.46MB
+ c30309fae91c Verifying Checksum 
+ c30309fae91c Download complete 
+ c30309fae91c Verifying Checksum 
+ c30309fae91c Download complete 
+ c30309fae91c Verifying Checksum 
+ c30309fae91c Download complete 
+ c30309fae91c Verifying Checksum 
+ c30309fae91c Download complete 
+ 2fce2d72ea5e Downloading [>                                                  ]  4.107kB/328.8kB
+ 2fce2d72ea5e Downloading [>                                                  ]  4.107kB/328.8kB
+ 2fce2d72ea5e Downloading [>                                                  ]  4.107kB/328.8kB
+ 2fce2d72ea5e Downloading [>                                                  ]  4.107kB/328.8kB
+ 2fce2d72ea5e Verifying Checksum 
+ 2fce2d72ea5e Download complete 
+ 2fce2d72ea5e Verifying Checksum 
+ 2fce2d72ea5e Download complete 
+ 2fce2d72ea5e Downloading [==================================================>]  328.8kB/328.8kB
+ 2fce2d72ea5e Verifying Checksum 
+ 2fce2d72ea5e Download complete 
+ 2fce2d72ea5e Verifying Checksum 
+ 2fce2d72ea5e Download complete 
+ decf00fb4d04 Downloading [===>                                               ]  5.325MB/84.46MB
+ decf00fb4d04 Downloading [===>                                               ]  5.325MB/84.46MB
+ decf00fb4d04 Downloading [===>                                               ]  5.325MB/84.46MB
+ decf00fb4d04 Downloading [===>                                               ]  5.325MB/84.46MB
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ 59e22667830b Extracting [================================================>  ]  27.43MB/28.23MB
+ decf00fb4d04 Downloading [====>                                              ]  7.459MB/84.46MB
+ decf00fb4d04 Downloading [====>                                              ]  7.459MB/84.46MB
+ decf00fb4d04 Downloading [====>                                              ]  7.459MB/84.46MB
+ decf00fb4d04 Downloading [====>                                              ]  7.459MB/84.46MB
+ decf00fb4d04 Downloading [======>                                            ]  10.65MB/84.46MB
+ decf00fb4d04 Downloading [======>                                            ]  10.65MB/84.46MB
+ decf00fb4d04 Downloading [======>                                            ]  10.65MB/84.46MB
+ decf00fb4d04 Downloading [======>                                            ]  10.65MB/84.46MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Extracting [==================================================>]  28.23MB/28.23MB
+ 59e22667830b Pull complete 
+ 59e22667830b Pull complete 
+ 59e22667830b Pull complete 
+ 59e22667830b Pull complete 
+ abd846fa1cdb Extracting [>                                                  ]  65.54kB/3.514MB
+ abd846fa1cdb Extracting [>                                                  ]  65.54kB/3.514MB
+ abd846fa1cdb Extracting [>                                                  ]  65.54kB/3.514MB
+ abd846fa1cdb Extracting [>                                                  ]  65.54kB/3.514MB
+ decf00fb4d04 Downloading [=======>                                           ]  12.78MB/84.46MB
+ decf00fb4d04 Downloading [=======>                                           ]  12.78MB/84.46MB
+ decf00fb4d04 Downloading [=======>                                           ]  12.78MB/84.46MB
+ decf00fb4d04 Downloading [=======>                                           ]  12.78MB/84.46MB
+ abd846fa1cdb Extracting [============================================>      ]  3.146MB/3.514MB
+ abd846fa1cdb Extracting [============================================>      ]  3.146MB/3.514MB
+ abd846fa1cdb Extracting [============================================>      ]  3.146MB/3.514MB
+ abd846fa1cdb Extracting [============================================>      ]  3.146MB/3.514MB
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Pull complete 
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ abd846fa1cdb Extracting [==================================================>]  3.514MB/3.514MB
+ decf00fb4d04 Downloading [========>                                          ]   14.4MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]   14.4MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]   14.4MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]   14.4MB/84.46MB
+ abd846fa1cdb Pull complete 
+ abd846fa1cdb Pull complete 
+ abd846fa1cdb Pull complete 
+ abd846fa1cdb Pull complete 
+ b7b61708209a Extracting [>                                                  ]  163.8kB/16.21MB
+ b7b61708209a Extracting [>                                                  ]  163.8kB/16.21MB
+ b7b61708209a Extracting [>                                                  ]  163.8kB/16.21MB
+ b7b61708209a Extracting [>                                                  ]  163.8kB/16.21MB
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ decf00fb4d04 Downloading [========>                                          ]  14.93MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]  14.93MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]  14.93MB/84.46MB
+ decf00fb4d04 Downloading [========>                                          ]  14.93MB/84.46MB
+ b7b61708209a Extracting [=======>                                           ]  2.458MB/16.21MB
+ b7b61708209a Extracting [=======>                                           ]  2.458MB/16.21MB
+ b7b61708209a Extracting [=======>                                           ]  2.458MB/16.21MB
+ b7b61708209a Extracting [=======>                                           ]  2.458MB/16.21MB
+ 5e28347af205 Pull complete 
+ decf00fb4d04 Downloading [==========>                                        ]  17.07MB/84.46MB
+ decf00fb4d04 Downloading [==========>                                        ]  17.07MB/84.46MB
+ decf00fb4d04 Downloading [==========>                                        ]  17.07MB/84.46MB
+ decf00fb4d04 Downloading [==========>                                        ]  17.07MB/84.46MB
+ b7b61708209a Extracting [===============>                                   ]  4.915MB/16.21MB
+ b7b61708209a Extracting [===============>                                   ]  4.915MB/16.21MB
+ b7b61708209a Extracting [===============>                                   ]  4.915MB/16.21MB
+ b7b61708209a Extracting [===============>                                   ]  4.915MB/16.21MB
+ b7b61708209a Extracting [===========================>                       ]  9.011MB/16.21MB
+ b7b61708209a Extracting [===========================>                       ]  9.011MB/16.21MB
+ b7b61708209a Extracting [===========================>                       ]  9.011MB/16.21MB
+ b7b61708209a Extracting [===========================>                       ]  9.011MB/16.21MB
+ decf00fb4d04 Downloading [===========>                                       ]  20.25MB/84.46MB
+ decf00fb4d04 Downloading [===========>                                       ]  20.25MB/84.46MB
+ decf00fb4d04 Downloading [===========>                                       ]  20.25MB/84.46MB
+ decf00fb4d04 Downloading [===========>                                       ]  20.25MB/84.46MB
+ b7b61708209a Extracting [===================================>               ]  11.63MB/16.21MB
+ b7b61708209a Extracting [===================================>               ]  11.63MB/16.21MB
+ b7b61708209a Extracting [===================================>               ]  11.63MB/16.21MB
+ b7b61708209a Extracting [===================================>               ]  11.63MB/16.21MB
+ decf00fb4d04 Downloading [=============>                                     ]  22.92MB/84.46MB
+ decf00fb4d04 Downloading [=============>                                     ]  22.92MB/84.46MB
+ decf00fb4d04 Downloading [=============>                                     ]  22.92MB/84.46MB
+ decf00fb4d04 Downloading [=============>                                     ]  22.92MB/84.46MB
+ 311eca34042e Downloading [>                                                  ]  11.04kB/1.003MB
+ 311eca34042e Downloading [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ b7b61708209a Extracting [======================================>            ]  12.62MB/16.21MB
+ b7b61708209a Extracting [======================================>            ]  12.62MB/16.21MB
+ b7b61708209a Extracting [======================================>            ]  12.62MB/16.21MB
+ b7b61708209a Extracting [======================================>            ]  12.62MB/16.21MB
+ decf00fb4d04 Downloading [==============>                                    ]  23.99MB/84.46MB
+ decf00fb4d04 Downloading [==============>                                    ]  23.99MB/84.46MB
+ decf00fb4d04 Downloading [==============>                                    ]  23.99MB/84.46MB
+ decf00fb4d04 Downloading [==============>                                    ]  23.99MB/84.46MB
+ e6fe6f07e192 Downloading [>                                                  ]    127kB/12.41MB
+ b7b61708209a Extracting [==========================================>        ]  13.93MB/16.21MB
+ b7b61708209a Extracting [==========================================>        ]  13.93MB/16.21MB
+ b7b61708209a Extracting [==========================================>        ]  13.93MB/16.21MB
+ b7b61708209a Extracting [==========================================>        ]  13.93MB/16.21MB
+ decf00fb4d04 Downloading [===============>                                   ]  26.66MB/84.46MB
+ decf00fb4d04 Downloading [===============>                                   ]  26.66MB/84.46MB
+ decf00fb4d04 Downloading [===============>                                   ]  26.66MB/84.46MB
+ decf00fb4d04 Downloading [===============>                                   ]  26.66MB/84.46MB
+ e6fe6f07e192 Downloading [====================>                              ]  5.108MB/12.41MB
+ b7b61708209a Extracting [===============================================>   ]  15.24MB/16.21MB
+ b7b61708209a Extracting [===============================================>   ]  15.24MB/16.21MB
+ b7b61708209a Extracting [===============================================>   ]  15.24MB/16.21MB
+ b7b61708209a Extracting [===============================================>   ]  15.24MB/16.21MB
+ decf00fb4d04 Downloading [==================>                                ]  30.91MB/84.46MB
+ decf00fb4d04 Downloading [==================>                                ]  30.91MB/84.46MB
+ decf00fb4d04 Downloading [==================>                                ]  30.91MB/84.46MB
+ decf00fb4d04 Downloading [==================>                                ]  30.91MB/84.46MB
+ e6fe6f07e192 Downloading [================================>                  ]  8.126MB/12.41MB
+ b7b61708209a Extracting [==================================================>]  16.21MB/16.21MB
+ b7b61708209a Extracting [==================================================>]  16.21MB/16.21MB
+ b7b61708209a Extracting [==================================================>]  16.21MB/16.21MB
+ b7b61708209a Extracting [==================================================>]  16.21MB/16.21MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ decf00fb4d04 Downloading [====================>                              ]  34.09MB/84.46MB
+ decf00fb4d04 Downloading [====================>                              ]  34.09MB/84.46MB
+ decf00fb4d04 Downloading [====================>                              ]  34.09MB/84.46MB
+ decf00fb4d04 Downloading [====================>                              ]  34.09MB/84.46MB
+ b7b61708209a Pull complete 
+ b7b61708209a Pull complete 
+ b7b61708209a Pull complete 
+ b7b61708209a Pull complete 
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Extracting [==================================================>]     249B/249B
+ 4085babbc570 Pull complete 
+ 4085babbc570 Pull complete 
+ 4085babbc570 Pull complete 
+ 4085babbc570 Pull complete 
+ e6fe6f07e192 Extracting [===================>                               ]   4.85MB/12.41MB
+ decf00fb4d04 Downloading [======================>                            ]   37.3MB/84.46MB
+ decf00fb4d04 Downloading [======================>                            ]   37.3MB/84.46MB
+ decf00fb4d04 Downloading [======================>                            ]   37.3MB/84.46MB
+ decf00fb4d04 Downloading [======================>                            ]   37.3MB/84.46MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Extracting [=================================================> ]  12.32MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ decf00fb4d04 Downloading [========================>                          ]  41.05MB/84.46MB
+ decf00fb4d04 Downloading [========================>                          ]  41.05MB/84.46MB
+ decf00fb4d04 Downloading [========================>                          ]  41.05MB/84.46MB
+ decf00fb4d04 Downloading [========================>                          ]  41.05MB/84.46MB
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ decf00fb4d04 Downloading [=========================>                         ]  43.74MB/84.46MB
+ decf00fb4d04 Downloading [=========================>                         ]  43.74MB/84.46MB
+ decf00fb4d04 Downloading [=========================>                         ]  43.74MB/84.46MB
+ decf00fb4d04 Downloading [=========================>                         ]  43.74MB/84.46MB
+ decf00fb4d04 Downloading [============================>                      ]  48.01MB/84.46MB
+ decf00fb4d04 Downloading [============================>                      ]  48.01MB/84.46MB
+ decf00fb4d04 Downloading [============================>                      ]  48.01MB/84.46MB
+ decf00fb4d04 Downloading [============================>                      ]  48.01MB/84.46MB
+ decf00fb4d04 Downloading [==============================>                    ]  51.74MB/84.46MB
+ decf00fb4d04 Downloading [==============================>                    ]  51.74MB/84.46MB
+ decf00fb4d04 Downloading [==============================>                    ]  51.74MB/84.46MB
+ decf00fb4d04 Downloading [==============================>                    ]  51.74MB/84.46MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ decf00fb4d04 Downloading [=================================>                 ]     56MB/84.46MB
+ decf00fb4d04 Downloading [=================================>                 ]     56MB/84.46MB
+ decf00fb4d04 Downloading [=================================>                 ]     56MB/84.46MB
+ decf00fb4d04 Downloading [=================================>                 ]     56MB/84.46MB
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ decf00fb4d04 Downloading [==================================>                ]  58.68MB/84.46MB
+ decf00fb4d04 Downloading [==================================>                ]  58.68MB/84.46MB
+ decf00fb4d04 Downloading [==================================>                ]  58.68MB/84.46MB
+ decf00fb4d04 Downloading [==================================>                ]  58.68MB/84.46MB
+ decf00fb4d04 Downloading [===================================>               ]   60.8MB/84.46MB
+ decf00fb4d04 Downloading [===================================>               ]   60.8MB/84.46MB
+ decf00fb4d04 Downloading [===================================>               ]   60.8MB/84.46MB
+ decf00fb4d04 Downloading [===================================>               ]   60.8MB/84.46MB
+ decf00fb4d04 Downloading [=====================================>             ]  63.98MB/84.46MB
+ decf00fb4d04 Downloading [=====================================>             ]  63.98MB/84.46MB
+ decf00fb4d04 Downloading [=====================================>             ]  63.98MB/84.46MB
+ decf00fb4d04 Downloading [=====================================>             ]  63.98MB/84.46MB
+ 30ee98c44382 Downloading [>                                                  ]  4.107kB/282.5kB
+ 30ee98c44382 Downloading [==================================================>]  282.5kB/282.5kB
+ 30ee98c44382 Verifying Checksum 
+ 30ee98c44382 Download complete 
+ 30ee98c44382 Extracting [=====>                                             ]  32.77kB/282.5kB
+ decf00fb4d04 Downloading [========================================>          ]  67.72MB/84.46MB
+ decf00fb4d04 Downloading [========================================>          ]  67.72MB/84.46MB
+ decf00fb4d04 Downloading [========================================>          ]  67.72MB/84.46MB
+ decf00fb4d04 Downloading [========================================>          ]  67.72MB/84.46MB
+ 30ee98c44382 Extracting [==================================================>]  282.5kB/282.5kB
+ 30ee98c44382 Extracting [==================================================>]  282.5kB/282.5kB
+ 30ee98c44382 Pull complete 
+ c7ae30c542a9 Downloading [==================================================>]     963B/963B
+ c7ae30c542a9 Download complete 
+ c7ae30c542a9 Extracting [==================================================>]     963B/963B
+ decf00fb4d04 Downloading [=========================================>         ]  70.38MB/84.46MB
+ decf00fb4d04 Downloading [=========================================>         ]  70.38MB/84.46MB
+ decf00fb4d04 Downloading [=========================================>         ]  70.38MB/84.46MB
+ c7ae30c542a9 Extracting [==================================================>]     963B/963B
+ decf00fb4d04 Downloading [=========================================>         ]  70.38MB/84.46MB
+ c7ae30c542a9 Pull complete 
+ decf00fb4d04 Downloading [==========================================>        ]  72.52MB/84.46MB
+ decf00fb4d04 Downloading [==========================================>        ]  72.52MB/84.46MB
+ decf00fb4d04 Downloading [==========================================>        ]  72.52MB/84.46MB
+ decf00fb4d04 Downloading [==========================================>        ]  72.52MB/84.46MB
+ decf00fb4d04 Downloading [=============================================>     ]  76.24MB/84.46MB
+ decf00fb4d04 Downloading [=============================================>     ]  76.24MB/84.46MB
+ decf00fb4d04 Downloading [=============================================>     ]  76.24MB/84.46MB
+ decf00fb4d04 Downloading [=============================================>     ]  76.24MB/84.46MB
+ decf00fb4d04 Downloading [==============================================>    ]  78.91MB/84.46MB
+ decf00fb4d04 Downloading [==============================================>    ]  78.91MB/84.46MB
+ decf00fb4d04 Downloading [==============================================>    ]  78.91MB/84.46MB
+ decf00fb4d04 Downloading [==============================================>    ]  78.91MB/84.46MB
+ 7b1adda3059f Downloading [>                                                  ]  86.64kB/8.391MB
+ decf00fb4d04 Downloading [===============================================>   ]  81.05MB/84.46MB
+ decf00fb4d04 Downloading [===============================================>   ]  81.05MB/84.46MB
+ decf00fb4d04 Downloading [===============================================>   ]  81.05MB/84.46MB
+ decf00fb4d04 Downloading [===============================================>   ]  81.05MB/84.46MB
+ 7b1adda3059f Downloading [=====================================>             ]  6.341MB/8.391MB
+ 907588963660 Download complete 
+ 7b1adda3059f Verifying Checksum 
+ 7b1adda3059f Download complete 
+ 7b1adda3059f Extracting [>                                                  ]   98.3kB/8.391MB
+ decf00fb4d04 Downloading [=================================================> ]  84.24MB/84.46MB
+ decf00fb4d04 Downloading [=================================================> ]  84.24MB/84.46MB
+ decf00fb4d04 Downloading [=================================================> ]  84.24MB/84.46MB
+ decf00fb4d04 Downloading [=================================================> ]  84.24MB/84.46MB
+ decf00fb4d04 Verifying Checksum 
+ decf00fb4d04 Verifying Checksum 
+ decf00fb4d04 Verifying Checksum 
+ decf00fb4d04 Download complete 
+ decf00fb4d04 Verifying Checksum 
+ decf00fb4d04 Download complete 
+ decf00fb4d04 Download complete 
+ decf00fb4d04 Download complete 
+ decf00fb4d04 Extracting [>                                                  ]  557.1kB/84.46MB
+ decf00fb4d04 Extracting [>                                                  ]  557.1kB/84.46MB
+ decf00fb4d04 Extracting [>                                                  ]  557.1kB/84.46MB
+ decf00fb4d04 Extracting [>                                                  ]  557.1kB/84.46MB
+ 7b1adda3059f Extracting [=========================================>         ]  6.881MB/8.391MB
+ 7b1adda3059f Extracting [==================================================>]  8.391MB/8.391MB
+ 7b1adda3059f Pull complete 
+ 907588963660 Extracting [==================================================>]     442B/442B
+ 907588963660 Extracting [==================================================>]     442B/442B
+ 907588963660 Pull complete 
+ decf00fb4d04 Extracting [====>                                              ]  7.242MB/84.46MB
+ decf00fb4d04 Extracting [====>                                              ]  7.242MB/84.46MB
+ decf00fb4d04 Extracting [====>                                              ]  7.242MB/84.46MB
+ decf00fb4d04 Extracting [====>                                              ]  7.242MB/84.46MB
+ decf00fb4d04 Extracting [=========>                                         ]   15.6MB/84.46MB
+ decf00fb4d04 Extracting [=========>                                         ]   15.6MB/84.46MB
+ decf00fb4d04 Extracting [=========>                                         ]   15.6MB/84.46MB
+ decf00fb4d04 Extracting [=========>                                         ]   15.6MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  18.94MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  18.94MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  18.94MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  18.94MB/84.46MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ decf00fb4d04 Extracting [===========>                                       ]   19.5MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]   19.5MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]   19.5MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]   19.5MB/84.46MB
+ haproxy Pulled 
+ decf00fb4d04 Extracting [===========>                                       ]  20.05MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  20.05MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  20.05MB/84.46MB
+ decf00fb4d04 Extracting [===========>                                       ]  20.05MB/84.46MB
+ decf00fb4d04 Extracting [============>                                      ]  20.61MB/84.46MB
+ decf00fb4d04 Extracting [============>                                      ]  20.61MB/84.46MB
+ decf00fb4d04 Extracting [============>                                      ]  20.61MB/84.46MB
+ decf00fb4d04 Extracting [============>                                      ]  20.61MB/84.46MB
+ decf00fb4d04 Extracting [=================>                                 ]  28.97MB/84.46MB
+ decf00fb4d04 Extracting [=================>                                 ]  28.97MB/84.46MB
+ decf00fb4d04 Extracting [=================>                                 ]  28.97MB/84.46MB
+ decf00fb4d04 Extracting [=================>                                 ]  28.97MB/84.46MB
+ decf00fb4d04 Extracting [====================>                              ]  33.98MB/84.46MB
+ decf00fb4d04 Extracting [====================>                              ]  33.98MB/84.46MB
+ decf00fb4d04 Extracting [====================>                              ]  33.98MB/84.46MB
+ decf00fb4d04 Extracting [====================>                              ]  33.98MB/84.46MB
+ decf00fb4d04 Extracting [=========================>                         ]  42.89MB/84.46MB
+ decf00fb4d04 Extracting [=========================>                         ]  42.89MB/84.46MB
+ decf00fb4d04 Extracting [=========================>                         ]  42.89MB/84.46MB
+ decf00fb4d04 Extracting [=========================>                         ]  42.89MB/84.46MB
+ decf00fb4d04 Extracting [=============================>                     ]  50.14MB/84.46MB
+ decf00fb4d04 Extracting [=============================>                     ]  50.14MB/84.46MB
+ decf00fb4d04 Extracting [=============================>                     ]  50.14MB/84.46MB
+ decf00fb4d04 Extracting [=============================>                     ]  50.14MB/84.46MB
+ decf00fb4d04 Extracting [================================>                  ]  55.71MB/84.46MB
+ decf00fb4d04 Extracting [================================>                  ]  55.71MB/84.46MB
+ decf00fb4d04 Extracting [================================>                  ]  55.71MB/84.46MB
+ decf00fb4d04 Extracting [================================>                  ]  55.71MB/84.46MB
+ decf00fb4d04 Extracting [=====================================>             ]  62.95MB/84.46MB
+ decf00fb4d04 Extracting [=====================================>             ]  62.95MB/84.46MB
+ decf00fb4d04 Extracting [=====================================>             ]  62.95MB/84.46MB
+ decf00fb4d04 Extracting [=====================================>             ]  62.95MB/84.46MB
+ decf00fb4d04 Extracting [=========================================>         ]  70.75MB/84.46MB
+ decf00fb4d04 Extracting [=========================================>         ]  70.75MB/84.46MB
+ decf00fb4d04 Extracting [=========================================>         ]  70.75MB/84.46MB
+ decf00fb4d04 Extracting [=========================================>         ]  70.75MB/84.46MB
+ decf00fb4d04 Extracting [==============================================>    ]  78.54MB/84.46MB
+ decf00fb4d04 Extracting [==============================================>    ]  78.54MB/84.46MB
+ decf00fb4d04 Extracting [==============================================>    ]  78.54MB/84.46MB
+ decf00fb4d04 Extracting [==============================================>    ]  78.54MB/84.46MB
+ decf00fb4d04 Extracting [================================================>  ]  81.89MB/84.46MB
+ decf00fb4d04 Extracting [================================================>  ]  81.89MB/84.46MB
+ decf00fb4d04 Extracting [================================================>  ]  81.89MB/84.46MB
+ decf00fb4d04 Extracting [================================================>  ]  81.89MB/84.46MB
+ decf00fb4d04 Extracting [=================================================> ]  84.12MB/84.46MB
+ decf00fb4d04 Extracting [=================================================> ]  84.12MB/84.46MB
+ decf00fb4d04 Extracting [=================================================> ]  84.12MB/84.46MB
+ decf00fb4d04 Extracting [=================================================> ]  84.12MB/84.46MB
+ decf00fb4d04 Extracting [==================================================>]  84.46MB/84.46MB
+ decf00fb4d04 Extracting [==================================================>]  84.46MB/84.46MB
+ decf00fb4d04 Extracting [==================================================>]  84.46MB/84.46MB
+ decf00fb4d04 Extracting [==================================================>]  84.46MB/84.46MB
+ decf00fb4d04 Pull complete 
+ decf00fb4d04 Pull complete 
+ decf00fb4d04 Pull complete 
+ decf00fb4d04 Pull complete 
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Extracting [==================================================>]      93B/93B
+ 95dcf19350c6 Pull complete 
+ 95dcf19350c6 Pull complete 
+ 95dcf19350c6 Pull complete 
+ 95dcf19350c6 Pull complete 
+ 1d8cdb699779 Extracting [==========================>                        ]  32.77kB/60.72kB
+ 1d8cdb699779 Extracting [==========================>                        ]  32.77kB/60.72kB
+ 1d8cdb699779 Extracting [==========================>                        ]  32.77kB/60.72kB
+ 1d8cdb699779 Extracting [==========================>                        ]  32.77kB/60.72kB
+ 1d8cdb699779 Extracting [==================================================>]  60.72kB/60.72kB
+ 1d8cdb699779 Extracting [==================================================>]  60.72kB/60.72kB
+ 1d8cdb699779 Extracting [==================================================>]  60.72kB/60.72kB
+ 1d8cdb699779 Extracting [==================================================>]  60.72kB/60.72kB
+ 1d8cdb699779 Pull complete 
+ 1d8cdb699779 Pull complete 
+ 1d8cdb699779 Pull complete 
+ 1d8cdb699779 Pull complete 
+ c30309fae91c Extracting [>                                                  ]  327.7kB/29.9MB
+ c30309fae91c Extracting [>                                                  ]  327.7kB/29.9MB
+ c30309fae91c Extracting [>                                                  ]  327.7kB/29.9MB
+ c30309fae91c Extracting [>                                                  ]  327.7kB/29.9MB
+ c30309fae91c Extracting [==============>                                    ]   8.52MB/29.9MB
+ c30309fae91c Extracting [==============>                                    ]   8.52MB/29.9MB
+ c30309fae91c Extracting [==============>                                    ]   8.52MB/29.9MB
+ c30309fae91c Extracting [==============>                                    ]   8.52MB/29.9MB
+ c30309fae91c Extracting [===========================>                       ]  16.71MB/29.9MB
+ c30309fae91c Extracting [===========================>                       ]  16.71MB/29.9MB
+ c30309fae91c Extracting [===========================>                       ]  16.71MB/29.9MB
+ c30309fae91c Extracting [===========================>                       ]  16.71MB/29.9MB
+ c30309fae91c Extracting [=====================================>             ]  22.28MB/29.9MB
+ c30309fae91c Extracting [=====================================>             ]  22.28MB/29.9MB
+ c30309fae91c Extracting [=====================================>             ]  22.28MB/29.9MB
+ c30309fae91c Extracting [=====================================>             ]  22.28MB/29.9MB
+ c30309fae91c Extracting [=========================================>         ]  24.58MB/29.9MB
+ c30309fae91c Extracting [=========================================>         ]  24.58MB/29.9MB
+ c30309fae91c Extracting [=========================================>         ]  24.58MB/29.9MB
+ c30309fae91c Extracting [=========================================>         ]  24.58MB/29.9MB
+ c30309fae91c Extracting [================================================>  ]  28.84MB/29.9MB
+ c30309fae91c Extracting [================================================>  ]  28.84MB/29.9MB
+ c30309fae91c Extracting [================================================>  ]  28.84MB/29.9MB
+ c30309fae91c Extracting [================================================>  ]  28.84MB/29.9MB
+ c30309fae91c Extracting [==================================================>]   29.9MB/29.9MB
+ c30309fae91c Extracting [==================================================>]   29.9MB/29.9MB
+ c30309fae91c Extracting [==================================================>]   29.9MB/29.9MB
+ c30309fae91c Extracting [==================================================>]   29.9MB/29.9MB
+ c30309fae91c Pull complete 
+ c30309fae91c Pull complete 
+ c30309fae91c Pull complete 
+ c30309fae91c Pull complete 
+ 2fce2d72ea5e Extracting [====>                                              ]  32.77kB/328.8kB
+ 2fce2d72ea5e Extracting [====>                                              ]  32.77kB/328.8kB
+ 2fce2d72ea5e Extracting [====>                                              ]  32.77kB/328.8kB
+ 2fce2d72ea5e Extracting [====>                                              ]  32.77kB/328.8kB
+ 2fce2d72ea5e Extracting [==================================================>]  328.8kB/328.8kB
+ 2fce2d72ea5e Extracting [==================================================>]  328.8kB/328.8kB
+ 2fce2d72ea5e Extracting [==================================================>]  328.8kB/328.8kB
+ 2fce2d72ea5e Extracting [==================================================>]  328.8kB/328.8kB
+ 2fce2d72ea5e Pull complete 
+ 2fce2d72ea5e Pull complete 
+ 2fce2d72ea5e Pull complete 
+ 2fce2d72ea5e Pull complete 
+ worker1 Pulled 
+ worker3 Pulled 
+ worker2 Pulled 
+ app Pulled 
  Network lucas-porto-python-01_rinha-network  Creating
  Network lucas-porto-python-01_rinha-network  Created
  Container rinha-redis  Creating
  Container rinha-redis  Created
- Container rinha-python-worker3  Creating
  Container rinha-python-app  Creating
- Container rinha-python-worker2  Creating
  Container rinha-python-worker1  Creating
- Container rinha-python-worker3  Created
- Container rinha-python-worker2  Created
- Container rinha-python-app  Created
+ Container rinha-python-worker2  Creating
+ Container rinha-python-worker3  Creating
  Container rinha-python-worker1  Created
+ Container rinha-python-worker2  Created
+ Container rinha-python-worker3  Created
+ Container rinha-python-app  Created
  Container rinha-haproxy-py  Creating
  Container rinha-haproxy-py  Created
 Attaching to rinha-haproxy-py, rinha-python-app, rinha-python-worker1, rinha-python-worker2, rinha-python-worker3, rinha-redis
-rinha-redis  | 1:C 19 Aug 2025 06:09:47.675 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-rinha-redis  | 1:C 19 Aug 2025 06:09:47.675 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-rinha-redis  | 1:C 19 Aug 2025 06:09:47.675 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-rinha-redis  | 1:C 19 Aug 2025 06:09:47.675 * Configuration loaded
-rinha-redis  | 1:M 19 Aug 2025 06:09:47.676 * monotonic clock: POSIX clock_gettime
-rinha-redis  | 1:M 19 Aug 2025 06:09:47.677 * Running mode=standalone, port=6379.
-rinha-redis  | 1:M 19 Aug 2025 06:09:47.677 * Server initialized
-rinha-redis  | 1:M 19 Aug 2025 06:09:47.677 * Ready to accept connections tcp
+rinha-redis  | 1:C 21 Aug 2025 16:26:21.182 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+rinha-redis  | 1:C 21 Aug 2025 16:26:21.182 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+rinha-redis  | 1:C 21 Aug 2025 16:26:21.182 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+rinha-redis  | 1:C 21 Aug 2025 16:26:21.182 * Configuration loaded
+rinha-redis  | 1:M 21 Aug 2025 16:26:21.182 * monotonic clock: POSIX clock_gettime
+rinha-redis  | 1:M 21 Aug 2025 16:26:21.183 * Running mode=standalone, port=6379.
+rinha-redis  | 1:M 21 Aug 2025 16:26:21.183 * Server initialized
+rinha-redis  | 1:M 21 Aug 2025 16:26:21.183 * Ready to accept connections tcp
 rinha-python-app  | Starting server...
 rinha-python-app  | Database inicializado com sucesso
 rinha-python-app  | Server configured, starting...
@@ -29,973 +699,303 @@ rinha-python-app  | INFO:     Started server process [1]
 rinha-python-app  | INFO:     Waiting for application startup.
 rinha-python-app  | INFO:     Application startup complete.
 rinha-python-app  | INFO:     Uvicorn running on http://0.0.0.0:9999 (Press CTRL+C to quit)
-rinha-python-app  | INFO:     127.0.0.1:43314 - "GET /health HTTP/1.1" 204 No Content
+rinha-python-app  | INFO:     127.0.0.1:40128 - "GET /health HTTP/1.1" 204 No Content
 rinha-haproxy-py  | [NOTICE]   (1) : New worker (8) forked
 rinha-haproxy-py  | [NOTICE]   (1) : Loading success.
-rinha-python-app  | INFO:     172.20.0.7:57382 - "GET /health HTTP/1.0" 204 No Content
-rinha-python-app  | INFO:     172.20.0.7:57390 - "GET /health HTTP/1.0" 204 No Content
-rinha-python-app  | INFO:     172.20.0.7:39726 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:48136 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39732 - "GET /payments-summary HTTP/1.1" 200 OK
-rinha-python-app  | INFO:     172.20.0.7:39748 - "GET /health HTTP/1.0" 204 No Content
-rinha-python-app  | INFO:     127.0.0.1:50792 - "GET /health HTTP/1.1" 204 No Content
-rinha-python-app  | INFO:     172.20.0.7:39758 - "GET /health HTTP/1.0" 204 No Content
-rinha-python-app  | INFO:     172.20.0.7:39760 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:48140 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39770 - "POST /purge-payments HTTP/1.1" 404 Not Found
-rinha-haproxy-py  | Connect from 172.20.0.1:48154 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39782 - "GET /payments-summary?from=2025-08-19T06:09:57.624Z&to=2025-08-19T06:10:10.624Z HTTP/1.1" 200 OK
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39798 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39816 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:39818 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39828 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39834 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39770 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39840 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47192 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39782 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39770 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47202 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47212 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39782 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47228 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39782 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39770 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39786 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47238 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39800 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:39782 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47264 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47276 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     127.0.0.1:50048 - "GET /health HTTP/1.1" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47286 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47298 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47308 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47312 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47316 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47324 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47240 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47328 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47340 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47310 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47292 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47256 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48154 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "GET /payments-summary?from=2025-08-19T06:10:07.633Z&to=2025-08-19T06:10:20.633Z HTTP/1.1" 200 OK
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47372 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47376 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47388 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47394 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48752 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48762 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48766 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48778 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48788 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47348 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47366 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47358 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48804 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48812 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     127.0.0.1:53332 - "GET /health HTTP/1.1" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:38956 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48828 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38966 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38970 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38956 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48860 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:38982 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48874 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38966 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38970 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38996 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48880 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38956 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39010 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48888 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38982 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38966 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39026 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:38970 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48890 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38996 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:38956 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48900 - "GET /health HTTP/1.0" 204 No Content
-rinha-haproxy-py  | Connect from 172.20.0.1:39028 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48908 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39010 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38982 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38966 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36958 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48836 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36900 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48792 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36882 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48852 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36860 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:47342 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36832 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36806 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48154 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36788 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "GET /payments-summary?from=2025-08-19T06:10:17.637Z&to=2025-08-19T06:10:30.637Z HTTP/1.1" 200 OK
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36782 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48200 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48180 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48174 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48160 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39042 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48932 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38970 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:39026 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38996 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:38956 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38940 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38922 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36950 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36910 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36892 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36874 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36848 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36822 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36802 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:36786 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:36770 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48192 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:48176 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-haproxy-py  | Connect from 172.20.0.1:48168 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39044 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48936 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39028 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:39010 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48920 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38982 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48936 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38966 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38954 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48936 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38946 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
-rinha-haproxy-py  | Connect from 172.20.0.1:38924 to 172.20.0.7:9999 (http_front/HTTP)
-rinha-python-app  | INFO:     172.20.0.7:48930 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:44476 - "GET /health HTTP/1.0" 204 No Content
+rinha-python-app  | INFO:     172.21.0.7:44488 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:52646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:44498 - "GET /payments-summary HTTP/1.1" 200 OK
+rinha-python-app  | INFO:     172.21.0.7:44500 - "GET /health HTTP/1.0" 204 No Content
+rinha-python-app  | INFO:     172.21.0.7:59678 - "GET /health HTTP/1.0" 204 No Content
+rinha-python-app  | INFO:     127.0.0.1:47130 - "GET /health HTTP/1.1" 204 No Content
+rinha-python-app  | INFO:     172.21.0.7:59690 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:39538 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59706 - "POST /purge-payments HTTP/1.1" 404 Not Found
+rinha-haproxy-py  | Connect from 172.21.0.1:39544 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59720 - "GET /payments-summary?from=2025-08-21T16:26:29.153Z&to=2025-08-21T16:26:42.153Z HTTP/1.1" 200 OK
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59724 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59730 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:59742 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59754 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59756 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59768 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59706 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59770 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59720 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:59776 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59790 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59720 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59706 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59800 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59720 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59722 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59808 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59728 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59720 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:59832 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55140 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35358 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55142 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35362 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55144 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35366 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55154 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35358 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:55158 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:35368 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35362 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     127.0.0.1:38350 - "GET /health HTTP/1.1" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:35380 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55176 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35366 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35358 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35394 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55178 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35368 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35362 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35400 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55192 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35380 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35366 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35358 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55192 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55192 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-python-app  | INFO:     172.21.0.7:55200 - "GET /health HTTP/1.0" 204 No Content
+rinha-haproxy-py  | Connect from 172.21.0.1:35414 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55208 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35394 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35368 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55192 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35362 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59826 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39656 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:59818 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39646 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39620 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39544 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "GET /payments-summary?from=2025-08-21T16:26:39.159Z&to=2025-08-21T16:26:52.159Z HTTP/1.1" 200 OK
+rinha-haproxy-py  | Connect from 172.21.0.1:39604 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39572 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39550 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35420 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35400 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35380 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35366 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35358 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39660 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39648 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39632 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39614 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39588 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:39562 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35432 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55232 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35414 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35394 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55232 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35368 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55168 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35362 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55224 - "POST /payments HTTP/1.1" 201 Created
+rinha-haproxy-py  | Connect from 172.21.0.1:35352 to 172.21.0.7:9999 (http_front/HTTP)
+rinha-python-app  | INFO:     172.21.0.7:55232 - "POST /payments HTTP/1.1" 201 Created
 log truncated at line 1000

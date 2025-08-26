@@ -1,34 +1,253 @@
 
+ redis Pulling 
+ nginx Pulling 
+ backend-2 Pulling 
+ worker Pulling 
+ backend-1 Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ 0368fd46e3c6 Already exists 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ a2cadbfeca72 Waiting 
+ 4f4fb700ef54 Waiting 
+ a976ed7e7808 Waiting 
+ 4c55286bbede Waiting 
+ 5e28347af205 Waiting 
+ e6fe6f07e192 Waiting 
+ 311eca34042e Waiting 
+ 6bc572a340ec Downloading [>                                                  ]  19.22kB/1.806MB
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Download complete 
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ 44cf07d57ee4 Pulling fs layer 
+ f885a9d5ef2e Pulling fs layer 
+ f2d04fa9fe0d Pulling fs layer 
+ 44cf07d57ee4 Waiting 
+ f885a9d5ef2e Waiting 
+ f2d04fa9fe0d Waiting 
+ 44cf07d57ee4 Pulling fs layer 
+ f885a9d5ef2e Pulling fs layer 
+ f2d04fa9fe0d Pulling fs layer 
+ f2d04fa9fe0d Waiting 
+ 44cf07d57ee4 Waiting 
+ f885a9d5ef2e Waiting 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ 44cf07d57ee4 Pulling fs layer 
+ f885a9d5ef2e Pulling fs layer 
+ f2d04fa9fe0d Pulling fs layer 
+ f2d04fa9fe0d Waiting 
+ 44cf07d57ee4 Waiting 
+ f885a9d5ef2e Waiting 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ cb1ff4086f82 Downloading [>                                                  ]  168.6kB/16.84MB
+ 4c55286bbede Pull complete 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ cb1ff4086f82 Downloading [==============>                                    ]  4.817MB/16.84MB
+ cb1ff4086f82 Downloading [=======================>                           ]  8.061MB/16.84MB
+ 5e28347af205 Pull complete 
+ cb1ff4086f82 Downloading [===============================>                   ]  10.75MB/16.84MB
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ cb1ff4086f82 Extracting [===========>                                       ]  3.932MB/16.84MB
+ 311eca34042e Downloading [>                                                  ]  10.93kB/1.003MB
+ e6fe6f07e192 Downloading [>                                                  ]  127.5kB/12.41MB
+ 311eca34042e Downloading [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ cb1ff4086f82 Extracting [==================================>                ]   11.6MB/16.84MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [===========================>                       ]  6.734MB/12.41MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
+ e6fe6f07e192 Extracting [=======================>                           ]  5.767MB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ f885a9d5ef2e Verifying Checksum 
+ f885a9d5ef2e Download complete 
+ f885a9d5ef2e Downloading [==================================================>]      93B/93B
+ f885a9d5ef2e Download complete 
+ f885a9d5ef2e Verifying Checksum 
+ f885a9d5ef2e Download complete 
+ f2d04fa9fe0d Downloading [>                                                  ]  28.83kB/2.851MB
+ f2d04fa9fe0d Downloading [>                                                  ]  28.83kB/2.851MB
+ f2d04fa9fe0d Downloading [>                                                  ]  28.83kB/2.851MB
+ f2d04fa9fe0d Verifying Checksum 
+ f2d04fa9fe0d Verifying Checksum 
+ f2d04fa9fe0d Download complete 
+ f2d04fa9fe0d Download complete 
+ f2d04fa9fe0d Verifying Checksum 
+ f2d04fa9fe0d Download complete 
+ 44cf07d57ee4 Downloading [>                                                  ]  34.28kB/3.418MB
+ 44cf07d57ee4 Downloading [>                                                  ]  34.28kB/3.418MB
+ 44cf07d57ee4 Downloading [>                                                  ]  34.28kB/3.418MB
+ 44cf07d57ee4 Downloading [=>                                                 ]   69.7kB/3.418MB
+ 44cf07d57ee4 Downloading [=>                                                 ]   69.7kB/3.418MB
+ 44cf07d57ee4 Downloading [=>                                                 ]   69.7kB/3.418MB
+ 44cf07d57ee4 Downloading [==>                                                ]  143.7kB/3.418MB
+ 44cf07d57ee4 Downloading [==>                                                ]  143.7kB/3.418MB
+ 44cf07d57ee4 Downloading [==>                                                ]  143.7kB/3.418MB
+ 44cf07d57ee4 Downloading [===>                                               ]  217.7kB/3.418MB
+ 44cf07d57ee4 Downloading [===>                                               ]  217.7kB/3.418MB
+ 44cf07d57ee4 Downloading [===>                                               ]  217.7kB/3.418MB
+ 44cf07d57ee4 Downloading [======>                                            ]  462.9kB/3.418MB
+ 44cf07d57ee4 Downloading [======>                                            ]  462.9kB/3.418MB
+ 44cf07d57ee4 Downloading [======>                                            ]  462.9kB/3.418MB
+ 44cf07d57ee4 Downloading [===========>                                       ]    807kB/3.418MB
+ 44cf07d57ee4 Downloading [===========>                                       ]    807kB/3.418MB
+ 44cf07d57ee4 Downloading [===========>                                       ]    807kB/3.418MB
+ 44cf07d57ee4 Downloading [=====================>                             ]  1.495MB/3.418MB
+ 44cf07d57ee4 Downloading [=====================>                             ]  1.495MB/3.418MB
+ 44cf07d57ee4 Downloading [=====================>                             ]  1.495MB/3.418MB
+ 44cf07d57ee4 Downloading [=========================================>         ]   2.82MB/3.418MB
+ 44cf07d57ee4 Downloading [=========================================>         ]   2.82MB/3.418MB
+ 44cf07d57ee4 Downloading [=========================================>         ]   2.82MB/3.418MB
+ 44cf07d57ee4 Verifying Checksum 
+ 44cf07d57ee4 Download complete 
+ 44cf07d57ee4 Verifying Checksum 
+ 44cf07d57ee4 Download complete 
+ 44cf07d57ee4 Verifying Checksum 
+ 44cf07d57ee4 Download complete 
+ 44cf07d57ee4 Extracting [>                                                  ]  65.54kB/3.418MB
+ 44cf07d57ee4 Extracting [>                                                  ]  65.54kB/3.418MB
+ 44cf07d57ee4 Extracting [>                                                  ]  65.54kB/3.418MB
+ 44cf07d57ee4 Extracting [==================================================>]  3.418MB/3.418MB
+ 44cf07d57ee4 Extracting [==================================================>]  3.418MB/3.418MB
+ 44cf07d57ee4 Extracting [==================================================>]  3.418MB/3.418MB
+ 44cf07d57ee4 Pull complete 
+ 44cf07d57ee4 Pull complete 
+ 44cf07d57ee4 Pull complete 
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Extracting [==================================================>]      93B/93B
+ f885a9d5ef2e Pull complete 
+ f885a9d5ef2e Pull complete 
+ f885a9d5ef2e Pull complete 
+ f2d04fa9fe0d Extracting [>                                                  ]  32.77kB/2.851MB
+ f2d04fa9fe0d Extracting [>                                                  ]  32.77kB/2.851MB
+ f2d04fa9fe0d Extracting [>                                                  ]  32.77kB/2.851MB
+ f2d04fa9fe0d Extracting [==================================================>]  2.851MB/2.851MB
+ f2d04fa9fe0d Extracting [==================================================>]  2.851MB/2.851MB
+ f2d04fa9fe0d Extracting [==================================================>]  2.851MB/2.851MB
+ f2d04fa9fe0d Pull complete 
+ f2d04fa9fe0d Pull complete 
+ f2d04fa9fe0d Pull complete 
+ backend-2 Pulled 
+ worker Pulled 
+ backend-1 Pulled 
  Network rodrigo-militao_backend  Creating
  Network rodrigo-militao_backend  Created
  Volume "rodrigo-militao_redis-socket"  Creating
  Volume "rodrigo-militao_redis-socket"  Created
  Container redis  Creating
  Container redis  Created
+ Container rodrigo-militao-worker-1  Creating
  Container rodrigo-militao-backend-2-1  Creating
  Container rodrigo-militao-backend-1-1  Creating
- Container rodrigo-militao-worker-1  Creating
  Container rodrigo-militao-worker-1  Created
  Container rodrigo-militao-backend-1-1  Created
  Container rodrigo-militao-backend-2-1  Created
  Container nginx-lb  Creating
  Container nginx-lb  Created
 Attaching to nginx-lb, redis, backend-1-1, backend-2-1, worker-1
-redis  | 1:C 19 Aug 2025 15:26:35.113 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis  | 1:C 19 Aug 2025 15:26:35.113 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis  | 1:C 19 Aug 2025 15:26:35.113 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-redis  | 1:C 19 Aug 2025 15:26:35.113 * Configuration loaded
-redis  | 1:M 19 Aug 2025 15:26:35.114 * monotonic clock: POSIX clock_gettime
-redis  | 1:M 19 Aug 2025 15:26:35.115 * Running mode=standalone, port=6379.
-redis  | 1:M 19 Aug 2025 15:26:35.115 * Server initialized
-redis  | 1:M 19 Aug 2025 15:26:35.115 * Ready to accept connections tcp
-redis  | 1:M 19 Aug 2025 15:26:35.115 * Ready to accept connections unix
-backend-1-1  | 2025/08/19 15:26:36 API iniciada. Pressione Ctrl+C para encerrar.
-backend-1-1  | 2025/08/19 15:26:36 Servidor HTTP escutando em :8080
-worker-1     | 2025/08/19 15:26:36 Iniciando 5 workers...
-worker-1     | 2025/08/19 15:26:36 Workers rodando. Pressione Ctrl+C para encerrar.
-backend-2-1  | 2025/08/19 15:26:36 API iniciada. Pressione Ctrl+C para encerrar.
-backend-2-1  | 2025/08/19 15:26:36 Servidor HTTP escutando em :8080
+redis  | 1:C 21 Aug 2025 21:25:30.051 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 21:25:30.051 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 21:25:30.051 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis  | 1:C 21 Aug 2025 21:25:30.051 * Configuration loaded
+redis  | 1:M 21 Aug 2025 21:25:30.052 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 21:25:30.052 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 21:25:30.052 * Server initialized
+redis  | 1:M 21 Aug 2025 21:25:30.053 * Ready to accept connections tcp
+redis  | 1:M 21 Aug 2025 21:25:30.053 * Ready to accept connections unix
+backend-2-1  | 2025/08/21 21:25:31 Servidor HTTP escutando em :8080
+backend-2-1  | 2025/08/21 21:25:31 API iniciada. Pressione Ctrl+C para encerrar.
+worker-1     | 2025/08/21 21:25:31 Iniciando 5 workers...
+worker-1     | 2025/08/21 21:25:31 Workers rodando. Pressione Ctrl+C para encerrar.
+backend-1-1  | 2025/08/21 21:25:31 API iniciada. Pressione Ctrl+C para encerrar.
+backend-1-1  | 2025/08/21 21:25:31 Servidor HTTP escutando em :8080
 nginx-lb     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-lb     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -38,134 +257,134 @@ nginx-lb     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-res
 nginx-lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-lb     | /docker-entrypoint.sh: Configuration complete; ready for start up
-redis        | 1:M 19 Aug 2025 15:28:09.598 * 10000 changes in 60 seconds. Saving...
-redis        | 1:M 19 Aug 2025 15:28:09.599 * Background saving started by pid 562
-redis        | 562:C 19 Aug 2025 15:28:09.611 * DB saved on disk
-redis        | 562:C 19 Aug 2025 15:28:09.612 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
-redis        | 1:M 19 Aug 2025 15:28:09.700 * Background saving terminated with success
-worker-1     | 2025/08/19 15:28:48 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:48 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:48 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:48 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:48 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:51 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:51 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:51 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:51 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:51 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:54 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:54 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:54 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:54 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:54 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:57 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:57 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:57 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:57 Error sending request: timeout
-worker-1     | 2025/08/19 15:28:57 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:00 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:00 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:00 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:00 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:00 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:03 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:03 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:03 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:03 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:03 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:06 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:06 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:06 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:06 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:06 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:09 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:09 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:09 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:09 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:09 Error sending request: timeout
-redis        | 1:M 19 Aug 2025 15:29:10.035 * 10000 changes in 60 seconds. Saving...
-redis        | 1:M 19 Aug 2025 15:29:10.035 * Background saving started by pid 914
-redis        | 914:C 19 Aug 2025 15:29:10.054 * DB saved on disk
-redis        | 914:C 19 Aug 2025 15:29:10.055 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
-redis        | 1:M 19 Aug 2025 15:29:10.137 * Background saving terminated with success
-worker-1     | 2025/08/19 15:29:12 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:12 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:12 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:12 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:12 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:15 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:15 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:15 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:15 Error sending request: timeout
-worker-1     | 2025/08/19 15:29:15 Error sending request: timeout
-redis        | 1:M 19 Aug 2025 15:30:11.077 * 10000 changes in 60 seconds. Saving...
-redis        | 1:M 19 Aug 2025 15:30:11.078 * Background saving started by pid 1267
-redis        | 1267:C 19 Aug 2025 15:30:11.314 * DB saved on disk
-redis        | 1267:C 19 Aug 2025 15:30:11.316 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 0 MB
-redis        | 1:M 19 Aug 2025 15:30:11.399 * Background saving terminated with success
-redis        | 1:M 19 Aug 2025 15:31:12.064 * 10000 changes in 60 seconds. Saving...
-redis        | 1:M 19 Aug 2025 15:31:12.065 * Background saving started by pid 1616
-redis        | 1616:C 19 Aug 2025 15:31:12.226 * DB saved on disk
-redis        | 1616:C 19 Aug 2025 15:31:12.227 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 0 MB
-redis        | 1:M 19 Aug 2025 15:31:12.299 * Background saving terminated with success
-worker-1     | 2025/08/19 15:31:47 Encerrando workers...
+redis        | 1:M 21 Aug 2025 21:27:03.930 * 10000 changes in 60 seconds. Saving...
+redis        | 1:M 21 Aug 2025 21:27:03.930 * Background saving started by pid 552
+redis        | 552:C 21 Aug 2025 21:27:03.943 * DB saved on disk
+redis        | 552:C 21 Aug 2025 21:27:03.943 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+redis        | 1:M 21 Aug 2025 21:27:04.031 * Background saving terminated with success
+worker-1     | 2025/08/21 21:27:42 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:42 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:42 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:42 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:42 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:45 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:45 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:45 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:45 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:45 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:48 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:48 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:48 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:48 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:48 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:51 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:51 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:51 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:51 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:51 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:54 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:54 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:54 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:54 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:54 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:57 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:57 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:57 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:57 Error sending request: timeout
+worker-1     | 2025/08/21 21:27:57 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:00 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:00 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:00 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:00 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:00 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:03 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:03 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:03 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:03 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:03 Error sending request: timeout
+redis        | 1:M 21 Aug 2025 21:28:05.080 * 10000 changes in 60 seconds. Saving...
+redis        | 1:M 21 Aug 2025 21:28:05.080 * Background saving started by pid 902
+redis        | 902:C 21 Aug 2025 21:28:05.098 * DB saved on disk
+redis        | 902:C 21 Aug 2025 21:28:05.098 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+redis        | 1:M 21 Aug 2025 21:28:05.181 * Background saving terminated with success
+worker-1     | 2025/08/21 21:28:06 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:06 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:06 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:06 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:06 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:09 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:09 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:09 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:09 Error sending request: timeout
+worker-1     | 2025/08/21 21:28:09 Error sending request: timeout
+redis        | 1:M 21 Aug 2025 21:29:06.031 * 10000 changes in 60 seconds. Saving...
+redis        | 1:M 21 Aug 2025 21:29:06.032 * Background saving started by pid 1241
+redis        | 1241:C 21 Aug 2025 21:29:06.231 * DB saved on disk
+redis        | 1241:C 21 Aug 2025 21:29:06.232 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 1 MB
+redis        | 1:M 21 Aug 2025 21:29:06.233 * Background saving terminated with success
+redis        | 1:M 21 Aug 2025 21:30:07.004 * 10000 changes in 60 seconds. Saving...
+redis        | 1:M 21 Aug 2025 21:30:07.004 * Background saving started by pid 1585
+redis        | 1585:C 21 Aug 2025 21:30:07.244 * DB saved on disk
+redis        | 1585:C 21 Aug 2025 21:30:07.245 * Fork CoW for RDB: current 1 MB, peak 1 MB, average 0 MB
+redis        | 1:M 21 Aug 2025 21:30:07.331 * Background saving terminated with success
+worker-1     | 2025/08/21 21:30:41 Encerrando workers...
 [Knginx-lb exited with code 0
-backend-2-1  | 2025/08/19 15:31:47 Encerrando servidor HTTP...
-backend-2-1  | 2025/08/19 15:31:47 Servidor HTTP encerrado.
-backend-1-1  | 2025/08/19 15:31:47 Encerrando servidor HTTP...
-backend-1-1  | 2025/08/19 15:31:47 Servidor HTTP encerrado.
-[Kbackend-1-1 exited with code 0
+backend-2-1  | 2025/08/21 21:30:41 Encerrando servidor HTTP...
+backend-2-1  | 2025/08/21 21:30:41 Servidor HTTP encerrado.
+backend-1-1  | 2025/08/21 21:30:41 Encerrando servidor HTTP...
+backend-1-1  | 2025/08/21 21:30:41 Servidor HTTP encerrado.
 [Kbackend-2-1 exited with code 0
-worker-1     | 2025/08/19 15:31:49 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:49 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:49 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:49 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:49 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:50 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:50 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:50 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:50 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:50 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:51 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:51 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:51 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:51 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:51 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:52 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:52 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:52 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:52 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:52 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:53 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:53 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:53 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:53 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:53 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:54 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:54 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:54 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:54 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:54 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:55 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:55 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:55 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:55 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:55 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:56 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:56 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:56 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:56 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:56 [Worker 3] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:57 [Worker 2] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:57 [Worker 1] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:57 [Worker 4] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:57 [Worker 0] Redis error: context canceled
-worker-1     | 2025/08/19 15:31:57 [Worker 3] Redis error: context canceled
+[Kbackend-1-1 exited with code 0
+worker-1     | 2025/08/21 21:30:43 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:43 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:43 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:43 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:43 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:44 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:44 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:44 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:44 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:44 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:45 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:45 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:45 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:45 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:45 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:46 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:46 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:46 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:46 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:46 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:47 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:47 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:47 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:47 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:47 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:48 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:48 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:48 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:48 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:48 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:49 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:49 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:49 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:49 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:49 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:50 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:50 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:50 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:50 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:50 [Worker 3] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:51 [Worker 2] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:51 [Worker 1] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:51 [Worker 0] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:51 [Worker 4] Redis error: context canceled
+worker-1     | 2025/08/21 21:30:51 [Worker 3] Redis error: context canceled
 [Kworker-1 exited with code 137
-redis        | 1:signal-handler (1755617517) Received SIGTERM scheduling shutdown...
-redis        | 1:M 19 Aug 2025 15:31:57.571 * User requested shutdown...
-redis        | 1:M 19 Aug 2025 15:31:57.571 * Saving the final RDB snapshot before exiting.
-redis        | 1:M 19 Aug 2025 15:31:57.719 * DB saved on disk
-redis        | 1:M 19 Aug 2025 15:31:57.719 * Removing the unix socket file.
-redis        | 1:M 19 Aug 2025 15:31:57.719 # Redis is now ready to exit, bye bye...
+redis        | 1:signal-handler (1755811851) Received SIGTERM scheduling shutdown...
+redis        | 1:M 21 Aug 2025 21:30:51.903 * User requested shutdown...
+redis        | 1:M 21 Aug 2025 21:30:51.903 * Saving the final RDB snapshot before exiting.
+redis        | 1:M 21 Aug 2025 21:30:52.061 * DB saved on disk
+redis        | 1:M 21 Aug 2025 21:30:52.061 * Removing the unix socket file.
+redis        | 1:M 21 Aug 2025 21:30:52.061 # Redis is now ready to exit, bye bye...
 log truncated at line 1000

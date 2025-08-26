@@ -1,91 +1,371 @@
 
-time="2025-08-18T19:00:04Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:04Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 119 vs 81" source=console
-time="2025-08-18T19:00:04Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:00:14Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:14Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 436 vs 325" source=console
-time="2025-08-18T19:00:14Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:00:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 949 vs 585" source=console
-time="2025-08-18T19:00:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:00:34Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:34Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 969 vs 291" source=console
-time="2025-08-18T19:00:34Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:00:44Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:44Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 987 vs 26" source=console
-time="2025-08-18T19:00:44Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:00:54Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:00:54Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1007 vs 26" source=console
-time="2025-08-18T19:00:54Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:01:04Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:04Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1047 vs 42" source=console
-time="2025-08-18T19:01:04Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:01:14Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:14Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1087 vs 52" source=console
-time="2025-08-18T19:01:14Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:01:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 52" source=console
-time="2025-08-18T19:01:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:01:34Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:34Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 16" source=console
-time="2025-08-18T19:01:34Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 6 vs 6" source=console
-time="2025-08-18T19:01:44Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:44Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 0" source=console
-time="2025-08-18T19:01:44Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 14 vs 10" source=console
-time="2025-08-18T19:01:54Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:01:54Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 0" source=console
-time="2025-08-18T19:01:54Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 20 vs 8" source=console
-time="2025-08-18T19:02:04Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:04Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 0" source=console
-time="2025-08-18T19:02:04Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 24 vs 6" source=console
-time="2025-08-18T19:02:14Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:14Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 0" source=console
-time="2025-08-18T19:02:14Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 28 vs 4" source=console
-time="2025-08-18T19:02:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1127 vs 0" source=console
-time="2025-08-18T19:02:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 4" source=console
-time="2025-08-18T19:02:34Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:34Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 7569 vs 5316" source=console
-time="2025-08-18T19:02:34Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:02:44Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:44Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 14075 vs 8436" source=console
-time="2025-08-18T19:02:44Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:02:54Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:02:54Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 20401 vs 8339" source=console
-time="2025-08-18T19:02:54Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:04Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:04Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 20597 vs 3126" source=console
-time="2025-08-18T19:03:04Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:14Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:14Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 20793 vs 254" source=console
-time="2025-08-18T19:03:14Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 20989 vs 252" source=console
-time="2025-08-18T19:03:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:34Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:34Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21367 vs 406" source=console
-time="2025-08-18T19:03:34Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:45Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:45Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21750 vs 492" source=console
-time="2025-08-18T19:03:45Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:03:55Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:03:55Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22127 vs 494" source=console
-time="2025-08-18T19:03:55Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:04:05Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:04:05Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22317 vs 314" source=console
-time="2025-08-18T19:04:05Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:04:15Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:04:15Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22507 vs 246" source=console
-time="2025-08-18T19:04:15Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:04:25Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-18T19:04:10.320Z&to=2025-08-18T19:04:23.320Z' para o backend (HTTP 502)" source=console
-time="2025-08-18T19:04:25Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:04:25Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 113" source=console
-time="2025-08-18T19:04:25Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-18T19:04:35Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:04:35Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22544 vs 4" source=console
-time="2025-08-18T19:04:35Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:04:45Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-18T19:04:45Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22554 vs 12" source=console
-time="2025-08-18T19:04:45Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
-time="2025-08-18T19:04:55Z" level=info msg="summaries from 2025-08-18T19:03:45.817Z to 2025-08-18T19:04:55.817Z" source=console
+time="2025-08-21T07:43:42Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:43:42Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 119 vs 81" source=console
+time="2025-08-21T07:43:42Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:43:52Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:43:52Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 435 vs 325" source=console
+time="2025-08-21T07:43:52Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:02Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:02Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 950 vs 585" source=console
+time="2025-08-21T07:44:02Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:12Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:12Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 968 vs 292" source=console
+time="2025-08-21T07:44:12Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:22Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:22Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 988 vs 26" source=console
+time="2025-08-21T07:44:22Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:32Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:32Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1008 vs 26" source=console
+time="2025-08-21T07:44:32Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:42Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:42Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1048 vs 42" source=console
+time="2025-08-21T07:44:42Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:44:52Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:44:52Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1088 vs 52" source=console
+time="2025-08-21T07:44:52Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:45:02Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:02Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 52" source=console
+time="2025-08-21T07:45:02Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:45:12Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:12Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 16" source=console
+time="2025-08-21T07:45:12Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 6 vs 6" source=console
+time="2025-08-21T07:45:22Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:22Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 0" source=console
+time="2025-08-21T07:45:22Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 14 vs 10" source=console
+time="2025-08-21T07:45:32Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:32Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 0" source=console
+time="2025-08-21T07:45:32Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 20 vs 8" source=console
+time="2025-08-21T07:45:42Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:42Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 0" source=console
+time="2025-08-21T07:45:42Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 24 vs 6" source=console
+time="2025-08-21T07:45:52Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:45:52Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 0" source=console
+time="2025-08-21T07:45:52Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 28 vs 6" source=console
+time="2025-08-21T07:46:02Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:02Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1128 vs 0" source=console
+time="2025-08-21T07:46:02Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 6" source=console
+time="2025-08-21T07:46:12Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:12Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 7804 vs 5427" source=console
+time="2025-08-21T07:46:12Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 2" source=console
+time="2025-08-21T07:46:22Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:22Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 14529 vs 8759" source=console
+time="2025-08-21T07:46:22Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:46:32Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:32Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21096 vs 8650" source=console
+time="2025-08-21T07:46:32Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:46:42Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:42Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21292 vs 3323" source=console
+time="2025-08-21T07:46:42Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:46:52Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:46:52Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21486 vs 252" source=console
+time="2025-08-21T07:46:52Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:02Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:02Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 21684 vs 254" source=console
+time="2025-08-21T07:47:02Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:13Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:13Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22068 vs 406" source=console
+time="2025-08-21T07:47:13Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:23Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:23Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22449 vs 496" source=console
+time="2025-08-21T07:47:23Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:33Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:33Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 22828 vs 494" source=console
+time="2025-08-21T07:47:33Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:43Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:43Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 23016 vs 320" source=console
+time="2025-08-21T07:47:43Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:53Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:47:53Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 23208 vs 246" source=console
+time="2025-08-21T07:47:53Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:54Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": EOF"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:55Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:47:56Z" level=warning msg="Request Failed" error="Post \"http://localhost:9999/payments\": request timeout"
+time="2025-08-21T07:48:03Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T07:47:48.333Z&to=2025-08-21T07:48:01.333Z' para o backend (HTTP 502)" source=console
+time="2025-08-21T07:48:03Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:48:03Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 87" source=console
+time="2025-08-21T07:48:03Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T07:48:13Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:48:13Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 23221 vs 5" source=console
+time="2025-08-21T07:48:13Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:48:23Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T07:48:23Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 23231 vs 13" source=console
+time="2025-08-21T07:48:23Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 32 vs 0" source=console
+time="2025-08-21T07:48:33Z" level=info msg="summaries from 2025-08-21T07:42:33.843Z to 2025-08-21T07:48:33.843Z" source=console
 log truncated at line 1000

@@ -1,54 +1,551 @@
 
-time="2025-08-19T10:47:48Z" level=warning msg="/home/ubuntu/rinha-de-backend-2025/participantes/ndulo-node/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2025-08-21T16:49:41Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/ndulo-node/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ app2 Pulling 
+ nginx Pulling 
+ app1 Pulling 
+ db Pulling 
+ 9824c27679d3 Already exists 
+ 8c59d92d6fc9 Pulling fs layer 
+ 54225bd60196 Pulling fs layer 
+ a9e48ad1219d Pulling fs layer 
+ 3552ac020021 Pulling fs layer 
+ ef66dfe223ea Pulling fs layer 
+ 67f462438a05 Pulling fs layer 
+ 3b88ca246202 Pulling fs layer 
+ e3bda8ffcf29 Pulling fs layer 
+ 3cdab6ce4f4d Pulling fs layer 
+ 4588f881839c Pulling fs layer 
+ ef66dfe223ea Waiting 
+ 67f462438a05 Waiting 
+ 3b88ca246202 Waiting 
+ e3bda8ffcf29 Waiting 
+ 3cdab6ce4f4d Waiting 
+ 4588f881839c Waiting 
+ 3552ac020021 Waiting 
+ 9824c27679d3 Already exists 
+ 8c59d92d6fc9 Pulling fs layer 
+ 54225bd60196 Pulling fs layer 
+ a9e48ad1219d Pulling fs layer 
+ 3552ac020021 Pulling fs layer 
+ ef66dfe223ea Pulling fs layer 
+ 67f462438a05 Pulling fs layer 
+ 3b88ca246202 Pulling fs layer 
+ e3bda8ffcf29 Pulling fs layer 
+ 3cdab6ce4f4d Pulling fs layer 
+ 4588f881839c Pulling fs layer 
+ 4588f881839c Waiting 
+ 3552ac020021 Waiting 
+ ef66dfe223ea Waiting 
+ 67f462438a05 Waiting 
+ 3b88ca246202 Waiting 
+ e3bda8ffcf29 Waiting 
+ 3cdab6ce4f4d Waiting 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ 4abcf2066143 Waiting 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ fc21a1d387f5 Waiting 
+ d4bca490e609 Pulling fs layer 
+ e6ef242c1570 Waiting 
+ 5406ed7b06d9 Pulling fs layer 
+ 13fcfbc94648 Waiting 
+ 8a3742a9529d Pulling fs layer 
+ d4bca490e609 Waiting 
+ 0d0c16747d2c Pulling fs layer 
+ 5406ed7b06d9 Waiting 
+ 653b259b172d Pulling fs layer 
+ 8a3742a9529d Waiting 
+ eaf8913c699a Pulling fs layer 
+ 0d0c16747d2c Waiting 
+ dd1566a63d4c Pulling fs layer 
+ 653b259b172d Waiting 
+ eaf8913c699a Waiting 
+ dd1566a63d4c Waiting 
+ a9e48ad1219d Downloading [==================================================>]     445B/445B
+ 54225bd60196 Downloading [>                                                  ]  13.75kB/1.261MB
+ a9e48ad1219d Verifying Checksum 
+ a9e48ad1219d Verifying Checksum 
+ a9e48ad1219d Download complete 
+ a9e48ad1219d Download complete 
+ 54225bd60196 Downloading [>                                                  ]  13.75kB/1.261MB
+ 8c59d92d6fc9 Downloading [>                                                  ]  437.7kB/42.99MB
+ 8c59d92d6fc9 Downloading [>                                                  ]  437.7kB/42.99MB
+ 9824c27679d3 Already exists 
+ 61a7421693bd Pulling fs layer 
+ 51a939567803 Pulling fs layer 
+ a612d38c9b48 Pulling fs layer 
+ 901a9540064a Pulling fs layer 
+ 6c13c55b4b82 Pulling fs layer 
+ 0f940631c13f Pulling fs layer 
+ a15854d6fd91 Pulling fs layer 
+ 685be96195b7 Pulling fs layer 
+ 61a7421693bd Waiting 
+ ce414b3fa674 Pulling fs layer 
+ 51a939567803 Waiting 
+ a612d38c9b48 Waiting 
+ 6afcd9ec0fd9 Pulling fs layer 
+ 901a9540064a Waiting 
+ 6c13c55b4b82 Waiting 
+ 0f940631c13f Waiting 
+ a15854d6fd91 Waiting 
+ 685be96195b7 Waiting 
+ ce414b3fa674 Waiting 
+ 6afcd9ec0fd9 Waiting 
+ 54225bd60196 Downloading [==================================================>]  1.261MB/1.261MB
+ 54225bd60196 Verifying Checksum 
+ 54225bd60196 Download complete 
+ 54225bd60196 Verifying Checksum 
+ 54225bd60196 Download complete 
+ 8c59d92d6fc9 Downloading [=====================>                             ]  18.43MB/42.99MB
+ 8c59d92d6fc9 Downloading [=====================>                             ]  18.43MB/42.99MB
+ 8c59d92d6fc9 Downloading [==========================================>        ]  36.31MB/42.99MB
+ 8c59d92d6fc9 Downloading [==========================================>        ]  36.31MB/42.99MB
+ 8c59d92d6fc9 Download complete 
+ 8c59d92d6fc9 Verifying Checksum 
+ 8c59d92d6fc9 Download complete 
+ 8c59d92d6fc9 Extracting [>                                                  ]  458.8kB/42.99MB
+ 8c59d92d6fc9 Extracting [>                                                  ]  458.8kB/42.99MB
+ ef66dfe223ea Downloading [>                                                  ]  539.1kB/100.7MB
+ ef66dfe223ea Downloading [>                                                  ]  539.1kB/100.7MB
+ 8c59d92d6fc9 Extracting [=========>                                         ]  8.258MB/42.99MB
+ 8c59d92d6fc9 Extracting [=========>                                         ]  8.258MB/42.99MB
+ ef66dfe223ea Downloading [=====>                                             ]  11.19MB/100.7MB
+ ef66dfe223ea Downloading [=====>                                             ]  11.19MB/100.7MB
+ 8c59d92d6fc9 Extracting [==================>                                ]  16.06MB/42.99MB
+ 8c59d92d6fc9 Extracting [==================>                                ]  16.06MB/42.99MB
+ ef66dfe223ea Downloading [========>                                          ]  17.07MB/100.7MB
+ ef66dfe223ea Downloading [========>                                          ]  17.07MB/100.7MB
+ 8c59d92d6fc9 Extracting [===========================>                       ]  23.86MB/42.99MB
+ 8c59d92d6fc9 Extracting [===========================>                       ]  23.86MB/42.99MB
+ 67f462438a05 Downloading [=>                                                 ]     934B/43.08kB
+ 67f462438a05 Downloading [=>                                                 ]     934B/43.08kB
+ 67f462438a05 Downloading [==================================================>]  43.08kB/43.08kB
+ 67f462438a05 Verifying Checksum 
+ 67f462438a05 Downloading [==================================================>]  43.08kB/43.08kB
+ 67f462438a05 Verifying Checksum 
+ 67f462438a05 Download complete 
+ 67f462438a05 Download complete 
+ ef66dfe223ea Downloading [============>                                      ]  25.09MB/100.7MB
+ ef66dfe223ea Downloading [============>                                      ]  25.09MB/100.7MB
+ 8c59d92d6fc9 Extracting [=====================================>             ]  32.57MB/42.99MB
+ 8c59d92d6fc9 Extracting [=====================================>             ]  32.57MB/42.99MB
+ 3552ac020021 Downloading [==================================================>]     124B/124B
+ 3552ac020021 Download complete 
+ 3552ac020021 Verifying Checksum 
+ 3552ac020021 Download complete 
+ ef66dfe223ea Downloading [==============>                                    ]  28.83MB/100.7MB
+ ef66dfe223ea Downloading [==============>                                    ]  28.83MB/100.7MB
+ 8c59d92d6fc9 Extracting [==============================================>    ]  39.91MB/42.99MB
+ 8c59d92d6fc9 Extracting [==============================================>    ]  39.91MB/42.99MB
+ ef66dfe223ea Downloading [=================>                                 ]   34.7MB/100.7MB
+ ef66dfe223ea Downloading [=================>                                 ]   34.7MB/100.7MB
+ 8c59d92d6fc9 Extracting [===============================================>   ]  40.83MB/42.99MB
+ 8c59d92d6fc9 Extracting [===============================================>   ]  40.83MB/42.99MB
+ ef66dfe223ea Downloading [==================>                                ]  36.31MB/100.7MB
+ ef66dfe223ea Downloading [==================>                                ]  36.31MB/100.7MB
+ 3b88ca246202 Downloading [>                                                  ]  107.2kB/10.31MB
+ 3b88ca246202 Downloading [>                                                  ]  107.2kB/10.31MB
+ e3bda8ffcf29 Downloading [=======>                                           ]     935B/5.993kB
+ e3bda8ffcf29 Downloading [==================================================>]  5.993kB/5.993kB
+ e3bda8ffcf29 Verifying Checksum 
+ e3bda8ffcf29 Download complete 
+ e3bda8ffcf29 Downloading [=======>                                           ]     935B/5.993kB
+ e3bda8ffcf29 Downloading [==================================================>]  5.993kB/5.993kB
+ e3bda8ffcf29 Verifying Checksum 
+ e3bda8ffcf29 Download complete 
+ 3b88ca246202 Verifying Checksum 
+ 3b88ca246202 Download complete 
+ 3b88ca246202 Verifying Checksum 
+ 3b88ca246202 Download complete 
+ ef66dfe223ea Downloading [===================>                               ]  39.01MB/100.7MB
+ ef66dfe223ea Downloading [===================>                               ]  39.01MB/100.7MB
+ 8c59d92d6fc9 Extracting [================================================>  ]  41.75MB/42.99MB
+ 8c59d92d6fc9 Extracting [================================================>  ]  41.75MB/42.99MB
+ ef66dfe223ea Downloading [=====================>                             ]  43.28MB/100.7MB
+ ef66dfe223ea Downloading [=====================>                             ]  43.28MB/100.7MB
+ ef66dfe223ea Downloading [======================>                            ]  45.96MB/100.7MB
+ ef66dfe223ea Downloading [======================>                            ]  45.96MB/100.7MB
+ 8c59d92d6fc9 Extracting [=================================================> ]  42.66MB/42.99MB
+ 8c59d92d6fc9 Extracting [=================================================> ]  42.66MB/42.99MB
+ ef66dfe223ea Downloading [========================>                          ]  49.71MB/100.7MB
+ ef66dfe223ea Downloading [========================>                          ]  49.71MB/100.7MB
+ 8c59d92d6fc9 Extracting [==================================================>]  42.99MB/42.99MB
+ 8c59d92d6fc9 Extracting [==================================================>]  42.99MB/42.99MB
+ 4588f881839c Downloading [===>                                               ]     934B/15.01kB
+ 4588f881839c Downloading [===>                                               ]     934B/15.01kB
+ 4588f881839c Downloading [==================================================>]  15.01kB/15.01kB
+ 4588f881839c Verifying Checksum 
+ 4588f881839c Download complete 
+ 4588f881839c Verifying Checksum 
+ 4588f881839c Download complete 
+ ef66dfe223ea Downloading [=========================>                         ]  51.86MB/100.7MB
+ ef66dfe223ea Downloading [=========================>                         ]  51.86MB/100.7MB
+ 8c59d92d6fc9 Pull complete 
+ 8c59d92d6fc9 Pull complete 
+ 54225bd60196 Extracting [=>                                                 ]  32.77kB/1.261MB
+ 54225bd60196 Extracting [=>                                                 ]  32.77kB/1.261MB
+ 54225bd60196 Extracting [==================================================>]  1.261MB/1.261MB
+ 54225bd60196 Extracting [==================================================>]  1.261MB/1.261MB
+ 54225bd60196 Extracting [==================================================>]  1.261MB/1.261MB
+ 54225bd60196 Extracting [==================================================>]  1.261MB/1.261MB
+ 54225bd60196 Pull complete 
+ 54225bd60196 Pull complete 
+ a9e48ad1219d Extracting [==================================================>]     445B/445B
+ a9e48ad1219d Extracting [==================================================>]     445B/445B
+ a9e48ad1219d Extracting [==================================================>]     445B/445B
+ a9e48ad1219d Extracting [==================================================>]     445B/445B
+ a9e48ad1219d Pull complete 
+ a9e48ad1219d Pull complete 
+ 3552ac020021 Extracting [==================================================>]     124B/124B
+ 3552ac020021 Extracting [==================================================>]     124B/124B
+ 3552ac020021 Extracting [==================================================>]     124B/124B
+ 3552ac020021 Extracting [==================================================>]     124B/124B
+ ef66dfe223ea Downloading [===========================>                       ]  54.52MB/100.7MB
+ ef66dfe223ea Downloading [===========================>                       ]  54.52MB/100.7MB
+ 3552ac020021 Pull complete 
+ 3552ac020021 Pull complete 
+ ef66dfe223ea Downloading [============================>                      ]  57.76MB/100.7MB
+ ef66dfe223ea Downloading [============================>                      ]  57.76MB/100.7MB
+ ef66dfe223ea Downloading [===============================>                   ]  64.14MB/100.7MB
+ ef66dfe223ea Downloading [===============================>                   ]  64.14MB/100.7MB
+ 4abcf2066143 Downloading [>                                                  ]  34.24kB/3.409MB
+ 3cdab6ce4f4d Verifying Checksum 
+ 3cdab6ce4f4d Downloading [==================================================>]     804B/804B
+ 3cdab6ce4f4d Download complete 
+ 3cdab6ce4f4d Verifying Checksum 
+ 3cdab6ce4f4d Download complete 
+ ef66dfe223ea Downloading [=================================>                 ]  68.43MB/100.7MB
+ ef66dfe223ea Downloading [=================================>                 ]  68.43MB/100.7MB
+ 4abcf2066143 Downloading [====================================>              ]  2.456MB/3.409MB
+ 4abcf2066143 Verifying Checksum 
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ ef66dfe223ea Downloading [=====================================>             ]  74.87MB/100.7MB
+ ef66dfe223ea Downloading [=====================================>             ]  74.87MB/100.7MB
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Pull complete 
+ ef66dfe223ea Downloading [========================================>          ]  82.34MB/100.7MB
+ ef66dfe223ea Downloading [========================================>          ]  82.34MB/100.7MB
+ ef66dfe223ea Downloading [==========================================>        ]  85.54MB/100.7MB
+ ef66dfe223ea Downloading [==========================================>        ]  85.54MB/100.7MB
+ fc21a1d387f5 Downloading [>                                                  ]  40.47kB/3.985MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ ef66dfe223ea Downloading [==============================================>    ]  93.01MB/100.7MB
+ ef66dfe223ea Downloading [==============================================>    ]  93.01MB/100.7MB
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ fc21a1d387f5 Extracting [=================================================> ]  3.932MB/3.985MB
+ ef66dfe223ea Downloading [=================================================> ]  98.89MB/100.7MB
+ ef66dfe223ea Downloading [=================================================> ]  98.89MB/100.7MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ ef66dfe223ea Verifying Checksum 
+ ef66dfe223ea Verifying Checksum 
+ ef66dfe223ea Download complete 
+ ef66dfe223ea Download complete 
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ ef66dfe223ea Extracting [>                                                  ]  557.1kB/100.7MB
+ ef66dfe223ea Extracting [>                                                  ]  557.1kB/100.7MB
+ ef66dfe223ea Extracting [====>                                              ]  8.356MB/100.7MB
+ ef66dfe223ea Extracting [====>                                              ]  8.356MB/100.7MB
+ fc21a1d387f5 Pull complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Downloading [================================================>  ]     934B/954B
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Download complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Pull complete 
+ ef66dfe223ea Extracting [========>                                          ]  16.71MB/100.7MB
+ ef66dfe223ea Extracting [========>                                          ]  16.71MB/100.7MB
+ d4bca490e609 Download complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ ef66dfe223ea Extracting [===========>                                       ]  22.28MB/100.7MB
+ ef66dfe223ea Extracting [===========>                                       ]  22.28MB/100.7MB
+ 5406ed7b06d9 Downloading [======================================>            ]     934B/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Verifying Checksum 
+ 5406ed7b06d9 Download complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ ef66dfe223ea Extracting [===========>                                       ]   23.4MB/100.7MB
+ ef66dfe223ea Extracting [===========>                                       ]   23.4MB/100.7MB
+ 8a3742a9529d Downloading [=================================>                 ]     933B/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Download complete 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [>                                                  ]  130.5kB/13.04MB
+ ef66dfe223ea Extracting [============>                                      ]  24.51MB/100.7MB
+ ef66dfe223ea Extracting [============>                                      ]  24.51MB/100.7MB
+ 653b259b172d Downloading [==================================================>]     180B/180B
+ 653b259b172d Verifying Checksum 
+ 653b259b172d Download complete 
+ 0d0c16747d2c Downloading [=========>                                         ]  2.407MB/13.04MB
+ ef66dfe223ea Extracting [=============>                                     ]  27.85MB/100.7MB
+ ef66dfe223ea Extracting [=============>                                     ]  27.85MB/100.7MB
+ 0d0c16747d2c Downloading [============================>                      ]  7.404MB/13.04MB
+ ef66dfe223ea Extracting [==============>                                    ]  29.52MB/100.7MB
+ ef66dfe223ea Extracting [==============>                                    ]  29.52MB/100.7MB
+ eaf8913c699a Downloading [==================================================>]     551B/551B
+ eaf8913c699a Verifying Checksum 
+ eaf8913c699a Download complete 
+ 0d0c16747d2c Downloading [===========================================>       ]  11.35MB/13.04MB
+ ef66dfe223ea Extracting [==================>                                ]  37.32MB/100.7MB
+ ef66dfe223ea Extracting [==================>                                ]  37.32MB/100.7MB
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ ef66dfe223ea Extracting [=====================>                             ]  42.34MB/100.7MB
+ ef66dfe223ea Extracting [=====================>                             ]  42.34MB/100.7MB
+ 0d0c16747d2c Extracting [=======>                                           ]  1.835MB/13.04MB
+ 0d0c16747d2c Extracting [==================================>                ]  9.044MB/13.04MB
+ ef66dfe223ea Extracting [======================>                            ]  44.56MB/100.7MB
+ ef66dfe223ea Extracting [======================>                            ]  44.56MB/100.7MB
+ ef66dfe223ea Extracting [=======================>                           ]  47.35MB/100.7MB
+ ef66dfe223ea Extracting [=======================>                           ]  47.35MB/100.7MB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ ef66dfe223ea Extracting [========================>                          ]  49.58MB/100.7MB
+ ef66dfe223ea Extracting [========================>                          ]  49.58MB/100.7MB
+ 0d0c16747d2c Pull complete 
+ 653b259b172d Extracting [==================================================>]     180B/180B
+ 653b259b172d Extracting [==================================================>]     180B/180B
+ 653b259b172d Pull complete 
+ eaf8913c699a Extracting [==================================================>]     551B/551B
+ eaf8913c699a Extracting [==================================================>]     551B/551B
+ 61a7421693bd Downloading [==================================================>]     969B/969B
+ 61a7421693bd Verifying Checksum 
+ 61a7421693bd Download complete 
+ 61a7421693bd Extracting [==================================================>]     969B/969B
+ 61a7421693bd Extracting [==================================================>]     969B/969B
+ eaf8913c699a Pull complete 
+ 61a7421693bd Pull complete 
+ 51a939567803 Downloading [>                                                  ]   12.3kB/1.116MB
+ ef66dfe223ea Extracting [=========================>                         ]  50.69MB/100.7MB
+ ef66dfe223ea Extracting [=========================>                         ]  50.69MB/100.7MB
+ 51a939567803 Verifying Checksum 
+ 51a939567803 Download complete 
+ 51a939567803 Extracting [=>                                                 ]  32.77kB/1.116MB
+ 51a939567803 Extracting [==================================================>]  1.116MB/1.116MB
+ 51a939567803 Pull complete 
+ ef66dfe223ea Extracting [==========================>                        ]  54.03MB/100.7MB
+ ef66dfe223ea Extracting [==========================>                        ]  54.03MB/100.7MB
+ dd1566a63d4c Downloading [>                                                  ]  26.01kB/2.575MB
+ ef66dfe223ea Extracting [==============================>                    ]  62.39MB/100.7MB
+ ef66dfe223ea Extracting [==============================>                    ]  62.39MB/100.7MB
+ ef66dfe223ea Extracting [==================================>                ]  69.63MB/100.7MB
+ ef66dfe223ea Extracting [==================================>                ]  69.63MB/100.7MB
+ dd1566a63d4c Downloading [=>                                                 ]  78.22kB/2.575MB
+ ef66dfe223ea Extracting [======================================>            ]  77.99MB/100.7MB
+ ef66dfe223ea Extracting [======================================>            ]  77.99MB/100.7MB
+ dd1566a63d4c Downloading [===>                                               ]  163.8kB/2.575MB
+ a612d38c9b48 Downloading [==================================================>]     175B/175B
+ a612d38c9b48 Verifying Checksum 
+ a612d38c9b48 Download complete 
+ a612d38c9b48 Extracting [==================================================>]     175B/175B
+ a612d38c9b48 Extracting [==================================================>]     175B/175B
+ ef66dfe223ea Extracting [==========================================>        ]  85.23MB/100.7MB
+ ef66dfe223ea Extracting [==========================================>        ]  85.23MB/100.7MB
+ a612d38c9b48 Pull complete 
+ dd1566a63d4c Downloading [=====>                                             ]  262.1kB/2.575MB
+ 901a9540064a Downloading [==================================================>]     116B/116B
+ 901a9540064a Download complete 
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 901a9540064a Pull complete 
+ ef66dfe223ea Extracting [==============================================>    ]  93.59MB/100.7MB
+ ef66dfe223ea Extracting [==============================================>    ]  93.59MB/100.7MB
+ dd1566a63d4c Downloading [=========>                                         ]  491.5kB/2.575MB
+ ef66dfe223ea Extracting [==================================================>]  100.7MB/100.7MB
+ ef66dfe223ea Extracting [==================================================>]  100.7MB/100.7MB
+ dd1566a63d4c Downloading [=================>                                 ]  884.7kB/2.575MB
+ ef66dfe223ea Pull complete 
+ ef66dfe223ea Pull complete 
+ 67f462438a05 Extracting [======================================>            ]  32.77kB/43.08kB
+ 67f462438a05 Extracting [======================================>            ]  32.77kB/43.08kB
+ 67f462438a05 Extracting [==================================================>]  43.08kB/43.08kB
+ 67f462438a05 Extracting [==================================================>]  43.08kB/43.08kB
+ dd1566a63d4c Downloading [===============================>                   ]  1.638MB/2.575MB
+ 67f462438a05 Pull complete 
+ 67f462438a05 Pull complete 
+ 3b88ca246202 Extracting [>                                                  ]  131.1kB/10.31MB
+ 3b88ca246202 Extracting [>                                                  ]  131.1kB/10.31MB
+ dd1566a63d4c Verifying Checksum 
+ dd1566a63d4c Extracting [>                                                  ]  32.77kB/2.575MB
+ dd1566a63d4c Extracting [==================================================>]  2.575MB/2.575MB
+ dd1566a63d4c Pull complete 
+ 3b88ca246202 Extracting [=>                                                 ]  393.2kB/10.31MB
+ 3b88ca246202 Extracting [=>                                                 ]  393.2kB/10.31MB
+ nginx Pulled 
+ 6c13c55b4b82 Downloading [>                                                  ]  532.5kB/103.9MB
+ 0f940631c13f Downloading [=====>                                             ]  1.049kB/9.448kB
+ 0f940631c13f Downloading [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Verifying Checksum 
+ 0f940631c13f Download complete 
+ 6c13c55b4b82 Downloading [==>                                                ]  5.894MB/103.9MB
+ 3b88ca246202 Extracting [===>                                               ]  655.4kB/10.31MB
+ 3b88ca246202 Extracting [===>                                               ]  655.4kB/10.31MB
+ 6c13c55b4b82 Downloading [======>                                            ]   13.4MB/103.9MB
+ 3b88ca246202 Extracting [====>                                              ]  917.5kB/10.31MB
+ 3b88ca246202 Extracting [====>                                              ]  917.5kB/10.31MB
+ 6c13c55b4b82 Downloading [========>                                          ]  17.68MB/103.9MB
+ a15854d6fd91 Downloading [==================================================>]     129B/129B
+ a15854d6fd91 Download complete 
+ 3b88ca246202 Extracting [======>                                            ]  1.311MB/10.31MB
+ 3b88ca246202 Extracting [======>                                            ]  1.311MB/10.31MB
+ 6c13c55b4b82 Downloading [============>                                      ]  25.17MB/103.9MB
+ 3b88ca246202 Extracting [========>                                          ]  1.704MB/10.31MB
+ 3b88ca246202 Extracting [========>                                          ]  1.704MB/10.31MB
+ 6c13c55b4b82 Downloading [=============>                                     ]  28.93MB/103.9MB
+ 685be96195b7 Downloading [==================================================>]     171B/171B
+ 685be96195b7 Verifying Checksum 
+ 685be96195b7 Download complete 
+ 6c13c55b4b82 Downloading [=================>                                 ]  35.34MB/103.9MB
+ 3b88ca246202 Extracting [==========>                                        ]  2.097MB/10.31MB
+ 3b88ca246202 Extracting [==========>                                        ]  2.097MB/10.31MB
+ 6c13c55b4b82 Downloading [==================>                                ]  37.99MB/103.9MB
+ 3b88ca246202 Extracting [============>                                      ]   2.49MB/10.31MB
+ 3b88ca246202 Extracting [============>                                      ]   2.49MB/10.31MB
+ 6c13c55b4b82 Downloading [======================>                            ]  46.58MB/103.9MB
+ ce414b3fa674 Downloading [========>                                          ]  1.049kB/5.927kB
+ ce414b3fa674 Downloading [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Verifying Checksum 
+ ce414b3fa674 Download complete 
+ 6c13c55b4b82 Downloading [========================>                          ]  50.86MB/103.9MB
+ 3b88ca246202 Extracting [============>                                      ]  2.621MB/10.31MB
+ 3b88ca246202 Extracting [============>                                      ]  2.621MB/10.31MB
+ 6c13c55b4b82 Downloading [============================>                      ]  59.41MB/103.9MB
+ 3b88ca246202 Extracting [=============>                                     ]  2.884MB/10.31MB
+ 3b88ca246202 Extracting [=============>                                     ]  2.884MB/10.31MB
+ 6afcd9ec0fd9 Downloading [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Verifying Checksum 
+ 6afcd9ec0fd9 Download complete 
+ 6c13c55b4b82 Downloading [===============================>                   ]   65.8MB/103.9MB
+ 3b88ca246202 Extracting [===============>                                   ]  3.277MB/10.31MB
+ 3b88ca246202 Extracting [===============>                                   ]  3.277MB/10.31MB
+ 6c13c55b4b82 Downloading [===================================>               ]   73.8MB/103.9MB
+ 3b88ca246202 Extracting [=================>                                 ]  3.539MB/10.31MB
+ 3b88ca246202 Extracting [=================>                                 ]  3.539MB/10.31MB
+ 6c13c55b4b82 Downloading [=====================================>             ]  77.56MB/103.9MB
+ 3b88ca246202 Extracting [=================>                                 ]   3.67MB/10.31MB
+ 3b88ca246202 Extracting [=================>                                 ]   3.67MB/10.31MB
+ 6c13c55b4b82 Downloading [=======================================>           ]  82.37MB/103.9MB
+ 3b88ca246202 Extracting [======================>                            ]  4.588MB/10.31MB
+ 3b88ca246202 Extracting [======================>                            ]  4.588MB/10.31MB
+ 6c13c55b4b82 Downloading [=========================================>         ]  86.67MB/103.9MB
+ 3b88ca246202 Extracting [==================================>                ]  7.078MB/10.31MB
+ 3b88ca246202 Extracting [==================================>                ]  7.078MB/10.31MB
+ 6c13c55b4b82 Downloading [=============================================>     ]  94.14MB/103.9MB
+ 3b88ca246202 Extracting [==================================================>]  10.31MB/10.31MB
+ 3b88ca246202 Extracting [==================================================>]  10.31MB/10.31MB
+ 6c13c55b4b82 Downloading [================================================>  ]  101.6MB/103.9MB
+ 6c13c55b4b82 Verifying Checksum 
+ 6c13c55b4b82 Download complete 
+ 6c13c55b4b82 Extracting [>                                                  ]  557.1kB/103.9MB
+ 3b88ca246202 Pull complete 
+ 3b88ca246202 Pull complete 
+ e3bda8ffcf29 Extracting [==================================================>]  5.993kB/5.993kB
+ e3bda8ffcf29 Extracting [==================================================>]  5.993kB/5.993kB
+ e3bda8ffcf29 Extracting [==================================================>]  5.993kB/5.993kB
+ e3bda8ffcf29 Extracting [==================================================>]  5.993kB/5.993kB
+ 6c13c55b4b82 Extracting [=>                                                 ]  2.785MB/103.9MB
+ e3bda8ffcf29 Pull complete 
+ e3bda8ffcf29 Pull complete 
+ 3cdab6ce4f4d Extracting [==================================================>]     804B/804B
+ 3cdab6ce4f4d Extracting [==================================================>]     804B/804B
+ 3cdab6ce4f4d Extracting [==================================================>]     804B/804B
+ 3cdab6ce4f4d Extracting [==================================================>]     804B/804B
+ 3cdab6ce4f4d Pull complete 
+ 3cdab6ce4f4d Pull complete 
+ 4588f881839c Extracting [==================================================>]  15.01kB/15.01kB
+ 4588f881839c Extracting [==================================================>]  15.01kB/15.01kB
+ 4588f881839c Extracting [==================================================>]  15.01kB/15.01kB
+ 4588f881839c Extracting [==================================================>]  15.01kB/15.01kB
+ 6c13c55b4b82 Extracting [=====>                                             ]  10.58MB/103.9MB
+ 4588f881839c Pull complete 
+ 4588f881839c Pull complete 
+ app1 Pulled 
+ app2 Pulled 
+ 6c13c55b4b82 Extracting [=========>                                         ]  18.94MB/103.9MB
+ 6c13c55b4b82 Extracting [=============>                                     ]   27.3MB/103.9MB
+ 6c13c55b4b82 Extracting [=================>                                 ]  35.65MB/103.9MB
+ 6c13c55b4b82 Extracting [=====================>                             ]  44.01MB/103.9MB
+ 6c13c55b4b82 Extracting [========================>                          ]  50.69MB/103.9MB
+ 6c13c55b4b82 Extracting [==========================>                        ]  55.71MB/103.9MB
+ 6c13c55b4b82 Extracting [==============================>                    ]   63.5MB/103.9MB
+ 6c13c55b4b82 Extracting [==================================>                ]  70.75MB/103.9MB
+ 6c13c55b4b82 Extracting [===================================>               ]  74.65MB/103.9MB
+ 6c13c55b4b82 Extracting [====================================>              ]  75.76MB/103.9MB
+ 6c13c55b4b82 Extracting [=====================================>             ]  78.54MB/103.9MB
+ 6c13c55b4b82 Extracting [=======================================>           ]  82.44MB/103.9MB
+ 6c13c55b4b82 Extracting [=========================================>         ]  86.34MB/103.9MB
+ 6c13c55b4b82 Extracting [===========================================>       ]   90.8MB/103.9MB
+ 6c13c55b4b82 Extracting [===============================================>   ]  99.71MB/103.9MB
+ 6c13c55b4b82 Extracting [==================================================>]  103.9MB/103.9MB
+ 6c13c55b4b82 Pull complete 
+ 0f940631c13f Extracting [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Extracting [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Pull complete 
+ a15854d6fd91 Extracting [==================================================>]     129B/129B
+ a15854d6fd91 Extracting [==================================================>]     129B/129B
+ a15854d6fd91 Pull complete 
+ 685be96195b7 Extracting [==================================================>]     171B/171B
+ 685be96195b7 Extracting [==================================================>]     171B/171B
+ 685be96195b7 Pull complete 
+ ce414b3fa674 Extracting [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Extracting [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Pull complete 
+ 6afcd9ec0fd9 Extracting [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Extracting [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Pull complete 
+ db Pulled 
  Network ndulo-node_default  Creating
  Network ndulo-node_default  Created
  Volume "ndulo-node_pg_data"  Creating
  Volume "ndulo-node_pg_data"  Created
- Container ndulo-node-app2-1  Creating
  Container ndulo-node-db-1  Creating
  Container ndulo-node-app1-1  Creating
+ Container ndulo-node-app2-1  Creating
  Container ndulo-node-db-1  Created
  Container ndulo-node-app2-1  Created
  Container ndulo-node-app1-1  Created
  Container ndulo-node-nginx-1  Creating
  Container ndulo-node-nginx-1  Created
 Attaching to app1-1, app2-1, db-1, nginx-1
+db-1  | The files belonging to this database system will be owned by user "postgres".
+db-1  | This user must also own the server process.
+db-1  | 
+db-1  | The database cluster will be initialized with locale "en_US.utf8".
+db-1  | The default database encoding has accordingly been set to "UTF8".
+db-1  | The default text search configuration will be set to "english".
+db-1  | 
+db-1  | Data page checksums are disabled.
+db-1  | 
+db-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+db-1  | creating subdirectories ... ok
+db-1  | selecting dynamic shared memory implementation ... posix
 nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
 nginx-1  | 10-listen-on-ipv6-by-default.sh: info: /etc/nginx/conf.d/default.conf is not a file or does not exist
 nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-db-1     | The files belonging to this database system will be owned by user "postgres".
-db-1     | This user must also own the server process.
-db-1     | 
-db-1     | The database cluster will be initialized with locale "en_US.utf8".
-db-1     | The default database encoding has accordingly been set to "UTF8".
-db-1     | The default text search configuration will be set to "english".
-db-1     | 
-db-1     | Data page checksums are disabled.
-db-1     | 
-db-1     | fixing permissions on existing directory /var/lib/postgresql/data ... ok
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
-db-1     | creating subdirectories ... ok
-db-1     | selecting dynamic shared memory implementation ... posix
 db-1     | selecting default max_connections ... 100
 db-1     | selecting default shared_buffers ... 128MB
 db-1     | selecting default time zone ... UTC
 db-1     | creating configuration files ... ok
-app2-1   | Default Processor URL: http://payment-processor-default:8080
-app2-1   | Fallback Processor URL: http://payment-processor-fallback:8080
-app2-1   | Workers: 8
-app2-1   | Starting 8 workers...
-app2-1   | Worker 0 started
-app2-1   | Worker 1 started
-app2-1   | Worker 2 started
-app2-1   | Worker 3 started
-app2-1   | Worker 4 started
-app2-1   | Worker 5 started
-app2-1   | Worker 6 started
-app2-1   | Worker 7 started
 app1-1   | Default Processor URL: http://payment-processor-default:8080
 app1-1   | Fallback Processor URL: http://payment-processor-fallback:8080
 app1-1   | Workers: 8
@@ -61,11 +558,24 @@ app1-1   | Worker 4 started
 app1-1   | Worker 5 started
 app1-1   | Worker 6 started
 app1-1   | Worker 7 started
-app2-1   | Server running on port 3000
-app1-1   | Server running on port 3000
+app2-1   | Default Processor URL: http://payment-processor-default:8080
+app2-1   | Fallback Processor URL: http://payment-processor-fallback:8080
+app2-1   | Workers: 8
+app2-1   | Starting 8 workers...
+app2-1   | Worker 0 started
+app2-1   | Worker 1 started
+app2-1   | Worker 2 started
+app2-1   | Worker 3 started
+app2-1   | Worker 4 started
+app2-1   | Worker 5 started
+app2-1   | Worker 6 started
+app2-1   | Worker 7 started
+app1-1   | Server running on port 9999
+app2-1   | Server running on port 9999
 db-1     | running bootstrap script ... ok
+app1-1   | Failed to query summary: connect ECONNREFUSED 172.21.0.4:5432
 db-1     | sh: locale: not found
-db-1     | 2025-08-19 10:47:53.378 UTC [35] WARNING:  no usable system locales were found
+db-1     | 2025-08-21 16:50:01.970 UTC [36] WARNING:  no usable system locales were found
 db-1     | performing post-bootstrap initialization ... ok
 db-1     | syncing data to disk ... ok
 db-1     | 
@@ -76,10 +586,10 @@ db-1     |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 db-1     | 
 db-1     | initdb: warning: enabling "trust" authentication for local connections
 db-1     | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
-db-1     | waiting for server to start....2025-08-19 10:47:56.302 UTC [47] LOG:  starting PostgreSQL 15.13 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-db-1     | 2025-08-19 10:47:56.306 UTC [47] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-db-1     | 2025-08-19 10:47:56.317 UTC [50] LOG:  database system was shut down at 2025-08-19 10:47:55 UTC
-db-1     | 2025-08-19 10:47:56.324 UTC [47] LOG:  database system is ready to accept connections
+db-1     | waiting for server to start....2025-08-21 16:50:04.783 UTC [48] LOG:  starting PostgreSQL 15.14 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+db-1     | 2025-08-21 16:50:04.859 UTC [48] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+db-1     | 2025-08-21 16:50:04.871 UTC [51] LOG:  database system was shut down at 2025-08-21 16:50:04 UTC
+db-1     | 2025-08-21 16:50:04.878 UTC [48] LOG:  database system is ready to accept connections
 db-1     |  done
 db-1     | server started
 db-1     | CREATE DATABASE
@@ -88,4 +598,404 @@ db-1     |
 db-1     | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/init.sql
 db-1     | psql:/docker-entrypoint-initdb.d/init.sql: error: could not read from input file: Is a directory
 [Kdb-1 exited with code 1
-[Knginx-1 exited with code 0
+app2-1   | Unhandled error: Body cannot be empty when content-type is set to 'application/json'
+app2-1   | FastifyError: Body cannot be empty when content-type is set to 'application/json'
+app2-1   |     at Parser.defaultJsonParser [as fn] (/app/node_modules/fastify/lib/contentTypeParser.js:308:12)
+app2-1   |     at IncomingMessage.onEnd (/app/node_modules/fastify/lib/contentTypeParser.js:296:27)
+app2-1   |     at IncomingMessage.emit (node:events:524:28)
+app2-1   |     at endReadableNT (node:internal/streams/readable:1698:12)
+app2-1   |     at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+app1-1   | Failed to query summary: getaddrinfo ENOTFOUND db
+app2-1   | performHealthCheck error: Health check network error: getaddrinfo ENOTFOUND payment-processor-default
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment 7af91fd1-305c-4fe3-8fe1-7796695a3d09
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment 50033614-6259-4311-a9c5-8de4f0b60030
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | performHealthCheck error: Health check network error: getaddrinfo ENOTFOUND payment-processor-default
+app1-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 0: Both processors failed for payment 88393582-d117-4a86-bc86-8d92d66d2352
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 1: Both processors failed for payment f4180a5d-6685-41f3-a3ee-512eecc3a9a8
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 6: Both processors failed for payment c2495905-a1e2-4897-b127-4e8bf588469e
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment d743624c-dbf9-48e8-9c53-4426e463548d
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 6: Both processors failed for payment 1f7622c0-d0f8-42d9-b983-1b8a0ff8e85a
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment 7dce6a4f-a6f5-4344-97e9-90a8bb310f12
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 6: Both processors failed for payment 16a1b94b-40a6-4771-9244-e1fd213500a7
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 1: Both processors failed for payment de3b2b15-ebcc-4e6a-b3f3-9f229b6462a1
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 5: Both processors failed for payment a67dd119-a8c1-407c-af82-dd2b91888548
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment dea1d1ad-e240-41b8-8bf3-6e7ef0c7f84c
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 4: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 4: Both processors failed for payment 2ba87f1e-045e-468a-9822-7367abd06220
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 4: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment a0853da1-4b92-47ee-aa5d-76c23f0a5ff5
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 5: Both processors failed for payment 1744fcd5-124a-4c11-bf1f-1fbac1ce3e88
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 4263470b-b00c-4182-b148-a4223e5900da
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 5: Both processors failed for payment ad84eb5e-9021-46ad-a4bd-3b897add805b
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 622723e7-d398-40a3-ae95-53a31fdf0e20
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 5: Both processors failed for payment 1a14a786-5392-490f-b5ec-5cf42716ee3d
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 5: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 4ea06502-3080-4e7d-8d5f-98ac55731a45
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 6: Both processors failed for payment cc92d465-b44e-4348-bb4d-23d3b2f7a471
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 1208b6c0-f60b-4658-9bf3-abf0eac29d6f
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 7: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 7: Both processors failed for payment 167f3cdf-23a1-4a68-bcbe-40bb6a1e13f3
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 7: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 4: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 4: Both processors failed for payment 1b4daab7-e8e5-4fba-bb67-55c0f0058b96
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 4: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 7: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 7: Both processors failed for payment 8bc8460d-5590-47c1-b3cb-f2cfe47bd720
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 7: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 5: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 5: Both processors failed for payment ae806781-b060-4a46-9e5e-be85c078562e
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 5: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 0: Both processors failed for payment f25bfad1-2c4d-4673-9216-33daafe06709
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 6: Both processors failed for payment 7a9f1e18-90b0-4d6c-a9b4-12ca4582af50
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment abac8432-1165-4acb-8911-93c5ee9e8e88
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 6: Both processors failed for payment c37db0f0-52e1-439a-a5fb-6169f716b3df
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 45ee115d-8274-47a3-ba36-5ba489da5381
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 6: Both processors failed for payment 16fff80e-5587-4e9a-ae63-8592c6f9a2eb
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 6: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment c0b2a694-e225-4522-9816-886b24a709d2
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 7: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 7: Both processors failed for payment 5bf97a19-59d9-4da3-a39e-c96d0915e90e
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 7: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 8e5830b0-81b3-4a2a-ae2f-377349383bd7
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment 923a8ac2-212c-4d4d-ae7d-fb5462056350
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment ffeefa69-4a21-48f9-b7ee-d036dfc86a96
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment c4979c9b-1d53-4747-b842-1e35c4525fa4
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 271364c6-c73b-40cd-92a7-fcc6e56af805
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 0: Both processors failed for payment b37dc48b-5ed8-4c23-ac43-d171ccc7d0f6
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 0: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 599b807c-961f-4ba1-98a1-ecdb7c9a2078
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 1: Both processors failed for payment e9241779-dfb2-49fa-86a6-b4722ec039ab
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment 13c5901c-6a21-410d-a3df-e65f07f3cab6
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 1: Both processors failed for payment e2540520-d66a-4bfc-a76f-b6a30d4d3176
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 3: Both processors failed for payment 2dc133db-bcb9-4c3b-b686-4af9503b8e8a
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 026a9c36-ace3-423c-9b34-4807ab63afcf
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 3: Both processors failed for payment 589316c6-5ac5-43a6-b7b0-26dc067e9520
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment a34cc149-3255-427b-877a-8d2930b4a0ce
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 4: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 4: Both processors failed for payment 6740e8f4-d8a7-4008-ac2c-39090eab38cb
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 4: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 82807107-4642-4fdd-8b08-6287bfebfcb5
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment b16c6242-8ea4-4bdc-bda3-676738af8382
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 82d7f1d8-6b06-41bd-86ce-5184ffa8ec61
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment dde60ad7-153d-436c-b706-d3013a24e1a0
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 7090ce55-0b6f-4a1c-8f2b-6cad050208f2
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment 332368d2-217f-419e-a9d7-fd586f0060c3
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 1f243df5-eb03-4d73-b8bd-40f9834add7a
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 3a553f6d-1308-4999-b975-6af269f544b8
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment d71051c0-f4cb-4d5a-b7ff-02a3523b537b
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 8d286fc8-c34c-41da-b1e3-455c606a70d0
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 9071a5f2-9a9a-4e8c-8d9e-0cac79cb0263
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 1: Both processors failed for payment 60f378a8-e419-4e78-be86-5ed72c8ea202
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 1: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 2: Both processors failed for payment 9a4b221a-d440-45db-b396-365effc8ab3f
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment 4206acc8-60c3-42a5-bd11-7a1a120cb638
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Default failed (Default processor is down or failing), trying fallback...
+app2-1   | Worker 3: Both processors failed for payment 6a95e4a8-7c80-4162-9ed3-e79700b20ffd
+app2-1   | Default error: Default processor is down or failing
+app2-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app2-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app2-1   | Worker 3: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Default failed (Default processor is down or failing), trying fallback...
+app1-1   | Worker 2: Both processors failed for payment c2f35c8b-987f-40a3-8e04-d87cbfcd8b8e
+app1-1   | Default error: Default processor is down or failing
+app1-1   | Fallback error: Network error: getaddrinfo ENOTFOUND payment-processor-fallback
+app1-1   | Failed to insert payment: getaddrinfo ENOTFOUND db
+app1-1   | Worker 2: Failed to store unprocessed payment: getaddrinfo ENOTFOUND db
+log truncated at line 1000

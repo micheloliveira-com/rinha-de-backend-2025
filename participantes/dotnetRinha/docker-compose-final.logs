@@ -1,12 +1,154 @@
 
+ load-balancer Pulling 
  backend-2 Pulling 
+ redis Pulling 
  backend-2 Error pull access denied for boscobecker/dotnet-rinha, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+ 0368fd46e3c6 Already exists 
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ bb1131de5e60 Waiting 
+ 407621d26c3b Waiting 
+ 4f4fb700ef54 Waiting 
+ 87acabadf81b Waiting 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ b1badc6e5066 Waiting 
+ a2da0c0f2353 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ 4e225d7a935a Downloading [==================================================>]     948B/948B
+ 4e225d7a935a Verifying Checksum 
+ 4e225d7a935a Download complete 
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 74ab898fdb32 Downloading [>                                                  ]  2.416kB/173.2kB
+ 74ab898fdb32 Verifying Checksum 
+ 74ab898fdb32 Download complete 
+ 311eca34042e Downloading [>                                                  ]  11.01kB/1.003MB
+ 4e225d7a935a Pull complete 
+ 74ab898fdb32 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 74ab898fdb32 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ bb1131de5e60 Downloading [>                                                  ]  122.9kB/12.01MB
+ 407621d26c3b Downloading [==================================================>]      99B/99B
+ 407621d26c3b Verifying Checksum 
+ 407621d26c3b Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ bb1131de5e60 Downloading [============================>                      ]  6.898MB/12.01MB
+ bb1131de5e60 Verifying Checksum 
+ bb1131de5e60 Download complete 
+ bb1131de5e60 Extracting [>                                                  ]  131.1kB/12.01MB
+ bb1131de5e60 Extracting [===========================>                       ]  6.685MB/12.01MB
+ bb1131de5e60 Extracting [==================================================>]  12.01MB/12.01MB
+ bb1131de5e60 Pull complete 
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 87acabadf81b Downloading [==================================================>]     573B/573B
+ 87acabadf81b Verifying Checksum 
+ 87acabadf81b Download complete 
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Pull complete 
+ redis Pulled 
+ b1badc6e5066 Downloading [>                                                  ]  290.8kB/28.23MB
+ b1badc6e5066 Downloading [========>                                          ]  4.915MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]    442kB/44.07MB
+ b1badc6e5066 Downloading [=================>                                 ]   9.83MB/28.23MB
+ a2da0c0f2353 Downloading [========>                                          ]  7.553MB/44.07MB
+ b1badc6e5066 Downloading [========================>                          ]  13.88MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]   18.5MB/28.23MB
+ a2da0c0f2353 Downloading [=============>                                     ]  12.02MB/44.07MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Download complete 
+ b1badc6e5066 Downloading [===========================================>       ]  24.54MB/28.23MB
+ a2da0c0f2353 Downloading [==================>                                ]  16.48MB/44.07MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [===========================>                       ]  24.05MB/44.07MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [====================================>              ]  32.09MB/44.07MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ a2da0c0f2353 Downloading [============================================>      ]  39.24MB/44.07MB
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ a2da0c0f2353 Downloading [=================================================> ]  43.25MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Extracting [=================================>                 ]  18.87MB/28.23MB
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
+ a2da0c0f2353 Extracting [================>                                  ]  14.68MB/44.07MB
+ a2da0c0f2353 Extracting [===========================>                       ]  23.86MB/44.07MB
+ a2da0c0f2353 Extracting [====================================>              ]  32.57MB/44.07MB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.54MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ load-balancer Pulled 
 #1 [internal] load local bake definitions
-#1 reading from stdin 603B done
+#1 reading from stdin 611B done
 #1 DONE 0.0s
 
 #2 [internal] load build definition from Dockerfile
-#2 transferring dockerfile:
 #2 transferring dockerfile: 2B done
 #2 DONE 0.0s
 failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory

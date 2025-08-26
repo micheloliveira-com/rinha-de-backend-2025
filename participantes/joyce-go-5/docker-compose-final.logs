@@ -1,26 +1,164 @@
 
+ payments-service-2 Pulling 
+ warm-up Pulling 
+ payments-service Pulling 
+ load-balancer-backend Pulling 
+ database Pulling 
+ 01d036902a3c Already exists 
+ 914e0c52eb0e Pulling fs layer 
+ 9cfed2b00b1f Pulling fs layer 
+ bd077ad4cc4b Pulling fs layer 
+ 01d036902a3c Already exists 
+ 80d9228aab6e Pulling fs layer 
+ 2f492f564709 Pulling fs layer 
+ 75d15bc6c793 Pulling fs layer 
+ 80d9228aab6e Waiting 
+ 2f492f564709 Waiting 
+ 75d15bc6c793 Waiting 
+ 01d036902a3c Already exists 
+ 141317e06123 Pulling fs layer 
+ bf536241a39c Pulling fs layer 
+ c92bdcceffad Pulling fs layer 
+ 141317e06123 Waiting 
+ bf536241a39c Waiting 
+ c92bdcceffad Waiting 
+ 01d036902a3c Already exists 
+ 0d993c86e325 Pulling fs layer 
+ d28eba2f8098 Pulling fs layer 
+ f23a05420e80 Pulling fs layer 
+ 0d993c86e325 Waiting 
+ f23a05420e80 Waiting 
+ d28eba2f8098 Waiting 
+ 01d036902a3c Already exists 
+ 80d9228aab6e Pulling fs layer 
+ 2f492f564709 Pulling fs layer 
+ 75d15bc6c793 Pulling fs layer 
+ 75d15bc6c793 Waiting 
+ 80d9228aab6e Waiting 
+ 2f492f564709 Waiting 
+ 914e0c52eb0e Downloading [==================================================>]      93B/93B
+ 914e0c52eb0e Verifying Checksum 
+ 914e0c52eb0e Extracting [==================================================>]      93B/93B
+ 914e0c52eb0e Extracting [==================================================>]      93B/93B
+ 914e0c52eb0e Pull complete 
+ 9cfed2b00b1f Downloading [>                                                  ]   3.67kB/282.1kB
+ 9cfed2b00b1f Downloading [==================================================>]  282.1kB/282.1kB
+ 9cfed2b00b1f Verifying Checksum 
+ 9cfed2b00b1f Download complete 
+ 9cfed2b00b1f Extracting [=====>                                             ]  32.77kB/282.1kB
+ bd077ad4cc4b Downloading [>                                                  ]  24.66kB/2.442MB
+ 9cfed2b00b1f Extracting [==================================================>]  282.1kB/282.1kB
+ 9cfed2b00b1f Extracting [==================================================>]  282.1kB/282.1kB
+ bd077ad4cc4b Download complete 
+ 9cfed2b00b1f Pull complete 
+ bd077ad4cc4b Extracting [>                                                  ]  32.77kB/2.442MB
+ bd077ad4cc4b Extracting [==================================================>]  2.442MB/2.442MB
+ bd077ad4cc4b Pull complete 
+ database Pulled 
+ 80d9228aab6e Downloading [==================================================>]      92B/92B
+ 80d9228aab6e Downloading [==================================================>]      92B/92B
+ 80d9228aab6e Download complete 
+ 80d9228aab6e Downloading [==================================================>]      92B/92B
+ 80d9228aab6e Verifying Checksum 
+ 80d9228aab6e Download complete 
+ 80d9228aab6e Extracting [==================================================>]      92B/92B
+ 80d9228aab6e Extracting [==================================================>]      92B/92B
+ 80d9228aab6e Extracting [==================================================>]      92B/92B
+ 80d9228aab6e Extracting [==================================================>]      92B/92B
+ 80d9228aab6e Pull complete 
+ 80d9228aab6e Pull complete 
+ 2f492f564709 Downloading [>                                                  ]   3.67kB/282.1kB
+ 2f492f564709 Downloading [>                                                  ]   3.67kB/282.1kB
+ 2f492f564709 Downloading [==================================================>]  282.1kB/282.1kB
+ 2f492f564709 Download complete 
+ 2f492f564709 Download complete 
+ 2f492f564709 Extracting [=====>                                             ]  32.77kB/282.1kB
+ 2f492f564709 Extracting [=====>                                             ]  32.77kB/282.1kB
+ 2f492f564709 Extracting [==================================================>]  282.1kB/282.1kB
+ 2f492f564709 Extracting [==================================================>]  282.1kB/282.1kB
+ 2f492f564709 Extracting [==================================================>]  282.1kB/282.1kB
+ 2f492f564709 Extracting [==================================================>]  282.1kB/282.1kB
+ 75d15bc6c793 Downloading [>                                                  ]  38.33kB/3.72MB
+ 75d15bc6c793 Downloading [>                                                  ]  38.33kB/3.72MB
+ 2f492f564709 Pull complete 
+ 2f492f564709 Pull complete 
+ 75d15bc6c793 Verifying Checksum 
+ 75d15bc6c793 Download complete 
+ 75d15bc6c793 Verifying Checksum 
+ 75d15bc6c793 Download complete 
+ 75d15bc6c793 Extracting [>                                                  ]  65.54kB/3.72MB
+ 75d15bc6c793 Extracting [>                                                  ]  65.54kB/3.72MB
+ 75d15bc6c793 Extracting [==================================================>]   3.72MB/3.72MB
+ 75d15bc6c793 Extracting [==================================================>]   3.72MB/3.72MB
+ 75d15bc6c793 Extracting [==================================================>]   3.72MB/3.72MB
+ 75d15bc6c793 Extracting [==================================================>]   3.72MB/3.72MB
+ 75d15bc6c793 Pull complete 
+ 75d15bc6c793 Pull complete 
+ payments-service Pulled 
+ payments-service-2 Pulled 
+ bf536241a39c Downloading [>                                                  ]   3.67kB/282.1kB
+ bf536241a39c Verifying Checksum 
+ bf536241a39c Download complete 
+ c92bdcceffad Downloading [>                                                  ]  25.57kB/2.471MB
+ c92bdcceffad Verifying Checksum 
+ c92bdcceffad Download complete 
+ 141317e06123 Downloading [==================================================>]      91B/91B
+ 141317e06123 Verifying Checksum 
+ 141317e06123 Download complete 
+ 141317e06123 Extracting [==================================================>]      91B/91B
+ 141317e06123 Extracting [==================================================>]      91B/91B
+ 141317e06123 Pull complete 
+ bf536241a39c Extracting [=====>                                             ]  32.77kB/282.1kB
+ bf536241a39c Extracting [==================================================>]  282.1kB/282.1kB
+ bf536241a39c Extracting [==================================================>]  282.1kB/282.1kB
+ bf536241a39c Pull complete 
+ c92bdcceffad Extracting [>                                                  ]  32.77kB/2.471MB
+ c92bdcceffad Extracting [==================================================>]  2.471MB/2.471MB
+ c92bdcceffad Pull complete 
+ load-balancer-backend Pulled 
+ 0d993c86e325 Downloading [==================================================>]      92B/92B
+ 0d993c86e325 Verifying Checksum 
+ 0d993c86e325 Download complete 
+ 0d993c86e325 Extracting [==================================================>]      92B/92B
+ 0d993c86e325 Extracting [==================================================>]      92B/92B
+ 0d993c86e325 Pull complete 
+ d28eba2f8098 Downloading [>                                                  ]   3.67kB/282.1kB
+ d28eba2f8098 Downloading [==================================================>]  282.1kB/282.1kB
+ d28eba2f8098 Verifying Checksum 
+ d28eba2f8098 Download complete 
+ d28eba2f8098 Extracting [=====>                                             ]  32.77kB/282.1kB
+ d28eba2f8098 Extracting [==================================================>]  282.1kB/282.1kB
+ d28eba2f8098 Extracting [==================================================>]  282.1kB/282.1kB
+ f23a05420e80 Downloading [>                                                  ]  24.73kB/2.46MB
+ d28eba2f8098 Pull complete 
+ f23a05420e80 Verifying Checksum 
+ f23a05420e80 Download complete 
+ f23a05420e80 Extracting [>                                                  ]  32.77kB/2.46MB
+ f23a05420e80 Extracting [==================================================>]   2.46MB/2.46MB
+ f23a05420e80 Pull complete 
+ warm-up Pulled 
  Network joyce-go-5_backend  Creating
  Network joyce-go-5_backend  Created
  Volume "joyce-go-5_sockets-volume"  Creating
  Volume "joyce-go-5_sockets-volume"  Created
  Container joyce-go-5-database-1  Creating
  Container joyce-go-5-database-1  Created
- Container payments-service-2  Creating
  Container payments-service  Creating
- Container payments-service  Created
+ Container payments-service-2  Creating
  Container payments-service-2  Created
+ Container payments-service  Created
  Container joyce-go-5-load-balancer-backend-1  Creating
  Container joyce-go-5-load-balancer-backend-1  Created
  Container joyce-go-5-warm-up-1  Creating
  Container joyce-go-5-warm-up-1  Created
 Attaching to database-1, load-balancer-backend-1, warm-up-1, payments-service, payments-service-2
-database-1  | 2025/08/19 00:20:06 [GC] Disabled (SetGCPercent(-1))
-database-1  | 2025/08/19 00:20:06 Database server starting on socket /sockets/database.sock
-payments-service-2  | 2025/08/19 00:20:07 [GC] Disabled (SetGCPercent(-1))
-payments-service-2  | 2025/08/19 00:20:07 Payments Service running on socket /sockets/payments-service-2.sock
-payments-service    | 2025/08/19 00:20:07 [GC] Disabled (SetGCPercent(-1))
-payments-service    | 2025/08/19 00:20:07 Payments Service running on socket /sockets/payments-service-1.sock
-load-balancer-backend-1  | 2025/08/19 00:20:07 [GC] Disabled (SetGCPercent(-1))
+database-1  | 2025/08/21 16:02:01 [GC] Disabled (SetGCPercent(-1))
+database-1  | 2025/08/21 16:02:01 Database server starting on socket /sockets/database.sock
+payments-service-2  | 2025/08/21 16:02:01 [GC] Disabled (SetGCPercent(-1))
+payments-service-2  | 2025/08/21 16:02:01 Payments Service running on socket /sockets/payments-service-2.sock
+payments-service    | 2025/08/21 16:02:01 [GC] Disabled (SetGCPercent(-1))
+payments-service    | 2025/08/21 16:02:01 Payments Service running on socket /sockets/payments-service-1.sock
+load-balancer-backend-1  | 2025/08/21 16:02:01 [GC] Disabled (SetGCPercent(-1))
 load-balancer-backend-1  | Load balancer running on port: 9999
 warm-up-1                | Starting full-chain warm-up...
 warm-up-1                | Full-chain warm-up complete.

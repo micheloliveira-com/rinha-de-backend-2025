@@ -1,81 +1,748 @@
 
+ queue Pulling 
+ back1 Pulling 
+ redis Pulling 
+ lb Pulling 
+ back2 Pulling 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ 6f34ca96de3f Waiting 
+ 4f4fb700ef54 Waiting 
+ 63edde0222ea Waiting 
+ f22261c94fe4 Waiting 
+ 9824c27679d3 Already exists 
+ e8b465e02201 Pulling fs layer 
+ 65f76e1fcfb8 Pulling fs layer 
+ 4c12d8506f4e Pulling fs layer 
+ 49d62886b05d Pulling fs layer 
+ ebfdaa44630c Pulling fs layer 
+ a28ed2116ab8 Pulling fs layer 
+ 05adb60afa17 Pulling fs layer 
+ a145a8e5ec81 Pulling fs layer 
+ e8b465e02201 Waiting 
+ 14a2e85a76a0 Pulling fs layer 
+ 65f76e1fcfb8 Waiting 
+ 4c12d8506f4e Waiting 
+ 4f4fb700ef54 Pulling fs layer 
+ 49d62886b05d Waiting 
+ 675ba19ffb28 Pulling fs layer 
+ ebfdaa44630c Waiting 
+ a28ed2116ab8 Waiting 
+ c1a283eb5e03 Pulling fs layer 
+ 05adb60afa17 Waiting 
+ a145a8e5ec81 Waiting 
+ f486b1b18d16 Pulling fs layer 
+ 14a2e85a76a0 Waiting 
+ e6348da55f95 Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 4e48dde93f77 Pulling fs layer 
+ 675ba19ffb28 Waiting 
+ a7945d6603eb Pulling fs layer 
+ c1a283eb5e03 Waiting 
+ 1201c6a17bc7 Pulling fs layer 
+ f486b1b18d16 Waiting 
+ fdd6a747b290 Pulling fs layer 
+ e33bc039fdb9 Pulling fs layer 
+ 79e747bab09c Pulling fs layer 
+ e6348da55f95 Waiting 
+ 4e48dde93f77 Waiting 
+ fdd6a747b290 Waiting 
+ a7945d6603eb Waiting 
+ e33bc039fdb9 Waiting 
+ 79e747bab09c Waiting 
+ 1201c6a17bc7 Waiting 
+ 9824c27679d3 Already exists 
+ d5b530a34a00 Pulling fs layer 
+ 1d3f8ec12dfc Pulling fs layer 
+ 6f64fb4c0842 Pulling fs layer 
+ ea23fde5c86d Pulling fs layer 
+ 8acdc3f01517 Pulling fs layer 
+ ed337d338095 Pulling fs layer 
+ 5ccc3a882f29 Pulling fs layer 
+ 60c05f1f875d Pulling fs layer 
+ 49e823099e6b Pulling fs layer 
+ a8a248099f6a Pulling fs layer 
+ 5c06bdcb7afe Pulling fs layer 
+ d5b530a34a00 Waiting 
+ 43101299b1b2 Pulling fs layer 
+ 1d3f8ec12dfc Waiting 
+ 08b696366178 Pulling fs layer 
+ 6f64fb4c0842 Waiting 
+ 2f2d7ce74007 Pulling fs layer 
+ ea23fde5c86d Waiting 
+ 1c1f79cbdd12 Pulling fs layer 
+ 8acdc3f01517 Waiting 
+ 72939dea300c Pulling fs layer 
+ ed337d338095 Waiting 
+ 5ccc3a882f29 Waiting 
+ da7c35fe64b2 Pulling fs layer 
+ 60c05f1f875d Waiting 
+ a8a248099f6a Waiting 
+ 49e823099e6b Waiting 
+ 5c06bdcb7afe Waiting 
+ 72939dea300c Waiting 
+ 1c1f79cbdd12 Waiting 
+ 43101299b1b2 Waiting 
+ da7c35fe64b2 Waiting 
+ 2f2d7ce74007 Waiting 
+ 311d9cf20af5 Downloading [==================================================>]     876B/876B
+ 311d9cf20af5 Verifying Checksum 
+ 311d9cf20af5 Download complete 
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ e51f60c71d8e Downloading [===============================================>   ]  1.049kB/1.103kB
+ e51f60c71d8e Downloading [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Verifying Checksum 
+ e51f60c71d8e Download complete 
+ b1badc6e5066 Downloading [=================>                                 ]  9.912MB/28.23MB
+ 9824c27679d3 Already exists 
+ e8b465e02201 Pulling fs layer 
+ 65f76e1fcfb8 Pulling fs layer 
+ 4c12d8506f4e Pulling fs layer 
+ 49d62886b05d Pulling fs layer 
+ ebfdaa44630c Pulling fs layer 
+ a28ed2116ab8 Pulling fs layer 
+ 05adb60afa17 Pulling fs layer 
+ a145a8e5ec81 Pulling fs layer 
+ 14a2e85a76a0 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 675ba19ffb28 Pulling fs layer 
+ 49d62886b05d Waiting 
+ c1a283eb5e03 Pulling fs layer 
+ e8b465e02201 Waiting 
+ 65f76e1fcfb8 Waiting 
+ 4c12d8506f4e Waiting 
+ f486b1b18d16 Pulling fs layer 
+ a145a8e5ec81 Waiting 
+ e6348da55f95 Pulling fs layer 
+ ebfdaa44630c Waiting 
+ a28ed2116ab8 Waiting 
+ 4e48dde93f77 Pulling fs layer 
+ 05adb60afa17 Waiting 
+ 14a2e85a76a0 Waiting 
+ a7945d6603eb Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ f486b1b18d16 Waiting 
+ 675ba19ffb28 Waiting 
+ 1201c6a17bc7 Pulling fs layer 
+ c1a283eb5e03 Waiting 
+ e6348da55f95 Waiting 
+ fdd6a747b290 Pulling fs layer 
+ 4e48dde93f77 Waiting 
+ a7945d6603eb Waiting 
+ 1201c6a17bc7 Waiting 
+ e33bc039fdb9 Pulling fs layer 
+ 79e747bab09c Pulling fs layer 
+ 79e747bab09c Waiting 
+ fdd6a747b290 Waiting 
+ e33bc039fdb9 Waiting 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ 6bc572a340ec Waiting 
+ 403e3f251637 Waiting 
+ a992fbc61ecc Waiting 
+ 9adfbae99cb7 Waiting 
+ b1badc6e5066 Downloading [===============================>                   ]  17.74MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ f22261c94fe4 Downloading [>                                                  ]  250.5kB/24.19MB
+ 6f34ca96de3f Downloading [==================================================>]      97B/97B
+ 6f34ca96de3f Verifying Checksum 
+ 6f34ca96de3f Download complete 
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ f22261c94fe4 Downloading [========>                                          ]  4.256MB/24.19MB
+ b1badc6e5066 Extracting [======================>                            ]  12.98MB/28.23MB
+ f22261c94fe4 Downloading [=================>                                 ]  8.245MB/24.19MB
+ b1badc6e5066 Extracting [====================================>              ]  20.35MB/28.23MB
+ f22261c94fe4 Downloading [=========================>                         ]  12.48MB/24.19MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f22261c94fe4 Downloading [=================================>                 ]  15.97MB/24.19MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ f22261c94fe4 Downloading [====================================>              ]  17.72MB/24.19MB
+ 63edde0222ea Downloading [========================>                          ]  1.049kB/2.117kB
+ 63edde0222ea Downloading [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Verifying Checksum 
+ 63edde0222ea Download complete 
+ f22261c94fe4 Downloading [==========================================>        ]  20.49MB/24.19MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ f22261c94fe4 Downloading [============================================>      ]  21.73MB/24.19MB
+ f22261c94fe4 Verifying Checksum 
+ f22261c94fe4 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Pull complete 
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Pull complete 
+ f22261c94fe4 Extracting [>                                                  ]  262.1kB/24.19MB
+ e8b465e02201 Downloading [>                                                  ]   35.6kB/3.461MB
+ e8b465e02201 Downloading [>                                                  ]   35.6kB/3.461MB
+ 4c12d8506f4e Downloading [==================================================>]     217B/217B
+ 4c12d8506f4e Verifying Checksum 
+ 4c12d8506f4e Download complete 
+ 4c12d8506f4e Verifying Checksum 
+ 4c12d8506f4e Download complete 
+ 65f76e1fcfb8 Downloading [==================================================>]     932B/932B
+ 65f76e1fcfb8 Verifying Checksum 
+ 65f76e1fcfb8 Download complete 
+ 65f76e1fcfb8 Verifying Checksum 
+ 65f76e1fcfb8 Download complete 
+ f22261c94fe4 Extracting [================>                                  ]  8.126MB/24.19MB
+ e8b465e02201 Downloading [=>                                                 ]  71.59kB/3.461MB
+ e8b465e02201 Downloading [=>                                                 ]  71.59kB/3.461MB
+ f22261c94fe4 Extracting [=================================>                 ]  16.25MB/24.19MB
+ e8b465e02201 Downloading [==>                                                ]  144.2kB/3.461MB
+ e8b465e02201 Downloading [==>                                                ]  144.2kB/3.461MB
+ f22261c94fe4 Extracting [=================================================> ]  24.12MB/24.19MB
+ f22261c94fe4 Extracting [==================================================>]  24.19MB/24.19MB
+ e8b465e02201 Downloading [====>                                              ]  315.5kB/3.461MB
+ e8b465e02201 Downloading [====>                                              ]  315.5kB/3.461MB
+ f22261c94fe4 Pull complete 
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ 6f34ca96de3f Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ e8b465e02201 Downloading [========>                                          ]  610.4kB/3.461MB
+ e8b465e02201 Downloading [========>                                          ]  610.4kB/3.461MB
+ 63edde0222ea Pull complete 
+ redis Pulled 
+ e8b465e02201 Downloading [=================>                                 ]    1.2MB/3.461MB
+ e8b465e02201 Downloading [=================>                                 ]    1.2MB/3.461MB
+ e8b465e02201 Downloading [================================>                  ]  2.268MB/3.461MB
+ e8b465e02201 Downloading [================================>                  ]  2.268MB/3.461MB
+ e8b465e02201 Verifying Checksum 
+ e8b465e02201 Download complete 
+ e8b465e02201 Verifying Checksum 
+ e8b465e02201 Download complete 
+ e8b465e02201 Extracting [>                                                  ]  65.54kB/3.461MB
+ e8b465e02201 Extracting [>                                                  ]  65.54kB/3.461MB
+ e8b465e02201 Extracting [==================================================>]  3.461MB/3.461MB
+ e8b465e02201 Extracting [==================================================>]  3.461MB/3.461MB
+ e8b465e02201 Extracting [==================================================>]  3.461MB/3.461MB
+ e8b465e02201 Extracting [==================================================>]  3.461MB/3.461MB
+ e8b465e02201 Pull complete 
+ e8b465e02201 Pull complete 
+ 65f76e1fcfb8 Extracting [==================================================>]     932B/932B
+ 65f76e1fcfb8 Extracting [==================================================>]     932B/932B
+ 65f76e1fcfb8 Extracting [==================================================>]     932B/932B
+ 65f76e1fcfb8 Extracting [==================================================>]     932B/932B
+ 49d62886b05d Downloading [>                                                  ]  127.4kB/12.6MB
+ 49d62886b05d Downloading [>                                                  ]  127.4kB/12.6MB
+ 65f76e1fcfb8 Pull complete 
+ 65f76e1fcfb8 Pull complete 
+ 4c12d8506f4e Extracting [==================================================>]     217B/217B
+ 4c12d8506f4e Extracting [==================================================>]     217B/217B
+ 4c12d8506f4e Extracting [==================================================>]     217B/217B
+ 4c12d8506f4e Extracting [==================================================>]     217B/217B
+ 4c12d8506f4e Pull complete 
+ 4c12d8506f4e Pull complete 
+ ebfdaa44630c Downloading [==================================================>]     485B/485B
+ ebfdaa44630c Verifying Checksum 
+ ebfdaa44630c Download complete 
+ ebfdaa44630c Downloading [==================================================>]     485B/485B
+ ebfdaa44630c Verifying Checksum 
+ ebfdaa44630c Download complete 
+ 49d62886b05d Downloading [===============>                                   ]  3.805MB/12.6MB
+ 49d62886b05d Downloading [===============>                                   ]  3.805MB/12.6MB
+ 49d62886b05d Downloading [=========================>                         ]  6.345MB/12.6MB
+ 49d62886b05d Downloading [=========================>                         ]  6.345MB/12.6MB
+ a28ed2116ab8 Downloading [>                                                  ]  135.8kB/13.26MB
+ a28ed2116ab8 Downloading [>                                                  ]  135.8kB/13.26MB
+ 49d62886b05d Downloading [============================>                      ]  7.279MB/12.6MB
+ 49d62886b05d Downloading [============================>                      ]  7.279MB/12.6MB
+ a28ed2116ab8 Downloading [====================================>              ]  9.771MB/13.26MB
+ a28ed2116ab8 Downloading [====================================>              ]  9.771MB/13.26MB
+ a28ed2116ab8 Verifying Checksum 
+ a28ed2116ab8 Download complete 
+ a28ed2116ab8 Download complete 
+ 49d62886b05d Downloading [============================================>      ]  11.33MB/12.6MB
+ 49d62886b05d Downloading [============================================>      ]  11.33MB/12.6MB
+ 49d62886b05d Verifying Checksum 
+ 49d62886b05d Download complete 
+ 49d62886b05d Verifying Checksum 
+ 49d62886b05d Download complete 
+ 49d62886b05d Extracting [>                                                  ]  131.1kB/12.6MB
+ 49d62886b05d Extracting [>                                                  ]  131.1kB/12.6MB
+ 05adb60afa17 Downloading [===================>                               ]     934B/2.449kB
+ 05adb60afa17 Downloading [===================>                               ]     934B/2.449kB
+ 05adb60afa17 Downloading [==================================================>]  2.449kB/2.449kB
+ 05adb60afa17 Verifying Checksum 
+ 05adb60afa17 Download complete 
+ 05adb60afa17 Verifying Checksum 
+ 05adb60afa17 Download complete 
+ 49d62886b05d Extracting [==================================================>]   12.6MB/12.6MB
+ 49d62886b05d Extracting [==================================================>]   12.6MB/12.6MB
+ 49d62886b05d Pull complete 
+ 49d62886b05d Pull complete 
+ ebfdaa44630c Extracting [==================================================>]     485B/485B
+ ebfdaa44630c Extracting [==================================================>]     485B/485B
+ ebfdaa44630c Extracting [==================================================>]     485B/485B
+ ebfdaa44630c Extracting [==================================================>]     485B/485B
+ ebfdaa44630c Pull complete 
+ ebfdaa44630c Pull complete 
+ a28ed2116ab8 Extracting [>                                                  ]  163.8kB/13.26MB
+ a28ed2116ab8 Extracting [>                                                  ]  163.8kB/13.26MB
+ a28ed2116ab8 Extracting [====================>                              ]  5.407MB/13.26MB
+ a28ed2116ab8 Extracting [====================>                              ]  5.407MB/13.26MB
+ a28ed2116ab8 Extracting [=============================>                     ]    7.7MB/13.26MB
+ a28ed2116ab8 Extracting [=============================>                     ]    7.7MB/13.26MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Download complete 
+ a28ed2116ab8 Extracting [===============================>                   ]  8.356MB/13.26MB
+ a28ed2116ab8 Extracting [===============================>                   ]  8.356MB/13.26MB
+ a28ed2116ab8 Extracting [==============================================>    ]  12.29MB/13.26MB
+ a28ed2116ab8 Extracting [==============================================>    ]  12.29MB/13.26MB
+ a28ed2116ab8 Extracting [==================================================>]  13.26MB/13.26MB
+ a28ed2116ab8 Extracting [==================================================>]  13.26MB/13.26MB
+ a28ed2116ab8 Extracting [==================================================>]  13.26MB/13.26MB
+ a28ed2116ab8 Extracting [==================================================>]  13.26MB/13.26MB
+ a28ed2116ab8 Pull complete 
+ a28ed2116ab8 Pull complete 
+ 05adb60afa17 Extracting [==================================================>]  2.449kB/2.449kB
+ 05adb60afa17 Extracting [==================================================>]  2.449kB/2.449kB
+ 05adb60afa17 Extracting [==================================================>]  2.449kB/2.449kB
+ 05adb60afa17 Extracting [==================================================>]  2.449kB/2.449kB
+ 05adb60afa17 Pull complete 
+ 05adb60afa17 Pull complete 
+ a145a8e5ec81 Downloading [==>                                                ]  1.008kB/19.95kB
+ a145a8e5ec81 Downloading [==>                                                ]  1.008kB/19.95kB
+ a145a8e5ec81 Downloading [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Verifying Checksum 
+ a145a8e5ec81 Download complete 
+ a145a8e5ec81 Downloading [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Verifying Checksum 
+ a145a8e5ec81 Download complete 
+ a145a8e5ec81 Extracting [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Extracting [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Extracting [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Extracting [==================================================>]  19.95kB/19.95kB
+ a145a8e5ec81 Pull complete 
+ a145a8e5ec81 Pull complete 
+ 675ba19ffb28 Downloading [=====>                                             ]     935B/9.175kB
+ 675ba19ffb28 Downloading [=====>                                             ]     935B/9.175kB
+ 675ba19ffb28 Verifying Checksum 
+ 675ba19ffb28 Downloading [==================================================>]  9.175kB/9.175kB
+ 675ba19ffb28 Verifying Checksum 
+ 675ba19ffb28 Download complete 
+ 675ba19ffb28 Download complete 
+ 14a2e85a76a0 Downloading [==>                                                ]     933B/19.95kB
+ 14a2e85a76a0 Downloading [==>                                                ]     933B/19.95kB
+ 14a2e85a76a0 Downloading [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Verifying Checksum 
+ 14a2e85a76a0 Download complete 
+ 14a2e85a76a0 Downloading [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Verifying Checksum 
+ 14a2e85a76a0 Download complete 
+ 14a2e85a76a0 Extracting [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Extracting [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Extracting [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Extracting [==================================================>]  19.95kB/19.95kB
+ 14a2e85a76a0 Pull complete 
+ 14a2e85a76a0 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 675ba19ffb28 Extracting [==================================================>]  9.175kB/9.175kB
+ 675ba19ffb28 Extracting [==================================================>]  9.175kB/9.175kB
+ 675ba19ffb28 Extracting [==================================================>]  9.175kB/9.175kB
+ 675ba19ffb28 Extracting [==================================================>]  9.175kB/9.175kB
+ 675ba19ffb28 Pull complete 
+ 675ba19ffb28 Pull complete 
+ c1a283eb5e03 Downloading [==================================================>]     376B/376B
+ c1a283eb5e03 Downloading [==================================================>]     376B/376B
+ c1a283eb5e03 Verifying Checksum 
+ c1a283eb5e03 Verifying Checksum 
+ c1a283eb5e03 Download complete 
+ c1a283eb5e03 Download complete 
+ c1a283eb5e03 Extracting [==================================================>]     376B/376B
+ c1a283eb5e03 Extracting [==================================================>]     376B/376B
+ c1a283eb5e03 Extracting [==================================================>]     376B/376B
+ c1a283eb5e03 Extracting [==================================================>]     376B/376B
+ c1a283eb5e03 Pull complete 
+ c1a283eb5e03 Pull complete 
+ e6348da55f95 Downloading [====================================>              ]  1.009kB/1.386kB
+ e6348da55f95 Downloading [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Verifying Checksum 
+ e6348da55f95 Download complete 
+ e6348da55f95 Downloading [====================================>              ]  1.009kB/1.386kB
+ e6348da55f95 Downloading [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Verifying Checksum 
+ e6348da55f95 Download complete 
+ f486b1b18d16 Downloading [==================================================>]     357B/357B
+ f486b1b18d16 Verifying Checksum 
+ f486b1b18d16 Download complete 
+ f486b1b18d16 Download complete 
+ f486b1b18d16 Extracting [==================================================>]     357B/357B
+ f486b1b18d16 Extracting [==================================================>]     357B/357B
+ f486b1b18d16 Extracting [==================================================>]     357B/357B
+ f486b1b18d16 Extracting [==================================================>]     357B/357B
+ f486b1b18d16 Pull complete 
+ f486b1b18d16 Pull complete 
+ e6348da55f95 Extracting [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Extracting [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Extracting [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Extracting [==================================================>]  1.386kB/1.386kB
+ e6348da55f95 Pull complete 
+ e6348da55f95 Pull complete 
+ 4e48dde93f77 Downloading [>                                                  ]  8.214kB/748.7kB
+ 4e48dde93f77 Downloading [>                                                  ]  8.214kB/748.7kB
+ 1201c6a17bc7 Downloading [==================================================>]     338B/338B
+ 1201c6a17bc7 Downloading [==================================================>]     338B/338B
+ 1201c6a17bc7 Download complete 
+ a7945d6603eb Downloading [==================================================>]     979B/979B
+ a7945d6603eb Verifying Checksum 
+ a7945d6603eb Download complete 
+ a7945d6603eb Downloading [==================================================>]     979B/979B
+ a7945d6603eb Verifying Checksum 
+ a7945d6603eb Download complete 
+ 4e48dde93f77 Downloading [===>                                               ]  49.22kB/748.7kB
+ 4e48dde93f77 Downloading [===>                                               ]  49.22kB/748.7kB
+ 4e48dde93f77 Downloading [=========>                                         ]  139.4kB/748.7kB
+ 4e48dde93f77 Downloading [=========>                                         ]  139.4kB/748.7kB
+ 4e48dde93f77 Downloading [==============>                                    ]  217.6kB/748.7kB
+ 4e48dde93f77 Downloading [==============>                                    ]  217.6kB/748.7kB
+ 4e48dde93f77 Downloading [===========================>                       ]  413.7kB/748.7kB
+ 4e48dde93f77 Downloading [===========================>                       ]  413.7kB/748.7kB
+ 4e48dde93f77 Downloading [============================================>      ]  659.5kB/748.7kB
+ 4e48dde93f77 Downloading [============================================>      ]  659.5kB/748.7kB
+ 4e48dde93f77 Verifying Checksum 
+ 4e48dde93f77 Download complete 
+ 4e48dde93f77 Download complete 
+ 4e48dde93f77 Extracting [==>                                                ]  32.77kB/748.7kB
+ 4e48dde93f77 Extracting [==>                                                ]  32.77kB/748.7kB
+ 4e48dde93f77 Extracting [==================================================>]  748.7kB/748.7kB
+ 4e48dde93f77 Extracting [==================================================>]  748.7kB/748.7kB
+ 4e48dde93f77 Extracting [==================================================>]  748.7kB/748.7kB
+ 4e48dde93f77 Extracting [==================================================>]  748.7kB/748.7kB
+ 4e48dde93f77 Pull complete 
+ 4e48dde93f77 Pull complete 
+ a7945d6603eb Extracting [==================================================>]     979B/979B
+ a7945d6603eb Extracting [==================================================>]     979B/979B
+ a7945d6603eb Extracting [==================================================>]     979B/979B
+ a7945d6603eb Extracting [==================================================>]     979B/979B
+ a7945d6603eb Pull complete 
+ a7945d6603eb Pull complete 
+ 1201c6a17bc7 Extracting [==================================================>]     338B/338B
+ 1201c6a17bc7 Extracting [==================================================>]     338B/338B
+ 1201c6a17bc7 Extracting [==================================================>]     338B/338B
+ 1201c6a17bc7 Extracting [==================================================>]     338B/338B
+ 1201c6a17bc7 Pull complete 
+ 1201c6a17bc7 Pull complete 
+ e33bc039fdb9 Downloading [======>                                            ]  1.009kB/7.526kB
+ e33bc039fdb9 Downloading [======>                                            ]  1.009kB/7.526kB
+ e33bc039fdb9 Downloading [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Verifying Checksum 
+ e33bc039fdb9 Download complete 
+ e33bc039fdb9 Downloading [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Verifying Checksum 
+ e33bc039fdb9 Download complete 
+ fdd6a747b290 Downloading [>                                                  ]  6.845kB/571.8kB
+ fdd6a747b290 Downloading [>                                                  ]  6.845kB/571.8kB
+ fdd6a747b290 Verifying Checksum 
+ fdd6a747b290 Download complete 
+ fdd6a747b290 Verifying Checksum 
+ fdd6a747b290 Download complete 
+ fdd6a747b290 Extracting [==>                                                ]  32.77kB/571.8kB
+ fdd6a747b290 Extracting [==>                                                ]  32.77kB/571.8kB
+ fdd6a747b290 Extracting [==================================================>]  571.8kB/571.8kB
+ fdd6a747b290 Extracting [==================================================>]  571.8kB/571.8kB
+ fdd6a747b290 Extracting [==================================================>]  571.8kB/571.8kB
+ fdd6a747b290 Extracting [==================================================>]  571.8kB/571.8kB
+ fdd6a747b290 Pull complete 
+ fdd6a747b290 Pull complete 
+ e33bc039fdb9 Extracting [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Extracting [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Extracting [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Extracting [==================================================>]  7.526kB/7.526kB
+ e33bc039fdb9 Pull complete 
+ e33bc039fdb9 Pull complete 
+ 79e747bab09c Downloading [==================================================>]     111B/111B
+ 79e747bab09c Verifying Checksum 
+ 79e747bab09c Downloading [==================================================>]     111B/111B
+ 79e747bab09c Verifying Checksum 
+ 79e747bab09c Extracting [==================================================>]     111B/111B
+ 79e747bab09c Extracting [==================================================>]     111B/111B
+ 79e747bab09c Extracting [==================================================>]     111B/111B
+ 79e747bab09c Extracting [==================================================>]     111B/111B
+ 79e747bab09c Pull complete 
+ 79e747bab09c Pull complete 
+ 1d3f8ec12dfc Downloading [==================================================>]     934B/934B
+ 1d3f8ec12dfc Verifying Checksum 
+ 1d3f8ec12dfc Download complete 
+ back2 Pulled 
+ back1 Pulled 
+ d5b530a34a00 Downloading [>                                                  ]   35.6kB/3.461MB
+ d5b530a34a00 Downloading [=>                                                 ]   71.6kB/3.461MB
+ d5b530a34a00 Downloading [==>                                                ]  144.2kB/3.461MB
+ 6f64fb4c0842 Downloading [==================================================>]     217B/217B
+ 6f64fb4c0842 Verifying Checksum 
+ 6f64fb4c0842 Download complete 
+ d5b530a34a00 Downloading [===>                                               ]  266.3kB/3.461MB
+ d5b530a34a00 Downloading [=======>                                           ]  512.1kB/3.461MB
+ d5b530a34a00 Downloading [=============>                                     ]  905.3kB/3.461MB
+ d5b530a34a00 Downloading [=======================>                           ]  1.643MB/3.461MB
+ 8acdc3f01517 Downloading [==================================================>]     488B/488B
+ 8acdc3f01517 Verifying Checksum 
+ 8acdc3f01517 Download complete 
+ d5b530a34a00 Downloading [==========================================>        ]  2.959MB/3.461MB
+ d5b530a34a00 Verifying Checksum 
+ d5b530a34a00 Download complete 
+ d5b530a34a00 Extracting [>                                                  ]  65.54kB/3.461MB
+ d5b530a34a00 Extracting [==================================================>]  3.461MB/3.461MB
+ d5b530a34a00 Extracting [==================================================>]  3.461MB/3.461MB
+ d5b530a34a00 Pull complete 
+ 1d3f8ec12dfc Extracting [==================================================>]     934B/934B
+ 1d3f8ec12dfc Extracting [==================================================>]     934B/934B
+ 1d3f8ec12dfc Pull complete 
+ 6f64fb4c0842 Extracting [==================================================>]     217B/217B
+ 6f64fb4c0842 Extracting [==================================================>]     217B/217B
+ 6f64fb4c0842 Pull complete 
+ ea23fde5c86d Downloading [>                                                  ]  127.9kB/12.6MB
+ ed337d338095 Downloading [>                                                  ]    177kB/17.41MB
+ ed337d338095 Verifying Checksum 
+ ed337d338095 Download complete 
+ ea23fde5c86d Downloading [=>                                                 ]  262.1kB/12.6MB
+ ea23fde5c86d Downloading [==>                                                ]  524.3kB/12.6MB
+ ea23fde5c86d Downloading [====>                                              ]  1.049MB/12.6MB
+ ea23fde5c86d Downloading [=======>                                           ]  1.966MB/12.6MB
+ 60c05f1f875d Downloading [==>                                                ]     932B/19.95kB
+ 60c05f1f875d Verifying Checksum 
+ 60c05f1f875d Download complete 
+ 5ccc3a882f29 Downloading [====================>                              ]  1.009kB/2.448kB
+ 5ccc3a882f29 Downloading [==================================================>]  2.448kB/2.448kB
+ 5ccc3a882f29 Verifying Checksum 
+ 5ccc3a882f29 Download complete 
+ ea23fde5c86d Downloading [==============>                                    ]  3.697MB/12.6MB
+ ea23fde5c86d Downloading [=========================>                         ]  6.463MB/12.6MB
+ ea23fde5c86d Downloading [==============================>                    ]  7.791MB/12.6MB
+ ea23fde5c86d Downloading [===============================================>   ]  12.05MB/12.6MB
+ ea23fde5c86d Verifying Checksum 
+ ea23fde5c86d Download complete 
+ ea23fde5c86d Extracting [>                                                  ]  131.1kB/12.6MB
+ 49e823099e6b Downloading [==>                                                ]     932B/19.95kB
+ 49e823099e6b Downloading [==================================================>]  19.95kB/19.95kB
+ 49e823099e6b Verifying Checksum 
+ 49e823099e6b Download complete 
+ ea23fde5c86d Extracting [==================================================>]   12.6MB/12.6MB
+ ea23fde5c86d Pull complete 
+ 8acdc3f01517 Extracting [==================================================>]     488B/488B
+ 8acdc3f01517 Extracting [==================================================>]     488B/488B
+ 8acdc3f01517 Pull complete 
+ ed337d338095 Extracting [>                                                  ]  196.6kB/17.41MB
+ ed337d338095 Extracting [=================>                                 ]  6.095MB/17.41MB
+ ed337d338095 Extracting [=============================>                     ]  10.42MB/17.41MB
+ ed337d338095 Extracting [==========================================>        ]  14.75MB/17.41MB
+ ed337d338095 Extracting [===============================================>   ]  16.52MB/17.41MB
+ a8a248099f6a Downloading [==>                                                ]  1.008kB/19.78kB
+ a8a248099f6a Downloading [==================================================>]  19.78kB/19.78kB
+ a8a248099f6a Download complete 
+ ed337d338095 Extracting [==================================================>]  17.41MB/17.41MB
+ ed337d338095 Pull complete 
+ 5ccc3a882f29 Extracting [==================================================>]  2.448kB/2.448kB
+ 5ccc3a882f29 Extracting [==================================================>]  2.448kB/2.448kB
+ 5ccc3a882f29 Pull complete 
+ 60c05f1f875d Extracting [==================================================>]  19.95kB/19.95kB
+ 60c05f1f875d Extracting [==================================================>]  19.95kB/19.95kB
+ 60c05f1f875d Pull complete 
+ 49e823099e6b Extracting [==================================================>]  19.95kB/19.95kB
+ 49e823099e6b Extracting [==================================================>]  19.95kB/19.95kB
+ 49e823099e6b Pull complete 
+ a8a248099f6a Extracting [==================================================>]  19.78kB/19.78kB
+ a8a248099f6a Extracting [==================================================>]  19.78kB/19.78kB
+ a8a248099f6a Pull complete 
+ 5c06bdcb7afe Download complete 
+ 5c06bdcb7afe Extracting [==================================================>]      93B/93B
+ 5c06bdcb7afe Extracting [==================================================>]      93B/93B
+ 5c06bdcb7afe Pull complete 
+ 43101299b1b2 Downloading [==================================================>]     303B/303B
+ 43101299b1b2 Verifying Checksum 
+ 43101299b1b2 Download complete 
+ 43101299b1b2 Extracting [==================================================>]     303B/303B
+ 43101299b1b2 Extracting [==================================================>]     303B/303B
+ 43101299b1b2 Pull complete 
+ 08b696366178 Downloading [=====================================>             ]  1.009kB/1.331kB
+ 08b696366178 Downloading [==================================================>]  1.331kB/1.331kB
+ 08b696366178 Verifying Checksum 
+ 08b696366178 Download complete 
+ 08b696366178 Extracting [==================================================>]  1.331kB/1.331kB
+ 08b696366178 Extracting [==================================================>]  1.331kB/1.331kB
+ 08b696366178 Pull complete 
+ 2f2d7ce74007 Downloading [>                                                  ]  8.203kB/748.7kB
+ 2f2d7ce74007 Downloading [==================>                                ]  278.5kB/748.7kB
+ 2f2d7ce74007 Downloading [========================================>          ]  606.2kB/748.7kB
+ 2f2d7ce74007 Verifying Checksum 
+ 2f2d7ce74007 Download complete 
+ 2f2d7ce74007 Extracting [==>                                                ]  32.77kB/748.7kB
+ 2f2d7ce74007 Extracting [==================================================>]  748.7kB/748.7kB
+ 2f2d7ce74007 Extracting [==================================================>]  748.7kB/748.7kB
+ 2f2d7ce74007 Pull complete 
+ 1c1f79cbdd12 Downloading [==================================================>]     247B/247B
+ 1c1f79cbdd12 Download complete 
+ 1c1f79cbdd12 Extracting [==================================================>]     247B/247B
+ 1c1f79cbdd12 Extracting [==================================================>]     247B/247B
+ 1c1f79cbdd12 Pull complete 
+ 72939dea300c Downloading [==================================>                ]  1.009kB/1.455kB
+ 72939dea300c Downloading [==================================================>]  1.455kB/1.455kB
+ 72939dea300c Verifying Checksum 
+ 72939dea300c Download complete 
+ 72939dea300c Extracting [==================================================>]  1.455kB/1.455kB
+ 72939dea300c Extracting [==================================================>]  1.455kB/1.455kB
+ 72939dea300c Pull complete 
+ 6bc572a340ec Downloading [>                                                  ]  19.22kB/1.806MB
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Download complete 
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ da7c35fe64b2 Downloading [>                                                  ]  6.845kB/571.3kB
+ 403e3f251637 Pull complete 
+ da7c35fe64b2 Downloading [========================>                          ]  278.5kB/571.3kB
+ da7c35fe64b2 Downloading [==================================================>]  571.3kB/571.3kB
+ da7c35fe64b2 Verifying Checksum 
+ da7c35fe64b2 Download complete 
+ da7c35fe64b2 Extracting [==>                                                ]  32.77kB/571.3kB
+ da7c35fe64b2 Extracting [======================>                            ]  262.1kB/571.3kB
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Download complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ da7c35fe64b2 Extracting [==================================================>]  571.3kB/571.3kB
+ da7c35fe64b2 Extracting [==================================================>]  571.3kB/571.3kB
+ da7c35fe64b2 Pull complete 
+ queue Pulled 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ lb Pulled 
  Network xandao-php_backend  Creating
  Network xandao-php_backend  Created
  Container redis  Creating
  Container redis  Created
  Container queue  Creating
- Container back2  Creating
  Container back1  Creating
- Container queue  Created
- Container back2  Created
+ Container back2  Creating
  Container back1  Created
+ Container back2  Created
  Container lb  Creating
+ Container queue  Created
  Container lb  Created
 Attaching to back1, back2, lb, queue, redis
 redis  | Starting Redis Server
-redis  | 1:C 19 Aug 2025 21:32:42.186 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis  | 1:C 19 Aug 2025 21:32:42.186 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis  | 1:C 19 Aug 2025 21:32:42.186 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-redis  | 1:C 19 Aug 2025 21:32:42.186 * Configuration loaded
-redis  | 1:M 19 Aug 2025 21:32:42.187 * monotonic clock: POSIX clock_gettime
-redis  | 1:M 19 Aug 2025 21:32:42.188 * Running mode=standalone, port=6379.
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ bf-error-rate       :      0.01 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ bf-initial-size     :       100 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ bf-expansion-factor :         2 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ cf-bucket-size      :         2 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ cf-initial-size     :      1024 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ cf-max-iterations   :        20 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ cf-expansion-factor :         1 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> 	{ cf-max-expansions   :        32 }
-redis  | 1:M 19 Aug 2025 21:32:42.189 * <bf> ]
-redis  | 1:M 19 Aug 2025 21:32:42.189 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-redis  | 1:M 19 Aug 2025 21:32:42.195 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 21:32:42.195 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-redis  | 1:M 19 Aug 2025 21:32:42.195 * <search> Low level api version 1 initialized successfully
-redis  | 1:M 19 Aug 2025 21:32:42.195 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Initialized thread pools!
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Disabled workers threadpool of size 0
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Subscribe to config changes
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Enabled role change notification
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <search> Register write commands
-redis  | 1:M 19 Aug 2025 21:32:42.196 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-compaction-policy   :              }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-num-threads         :            3 }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-retention-policy    :            0 }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-duplicate-policy    :        block }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-encoding            :   compressed }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-redis  | 1:M 19 Aug 2025 21:32:42.196 * <timeseries> ]
-redis  | 1:M 19 Aug 2025 21:32:42.197 * <timeseries> Detected redis oss
-redis  | 1:M 19 Aug 2025 21:32:42.197 * <timeseries> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 21:32:42.197 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Created new data type 'ReJSON-RL'
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Exported RedisJSON_V1 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Exported RedisJSON_V2 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Exported RedisJSON_V3 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Exported RedisJSON_V4 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Exported RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <ReJSON> Initialized shared string cache, thread safe: false.
-redis  | 1:M 19 Aug 2025 21:32:42.200 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-redis  | 1:M 19 Aug 2025 21:32:42.200 * <search> Acquired RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 21:32:42.200 * Server initialized
-redis  | 1:M 19 Aug 2025 21:32:42.201 * Ready to accept connections tcp
+redis  | 1:C 21 Aug 2025 20:36:26.426 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 20:36:26.426 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 20:36:26.426 * Redis version=8.2.1, bits=64, commit=00000000, modified=1, pid=1, just started
+redis  | 1:C 21 Aug 2025 20:36:26.426 * Configuration loaded
+redis  | 1:M 21 Aug 2025 20:36:26.426 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 20:36:26.426 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> RedisBloom version 8.2.0 (Git=unknown)
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ bf-error-rate       :      0.01 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ bf-initial-size     :       100 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ bf-expansion-factor :         2 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ cf-bucket-size      :         2 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ cf-initial-size     :      1024 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ cf-max-iterations   :        20 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ cf-expansion-factor :         1 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> 	{ cf-max-expansions   :        32 }
+redis  | 1:M 21 Aug 2025 20:36:26.464 * <bf> ]
+redis  | 1:M 21 Aug 2025 20:36:26.465 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Redis version found by RedisSearch : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> RediSearch version 8.2.1 (Git=dba8dd0)
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Low level api version 1 initialized successfully
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Initialized thread pools!
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Disabled workers threadpool of size 0
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Subscribe to config changes
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Enabled role change notification
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
+redis  | 1:M 21 Aug 2025 20:36:26.467 * <search> Register write commands
+redis  | 1:M 21 Aug 2025 20:36:26.467 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> Redis version found by RedisTimeSeries : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-compaction-policy   :              }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-num-threads         :            3 }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-retention-policy    :            0 }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-duplicate-policy    :        block }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-encoding            :   compressed }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> ]
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> Detected redis oss
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <timeseries> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 20:36:26.468 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
+redis  | 1:M 21 Aug 2025 20:36:26.468 * <ReJSON> Created new data type 'ReJSON-RL'
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> version: 80200 git sha: unknown branch: unknown
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Exported RedisJSON_V1 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Exported RedisJSON_V2 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Exported RedisJSON_V3 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Exported RedisJSON_V4 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Exported RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <ReJSON> Initialized shared string cache, thread safe: false.
+redis  | 1:M 21 Aug 2025 20:36:26.469 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
+redis  | 1:M 21 Aug 2025 20:36:26.469 * <search> Acquired RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 20:36:26.469 * Server initialized
+redis  | 1:M 21 Aug 2025 20:36:26.469 * Ready to accept connections tcp
 back1  | Cannot load Zend OPcache - it was already loaded
 back2  | Cannot load Zend OPcache - it was already loaded
-back2  | [19-Aug-2025 21:32:44] NOTICE: fpm is running, pid 1
-back2  | [19-Aug-2025 21:32:44] NOTICE: ready to handle connections
-back1  | [19-Aug-2025 21:32:44] NOTICE: fpm is running, pid 1
-back1  | [19-Aug-2025 21:32:44] NOTICE: ready to handle connections
+back1  | [21-Aug-2025 20:36:28] NOTICE: fpm is running, pid 1
+back1  | [21-Aug-2025 20:36:28] NOTICE: ready to handle connections
+back2  | [21-Aug-2025 20:36:28] NOTICE: fpm is running, pid 1
+back2  | [21-Aug-2025 20:36:28] NOTICE: ready to handle connections
 lb     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 lb     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -84,918 +751,251 @@ lb     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers
 lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 lb     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 lb     | /docker-entrypoint.sh: Configuration complete; ready for start up
-lb     | 2025/08/19 21:32:44 [notice] 1#1: using the "epoll" event method
-lb     | 2025/08/19 21:32:44 [notice] 1#1: nginx/1.29.0
-lb     | 2025/08/19 21:32:44 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
-lb     | 2025/08/19 21:32:44 [notice] 1#1: OS: Linux 6.14.0-1010-aws
-lb     | 2025/08/19 21:32:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
-lb     | 2025/08/19 21:32:44 [notice] 1#1: start worker processes
-lb     | 2025/08/19 21:32:44 [notice] 1#1: start worker process 21
-lb     | 2025/08/19 21:32:44 [notice] 1#1: start worker process 22
-lb     | 2025/08/19 21:32:44 [notice] 1#1: start worker process 23
-lb     | 2025/08/19 21:32:44 [notice] 1#1: start worker process 24
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:46 +0000 "GET /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:46 +0000] "GET /payments-summary HTTP/1.1" 200 105 "-" "curl/8.5.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:52 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:52 +0000] "POST /purge-payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:52 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:52 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:52 +0000 "GET /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:52 +0000] "GET /payments-summary?from=2025-08-19T21:32:37.028Z&to=2025-08-19T21:32:50.028Z HTTP/1.1" 200 105 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:52 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:52 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:53 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:53 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:53 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:53 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:53 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:53 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:53 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:53 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:54 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:54 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:55 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:55 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:56 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:56 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:57 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:57 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:58 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:58 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:32:59 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:32:59 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:00 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:00 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:01 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:01 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "GET /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "GET /payments-summary?from=2025-08-19T21:32:47.067Z&to=2025-08-19T21:33:00.067Z HTTP/1.1" 200 123 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:02 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:02 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:03 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:03 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:04 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:04 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:05 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:05 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:06 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:06 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:07 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:07 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:08 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:08 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:09 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:09 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:10 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:10 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:11 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:11 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "GET /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "GET /payments-summary?from=2025-08-19T21:32:57.070Z&to=2025-08-19T21:33:10.070Z HTTP/1.1" 200 123 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back1  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
-back2  | 172.20.0.6 -  19/Aug/2025:21:33:12 +0000 "POST /index.php" 200
-lb     | 172.19.0.1 - - [19/Aug/2025:21:33:12 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.1.0" "-"
+lb     | 2025/08/21 20:36:29 [notice] 1#1: using the "epoll" event method
+lb     | 2025/08/21 20:36:29 [notice] 1#1: nginx/1.29.1
+lb     | 2025/08/21 20:36:29 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+lb     | 2025/08/21 20:36:29 [notice] 1#1: OS: Linux 6.12.41+deb13-cloud-amd64
+lb     | 2025/08/21 20:36:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1073741816:1073741816
+lb     | 2025/08/21 20:36:29 [notice] 1#1: start worker processes
+lb     | 2025/08/21 20:36:29 [notice] 1#1: start worker process 21
+lb     | 2025/08/21 20:36:29 [notice] 1#1: start worker process 22
+lb     | 2025/08/21 20:36:29 [notice] 1#1: start worker process 23
+lb     | 2025/08/21 20:36:29 [notice] 1#1: start worker process 24
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:31 +0000 "GET /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:31 +0000] "GET /payments-summary HTTP/1.1" 200 105 "-" "curl/8.14.1" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:40 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:40 +0000] "POST /purge-payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:40 +0000 "GET /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:40 +0000] "GET /payments-summary?from=2025-08-21T20:36:25.692Z&to=2025-08-21T20:36:38.692Z HTTP/1.1" 200 105 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:40 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:40 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:41 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:41 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:41 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:41 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:41 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:41 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:42 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:42 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:42 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:42 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:42 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:42 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:42 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:42 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:42 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:42 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:43 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:43 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:44 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:44 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:45 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:45 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:46 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:46 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:47 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:47 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:48 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:48 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:49 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:49 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back2  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
+lb     | 172.18.0.1 - - [21/Aug/2025:20:36:50 +0000] "POST /payments HTTP/1.1" 200 5 "-" "Grafana k6/1.2.2" "-"
+back1  | 172.20.0.6 -  21/Aug/2025:20:36:50 +0000 "POST /index.php" 200
 log truncated at line 1000

@@ -1,102 +1,731 @@
 
-time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-2025/participantes/raphaeldiasc21-nodejs/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2025-08-21T17:20:40Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/raphaeldiasc21-nodejs/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ nginx Pulling 
  app1 Pulling 
+ redis Pulling 
+ mongodb Pulling 
  app2 Pulling 
- f014853ae203 Already exists 
- 6d6401b7636b Already exists 
- cffef7dc6f99 Already exists 
- 1e6ffe3614ab Already exists 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ 6f34ca96de3f Waiting 
+ 4f4fb700ef54 Waiting 
+ 63edde0222ea Waiting 
+ f22261c94fe4 Waiting 
+ b71466b94f26 Pulling fs layer 
+ e701e7c9324a Pulling fs layer 
+ f1102db351d8 Pulling fs layer 
+ d713d16a8043 Pulling fs layer 
+ cb52df844465 Pulling fs layer 
+ 578438e6cda5 Pulling fs layer 
+ 0a07b2b41243 Pulling fs layer 
+ 91469349d2c2 Pulling fs layer 
+ f1102db351d8 Waiting 
+ d713d16a8043 Waiting 
+ cb52df844465 Waiting 
+ 578438e6cda5 Waiting 
+ 0a07b2b41243 Waiting 
+ 91469349d2c2 Waiting 
+ b71466b94f26 Waiting 
+ e701e7c9324a Waiting 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ a2da0c0f2353 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14a859b5ba24 Waiting 
+ f014853ae203 Pulling fs layer 
+ 6d6401b7636b Pulling fs layer 
+ cffef7dc6f99 Pulling fs layer 
+ 1e6ffe3614ab Pulling fs layer 
+ 0424d66cc45d Pulling fs layer 
+ f014853ae203 Waiting 
+ e6931704a864 Pulling fs layer 
+ fd5f28d2ecab Pulling fs layer 
+ 6d6401b7636b Waiting 
+ cffef7dc6f99 Waiting 
+ 2b5f5b1e055d Pulling fs layer 
+ 1e6ffe3614ab Waiting 
+ 64de6d9bc819 Pulling fs layer 
+ 0424d66cc45d Waiting 
+ e6931704a864 Waiting 
+ 061d984ee7cc Pulling fs layer 
+ fd5f28d2ecab Waiting 
+ 2b5f5b1e055d Waiting 
+ 1d7107778607 Pulling fs layer 
+ 64de6d9bc819 Waiting 
+ 061d984ee7cc Waiting 
+ 1d7107778607 Waiting 
+ e51f60c71d8e Downloading [===============================================>   ]  1.049kB/1.103kB
+ e51f60c71d8e Downloading [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Verifying Checksum 
+ e51f60c71d8e Download complete 
+ 311d9cf20af5 Downloading [==================================================>]     876B/876B
+ 311d9cf20af5 Verifying Checksum 
+ 311d9cf20af5 Download complete 
+ f014853ae203 Pulling fs layer 
+ 6d6401b7636b Pulling fs layer 
+ cffef7dc6f99 Pulling fs layer 
+ 1e6ffe3614ab Pulling fs layer 
  0424d66cc45d Pulling fs layer 
  e6931704a864 Pulling fs layer 
  fd5f28d2ecab Pulling fs layer 
  2b5f5b1e055d Pulling fs layer 
  64de6d9bc819 Pulling fs layer 
  061d984ee7cc Pulling fs layer 
+ 6d6401b7636b Waiting 
  1d7107778607 Pulling fs layer 
+ f014853ae203 Waiting 
+ e6931704a864 Waiting 
+ 1d7107778607 Waiting 
+ cffef7dc6f99 Waiting 
+ fd5f28d2ecab Waiting 
+ 1e6ffe3614ab Waiting 
+ 2b5f5b1e055d Waiting 
+ 0424d66cc45d Waiting 
  64de6d9bc819 Waiting 
  061d984ee7cc Waiting 
- 1d7107778607 Waiting 
- 2b5f5b1e055d Waiting 
- f014853ae203 Already exists 
- 6d6401b7636b Already exists 
- cffef7dc6f99 Already exists 
+ f22261c94fe4 Downloading [>                                                  ]  245.8kB/24.19MB
+ 6f34ca96de3f Download complete 
+ f22261c94fe4 Downloading [=============>                                     ]  6.472MB/24.19MB
+ f22261c94fe4 Downloading [=======================>                           ]  11.44MB/24.19MB
+ f22261c94fe4 Downloading [=================================>                 ]  16.17MB/24.19MB
+ f22261c94fe4 Downloading [============================================>      ]  21.46MB/24.19MB
+ f22261c94fe4 Verifying Checksum 
+ f22261c94fe4 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
+ 63edde0222ea Downloading [========================>                          ]  1.049kB/2.117kB
+ 63edde0222ea Downloading [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Verifying Checksum 
+ 63edde0222ea Download complete 
+ b71466b94f26 Downloading [>                                                  ]  310.9kB/29.72MB
+ b71466b94f26 Downloading [===========>                                       ]  6.767MB/29.72MB
+ b71466b94f26 Downloading [====================>                              ]  11.96MB/29.72MB
+ b71466b94f26 Downloading [============================>                      ]  17.14MB/29.72MB
+ e701e7c9324a Downloading [==================================================>]  1.216kB/1.216kB
+ e701e7c9324a Verifying Checksum 
+ b71466b94f26 Downloading [====================================>              ]  21.43MB/29.72MB
+ b71466b94f26 Downloading [============================================>      ]   26.3MB/29.72MB
+ b71466b94f26 Verifying Checksum 
+ b71466b94f26 Download complete 
+ b71466b94f26 Extracting [>                                                  ]  327.7kB/29.72MB
+ b71466b94f26 Extracting [=========>                                         ]  5.571MB/29.72MB
+ b71466b94f26 Extracting [==============>                                    ]   8.52MB/29.72MB
+ f1102db351d8 Downloading [>                                                  ]  16.11kB/1.509MB
+ b71466b94f26 Extracting [===================>                               ]   11.8MB/29.72MB
+ f1102db351d8 Verifying Checksum 
+ f1102db351d8 Download complete 
+ b71466b94f26 Extracting [=================================>                 ]  19.66MB/29.72MB
+ d713d16a8043 Downloading [>                                                  ]  12.32kB/1.131MB
+ b71466b94f26 Extracting [==========================================>        ]  25.23MB/29.72MB
+ d713d16a8043 Verifying Checksum 
+ d713d16a8043 Download complete 
+ b71466b94f26 Extracting [==========================================>        ]  25.56MB/29.72MB
+ b71466b94f26 Extracting [==============================================>    ]  27.85MB/29.72MB
+ cb52df844465 Downloading [==================================================>]     116B/116B
+ cb52df844465 Verifying Checksum 
+ cb52df844465 Download complete 
+ b71466b94f26 Extracting [=================================================> ]  29.49MB/29.72MB
+ b71466b94f26 Extracting [==================================================>]  29.72MB/29.72MB
+ 578438e6cda5 Downloading [==================================================>]     263B/263B
+ 578438e6cda5 Download complete 
+ b71466b94f26 Pull complete 
+ e701e7c9324a Extracting [==================================================>]  1.216kB/1.216kB
+ e701e7c9324a Extracting [==================================================>]  1.216kB/1.216kB
+ e701e7c9324a Pull complete 
+ f1102db351d8 Extracting [=>                                                 ]  32.77kB/1.509MB
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ f1102db351d8 Extracting [===========================================>       ]  1.311MB/1.509MB
+ f1102db351d8 Extracting [==================================================>]  1.509MB/1.509MB
+ f1102db351d8 Pull complete 
+ d713d16a8043 Extracting [=>                                                 ]  32.77kB/1.131MB
+ d713d16a8043 Extracting [==================================================>]  1.131MB/1.131MB
+ d713d16a8043 Extracting [==================================================>]  1.131MB/1.131MB
+ d713d16a8043 Pull complete 
+ cb52df844465 Extracting [==================================================>]     116B/116B
+ cb52df844465 Extracting [==================================================>]     116B/116B
+ cb52df844465 Pull complete 
+ 578438e6cda5 Extracting [==================================================>]     263B/263B
+ 578438e6cda5 Extracting [==================================================>]     263B/263B
+ 578438e6cda5 Pull complete 
+ 0a07b2b41243 Downloading [>                                                  ]  536.6kB/263.6MB
+ 0a07b2b41243 Downloading [=>                                                 ]  6.963MB/263.6MB
+ 91469349d2c2 Downloading [==========>                                        ]  1.049kB/5.003kB
+ 91469349d2c2 Downloading [==================================================>]  5.003kB/5.003kB
+ 91469349d2c2 Verifying Checksum 
+ 91469349d2c2 Download complete 
+ 0a07b2b41243 Downloading [==>                                                ]  10.72MB/263.6MB
+ 0a07b2b41243 Downloading [===>                                               ]   16.6MB/263.6MB
+ 0a07b2b41243 Downloading [===>                                               ]  20.34MB/263.6MB
+ 0a07b2b41243 Downloading [====>                                              ]  25.15MB/263.6MB
+ 0a07b2b41243 Downloading [=====>                                             ]  27.82MB/263.6MB
+ 0a07b2b41243 Downloading [=====>                                             ]  31.01MB/263.6MB
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ 0a07b2b41243 Downloading [======>                                            ]  34.19MB/263.6MB
+ a2da0c0f2353 Downloading [===>                                               ]  2.687MB/44.07MB
+ 0a07b2b41243 Downloading [=======>                                           ]  38.99MB/263.6MB
+ a2da0c0f2353 Downloading [======>                                            ]  5.362MB/44.07MB
+ 0a07b2b41243 Downloading [========>                                          ]   42.2MB/263.6MB
+ a2da0c0f2353 Downloading [=======>                                           ]  6.259MB/44.07MB
+ b1badc6e5066 Downloading [=>                                                 ]  589.8kB/28.23MB
+ b1badc6e5066 Downloading [=>                                                 ]  589.8kB/28.23MB
+ 0a07b2b41243 Downloading [=========>                                         ]  47.56MB/263.6MB
+ 0a07b2b41243 Downloading [=========>                                         ]  50.75MB/263.6MB
+ 0a07b2b41243 Downloading [==========>                                        ]  53.97MB/263.6MB
+ a2da0c0f2353 Downloading [===========>                                       ]   9.83MB/44.07MB
+ 0a07b2b41243 Downloading [===========>                                       ]   58.8MB/263.6MB
+ a2da0c0f2353 Downloading [===============>                                   ]  13.39MB/44.07MB
+ 0a07b2b41243 Downloading [===========>                                       ]  60.93MB/263.6MB
+ a2da0c0f2353 Downloading [=================>                                 ]  15.63MB/44.07MB
+ 0a07b2b41243 Downloading [============>                                      ]  64.15MB/263.6MB
+ a2da0c0f2353 Downloading [===================>                               ]   17.4MB/44.07MB
+ 0a07b2b41243 Downloading [============>                                      ]  68.42MB/263.6MB
+ 0a07b2b41243 Downloading [=============>                                     ]  71.12MB/263.6MB
+ a2da0c0f2353 Downloading [========================>                          ]   21.4MB/44.07MB
+ 0a07b2b41243 Downloading [==============>                                    ]  74.32MB/263.6MB
+ 0a07b2b41243 Downloading [==============>                                    ]  78.59MB/263.6MB
+ a2da0c0f2353 Downloading [============================>                      ]   25.4MB/44.07MB
+ 0a07b2b41243 Downloading [===============>                                   ]  81.81MB/263.6MB
+ a2da0c0f2353 Downloading [================================>                  ]  28.49MB/44.07MB
+ 0a07b2b41243 Downloading [================>                                  ]  86.62MB/263.6MB
+ a2da0c0f2353 Downloading [================================>                  ]  28.93MB/44.07MB
+ 0a07b2b41243 Downloading [=================>                                 ]  90.35MB/263.6MB
+ a2da0c0f2353 Downloading [===================================>               ]  31.59MB/44.07MB
+ 0a07b2b41243 Downloading [=================>                                 ]  93.59MB/263.6MB
+ a2da0c0f2353 Downloading [======================================>            ]  34.28MB/44.07MB
+ 0a07b2b41243 Downloading [==================>                                ]  96.26MB/263.6MB
+ a2da0c0f2353 Downloading [========================================>          ]  35.62MB/44.07MB
+ 0a07b2b41243 Downloading [===================>                               ]  100.5MB/263.6MB
+ b1badc6e5066 Downloading [=>                                                 ]  884.7kB/28.23MB
+ b1badc6e5066 Downloading [=>                                                 ]  884.7kB/28.23MB
+ a2da0c0f2353 Downloading [=============================================>     ]  40.53MB/44.07MB
+ 0a07b2b41243 Downloading [===================>                               ]  104.3MB/263.6MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 0a07b2b41243 Downloading [====================>                              ]  109.1MB/263.6MB
+ 0a07b2b41243 Downloading [=====================>                             ]  112.8MB/263.6MB
+ 0a07b2b41243 Downloading [======================>                            ]  118.2MB/263.6MB
+ 0a07b2b41243 Downloading [======================>                            ]  120.8MB/263.6MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ 0a07b2b41243 Downloading [=======================>                           ]  124.1MB/263.6MB
+ 0a07b2b41243 Downloading [=======================>                           ]  124.6MB/263.6MB
+ 0a07b2b41243 Downloading [========================>                          ]  128.9MB/263.6MB
+ 0a07b2b41243 Downloading [=========================>                         ]  133.1MB/263.6MB
+ 0a07b2b41243 Downloading [=========================>                         ]  135.8MB/263.6MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ 0a07b2b41243 Downloading [==========================>                        ]    138MB/263.6MB
+ 0a07b2b41243 Downloading [==========================>                        ]  139.6MB/263.6MB
+ 0a07b2b41243 Downloading [===========================>                       ]  144.4MB/263.6MB
+ b1badc6e5066 Downloading [==>                                                ]  1.171MB/28.23MB
+ b1badc6e5066 Downloading [==>                                                ]  1.171MB/28.23MB
+ 0a07b2b41243 Downloading [============================>                      ]  149.7MB/263.6MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ 0a07b2b41243 Downloading [============================>                      ]  152.4MB/263.6MB
+ 0a07b2b41243 Downloading [==============================>                    ]  159.4MB/263.6MB
+ 0a07b2b41243 Downloading [===============================>                   ]  167.4MB/263.6MB
+ 0a07b2b41243 Downloading [================================>                  ]  171.7MB/263.6MB
+ 0a07b2b41243 Downloading [=================================>                 ]  176.5MB/263.6MB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Download complete 
+ 0a07b2b41243 Downloading [==================================>                ]  180.8MB/263.6MB
+ 0a07b2b41243 Downloading [===================================>               ]  186.1MB/263.6MB
+ 0a07b2b41243 Downloading [====================================>              ]  193.6MB/263.6MB
+ 0a07b2b41243 Downloading [=====================================>             ]    199MB/263.6MB
+ 0a07b2b41243 Downloading [======================================>            ]  203.8MB/263.6MB
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ 0a07b2b41243 Downloading [=======================================>           ]  209.7MB/263.6MB
+ 0a07b2b41243 Downloading [========================================>          ]  216.1MB/263.6MB
+ 0a07b2b41243 Downloading [=========================================>         ]  220.9MB/263.6MB
+ f014853ae203 Downloading [>                                                  ]  489.9kB/48.49MB
+ f014853ae203 Downloading [>                                                  ]  489.9kB/48.49MB
+ 0a07b2b41243 Downloading [===========================================>       ]  226.8MB/263.6MB
+ f014853ae203 Downloading [=======>                                           ]    7.4MB/48.49MB
+ f014853ae203 Downloading [=======>                                           ]    7.4MB/48.49MB
+ 0a07b2b41243 Downloading [===========================================>       ]  231.6MB/263.6MB
+ f014853ae203 Downloading [=============>                                     ]  12.83MB/48.49MB
+ f014853ae203 Downloading [=============>                                     ]  12.83MB/48.49MB
+ 0a07b2b41243 Downloading [=============================================>     ]  238.5MB/263.6MB
+ f014853ae203 Downloading [=====================>                             ]  20.74MB/48.49MB
+ f014853ae203 Downloading [=====================>                             ]  20.74MB/48.49MB
+ 0a07b2b41243 Downloading [==============================================>    ]  245.5MB/263.6MB
+ 0a07b2b41243 Downloading [===============================================>   ]  252.4MB/263.6MB
+ f014853ae203 Downloading [============================>                      ]  27.17MB/48.49MB
+ f014853ae203 Downloading [============================>                      ]  27.17MB/48.49MB
+ f014853ae203 Downloading [=================================>                 ]  32.09MB/48.49MB
+ f014853ae203 Downloading [=================================>                 ]  32.09MB/48.49MB
+ 0a07b2b41243 Downloading [================================================>  ]  257.8MB/263.6MB
+ b1badc6e5066 Downloading [==>                                                ]  1.458MB/28.23MB
+ b1badc6e5066 Downloading [==>                                                ]  1.458MB/28.23MB
+ f014853ae203 Downloading [=====================================>             ]  36.05MB/48.49MB
+ f014853ae203 Downloading [=====================================>             ]  36.05MB/48.49MB
+ 0a07b2b41243 Downloading [=================================================> ]  263.1MB/263.6MB
+ 0a07b2b41243 Verifying Checksum 
+ 0a07b2b41243 Download complete 
+ 0a07b2b41243 Extracting [>                                                  ]  557.1kB/263.6MB
+ 0a07b2b41243 Extracting [=>                                                 ]   9.47MB/263.6MB
+ f014853ae203 Downloading [===========================================>       ]  42.45MB/48.49MB
+ f014853ae203 Downloading [===========================================>       ]  42.45MB/48.49MB
+ 0a07b2b41243 Extracting [==>                                                ]  10.58MB/263.6MB
+ f014853ae203 Downloading [===============================================>   ]  46.38MB/48.49MB
+ f014853ae203 Downloading [===============================================>   ]  46.38MB/48.49MB
+ 0a07b2b41243 Extracting [===>                                               ]  18.38MB/263.6MB
+ f014853ae203 Downloading [=================================================> ]  48.35MB/48.49MB
+ f014853ae203 Downloading [=================================================> ]  48.35MB/48.49MB
+ f014853ae203 Download complete 
+ f014853ae203 Download complete 
+ 0a07b2b41243 Extracting [=====>                                             ]  26.74MB/263.6MB
+ f014853ae203 Extracting [>                                                  ]  491.5kB/48.49MB
+ f014853ae203 Extracting [>                                                  ]  491.5kB/48.49MB
+ 0a07b2b41243 Extracting [======>                                            ]  33.98MB/263.6MB
+ f014853ae203 Extracting [=====>                                             ]  5.407MB/48.49MB
+ f014853ae203 Extracting [=====>                                             ]  5.407MB/48.49MB
+ 0a07b2b41243 Extracting [=======>                                           ]  41.22MB/263.6MB
+ f014853ae203 Extracting [=========>                                         ]  9.339MB/48.49MB
+ f014853ae203 Extracting [=========>                                         ]  9.339MB/48.49MB
+ 0a07b2b41243 Extracting [=========>                                         ]  49.02MB/263.6MB
+ 6d6401b7636b Downloading [>                                                  ]  245.8kB/24.02MB
+ 6d6401b7636b Downloading [>                                                  ]  245.8kB/24.02MB
+ f014853ae203 Extracting [============>                                      ]   11.8MB/48.49MB
+ f014853ae203 Extracting [============>                                      ]   11.8MB/48.49MB
+ cffef7dc6f99 Downloading [>                                                  ]  528.5kB/64.4MB
+ cffef7dc6f99 Downloading [>                                                  ]  528.5kB/64.4MB
+ 0a07b2b41243 Extracting [==========>                                        ]  55.71MB/263.6MB
+ f014853ae203 Extracting [================>                                  ]  15.73MB/48.49MB
+ f014853ae203 Extracting [================>                                  ]  15.73MB/48.49MB
+ cffef7dc6f99 Downloading [====================>                              ]   26.2MB/64.4MB
+ cffef7dc6f99 Downloading [====================>                              ]   26.2MB/64.4MB
+ 6d6401b7636b Downloading [========>                                          ]  4.211MB/24.02MB
+ 6d6401b7636b Downloading [========>                                          ]  4.211MB/24.02MB
+ 0a07b2b41243 Extracting [===========>                                       ]  60.72MB/263.6MB
+ cffef7dc6f99 Downloading [======================================>            ]  49.73MB/64.4MB
+ cffef7dc6f99 Downloading [======================================>            ]  49.73MB/64.4MB
+ f014853ae203 Extracting [====================>                              ]  20.15MB/48.49MB
+ f014853ae203 Extracting [====================>                              ]  20.15MB/48.49MB
+ 6d6401b7636b Downloading [================>                                  ]  8.163MB/24.02MB
+ 6d6401b7636b Downloading [================>                                  ]  8.163MB/24.02MB
+ 0a07b2b41243 Extracting [===========>                                       ]  62.95MB/263.6MB
+ cffef7dc6f99 Downloading [================================================>  ]  62.05MB/64.4MB
+ cffef7dc6f99 Downloading [================================================>  ]  62.05MB/64.4MB
+ f014853ae203 Extracting [========================>                          ]  23.59MB/48.49MB
+ f014853ae203 Extracting [========================>                          ]  23.59MB/48.49MB
+ cffef7dc6f99 Verifying Checksum 
+ cffef7dc6f99 Download complete 
+ cffef7dc6f99 Verifying Checksum 
+ cffef7dc6f99 Download complete 
+ 6d6401b7636b Downloading [===========================>                       ]  13.33MB/24.02MB
+ 6d6401b7636b Downloading [===========================>                       ]  13.33MB/24.02MB
+ 6d6401b7636b Downloading [==================================>                ]   16.8MB/24.02MB
+ 6d6401b7636b Downloading [==================================>                ]   16.8MB/24.02MB
+ 0a07b2b41243 Extracting [============>                                      ]  64.62MB/263.6MB
+ f014853ae203 Extracting [========================>                          ]  24.08MB/48.49MB
+ f014853ae203 Extracting [========================>                          ]  24.08MB/48.49MB
+ 6d6401b7636b Downloading [============================================>      ]  21.24MB/24.02MB
+ 6d6401b7636b Downloading [============================================>      ]  21.24MB/24.02MB
+ 0a07b2b41243 Extracting [=============>                                     ]  69.07MB/263.6MB
+ f014853ae203 Extracting [===========================>                       ]  27.03MB/48.49MB
+ f014853ae203 Extracting [===========================>                       ]  27.03MB/48.49MB
+ 6d6401b7636b Verifying Checksum 
+ 6d6401b7636b Verifying Checksum 
+ 6d6401b7636b Download complete 
+ 6d6401b7636b Download complete 
+ 0a07b2b41243 Extracting [==============>                                    ]  78.54MB/263.6MB
+ 1e6ffe3614ab Downloading [>                                                  ]  530.9kB/211.4MB
+ 1e6ffe3614ab Downloading [>                                                  ]  530.9kB/211.4MB
+ f014853ae203 Extracting [================================>                  ]  31.46MB/48.49MB
+ f014853ae203 Extracting [================================>                  ]  31.46MB/48.49MB
+ 0a07b2b41243 Extracting [================>                                  ]  88.01MB/263.6MB
+ 1e6ffe3614ab Downloading [==>                                                ]  10.15MB/211.4MB
+ 1e6ffe3614ab Downloading [==>                                                ]  10.15MB/211.4MB
+ f014853ae203 Extracting [===================================>               ]   34.9MB/48.49MB
+ f014853ae203 Extracting [===================================>               ]   34.9MB/48.49MB
+ 0a07b2b41243 Extracting [==================>                                ]  97.48MB/263.6MB
+ 1e6ffe3614ab Downloading [===>                                               ]  16.56MB/211.4MB
+ 1e6ffe3614ab Downloading [===>                                               ]  16.56MB/211.4MB
+ f014853ae203 Extracting [=======================================>           ]  37.85MB/48.49MB
+ f014853ae203 Extracting [=======================================>           ]  37.85MB/48.49MB
+ 0a07b2b41243 Extracting [====================>                              ]  106.4MB/263.6MB
+ 0424d66cc45d Downloading [==============>                                    ]     934B/3.324kB
  0424d66cc45d Downloading [==================================================>]  3.324kB/3.324kB
  0424d66cc45d Verifying Checksum 
- 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
- 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
- 1e6ffe3614ab Already exists 
- 0424d66cc45d Pulling fs layer 
- e6931704a864 Pulling fs layer 
- fd5f28d2ecab Pulling fs layer 
- 2b5f5b1e055d Pulling fs layer 
- 64de6d9bc819 Pulling fs layer 
- 061d984ee7cc Pulling fs layer 
- 1d7107778607 Pulling fs layer 
- 1d7107778607 Waiting 
- 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
- 64de6d9bc819 Waiting 
- 2b5f5b1e055d Waiting 
- 061d984ee7cc Waiting 
- e6931704a864 Downloading [>                                                  ]  533.1kB/60.45MB
- e6931704a864 Downloading [>                                                  ]  533.1kB/60.45MB
- fd5f28d2ecab Downloading [>                                                  ]  16.38kB/1.251MB
- fd5f28d2ecab Downloading [>                                                  ]  16.38kB/1.251MB
- fd5f28d2ecab Verifying Checksum 
- fd5f28d2ecab Download complete 
- fd5f28d2ecab Downloading [==================================================>]  1.251MB/1.251MB
- fd5f28d2ecab Verifying Checksum 
- fd5f28d2ecab Download complete 
- 0424d66cc45d Pull complete 
- 0424d66cc45d Pull complete 
- e6931704a864 Downloading [===========>                                       ]  13.37MB/60.45MB
- e6931704a864 Downloading [===========>                                       ]  13.37MB/60.45MB
- 64de6d9bc819 Downloading [==================================================>]      93B/93B
- 64de6d9bc819 Verifying Checksum 
- 64de6d9bc819 Download complete 
- 64de6d9bc819 Downloading [==================================================>]      93B/93B
- 64de6d9bc819 Verifying Checksum 
- 64de6d9bc819 Download complete 
- e6931704a864 Downloading [===================>                               ]  24.05MB/60.45MB
- e6931704a864 Downloading [===================>                               ]  24.05MB/60.45MB
- 2b5f5b1e055d Verifying Checksum 
- 2b5f5b1e055d Downloading [==================================================>]     450B/450B
- 2b5f5b1e055d Verifying Checksum 
- 2b5f5b1e055d Download complete 
- 2b5f5b1e055d Download complete 
- e6931704a864 Downloading [===========================>                       ]  33.62MB/60.45MB
- e6931704a864 Downloading [===========================>                       ]  33.62MB/60.45MB
- 1d7107778607 Downloading [=>                                                 ]  16.38kB/593kB
- 1d7107778607 Downloading [=>                                                 ]  16.38kB/593kB
- 1d7107778607 Download complete 
- 1d7107778607 Download complete 
- e6931704a864 Downloading [====================================>              ]  44.26MB/60.45MB
- e6931704a864 Downloading [====================================>              ]  44.26MB/60.45MB
- 061d984ee7cc Downloading [>                                                  ]  78.87kB/7.448MB
- 061d984ee7cc Downloading [>                                                  ]  78.87kB/7.448MB
- e6931704a864 Downloading [=============================================>     ]   54.9MB/60.45MB
- e6931704a864 Downloading [=============================================>     ]   54.9MB/60.45MB
+ 0424d66cc45d Download complete 
+ 0424d66cc45d Downloading [==============>                                    ]     934B/3.324kB
+ 0424d66cc45d Downloading [==================================================>]  3.324kB/3.324kB
+ 0424d66cc45d Verifying Checksum 
+ 0424d66cc45d Download complete 
+ 1e6ffe3614ab Downloading [=====>                                             ]  25.11MB/211.4MB
+ 1e6ffe3614ab Downloading [=====>                                             ]  25.11MB/211.4MB
+ f014853ae203 Extracting [=========================================>         ]   40.3MB/48.49MB
+ f014853ae203 Extracting [=========================================>         ]   40.3MB/48.49MB
+ b1badc6e5066 Downloading [===>                                               ]  1.753MB/28.23MB
+ b1badc6e5066 Downloading [===>                                               ]  1.753MB/28.23MB
+ 0a07b2b41243 Extracting [=====================>                             ]  114.2MB/263.6MB
+ 1e6ffe3614ab Downloading [======>                                            ]  29.38MB/211.4MB
+ 1e6ffe3614ab Downloading [======>                                            ]  29.38MB/211.4MB
+ f014853ae203 Extracting [=============================================>     ]  43.75MB/48.49MB
+ f014853ae203 Extracting [=============================================>     ]  43.75MB/48.49MB
+ 0a07b2b41243 Extracting [=====================>                             ]  115.3MB/263.6MB
+ 1e6ffe3614ab Downloading [========>                                          ]  35.29MB/211.4MB
+ 1e6ffe3614ab Downloading [========>                                          ]  35.29MB/211.4MB
+ 0a07b2b41243 Extracting [=======================>                           ]  123.7MB/263.6MB
+ f014853ae203 Extracting [===============================================>   ]  45.71MB/48.49MB
+ f014853ae203 Extracting [===============================================>   ]  45.71MB/48.49MB
+ 1e6ffe3614ab Downloading [==========>                                        ]  44.38MB/211.4MB
+ 1e6ffe3614ab Downloading [==========>                                        ]  44.38MB/211.4MB
+ 0a07b2b41243 Extracting [========================>                          ]  130.9MB/263.6MB
+ f014853ae203 Extracting [================================================>  ]  46.69MB/48.49MB
+ f014853ae203 Extracting [================================================>  ]  46.69MB/48.49MB
+ e6931704a864 Downloading [>                                                  ]  532.5kB/60.45MB
+ e6931704a864 Downloading [>                                                  ]  532.5kB/60.45MB
+ 1e6ffe3614ab Downloading [============>                                      ]  53.46MB/211.4MB
+ 1e6ffe3614ab Downloading [============>                                      ]  53.46MB/211.4MB
+ 0a07b2b41243 Extracting [==========================>                        ]  137.6MB/263.6MB
+ e6931704a864 Downloading [============>                                      ]  14.97MB/60.45MB
+ e6931704a864 Downloading [============>                                      ]  14.97MB/60.45MB
+ 1e6ffe3614ab Downloading [==============>                                    ]  63.08MB/211.4MB
+ 1e6ffe3614ab Downloading [==============>                                    ]  63.08MB/211.4MB
+ 0a07b2b41243 Extracting [===========================>                       ]  144.3MB/263.6MB
+ e6931704a864 Downloading [===============>                                   ]  19.24MB/60.45MB
+ e6931704a864 Downloading [===============>                                   ]  19.24MB/60.45MB
+ 1e6ffe3614ab Downloading [================>                                  ]  68.97MB/211.4MB
+ 1e6ffe3614ab Downloading [================>                                  ]  68.97MB/211.4MB
+ 0a07b2b41243 Extracting [============================>                      ]  151.5MB/263.6MB
+ e6931704a864 Downloading [=========================>                         ]  30.44MB/60.45MB
+ e6931704a864 Downloading [=========================>                         ]  30.44MB/60.45MB
+ 1e6ffe3614ab Downloading [==================>                                ]  76.99MB/211.4MB
+ 1e6ffe3614ab Downloading [==================>                                ]  76.99MB/211.4MB
+ 0a07b2b41243 Extracting [=============================>                     ]  154.3MB/263.6MB
+ e6931704a864 Downloading [=======================================>           ]  47.52MB/60.45MB
+ e6931704a864 Downloading [=======================================>           ]  47.52MB/60.45MB
+ 1e6ffe3614ab Downloading [===================>                               ]  83.41MB/211.4MB
+ 1e6ffe3614ab Downloading [===================>                               ]  83.41MB/211.4MB
+ f014853ae203 Extracting [=================================================> ]  47.68MB/48.49MB
+ f014853ae203 Extracting [=================================================> ]  47.68MB/48.49MB
+ 0a07b2b41243 Extracting [=============================>                     ]  155.4MB/263.6MB
+ e6931704a864 Downloading [=============================================>     ]  55.02MB/60.45MB
+ e6931704a864 Downloading [=============================================>     ]  55.02MB/60.45MB
+ 1e6ffe3614ab Downloading [=====================>                             ]  91.96MB/211.4MB
+ 1e6ffe3614ab Downloading [=====================>                             ]  91.96MB/211.4MB
  e6931704a864 Verifying Checksum 
  e6931704a864 Download complete 
  e6931704a864 Verifying Checksum 
  e6931704a864 Download complete 
- e6931704a864 Extracting [>                                                  ]  557.1kB/60.45MB
- e6931704a864 Extracting [>                                                  ]  557.1kB/60.45MB
- 061d984ee7cc Downloading [============================================>      ]  6.639MB/7.448MB
- 061d984ee7cc Downloading [============================================>      ]  6.639MB/7.448MB
+ 0a07b2b41243 Extracting [==============================>                    ]  161.5MB/263.6MB
+ f014853ae203 Extracting [==================================================>]  48.49MB/48.49MB
+ f014853ae203 Extracting [==================================================>]  48.49MB/48.49MB
+ 1e6ffe3614ab Downloading [========================>                          ]  101.5MB/211.4MB
+ 1e6ffe3614ab Downloading [========================>                          ]  101.5MB/211.4MB
+ 0a07b2b41243 Extracting [===============================>                   ]  168.2MB/263.6MB
+ 1e6ffe3614ab Downloading [=========================>                         ]    109MB/211.4MB
+ 1e6ffe3614ab Downloading [=========================>                         ]    109MB/211.4MB
+ 0a07b2b41243 Extracting [=================================>                 ]  174.4MB/263.6MB
+ 1e6ffe3614ab Downloading [===========================>                       ]  116.5MB/211.4MB
+ 1e6ffe3614ab Downloading [===========================>                       ]  116.5MB/211.4MB
+ f014853ae203 Pull complete 
+ f014853ae203 Pull complete 
+ 0a07b2b41243 Extracting [==================================>                ]  179.4MB/263.6MB
+ fd5f28d2ecab Downloading [>                                                  ]  13.77kB/1.251MB
+ fd5f28d2ecab Downloading [>                                                  ]  13.77kB/1.251MB
+ fd5f28d2ecab Verifying Checksum 
+ 1e6ffe3614ab Downloading [=============================>                     ]    124MB/211.4MB
+ fd5f28d2ecab Verifying Checksum 
+ fd5f28d2ecab Download complete 
+ 1e6ffe3614ab Downloading [=============================>                     ]    124MB/211.4MB
+ fd5f28d2ecab Download complete 
+ 6d6401b7636b Extracting [>                                                  ]  262.1kB/24.02MB
+ 6d6401b7636b Extracting [>                                                  ]  262.1kB/24.02MB
+ 1e6ffe3614ab Downloading [==============================>                    ]  128.8MB/211.4MB
+ 1e6ffe3614ab Downloading [==============================>                    ]  128.8MB/211.4MB
+ 0a07b2b41243 Extracting [==================================>                ]  184.4MB/263.6MB
+ 6d6401b7636b Extracting [============>                                      ]  6.029MB/24.02MB
+ 6d6401b7636b Extracting [============>                                      ]  6.029MB/24.02MB
+ 1e6ffe3614ab Downloading [===============================>                   ]  131.5MB/211.4MB
+ 1e6ffe3614ab Downloading [===============================>                   ]  131.5MB/211.4MB
+ 0a07b2b41243 Extracting [====================================>              ]  191.1MB/263.6MB
+ 6d6401b7636b Extracting [========================>                          ]  11.53MB/24.02MB
+ 6d6401b7636b Extracting [========================>                          ]  11.53MB/24.02MB
+ 1e6ffe3614ab Downloading [===============================>                   ]  135.2MB/211.4MB
+ 1e6ffe3614ab Downloading [===============================>                   ]  135.2MB/211.4MB
+ 0a07b2b41243 Extracting [=====================================>             ]  198.3MB/263.6MB
+ 6d6401b7636b Extracting [==============================>                    ]  14.42MB/24.02MB
+ 6d6401b7636b Extracting [==============================>                    ]  14.42MB/24.02MB
+ 2b5f5b1e055d Download complete 
+ 2b5f5b1e055d Download complete 
+ 1e6ffe3614ab Downloading [=================================>                 ]    140MB/211.4MB
+ 1e6ffe3614ab Downloading [=================================>                 ]    140MB/211.4MB
+ 0a07b2b41243 Extracting [=======================================>           ]  206.7MB/263.6MB
+ 6d6401b7636b Extracting [==========================================>        ]  20.19MB/24.02MB
+ 6d6401b7636b Extracting [==========================================>        ]  20.19MB/24.02MB
+ 1e6ffe3614ab Downloading [==================================>                ]  145.4MB/211.4MB
+ 1e6ffe3614ab Downloading [==================================>                ]  145.4MB/211.4MB
+ 0a07b2b41243 Extracting [========================================>          ]  212.8MB/263.6MB
+ 6d6401b7636b Extracting [===============================================>   ]  22.81MB/24.02MB
+ 6d6401b7636b Extracting [===============================================>   ]  22.81MB/24.02MB
+ 1e6ffe3614ab Downloading [===================================>               ]  149.1MB/211.4MB
+ 1e6ffe3614ab Downloading [===================================>               ]  149.1MB/211.4MB
+ 0a07b2b41243 Extracting [==========================================>        ]  222.8MB/263.6MB
+ 6d6401b7636b Extracting [==================================================>]  24.02MB/24.02MB
+ 6d6401b7636b Extracting [==================================================>]  24.02MB/24.02MB
+ 1e6ffe3614ab Downloading [===================================>               ]  151.2MB/211.4MB
+ 1e6ffe3614ab Downloading [===================================>               ]  151.2MB/211.4MB
+ 0a07b2b41243 Extracting [============================================>      ]    234MB/263.6MB
+ 64de6d9bc819 Downloading [==================================================>]      93B/93B
+ 64de6d9bc819 Downloading [==================================================>]      93B/93B
+ 64de6d9bc819 Verifying Checksum 
+ 64de6d9bc819 Download complete 
+ 64de6d9bc819 Download complete 
+ 1e6ffe3614ab Downloading [====================================>              ]    155MB/211.4MB
+ 1e6ffe3614ab Downloading [====================================>              ]    155MB/211.4MB
+ 0a07b2b41243 Extracting [=============================================>     ]    239MB/263.6MB
+ 0a07b2b41243 Extracting [==============================================>    ]    244MB/263.6MB
+ 6d6401b7636b Pull complete 
+ 6d6401b7636b Pull complete 
+ 1e6ffe3614ab Downloading [=======================================>           ]  165.1MB/211.4MB
+ 1e6ffe3614ab Downloading [=======================================>           ]  165.1MB/211.4MB
+ 0a07b2b41243 Extracting [===============================================>   ]  248.4MB/263.6MB
+ 1e6ffe3614ab Downloading [========================================>          ]  172.6MB/211.4MB
+ 1e6ffe3614ab Downloading [========================================>          ]  172.6MB/211.4MB
+ 0a07b2b41243 Extracting [===============================================>   ]  252.9MB/263.6MB
+ cffef7dc6f99 Extracting [>                                                  ]  557.1kB/64.4MB
+ cffef7dc6f99 Extracting [>                                                  ]  557.1kB/64.4MB
+ 061d984ee7cc Downloading [>                                                  ]  75.86kB/7.448MB
+ 061d984ee7cc Downloading [>                                                  ]  75.86kB/7.448MB
+ 1e6ffe3614ab Downloading [=========================================>         ]  176.9MB/211.4MB
+ 1e6ffe3614ab Downloading [=========================================>         ]  176.9MB/211.4MB
+ cffef7dc6f99 Extracting [====>                                              ]  6.128MB/64.4MB
+ cffef7dc6f99 Extracting [====>                                              ]  6.128MB/64.4MB
+ 061d984ee7cc Downloading [============================>                      ]  4.197MB/7.448MB
+ 061d984ee7cc Downloading [============================>                      ]  4.197MB/7.448MB
+ b1badc6e5066 Downloading [===>                                               ]  2.048MB/28.23MB
+ b1badc6e5066 Downloading [===>                                               ]  2.048MB/28.23MB
+ 1e6ffe3614ab Downloading [===========================================>       ]  183.8MB/211.4MB
+ 1e6ffe3614ab Downloading [===========================================>       ]  183.8MB/211.4MB
+ 0a07b2b41243 Extracting [=================================================> ]    259MB/263.6MB
+ cffef7dc6f99 Extracting [=========>                                         ]   11.7MB/64.4MB
+ cffef7dc6f99 Extracting [=========>                                         ]   11.7MB/64.4MB
+ 061d984ee7cc Downloading [=================================================> ]  7.404MB/7.448MB
+ 061d984ee7cc Downloading [=================================================> ]  7.404MB/7.448MB
  061d984ee7cc Verifying Checksum 
  061d984ee7cc Download complete 
  061d984ee7cc Verifying Checksum 
  061d984ee7cc Download complete 
+ 1e6ffe3614ab Downloading [=============================================>     ]  192.4MB/211.4MB
+ 1e6ffe3614ab Downloading [=============================================>     ]  192.4MB/211.4MB
+ 0a07b2b41243 Extracting [=================================================> ]  260.1MB/263.6MB
+ cffef7dc6f99 Extracting [=============>                                     ]  17.83MB/64.4MB
+ cffef7dc6f99 Extracting [=============>                                     ]  17.83MB/64.4MB
+ 1e6ffe3614ab Downloading [================================================>  ]  205.7MB/211.4MB
+ 1e6ffe3614ab Downloading [================================================>  ]  205.7MB/211.4MB
+ 1e6ffe3614ab Verifying Checksum 
+ 1e6ffe3614ab Download complete 
+ 1e6ffe3614ab Verifying Checksum 
+ 1e6ffe3614ab Download complete 
+ cffef7dc6f99 Extracting [=================>                                 ]  22.84MB/64.4MB
+ cffef7dc6f99 Extracting [=================>                                 ]  22.84MB/64.4MB
+ 0a07b2b41243 Extracting [=================================================> ]  263.5MB/263.6MB
+ cffef7dc6f99 Extracting [===================>                               ]  25.07MB/64.4MB
+ cffef7dc6f99 Extracting [===================>                               ]  25.07MB/64.4MB
+ 0a07b2b41243 Extracting [==================================================>]  263.6MB/263.6MB
+ 1d7107778607 Downloading [>                                                  ]  6.409kB/593kB
+ 1d7107778607 Verifying Checksum 
+ 1d7107778607 Download complete 
+ 1d7107778607 Downloading [>                                                  ]  6.409kB/593kB
+ 1d7107778607 Verifying Checksum 
+ 1d7107778607 Download complete 
+ cffef7dc6f99 Extracting [====================>                              ]  26.74MB/64.4MB
+ cffef7dc6f99 Extracting [====================>                              ]  26.74MB/64.4MB
+ cffef7dc6f99 Extracting [=====================>                             ]   27.3MB/64.4MB
+ cffef7dc6f99 Extracting [=====================>                             ]   27.3MB/64.4MB
+ 0a07b2b41243 Pull complete 
+ cffef7dc6f99 Extracting [======================>                            ]  29.52MB/64.4MB
+ cffef7dc6f99 Extracting [======================>                            ]  29.52MB/64.4MB
+ 91469349d2c2 Extracting [==================================================>]  5.003kB/5.003kB
+ 91469349d2c2 Extracting [==================================================>]  5.003kB/5.003kB
+ cffef7dc6f99 Extracting [=======================>                           ]  30.08MB/64.4MB
+ cffef7dc6f99 Extracting [=======================>                           ]  30.08MB/64.4MB
+ cffef7dc6f99 Extracting [========================>                          ]  31.75MB/64.4MB
+ cffef7dc6f99 Extracting [========================>                          ]  31.75MB/64.4MB
+ cffef7dc6f99 Extracting [=========================>                         ]  33.42MB/64.4MB
+ cffef7dc6f99 Extracting [=========================>                         ]  33.42MB/64.4MB
+ 91469349d2c2 Pull complete 
+ cffef7dc6f99 Extracting [==========================>                        ]  34.54MB/64.4MB
+ cffef7dc6f99 Extracting [==========================>                        ]  34.54MB/64.4MB
+ cffef7dc6f99 Extracting [============================>                      ]  36.77MB/64.4MB
+ cffef7dc6f99 Extracting [============================>                      ]  36.77MB/64.4MB
+ b1badc6e5066 Downloading [====>                                              ]  2.343MB/28.23MB
+ b1badc6e5066 Downloading [====>                                              ]  2.343MB/28.23MB
+ cffef7dc6f99 Extracting [==============================>                    ]  38.99MB/64.4MB
+ cffef7dc6f99 Extracting [==============================>                    ]  38.99MB/64.4MB
+ cffef7dc6f99 Extracting [=================================>                 ]  43.45MB/64.4MB
+ cffef7dc6f99 Extracting [=================================>                 ]  43.45MB/64.4MB
+ mongodb Pulled 
+ cffef7dc6f99 Extracting [===================================>               ]  45.68MB/64.4MB
+ cffef7dc6f99 Extracting [===================================>               ]  45.68MB/64.4MB
+ cffef7dc6f99 Extracting [======================================>            ]  49.02MB/64.4MB
+ cffef7dc6f99 Extracting [======================================>            ]  49.02MB/64.4MB
+ cffef7dc6f99 Extracting [========================================>          ]  52.36MB/64.4MB
+ cffef7dc6f99 Extracting [========================================>          ]  52.36MB/64.4MB
+ cffef7dc6f99 Extracting [============================================>      ]  57.38MB/64.4MB
+ cffef7dc6f99 Extracting [============================================>      ]  57.38MB/64.4MB
+ cffef7dc6f99 Extracting [==============================================>    ]   59.6MB/64.4MB
+ cffef7dc6f99 Extracting [==============================================>    ]   59.6MB/64.4MB
+ cffef7dc6f99 Extracting [===============================================>   ]  61.28MB/64.4MB
+ cffef7dc6f99 Extracting [===============================================>   ]  61.28MB/64.4MB
+ cffef7dc6f99 Extracting [================================================>  ]  62.39MB/64.4MB
+ cffef7dc6f99 Extracting [================================================>  ]  62.39MB/64.4MB
+ cffef7dc6f99 Extracting [=================================================> ]  64.06MB/64.4MB
+ cffef7dc6f99 Extracting [=================================================> ]  64.06MB/64.4MB
+ cffef7dc6f99 Extracting [==================================================>]   64.4MB/64.4MB
+ cffef7dc6f99 Extracting [==================================================>]   64.4MB/64.4MB
+ cffef7dc6f99 Pull complete 
+ cffef7dc6f99 Pull complete 
+ 1e6ffe3614ab Extracting [>                                                  ]  557.1kB/211.4MB
+ 1e6ffe3614ab Extracting [>                                                  ]  557.1kB/211.4MB
+ 1e6ffe3614ab Extracting [=>                                                 ]  6.685MB/211.4MB
+ 1e6ffe3614ab Extracting [=>                                                 ]  6.685MB/211.4MB
+ b1badc6e5066 Downloading [====>                                              ]  2.638MB/28.23MB
+ b1badc6e5066 Downloading [====>                                              ]  2.638MB/28.23MB
+ 1e6ffe3614ab Extracting [===>                                               ]  15.04MB/211.4MB
+ 1e6ffe3614ab Extracting [===>                                               ]  15.04MB/211.4MB
+ 1e6ffe3614ab Extracting [====>                                              ]  20.61MB/211.4MB
+ 1e6ffe3614ab Extracting [====>                                              ]  20.61MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  21.73MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  21.73MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  22.28MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  22.28MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]   23.4MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]   23.4MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  24.51MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  24.51MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  25.07MB/211.4MB
+ 1e6ffe3614ab Extracting [=====>                                             ]  25.07MB/211.4MB
+ 1e6ffe3614ab Extracting [======>                                            ]  26.18MB/211.4MB
+ 1e6ffe3614ab Extracting [======>                                            ]  26.18MB/211.4MB
+ 1e6ffe3614ab Extracting [======>                                            ]  27.85MB/211.4MB
+ 1e6ffe3614ab Extracting [======>                                            ]  27.85MB/211.4MB
+ b1badc6e5066 Downloading [=====>                                             ]  2.933MB/28.23MB
+ b1badc6e5066 Downloading [=====>                                             ]  2.933MB/28.23MB
+ 1e6ffe3614ab Extracting [=======>                                           ]  33.42MB/211.4MB
+ 1e6ffe3614ab Extracting [=======>                                           ]  33.42MB/211.4MB
+ 1e6ffe3614ab Extracting [=========>                                         ]  40.67MB/211.4MB
+ 1e6ffe3614ab Extracting [=========>                                         ]  40.67MB/211.4MB
+ 1e6ffe3614ab Extracting [===========>                                       ]  49.58MB/211.4MB
+ 1e6ffe3614ab Extracting [===========>                                       ]  49.58MB/211.4MB
+ 1e6ffe3614ab Extracting [=============>                                     ]  55.71MB/211.4MB
+ 1e6ffe3614ab Extracting [=============>                                     ]  55.71MB/211.4MB
+ 1e6ffe3614ab Extracting [==============>                                    ]  61.28MB/211.4MB
+ 1e6ffe3614ab Extracting [==============>                                    ]  61.28MB/211.4MB
+ 1e6ffe3614ab Extracting [================>                                  ]  69.63MB/211.4MB
+ 1e6ffe3614ab Extracting [================>                                  ]  69.63MB/211.4MB
+ 1e6ffe3614ab Extracting [=================>                                 ]   75.2MB/211.4MB
+ 1e6ffe3614ab Extracting [=================>                                 ]   75.2MB/211.4MB
+ 1e6ffe3614ab Extracting [==================>                                ]  76.87MB/211.4MB
+ 1e6ffe3614ab Extracting [==================>                                ]  76.87MB/211.4MB
+ 1e6ffe3614ab Extracting [===================>                               ]  81.33MB/211.4MB
+ 1e6ffe3614ab Extracting [===================>                               ]  81.33MB/211.4MB
+ 1e6ffe3614ab Extracting [=====================>                             ]  89.13MB/211.4MB
+ 1e6ffe3614ab Extracting [=====================>                             ]  89.13MB/211.4MB
+ 1e6ffe3614ab Extracting [======================>                            ]  96.37MB/211.4MB
+ 1e6ffe3614ab Extracting [======================>                            ]  96.37MB/211.4MB
+ 1e6ffe3614ab Extracting [========================>                          ]  103.6MB/211.4MB
+ 1e6ffe3614ab Extracting [========================>                          ]  103.6MB/211.4MB
+ 1e6ffe3614ab Extracting [==========================>                        ]  110.9MB/211.4MB
+ 1e6ffe3614ab Extracting [==========================>                        ]  110.9MB/211.4MB
+ 1e6ffe3614ab Extracting [============================>                      ]  120.9MB/211.4MB
+ 1e6ffe3614ab Extracting [============================>                      ]  120.9MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================>                    ]  129.8MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================>                    ]  129.8MB/211.4MB
+ 1e6ffe3614ab Extracting [================================>                  ]  138.1MB/211.4MB
+ 1e6ffe3614ab Extracting [================================>                  ]  138.1MB/211.4MB
+ 1e6ffe3614ab Extracting [==================================>                ]  145.4MB/211.4MB
+ 1e6ffe3614ab Extracting [==================================>                ]  145.4MB/211.4MB
+ b1badc6e5066 Downloading [=====>                                             ]  3.228MB/28.23MB
+ b1badc6e5066 Downloading [=====>                                             ]  3.228MB/28.23MB
+ 1e6ffe3614ab Extracting [===================================>               ]  152.1MB/211.4MB
+ 1e6ffe3614ab Extracting [===================================>               ]  152.1MB/211.4MB
+ 1e6ffe3614ab Extracting [=====================================>             ]  159.9MB/211.4MB
+ 1e6ffe3614ab Extracting [=====================================>             ]  159.9MB/211.4MB
+ 1e6ffe3614ab Extracting [=======================================>           ]    166MB/211.4MB
+ 1e6ffe3614ab Extracting [=======================================>           ]    166MB/211.4MB
+ 1e6ffe3614ab Extracting [========================================>          ]  169.3MB/211.4MB
+ 1e6ffe3614ab Extracting [========================================>          ]  169.3MB/211.4MB
+ 1e6ffe3614ab Extracting [========================================>          ]  172.1MB/211.4MB
+ 1e6ffe3614ab Extracting [========================================>          ]  172.1MB/211.4MB
+ 1e6ffe3614ab Extracting [==========================================>        ]  177.7MB/211.4MB
+ 1e6ffe3614ab Extracting [==========================================>        ]  177.7MB/211.4MB
+ 1e6ffe3614ab Extracting [===========================================>       ]  183.3MB/211.4MB
+ 1e6ffe3614ab Extracting [===========================================>       ]  183.3MB/211.4MB
+ 1e6ffe3614ab Extracting [============================================>      ]  188.8MB/211.4MB
+ 1e6ffe3614ab Extracting [============================================>      ]  188.8MB/211.4MB
+ 1e6ffe3614ab Extracting [=============================================>     ]  191.1MB/211.4MB
+ 1e6ffe3614ab Extracting [=============================================>     ]  191.1MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================================>    ]    195MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================================>    ]    195MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================================>    ]  197.8MB/211.4MB
+ 1e6ffe3614ab Extracting [==============================================>    ]  197.8MB/211.4MB
+ 1e6ffe3614ab Extracting [===============================================>   ]  201.7MB/211.4MB
+ 1e6ffe3614ab Extracting [===============================================>   ]  201.7MB/211.4MB
+ 1e6ffe3614ab Extracting [================================================>  ]  206.1MB/211.4MB
+ 1e6ffe3614ab Extracting [================================================>  ]  206.1MB/211.4MB
+ b1badc6e5066 Downloading [======>                                            ]  3.523MB/28.23MB
+ b1badc6e5066 Downloading [======>                                            ]  3.523MB/28.23MB
+ 1e6ffe3614ab Extracting [=================================================> ]  207.8MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  207.8MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  208.3MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  208.3MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  209.5MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  209.5MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]    210MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]    210MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  210.6MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  210.6MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  211.1MB/211.4MB
+ 1e6ffe3614ab Extracting [=================================================> ]  211.1MB/211.4MB
+ 1e6ffe3614ab Extracting [==================================================>]  211.4MB/211.4MB
+ 1e6ffe3614ab Extracting [==================================================>]  211.4MB/211.4MB
+ 1e6ffe3614ab Pull complete 
+ 1e6ffe3614ab Pull complete 
+ 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
+ 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
+ 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
+ 0424d66cc45d Extracting [==================================================>]  3.324kB/3.324kB
+ 0424d66cc45d Pull complete 
+ 0424d66cc45d Pull complete 
+ e6931704a864 Extracting [>                                                  ]  557.1kB/60.45MB
+ e6931704a864 Extracting [>                                                  ]  557.1kB/60.45MB
  e6931704a864 Extracting [======>                                            ]  8.356MB/60.45MB
  e6931704a864 Extracting [======>                                            ]  8.356MB/60.45MB
+ b1badc6e5066 Downloading [======>                                            ]  3.817MB/28.23MB
+ b1badc6e5066 Downloading [======>                                            ]  3.817MB/28.23MB
  e6931704a864 Extracting [=============>                                     ]  16.71MB/60.45MB
  e6931704a864 Extracting [=============>                                     ]  16.71MB/60.45MB
- e6931704a864 Extracting [===================>                               ]  23.95MB/60.45MB
- e6931704a864 Extracting [===================>                               ]  23.95MB/60.45MB
- e6931704a864 Extracting [===========================>                       ]  32.87MB/60.45MB
- e6931704a864 Extracting [===========================>                       ]  32.87MB/60.45MB
- e6931704a864 Extracting [==================================>                ]  41.78MB/60.45MB
- e6931704a864 Extracting [==================================>                ]  41.78MB/60.45MB
+ e6931704a864 Extracting [====================>                              ]  24.51MB/60.45MB
+ e6931704a864 Extracting [====================>                              ]  24.51MB/60.45MB
+ e6931704a864 Extracting [============================>                      ]  33.98MB/60.45MB
+ e6931704a864 Extracting [============================>                      ]  33.98MB/60.45MB
+ e6931704a864 Extracting [===================================>               ]  42.89MB/60.45MB
+ e6931704a864 Extracting [===================================>               ]  42.89MB/60.45MB
  e6931704a864 Extracting [=======================================>           ]  47.35MB/60.45MB
  e6931704a864 Extracting [=======================================>           ]  47.35MB/60.45MB
  e6931704a864 Extracting [========================================>          ]  48.46MB/60.45MB
@@ -117,6 +746,8 @@ time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  e6931704a864 Extracting [==============================================>    ]  56.26MB/60.45MB
  e6931704a864 Extracting [===============================================>   ]  57.38MB/60.45MB
  e6931704a864 Extracting [===============================================>   ]  57.38MB/60.45MB
+ b1badc6e5066 Downloading [=======>                                           ]  4.112MB/28.23MB
+ b1badc6e5066 Downloading [=======>                                           ]  4.112MB/28.23MB
  e6931704a864 Extracting [================================================>  ]  58.49MB/60.45MB
  e6931704a864 Extracting [================================================>  ]  58.49MB/60.45MB
  e6931704a864 Extracting [================================================>  ]  59.05MB/60.45MB
@@ -129,6 +760,8 @@ time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  e6931704a864 Pull complete 
  fd5f28d2ecab Extracting [=>                                                 ]  32.77kB/1.251MB
  fd5f28d2ecab Extracting [=>                                                 ]  32.77kB/1.251MB
+ fd5f28d2ecab Extracting [=========>                                         ]  229.4kB/1.251MB
+ fd5f28d2ecab Extracting [=========>                                         ]  229.4kB/1.251MB
  fd5f28d2ecab Extracting [==================================================>]  1.251MB/1.251MB
  fd5f28d2ecab Extracting [==================================================>]  1.251MB/1.251MB
  fd5f28d2ecab Pull complete 
@@ -143,10 +776,14 @@ time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  64de6d9bc819 Extracting [==================================================>]      93B/93B
  64de6d9bc819 Extracting [==================================================>]      93B/93B
  64de6d9bc819 Extracting [==================================================>]      93B/93B
+ b1badc6e5066 Downloading [=======>                                           ]  4.407MB/28.23MB
+ b1badc6e5066 Downloading [=======>                                           ]  4.407MB/28.23MB
  64de6d9bc819 Pull complete 
  64de6d9bc819 Pull complete 
  061d984ee7cc Extracting [>                                                  ]   98.3kB/7.448MB
  061d984ee7cc Extracting [>                                                  ]   98.3kB/7.448MB
+ 061d984ee7cc Extracting [=>                                                 ]  294.9kB/7.448MB
+ 061d984ee7cc Extracting [=>                                                 ]  294.9kB/7.448MB
  061d984ee7cc Extracting [==>                                                ]  393.2kB/7.448MB
  061d984ee7cc Extracting [==>                                                ]  393.2kB/7.448MB
  061d984ee7cc Extracting [===>                                               ]  491.5kB/7.448MB
@@ -155,36 +792,42 @@ time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  061d984ee7cc Extracting [====>                                              ]  688.1kB/7.448MB
  061d984ee7cc Extracting [=============>                                     ]  1.966MB/7.448MB
  061d984ee7cc Extracting [=============>                                     ]  1.966MB/7.448MB
- 061d984ee7cc Extracting [===============>                                   ]  2.359MB/7.448MB
- 061d984ee7cc Extracting [===============>                                   ]  2.359MB/7.448MB
+ 061d984ee7cc Extracting [===============>                                   ]  2.261MB/7.448MB
+ 061d984ee7cc Extracting [===============>                                   ]  2.261MB/7.448MB
  061d984ee7cc Extracting [================>                                  ]  2.458MB/7.448MB
  061d984ee7cc Extracting [================>                                  ]  2.458MB/7.448MB
  061d984ee7cc Extracting [=================>                                 ]  2.556MB/7.448MB
  061d984ee7cc Extracting [=================>                                 ]  2.556MB/7.448MB
- 061d984ee7cc Extracting [====================>                              ]  3.047MB/7.448MB
- 061d984ee7cc Extracting [====================>                              ]  3.047MB/7.448MB
- 061d984ee7cc Extracting [===========================>                       ]   4.03MB/7.448MB
- 061d984ee7cc Extracting [===========================>                       ]   4.03MB/7.448MB
- 061d984ee7cc Extracting [=============================>                     ]  4.424MB/7.448MB
- 061d984ee7cc Extracting [=============================>                     ]  4.424MB/7.448MB
- 061d984ee7cc Extracting [================================>                  ]  4.817MB/7.448MB
- 061d984ee7cc Extracting [================================>                  ]  4.817MB/7.448MB
- 061d984ee7cc Extracting [==================================>                ]   5.21MB/7.448MB
- 061d984ee7cc Extracting [==================================>                ]   5.21MB/7.448MB
- 061d984ee7cc Extracting [====================================>              ]  5.505MB/7.448MB
- 061d984ee7cc Extracting [====================================>              ]  5.505MB/7.448MB
+ 061d984ee7cc Extracting [===================>                               ]  2.949MB/7.448MB
+ 061d984ee7cc Extracting [===================>                               ]  2.949MB/7.448MB
+ b1badc6e5066 Downloading [========>                                          ]   4.69MB/28.23MB
+ b1badc6e5066 Downloading [========>                                          ]   4.69MB/28.23MB
+ 061d984ee7cc Extracting [==========================>                        ]  3.932MB/7.448MB
+ 061d984ee7cc Extracting [==========================>                        ]  3.932MB/7.448MB
+ 061d984ee7cc Extracting [============================>                      ]  4.227MB/7.448MB
+ 061d984ee7cc Extracting [============================>                      ]  4.227MB/7.448MB
+ 061d984ee7cc Extracting [===============================>                   ]   4.62MB/7.448MB
+ 061d984ee7cc Extracting [===============================>                   ]   4.62MB/7.448MB
+ 061d984ee7cc Extracting [================================>                  ]  4.915MB/7.448MB
+ 061d984ee7cc Extracting [================================>                  ]  4.915MB/7.448MB
+ 061d984ee7cc Extracting [===================================>               ]  5.308MB/7.448MB
+ 061d984ee7cc Extracting [===================================>               ]  5.308MB/7.448MB
  061d984ee7cc Extracting [=====================================>             ]  5.603MB/7.448MB
  061d984ee7cc Extracting [=====================================>             ]  5.603MB/7.448MB
- 061d984ee7cc Extracting [========================================>          ]  6.095MB/7.448MB
- 061d984ee7cc Extracting [========================================>          ]  6.095MB/7.448MB
- 061d984ee7cc Extracting [==============================================>    ]  6.881MB/7.448MB
- 061d984ee7cc Extracting [==============================================>    ]  6.881MB/7.448MB
- 061d984ee7cc Extracting [================================================>  ]  7.274MB/7.448MB
- 061d984ee7cc Extracting [================================================>  ]  7.274MB/7.448MB
+ 061d984ee7cc Extracting [========================================>          ]  5.997MB/7.448MB
+ 061d984ee7cc Extracting [========================================>          ]  5.997MB/7.448MB
+ 061d984ee7cc Extracting [============================================>      ]  6.586MB/7.448MB
+ 061d984ee7cc Extracting [============================================>      ]  6.586MB/7.448MB
+ 061d984ee7cc Extracting [===============================================>   ]  7.078MB/7.448MB
+ 061d984ee7cc Extracting [===============================================>   ]  7.078MB/7.448MB
+ 061d984ee7cc Extracting [=================================================> ]  7.373MB/7.448MB
+ 061d984ee7cc Extracting [=================================================> ]  7.373MB/7.448MB
  061d984ee7cc Extracting [==================================================>]  7.448MB/7.448MB
  061d984ee7cc Extracting [==================================================>]  7.448MB/7.448MB
  061d984ee7cc Extracting [==================================================>]  7.448MB/7.448MB
  061d984ee7cc Extracting [==================================================>]  7.448MB/7.448MB
+ b1badc6e5066 Downloading [========>                                          ]  4.981MB/28.23MB
+ b1badc6e5066 Downloading [========>                                          ]  4.981MB/28.23MB
  061d984ee7cc Pull complete 
  061d984ee7cc Pull complete 
  1d7107778607 Extracting [==>                                                ]  32.77kB/593kB
@@ -197,416 +840,241 @@ time="2025-08-19T14:45:16Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  1d7107778607 Pull complete 
  app2 Pulled 
  app1 Pulled 
+ b1badc6e5066 Downloading [=========>                                         ]  5.276MB/28.23MB
+ b1badc6e5066 Downloading [=========>                                         ]  5.276MB/28.23MB
+ b1badc6e5066 Downloading [=========>                                         ]  5.571MB/28.23MB
+ b1badc6e5066 Downloading [=========>                                         ]  5.571MB/28.23MB
+ b1badc6e5066 Downloading [==========>                                        ]  5.865MB/28.23MB
+ b1badc6e5066 Downloading [==========>                                        ]  5.865MB/28.23MB
+ b1badc6e5066 Downloading [==========>                                        ]   6.16MB/28.23MB
+ b1badc6e5066 Downloading [==========>                                        ]   6.16MB/28.23MB
+ b1badc6e5066 Downloading [===========>                                       ]  6.455MB/28.23MB
+ b1badc6e5066 Downloading [===========>                                       ]  6.455MB/28.23MB
+ b1badc6e5066 Downloading [===========>                                       ]   6.75MB/28.23MB
+ b1badc6e5066 Downloading [===========>                                       ]   6.75MB/28.23MB
+ b1badc6e5066 Downloading [============>                                      ]  7.045MB/28.23MB
+ b1badc6e5066 Downloading [============>                                      ]  7.045MB/28.23MB
+ b1badc6e5066 Downloading [=============>                                     ]   7.34MB/28.23MB
+ b1badc6e5066 Downloading [=============>                                     ]   7.34MB/28.23MB
+ b1badc6e5066 Downloading [=============>                                     ]  7.635MB/28.23MB
+ b1badc6e5066 Downloading [=============>                                     ]  7.635MB/28.23MB
+ b1badc6e5066 Downloading [==============>                                    ]  7.922MB/28.23MB
+ b1badc6e5066 Downloading [==============>                                    ]  7.922MB/28.23MB
+ b1badc6e5066 Downloading [==============>                                    ]  8.208MB/28.23MB
+ b1badc6e5066 Downloading [==============>                                    ]  8.208MB/28.23MB
+ b1badc6e5066 Downloading [===============>                                   ]  8.503MB/28.23MB
+ b1badc6e5066 Downloading [===============>                                   ]  8.503MB/28.23MB
+ b1badc6e5066 Downloading [===============>                                   ]  8.798MB/28.23MB
+ b1badc6e5066 Downloading [===============>                                   ]  8.798MB/28.23MB
+ b1badc6e5066 Downloading [================>                                  ]  9.085MB/28.23MB
+ b1badc6e5066 Downloading [================>                                  ]  9.085MB/28.23MB
+ b1badc6e5066 Downloading [================>                                  ]  9.372MB/28.23MB
+ b1badc6e5066 Downloading [================>                                  ]  9.372MB/28.23MB
+ b1badc6e5066 Downloading [=================>                                 ]  9.667MB/28.23MB
+ b1badc6e5066 Downloading [=================>                                 ]  9.667MB/28.23MB
+ b1badc6e5066 Downloading [=================>                                 ]  9.961MB/28.23MB
+ b1badc6e5066 Downloading [=================>                                 ]  9.961MB/28.23MB
+ b1badc6e5066 Downloading [==================>                                ]  10.26MB/28.23MB
+ b1badc6e5066 Downloading [==================>                                ]  10.26MB/28.23MB
+ b1badc6e5066 Downloading [==================>                                ]  10.55MB/28.23MB
+ b1badc6e5066 Downloading [==================>                                ]  10.55MB/28.23MB
+ b1badc6e5066 Downloading [===================>                               ]  10.85MB/28.23MB
+ b1badc6e5066 Downloading [===================>                               ]  10.85MB/28.23MB
+ b1badc6e5066 Downloading [===================>                               ]  11.14MB/28.23MB
+ b1badc6e5066 Downloading [===================>                               ]  11.14MB/28.23MB
+ b1badc6e5066 Downloading [====================>                              ]  11.44MB/28.23MB
+ b1badc6e5066 Downloading [====================>                              ]  11.44MB/28.23MB
+ b1badc6e5066 Downloading [====================>                              ]  11.73MB/28.23MB
+ b1badc6e5066 Downloading [====================>                              ]  11.73MB/28.23MB
+ b1badc6e5066 Downloading [=====================>                             ]  12.01MB/28.23MB
+ b1badc6e5066 Downloading [=====================>                             ]  12.01MB/28.23MB
+ b1badc6e5066 Downloading [=====================>                             ]   12.3MB/28.23MB
+ b1badc6e5066 Downloading [=====================>                             ]   12.3MB/28.23MB
+ b1badc6e5066 Downloading [======================>                            ]   12.6MB/28.23MB
+ b1badc6e5066 Downloading [======================>                            ]   12.6MB/28.23MB
+ b1badc6e5066 Downloading [======================>                            ]  12.89MB/28.23MB
+ b1badc6e5066 Downloading [======================>                            ]  12.89MB/28.23MB
+ b1badc6e5066 Downloading [=======================>                           ]  13.19MB/28.23MB
+ b1badc6e5066 Downloading [=======================>                           ]  13.19MB/28.23MB
+ b1badc6e5066 Downloading [=======================>                           ]  13.48MB/28.23MB
+ b1badc6e5066 Downloading [=======================>                           ]  13.48MB/28.23MB
+ b1badc6e5066 Downloading [========================>                          ]  13.78MB/28.23MB
+ b1badc6e5066 Downloading [========================>                          ]  13.78MB/28.23MB
+ b1badc6e5066 Downloading [========================>                          ]  14.07MB/28.23MB
+ b1badc6e5066 Downloading [========================>                          ]  14.07MB/28.23MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.37MB/28.23MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.37MB/28.23MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.66MB/28.23MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.66MB/28.23MB
+ b1badc6e5066 Downloading [==========================>                        ]  14.96MB/28.23MB
+ b1badc6e5066 Downloading [==========================>                        ]  14.96MB/28.23MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.25MB/28.23MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.25MB/28.23MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.55MB/28.23MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.55MB/28.23MB
+ b1badc6e5066 Downloading [============================>                      ]  15.84MB/28.23MB
+ b1badc6e5066 Downloading [============================>                      ]  15.84MB/28.23MB
+ b1badc6e5066 Downloading [============================>                      ]  16.14MB/28.23MB
+ b1badc6e5066 Downloading [============================>                      ]  16.14MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.43MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.43MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.73MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.73MB/28.23MB
+ b1badc6e5066 Downloading [==============================>                    ]  17.02MB/28.23MB
+ b1badc6e5066 Downloading [==============================>                    ]  17.02MB/28.23MB
+ b1badc6e5066 Downloading [==============================>                    ]  17.32MB/28.23MB
+ b1badc6e5066 Downloading [==============================>                    ]  17.32MB/28.23MB
+ b1badc6e5066 Downloading [===============================>                   ]  17.61MB/28.23MB
+ b1badc6e5066 Downloading [===============================>                   ]  17.61MB/28.23MB
+ b1badc6e5066 Downloading [===============================>                   ]  17.91MB/28.23MB
+ b1badc6e5066 Downloading [===============================>                   ]  17.91MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]   18.2MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]   18.2MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]   18.5MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]   18.5MB/28.23MB
+ b1badc6e5066 Downloading [=================================>                 ]  18.79MB/28.23MB
+ b1badc6e5066 Downloading [=================================>                 ]  18.79MB/28.23MB
+ b1badc6e5066 Downloading [=================================>                 ]  19.09MB/28.23MB
+ b1badc6e5066 Downloading [=================================>                 ]  19.09MB/28.23MB
+ b1badc6e5066 Downloading [==================================>                ]  19.38MB/28.23MB
+ b1badc6e5066 Downloading [==================================>                ]  19.38MB/28.23MB
+ b1badc6e5066 Downloading [==================================>                ]  19.68MB/28.23MB
+ b1badc6e5066 Downloading [==================================>                ]  19.68MB/28.23MB
+ b1badc6e5066 Downloading [===================================>               ]  19.97MB/28.23MB
+ b1badc6e5066 Downloading [===================================>               ]  19.97MB/28.23MB
+ b1badc6e5066 Downloading [===================================>               ]  20.27MB/28.23MB
+ b1badc6e5066 Downloading [===================================>               ]  20.27MB/28.23MB
+ b1badc6e5066 Downloading [====================================>              ]  20.56MB/28.23MB
+ b1badc6e5066 Downloading [====================================>              ]  20.56MB/28.23MB
+ b1badc6e5066 Downloading [====================================>              ]  20.86MB/28.23MB
+ b1badc6e5066 Downloading [====================================>              ]  20.86MB/28.23MB
+ b1badc6e5066 Downloading [=====================================>             ]  21.15MB/28.23MB
+ b1badc6e5066 Downloading [=====================================>             ]  21.15MB/28.23MB
+ b1badc6e5066 Downloading [=====================================>             ]  21.45MB/28.23MB
+ b1badc6e5066 Downloading [=====================================>             ]  21.45MB/28.23MB
+ b1badc6e5066 Downloading [======================================>            ]  21.74MB/28.23MB
+ b1badc6e5066 Downloading [======================================>            ]  21.74MB/28.23MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.04MB/28.23MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.04MB/28.23MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.33MB/28.23MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.33MB/28.23MB
+ b1badc6e5066 Downloading [========================================>          ]  22.63MB/28.23MB
+ b1badc6e5066 Downloading [========================================>          ]  22.63MB/28.23MB
+ b1badc6e5066 Downloading [========================================>          ]  22.92MB/28.23MB
+ b1badc6e5066 Downloading [========================================>          ]  22.92MB/28.23MB
+ b1badc6e5066 Downloading [=========================================>         ]  23.22MB/28.23MB
+ b1badc6e5066 Downloading [=========================================>         ]  23.22MB/28.23MB
+ b1badc6e5066 Downloading [=========================================>         ]  23.51MB/28.23MB
+ b1badc6e5066 Downloading [=========================================>         ]  23.51MB/28.23MB
+ b1badc6e5066 Downloading [==========================================>        ]  23.81MB/28.23MB
+ b1badc6e5066 Downloading [==========================================>        ]  23.81MB/28.23MB
+ b1badc6e5066 Downloading [==========================================>        ]   24.1MB/28.23MB
+ b1badc6e5066 Downloading [==========================================>        ]   24.1MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ b1badc6e5066 Pull complete 
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Pull complete 
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Pull complete 
+ f22261c94fe4 Extracting [>                                                  ]  262.1kB/24.19MB
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ f22261c94fe4 Extracting [==============>                                    ]  6.816MB/24.19MB
+ a2da0c0f2353 Extracting [====>                                              ]  4.129MB/44.07MB
+ f22261c94fe4 Extracting [==========================>                        ]  12.85MB/24.19MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.716MB/44.07MB
+ f22261c94fe4 Extracting [===================================>               ]  17.04MB/24.19MB
+ a2da0c0f2353 Extracting [==============>                                    ]  12.85MB/44.07MB
+ f22261c94fe4 Extracting [===============================================>   ]  22.81MB/24.19MB
+ a2da0c0f2353 Extracting [======================>                            ]  19.73MB/44.07MB
+ f22261c94fe4 Extracting [==================================================>]  24.19MB/24.19MB
+ f22261c94fe4 Pull complete 
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ a2da0c0f2353 Extracting [===============================>                   ]  27.98MB/44.07MB
+ 6f34ca96de3f Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Pull complete 
+ a2da0c0f2353 Extracting [======================================>            ]  33.95MB/44.07MB
+ redis Pulled 
+ a2da0c0f2353 Extracting [===========================================>       ]  38.54MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  43.58MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
  Network raphaeldiasc21-nodejs_backend  Creating
  Network raphaeldiasc21-nodejs_backend  Created
  Volume "raphaeldiasc21-nodejs_mongodb_data"  Creating
  Volume "raphaeldiasc21-nodejs_mongodb_data"  Created
  Container mongodb_container  Creating
  Container raphaeldiasc21-nodejs-redis-1  Creating
- Container raphaeldiasc21-nodejs-redis-1  Created
- Container mongodb_container  Created
- Container raphaeldiasc21-nodejs-app2-1  Creating
- Container raphaeldiasc21-nodejs-app1-1  Creating
- Container raphaeldiasc21-nodejs-app2-1  Created
- Container raphaeldiasc21-nodejs-app1-1  Created
- Container raphaeldiasc21-nodejs-nginx-1  Creating
- Container raphaeldiasc21-nodejs-nginx-1  Created
-Attaching to mongodb_container, app1-1, app2-1, nginx-1, redis-1
-redis-1  | Starting Redis Server
-redis-1  | 1:C 19 Aug 2025 14:45:25.202 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis-1  | 1:C 19 Aug 2025 14:45:25.202 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis-1  | 1:C 19 Aug 2025 14:45:25.202 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-redis-1  | 1:C 19 Aug 2025 14:45:25.202 * Configuration loaded
-redis-1  | 1:M 19 Aug 2025 14:45:25.202 * monotonic clock: POSIX clock_gettime
-redis-1  | 1:M 19 Aug 2025 14:45:25.203 * Running mode=standalone, port=6379.
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> Registering configuration options: [
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ bf-error-rate       :      0.01 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ bf-initial-size     :       100 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ bf-expansion-factor :         2 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ cf-bucket-size      :         2 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ cf-initial-size     :      1024 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ cf-max-iterations   :        20 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ cf-expansion-factor :         1 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> 	{ cf-max-expansions   :        32 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * <bf> ]
-redis-1  | 1:M 19 Aug 2025 14:45:25.204 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Low level api version 1 initialized successfully
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Initialized thread pools!
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Disabled workers threadpool of size 0
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Subscribe to config changes
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Enabled role change notification
-redis-1  | 1:M 19 Aug 2025 14:45:25.209 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <search> Register write commands
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> Registering configuration options: [
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-compaction-policy   :              }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-num-threads         :            3 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-retention-policy    :            0 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-duplicate-policy    :        block }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-encoding            :   compressed }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> ]
-redis-1  | 1:M 19 Aug 2025 14:45:25.210 * <timeseries> Detected redis oss
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <timeseries> Enabled diskless replication
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Created new data type 'ReJSON-RL'
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Exported RedisJSON_V1 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Exported RedisJSON_V2 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Exported RedisJSON_V3 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Exported RedisJSON_V4 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Exported RedisJSON_V5 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Enabled diskless replication
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <ReJSON> Initialized shared string cache, thread safe: false.
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-redis-1  | 1:M 19 Aug 2025 14:45:25.211 * <search> Acquired RedisJSON_V5 API
-redis-1  | 1:M 19 Aug 2025 14:45:25.212 * Server initialized
-redis-1  | 1:M 19 Aug 2025 14:45:25.212 * Ready to accept connections tcp
-mongodb_container  | about to fork child process, waiting until server is ready for connections.
-mongodb_container  | forked process: 29
-mongodb_container  | 
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.791+00:00"},"s":"I",  "c":"CONTROL",  "id":20698,   "ctx":"main","msg":"***** SERVER RESTARTED *****"}
-nginx-1            | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
-nginx-1            | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
-nginx-1            | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-nginx-1            | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
-nginx-1            | 10-listen-on-ipv6-by-default.sh: info: /etc/nginx/conf.d/default.conf differs from the packaged version
-nginx-1            | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
-nginx-1            | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.814+00:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"main","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.814+00:00"},"s":"I",  "c":"CONTROL",  "id":5945603, "ctx":"main","msg":"Multi threading initialized"}
-nginx-1            | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-nginx-1            | /docker-entrypoint.sh: Configuration complete; ready for start up
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.833+00:00"},"s":"I",  "c":"NETWORK",  "id":4648601, "ctx":"main","msg":"Implicit TCP FastOpen unavailable. If TCP FastOpen is required, set at least one of the related parameters","attr":{"relatedParameters":["tcpFastOpenServer","tcpFastOpenClient","tcpFastOpenQueueSize"]}}
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: using the "epoll" event method
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: nginx/1.29.0
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14+deb12u1) 
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: OS: Linux 6.14.0-1010-aws
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.837+00:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"main","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":25},"outgoing":{"minWireVersion":6,"maxWireVersion":25},"isInternalClient":true}}}
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: start worker processes
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: start worker process 28
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: start worker process 29
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: start worker process 30
-nginx-1            | 2025/08/19 14:45:25 [notice] 1#1: start worker process 31
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.843+00:00"},"s":"I",  "c":"TENANT_M", "id":7091600, "ctx":"main","msg":"Starting TenantMigrationAccessBlockerRegistry"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.843+00:00"},"s":"I",  "c":"CONTROL",  "id":4615611, "ctx":"initandlisten","msg":"MongoDB starting","attr":{"pid":29,"port":27017,"dbPath":"/data/db","architecture":"64-bit","host":"2c9ed380c792"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.843+00:00"},"s":"I",  "c":"CONTROL",  "id":23403,   "ctx":"initandlisten","msg":"Build Info","attr":{"buildInfo":{"version":"8.0.12","gitVersion":"b60fc6875b5fb4b63cc0dbbd8dda0d6d6277921a","openSSLVersion":"OpenSSL 3.0.13 30 Jan 2024","modules":[],"allocator":"tcmalloc-google","environment":{"distmod":"ubuntu2404","distarch":"x86_64","target_arch":"x86_64"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.843+00:00"},"s":"I",  "c":"CONTROL",  "id":51765,   "ctx":"initandlisten","msg":"Operating System","attr":{"os":{"name":"Ubuntu","version":"24.04"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.843+00:00"},"s":"I",  "c":"CONTROL",  "id":21951,   "ctx":"initandlisten","msg":"Options set by command line","attr":{"options":{"net":{"bindIp":"127.0.0.1","port":27017,"tls":{"mode":"disabled"}},"processManagement":{"fork":true,"pidFilePath":"/tmp/docker-entrypoint-temp-mongod.pid"},"systemLog":{"destination":"file","logAppend":true,"path":"/proc/1/fd/1"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.847+00:00"},"s":"I",  "c":"STORAGE",  "id":22297,   "ctx":"initandlisten","msg":"Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem","tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:25.847+00:00"},"s":"I",  "c":"STORAGE",  "id":22315,   "ctx":"initandlisten","msg":"Opening WiredTiger","attr":{"config":"create,cache_size=3398M,session_max=33000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,remove=true,path=journal,compressor=snappy),builtin_extension_config=(zstd=(compression_level=6)),file_manager=(close_idle_time=600,close_scan_interval=10,close_handle_minimum=2000),statistics_log=(wait=0),json_output=(error,message),verbose=[recovery_progress:1,checkpoint_progress:1,compact_progress:1,backup:0,checkpoint:0,compact:0,evict:0,history_store:0,recovery:0,rts:0,salvage:0,tiered:0,timestamp:0,transaction:0,verify:0,log:0],prefetch=(available=true,default=false),"}}
-nginx-1            | 2025/08/19 14:45:26 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.20.0.4:9999/payments-summary", host: "localhost:9999"
-nginx-1            | 2025/08/19 14:45:26 [warn] 28#28: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.20.0.4:9999/payments-summary", host: "localhost:9999"
-nginx-1            | 2025/08/19 14:45:26 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.20.0.5:9999/payments-summary", host: "localhost:9999"
-nginx-1            | 2025/08/19 14:45:26 [warn] 28#28: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.20.0.5:9999/payments-summary", host: "localhost:9999"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:45:26 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/8.5.0" "-"
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.123+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614726,"ts_usec":123896,"thread":"29:0x7d501e13c680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery log replay has successfully finished and ran for 0 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.124+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614726,"ts_usec":123992,"thread":"29:0x7d501e13c680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Set global recovery timestamp: (0, 0)"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.124+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614726,"ts_usec":124022,"thread":"29:0x7d501e13c680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Set global oldest timestamp: (0, 0)"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.124+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614726,"ts_usec":124063,"thread":"29:0x7d501e13c680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery was completed successfully and took 0ms, including 0ms for the log replay, 0ms for the rollback to stable, and 0ms for the checkpoint."}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.139+00:00"},"s":"I",  "c":"STORAGE",  "id":4795906, "ctx":"initandlisten","msg":"WiredTiger opened","attr":{"durationMillis":292}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.139+00:00"},"s":"I",  "c":"RECOVERY", "id":23987,   "ctx":"initandlisten","msg":"WiredTiger recoveryTimestamp","attr":{"recoveryTimestamp":{"$timestamp":{"t":0,"i":0}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.159+00:00"},"s":"I",  "c":"STORAGE",  "id":9529901, "ctx":"initandlisten","msg":"Initializing durable catalog","attr":{"numRecords":0}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.159+00:00"},"s":"I",  "c":"STORAGE",  "id":9529902, "ctx":"initandlisten","msg":"Retrieving all idents from storage engine"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.159+00:00"},"s":"I",  "c":"STORAGE",  "id":9529903, "ctx":"initandlisten","msg":"Initializing all collections in durable catalog","attr":{"numEntries":0}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.167+00:00"},"s":"W",  "c":"CONTROL",  "id":22120,   "ctx":"initandlisten","msg":"Access control is not enabled for the database. Read and write access to data and configuration is unrestricted","tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.168+00:00"},"s":"W",  "c":"CONTROL",  "id":9068900, "ctx":"initandlisten","msg":"For customers running the current memory allocator, we suggest changing the contents of the following sysfsFile","attr":{"allocator":"tcmalloc-google","sysfsFile":"/sys/kernel/mm/transparent_hugepage/enabled","currentValue":"never","desiredValue":"always"},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.168+00:00"},"s":"W",  "c":"CONTROL",  "id":9068900, "ctx":"initandlisten","msg":"For customers running the current memory allocator, we suggest changing the contents of the following sysfsFile","attr":{"allocator":"tcmalloc-google","sysfsFile":"/sys/kernel/mm/transparent_hugepage/defrag","currentValue":"madvise","desiredValue":"defer+madvise"},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.168+00:00"},"s":"W",  "c":"CONTROL",  "id":8640302, "ctx":"initandlisten","msg":"We suggest setting the contents of sysfsFile to 0.","attr":{"sysfsFile":"/sys/kernel/mm/transparent_hugepage/khugepaged/max_ptes_none","currentValue":511},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.168+00:00"},"s":"W",  "c":"NETWORK",  "id":5123300, "ctx":"initandlisten","msg":"vm.max_map_count is too low","attr":{"currentValue":1048576,"recommendedMinimum":1677720,"maxConns":838860},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.169+00:00"},"s":"I",  "c":"STORAGE",  "id":20320,   "ctx":"initandlisten","msg":"createCollection","attr":{"namespace":"admin.system.version","uuidDisposition":"provided","uuid":{"uuid":{"$uuid":"ea3064be-a3ff-455b-bf60-26e9b082cdb8"}},"options":{"uuid":{"$uuid":"ea3064be-a3ff-455b-bf60-26e9b082cdb8"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.190+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"initandlisten","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"ea3064be-a3ff-455b-bf60-26e9b082cdb8"}},"namespace":"admin.system.version","index":"_id_","ident":"index-1-15948308390408794954","collectionIdent":"collection-0-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.191+00:00"},"s":"I",  "c":"REPL",     "id":20459,   "ctx":"initandlisten","msg":"Setting featureCompatibilityVersion","attr":{"newVersion":"8.0"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.191+00:00"},"s":"I",  "c":"REPL",     "id":5853300, "ctx":"initandlisten","msg":"current featureCompatibilityVersion value","attr":{"featureCompatibilityVersion":"8.0","context":"setFCV"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.191+00:00"},"s":"I",  "c":"NETWORK",  "id":4915702, "ctx":"initandlisten","msg":"Updated wire specification","attr":{"oldSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":25},"outgoing":{"minWireVersion":6,"maxWireVersion":25},"isInternalClient":true},"newSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":25,"maxWireVersion":25},"outgoing":{"minWireVersion":25,"maxWireVersion":25},"isInternalClient":true}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"NETWORK",  "id":4915702, "ctx":"initandlisten","msg":"Updated wire specification","attr":{"oldSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":25,"maxWireVersion":25},"outgoing":{"minWireVersion":25,"maxWireVersion":25},"isInternalClient":true},"newSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":25,"maxWireVersion":25},"outgoing":{"minWireVersion":25,"maxWireVersion":25},"isInternalClient":true}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"REPL",     "id":5853300, "ctx":"initandlisten","msg":"current featureCompatibilityVersion value","attr":{"featureCompatibilityVersion":"8.0","context":"startup"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"STORAGE",  "id":5071100, "ctx":"initandlisten","msg":"Clearing temp directory"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"CONTROL",  "id":6608200, "ctx":"initandlisten","msg":"Initializing cluster server parameters from disk"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"CONTROL",  "id":20536,   "ctx":"initandlisten","msg":"Flow Control is enabled on this deployment"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.192+00:00"},"s":"I",  "c":"FTDC",     "id":20625,   "ctx":"initandlisten","msg":"Initializing full-time diagnostic data capture","attr":{"dataDirectory":"/data/db/diagnostic.data"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.209+00:00"},"s":"I",  "c":"STORAGE",  "id":20320,   "ctx":"initandlisten","msg":"createCollection","attr":{"namespace":"local.startup_log","uuidDisposition":"generated","uuid":{"uuid":{"$uuid":"5594ee2d-d5b5-498f-aff8-04a889cea2d7"}},"options":{"capped":true,"size":10485760}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.226+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"initandlisten","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"5594ee2d-d5b5-498f-aff8-04a889cea2d7"}},"namespace":"local.startup_log","index":"_id_","ident":"index-3-15948308390408794954","collectionIdent":"collection-2-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.226+00:00"},"s":"I",  "c":"REPL",     "id":6015317, "ctx":"initandlisten","msg":"Setting new configuration state","attr":{"newState":"ConfigReplicationDisabled","oldState":"ConfigPreStart"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.226+00:00"},"s":"I",  "c":"STORAGE",  "id":22262,   "ctx":"initandlisten","msg":"Timestamp monitor starting"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.226+00:00"},"s":"I",  "c":"STORAGE",  "id":7333401, "ctx":"initandlisten","msg":"Starting the DiskSpaceMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.228+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"/tmp/mongodb-27017.sock"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.228+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"127.0.0.1:27017"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.228+00:00"},"s":"I",  "c":"NETWORK",  "id":23016,   "ctx":"listener","msg":"Waiting for connections","attr":{"port":27017,"ssl":"off"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.228+00:00"},"s":"I",  "c":"CONTROL",  "id":8423403, "ctx":"initandlisten","msg":"mongod startup complete","attr":{"Summary of time elapsed":{"Startup from clean shutdown?":true,"Statistics":{"Set up periodic runner":"0 ms","Set up online certificate status protocol manager":"0 ms","Transport layer setup":"0 ms","Run initial syncer crash recovery":"0 ms","Create storage engine lock file in the data directory":"0 ms","Get metadata describing storage engine":"0 ms","Create storage engine":"312 ms","Write current PID to file":"0 ms","Write a new metadata for storage engine":"0 ms","Initialize FCV before rebuilding indexes":"1 ms","Drop abandoned idents and get back indexes that need to be rebuilt or builds that need to be restarted":"0 ms","Rebuild indexes for collections":"0 ms","Load cluster parameters from disk for a standalone":"0 ms","Build user and roles graph":"0 ms","Set up the background thread pool responsible for waiting for opTimes to be majority committed":"1 ms","Start up the replication coordinator":"0 ms","Ensure the change stream collections on startup contain consistent data":"0 ms","Write startup options to the audit log":"0 ms","Start transport layer":"0 ms","_initAndListen total elapsed time":"385 ms"}}}}
-mongodb_container  | child process started successfully, parent exiting
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.244+00:00"},"s":"I",  "c":"CONTROL",  "id":20712,   "ctx":"LogicalSessionCacheReap","msg":"Sessions collection is not set up; waiting until next sessions reap interval","attr":{"error":"NamespaceNotFound: config.system.sessions does not exist"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.245+00:00"},"s":"I",  "c":"STORAGE",  "id":20320,   "ctx":"LogicalSessionCacheRefresh","msg":"createCollection","attr":{"namespace":"config.system.sessions","uuidDisposition":"generated","uuid":{"uuid":{"$uuid":"095f7209-ccf4-425f-8980-bbb75b3590a8"}},"options":{}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.272+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"LogicalSessionCacheRefresh","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"095f7209-ccf4-425f-8980-bbb75b3590a8"}},"namespace":"config.system.sessions","index":"_id_","ident":"index-5-15948308390408794954","collectionIdent":"collection-4-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:26.272+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"LogicalSessionCacheRefresh","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"095f7209-ccf4-425f-8980-bbb75b3590a8"}},"namespace":"config.system.sessions","index":"lsidTTLIndex","ident":"index-6-15948308390408794954","collectionIdent":"collection-4-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.007+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"internalQueryCacheSize","canonicalName":"internalQueryCacheMaxEntriesPerCollection"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.008+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"oplogSamplingLogIntervalSeconds","canonicalName":"collectionSamplingLogIntervalSeconds"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.008+00:00"},"s":"W",  "c":"NETWORK",  "id":23803,   "ctx":"ftdc","msg":"Use of deprecated server parameter 'sslMode', please use 'tlsMode' instead."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.008+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"wiredTigerConcurrentReadTransactions","canonicalName":"storageEngineConcurrentReadTransactions"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.008+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"wiredTigerConcurrentWriteTransactions","canonicalName":"storageEngineConcurrentWriteTransactions"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.345+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50388","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"633f1406-61e6-447f-a1cc-cce1da788619"}},"connectionId":1,"connectionCount":1}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.349+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn1","msg":"client metadata","attr":{"remote":"127.0.0.1:50388","client":"conn1","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.408+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50392","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"58c6b896-88b8-4953-bdef-e9ba8d31134f"}},"connectionId":2,"connectionCount":2}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.408+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50408","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"6e7e6f71-24b7-4988-82ce-695316cc6a64"}},"connectionId":3,"connectionCount":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.409+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn2","msg":"client metadata","attr":{"remote":"127.0.0.1:50392","client":"conn2","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.410+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn3","msg":"client metadata","attr":{"remote":"127.0.0.1:50408","client":"conn3","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.412+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50412","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"4b977ae0-f618-48f1-bb99-ed6f3913a46e"}},"connectionId":4,"connectionCount":4}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.413+00:00"},"s":"I",  "c":"NETWORK",  "id":6788700, "ctx":"conn2","msg":"Received first command on ingress connection since session start or auth handshake","attr":{"elapsedMillis":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.414+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn1","msg":"Connection ended","attr":{"remote":"127.0.0.1:50388","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"633f1406-61e6-447f-a1cc-cce1da788619"}},"connectionId":1,"connectionCount":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.414+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn2","msg":"Connection ended","attr":{"remote":"127.0.0.1:50392","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"58c6b896-88b8-4953-bdef-e9ba8d31134f"}},"connectionId":2,"connectionCount":2}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.414+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn4","msg":"Connection ended","attr":{"remote":"127.0.0.1:50412","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"4b977ae0-f618-48f1-bb99-ed6f3913a46e"}},"connectionId":4,"connectionCount":1}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.417+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn3","msg":"Connection ended","attr":{"remote":"127.0.0.1:50408","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"6e7e6f71-24b7-4988-82ce-695316cc6a64"}},"connectionId":3,"connectionCount":0}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.823+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50422","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"fe66e878-8a15-45c9-bd73-ab2638c62713"}},"connectionId":5,"connectionCount":1}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.827+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn5","msg":"client metadata","attr":{"remote":"127.0.0.1:50422","client":"conn5","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.870+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50424","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"9e11191e-58a8-4735-9514-73935e3a8aa4"}},"connectionId":6,"connectionCount":2}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.870+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50434","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"e864873e-09ae-4d66-a14c-517e205dc7c7"}},"connectionId":7,"connectionCount":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.872+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn6","msg":"client metadata","attr":{"remote":"127.0.0.1:50424","client":"conn6","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.873+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn7","msg":"client metadata","attr":{"remote":"127.0.0.1:50434","client":"conn7","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.875+00:00"},"s":"I",  "c":"NETWORK",  "id":6788700, "ctx":"conn6","msg":"Received first command on ingress connection since session start or auth handshake","attr":{"elapsedMillis":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.876+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:50450","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"7358ce04-9b01-4186-9166-9ff6b837d4cc"}},"connectionId":8,"connectionCount":4}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.879+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn8","msg":"client metadata","attr":{"remote":"127.0.0.1:50450","client":"conn8","negotiatedCompressors":[],"doc":{"application":{"name":"mongosh 2.5.6"},"driver":{"name":"nodejs|mongosh","version":"6.16.0|2.5.6"},"platform":"Node.js v20.19.4, LE","os":{"name":"linux","architecture":"x64","version":"3.10.0-327.22.2.el7.x86_64","type":"Linux"},"env":{"container":{"runtime":"docker"}}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:27.882+00:00"},"s":"I",  "c":"NETWORK",  "id":6788700, "ctx":"conn8","msg":"Received first command on ingress connection since session start or auth handshake","attr":{"elapsedMillis":2}}
-mongodb_container  | admin> ... ... ... ... {"t":{"$date":"2025-08-19T14:45:28.183+00:00"},"s":"I",  "c":"STORAGE",  "id":20320,   "ctx":"conn6","msg":"createCollection","attr":{"namespace":"admin.system.users","uuidDisposition":"generated","uuid":{"uuid":{"$uuid":"c041357a-4857-4107-b11c-97bf50c64f5d"}},"options":{}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.210+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"conn6","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"c041357a-4857-4107-b11c-97bf50c64f5d"}},"namespace":"admin.system.users","index":"_id_","ident":"index-8-15948308390408794954","collectionIdent":"collection-7-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.210+00:00"},"s":"I",  "c":"INDEX",    "id":20345,   "ctx":"conn6","msg":"Index build: done building","attr":{"buildUUID":null,"collectionUUID":{"uuid":{"$uuid":"c041357a-4857-4107-b11c-97bf50c64f5d"}},"namespace":"admin.system.users","index":"user_1_db_1","ident":"index-9-15948308390408794954","collectionIdent":"collection-7-15948308390408794954","commitTimestamp":null}}
-mongodb_container  | { ok: 1 }
-mongodb_container  | admin> {"t":{"$date":"2025-08-19T14:45:28.219+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn5","msg":"Connection ended","attr":{"remote":"127.0.0.1:50422","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"fe66e878-8a15-45c9-bd73-ab2638c62713"}},"connectionId":5,"connectionCount":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.219+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn6","msg":"Connection ended","attr":{"remote":"127.0.0.1:50424","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"9e11191e-58a8-4735-9514-73935e3a8aa4"}},"connectionId":6,"connectionCount":2}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.219+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn7","msg":"Connection ended","attr":{"remote":"127.0.0.1:50434","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"e864873e-09ae-4d66-a14c-517e205dc7c7"}},"connectionId":7,"connectionCount":1}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.219+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn8","msg":"Connection ended","attr":{"remote":"127.0.0.1:50450","isLoadBalanced":false,"uuid":{"uuid":{"$uuid":"7358ce04-9b01-4186-9166-9ff6b837d4cc"}},"connectionId":8,"connectionCount":0}}
-mongodb_container  | 
-mongodb_container  | /usr/local/bin/docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/*
-mongodb_container  | 
-mongodb_container  | 
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.282+00:00"},"s":"I",  "c":"CONTROL",  "id":20698,   "ctx":"main","msg":"***** SERVER RESTARTED *****"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.286+00:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"main","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.286+00:00"},"s":"I",  "c":"CONTROL",  "id":5945603, "ctx":"main","msg":"Multi threading initialized"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.287+00:00"},"s":"I",  "c":"NETWORK",  "id":4648601, "ctx":"main","msg":"Implicit TCP FastOpen unavailable. If TCP FastOpen is required, set at least one of the related parameters","attr":{"relatedParameters":["tcpFastOpenServer","tcpFastOpenClient","tcpFastOpenQueueSize"]}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.287+00:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"main","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":25},"outgoing":{"minWireVersion":6,"maxWireVersion":25},"isInternalClient":true}}}
-mongodb_container  | Killing process with pid: 29
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.288+00:00"},"s":"I",  "c":"CONTROL",  "id":23377,   "ctx":"SignalHandler","msg":"Received signal","attr":{"signal":15,"error":"Terminated"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.288+00:00"},"s":"I",  "c":"CONTROL",  "id":23378,   "ctx":"SignalHandler","msg":"Signal was sent by kill(2)","attr":{"pid":112,"uid":999}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.289+00:00"},"s":"I",  "c":"CONTROL",  "id":23381,   "ctx":"SignalHandler","msg":"will terminate after current cmd ends"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.289+00:00"},"s":"I",  "c":"REPL",     "id":4784900, "ctx":"SignalHandler","msg":"Stepping down the ReplicationCoordinator for shutdown","attr":{"waitTimeMillis":15000}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.292+00:00"},"s":"I",  "c":"REPL",     "id":4794602, "ctx":"SignalHandler","msg":"Attempting to enter quiesce mode"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.292+00:00"},"s":"I",  "c":"STORAGE",  "id":7333402, "ctx":"SignalHandler","msg":"Shutting down the DiskSpaceMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.292+00:00"},"s":"I",  "c":"-",        "id":6371601, "ctx":"SignalHandler","msg":"Shutting down the FLE Crud thread pool"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.292+00:00"},"s":"I",  "c":"COMMAND",  "id":4784901, "ctx":"SignalHandler","msg":"Shutting down the MirrorMaestro"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.292+00:00"},"s":"I",  "c":"SHARDING", "id":4784902, "ctx":"SignalHandler","msg":"Shutting down the WaitForMajorityService"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"CONTROL",  "id":4784903, "ctx":"SignalHandler","msg":"Shutting down the LogicalSessionCache"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"NETWORK",  "id":8314100, "ctx":"SignalHandler","msg":"Shutdown: Closing listener sockets"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"NETWORK",  "id":23017,   "ctx":"listener","msg":"removing socket file","attr":{"path":"/tmp/mongodb-27017.sock"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"NETWORK",  "id":4784905, "ctx":"SignalHandler","msg":"Shutting down the global connection pool"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"CONTROL",  "id":4784906, "ctx":"SignalHandler","msg":"Shutting down the FlowControlTicketholder"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"-",        "id":20520,   "ctx":"SignalHandler","msg":"Stopping further Flow Control ticket acquisitions."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"CONTROL",  "id":4784908, "ctx":"SignalHandler","msg":"Shutting down the PeriodicThreadToAbortExpiredTransactions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"REPL",     "id":4784909, "ctx":"SignalHandler","msg":"Shutting down the ReplicationCoordinator"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.293+00:00"},"s":"I",  "c":"SHARDING", "id":4784910, "ctx":"SignalHandler","msg":"Shutting down the ShardingInitializationMongoD"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.294+00:00"},"s":"I",  "c":"REPL",     "id":4784911, "ctx":"SignalHandler","msg":"Enqueuing the ReplicationStateTransitionLock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.294+00:00"},"s":"I",  "c":"-",        "id":4784912, "ctx":"SignalHandler","msg":"Killing all operations for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.294+00:00"},"s":"I",  "c":"-",        "id":4695300, "ctx":"SignalHandler","msg":"Interrupted all currently running operations","attr":{"opsKilled":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.294+00:00"},"s":"I",  "c":"TENANT_M", "id":5093807, "ctx":"SignalHandler","msg":"Shutting down all TenantMigrationAccessBlockers on global shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.294+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"TenantMigrationBlockerNet","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"ASIO",     "id":6529201, "ctx":"SignalHandler","msg":"Network interface redundant shutdown","attr":{"state":"Stopped"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"SignalHandler","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"COMMAND",  "id":4784913, "ctx":"SignalHandler","msg":"Shutting down all open transactions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"REPL",     "id":4784914, "ctx":"SignalHandler","msg":"Acquiring the ReplicationStateTransitionLock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"INDEX",    "id":4784915, "ctx":"SignalHandler","msg":"Shutting down the IndexBuildsCoordinator"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"NETWORK",  "id":4784918, "ctx":"SignalHandler","msg":"Shutting down the ReplicaSetMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"SHARDING", "id":4784921, "ctx":"SignalHandler","msg":"Shutting down the MigrationUtilExecutor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"MigrationUtil-TaskExecutor","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"NETWORK",  "id":20562,   "ctx":"SignalHandler","msg":"Shutdown: Closing open transport sessions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"NETWORK",  "id":4784923, "ctx":"SignalHandler","msg":"Shutting down the ASIO transport SessionManager"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"CONTROL",  "id":4784927, "ctx":"SignalHandler","msg":"Shutting down the HealthLog"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"CONTROL",  "id":4784928, "ctx":"SignalHandler","msg":"Shutting down the TTL monitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"INDEX",    "id":3684100, "ctx":"SignalHandler","msg":"Shutting down TTL collection monitor thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"INDEX",    "id":3684101, "ctx":"SignalHandler","msg":"Finished shutting down TTL collection monitor thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"CONTROL",  "id":6278511, "ctx":"SignalHandler","msg":"Shutting down the Change Stream Expired Pre-images Remover"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"CONTROL",  "id":4784929, "ctx":"SignalHandler","msg":"Acquiring the global lock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"CONTROL",  "id":4784930, "ctx":"SignalHandler","msg":"Shutting down the storage engine"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22320,   "ctx":"SignalHandler","msg":"Shutting down journal flusher thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22321,   "ctx":"SignalHandler","msg":"Finished shutting down journal flusher thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22322,   "ctx":"SignalHandler","msg":"Shutting down checkpoint thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22323,   "ctx":"SignalHandler","msg":"Finished shutting down checkpoint thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22261,   "ctx":"SignalHandler","msg":"Timestamp monitor shutting down"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":20282,   "ctx":"SignalHandler","msg":"Deregistering all the collections"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22317,   "ctx":"SignalHandler","msg":"WiredTigerKVEngine shutting down"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.295+00:00"},"s":"I",  "c":"STORAGE",  "id":22318,   "ctx":"SignalHandler","msg":"Shutting down session sweeper thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.296+00:00"},"s":"I",  "c":"STORAGE",  "id":22319,   "ctx":"SignalHandler","msg":"Finished shutting down session sweeper thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.299+00:00"},"s":"I",  "c":"STORAGE",  "id":4795902, "ctx":"SignalHandler","msg":"Closing WiredTiger","attr":{"closeConfig":"leak_memory=true,use_timestamp=false,"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.302+00:00"},"s":"I",  "c":"WTCHKPT",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614728,"ts_usec":302322,"thread":"29:0x7d501e1186c0","session_name":"close_ckpt","category":"WT_VERB_CHECKPOINT_PROGRESS","category_id":7,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"saving checkpoint snapshot min: 46, snapshot max: 46 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 1"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.343+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614728,"ts_usec":343223,"thread":"29:0x7d501e1186c0","session_name":"WT_CONNECTION.close","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"shutdown checkpoint has successfully finished and ran for 43 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.343+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614728,"ts_usec":343447,"thread":"29:0x7d501e1186c0","session_name":"WT_CONNECTION.close","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"shutdown was completed successfully and took 43ms, including 0ms for the rollback to stable, and 43ms for the checkpoint."}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.358+00:00"},"s":"I",  "c":"STORAGE",  "id":4795901, "ctx":"SignalHandler","msg":"WiredTiger closed","attr":{"durationMillis":59}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.358+00:00"},"s":"I",  "c":"STORAGE",  "id":22279,   "ctx":"SignalHandler","msg":"shutdown: removing fs lock..."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.358+00:00"},"s":"I",  "c":"-",        "id":4784931, "ctx":"SignalHandler","msg":"Dropping the scope cache for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.358+00:00"},"s":"I",  "c":"FTDC",     "id":20626,   "ctx":"SignalHandler","msg":"Shutting down full-time diagnostic data capture"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.361+00:00"},"s":"I",  "c":"CONTROL",  "id":20565,   "ctx":"SignalHandler","msg":"Now exiting"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.362+00:00"},"s":"I",  "c":"CONTROL",  "id":8423404, "ctx":"SignalHandler","msg":"mongod shutdown complete","attr":{"Summary of time elapsed":{"Statistics":{"Enter terminal shutdown":"0 ms","Step down the replication coordinator for shutdown":"3 ms","Time spent in quiesce mode":"0 ms","Shut down FLE Crud subsystem":"0 ms","Shut down MirrorMaestro":"0 ms","Shut down WaitForMajorityService":"1 ms","Shut down the logical session cache":"0 ms","Shut down the global connection pool":"0 ms","Shut down the flow control ticket holder":"0 ms","Shut down the thread that aborts expired transactions":"0 ms","Kill all operations for shutdown":"0 ms","Shut down all tenant migration access blockers on global shutdown":"1 ms","Shut down all open transactions":"0 ms","Acquire the RSTL for shutdown":"0 ms","Shut down the IndexBuildsCoordinator and wait for index builds to finish":"0 ms","Shut down the replica set monitor":"0 ms","Shut down the migration util executor":"0 ms","Shut down the transport layer":"0 ms","Shut down the health log":"0 ms","Shut down the TTL monitor":"0 ms","Shut down expired pre-images and documents removers":"0 ms","Shut down the storage engine":"63 ms","Wait for the oplog cap maintainer thread to stop":"0 ms","Shut down full-time data capture":"0 ms","Shut down online certificate status protocol manager":"0 ms","shutdownTask total elapsed time":"72 ms"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:28.362+00:00"},"s":"I",  "c":"CONTROL",  "id":23138,   "ctx":"SignalHandler","msg":"Shutting down","attr":{"exitCode":0}}
-[Kapp2-1 exited with code 137
-mongodb_container  | 
-mongodb_container  | MongoDB init process complete; ready for start up.
-mongodb_container  | 
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.337+00:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"main","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.340+00:00"},"s":"I",  "c":"CONTROL",  "id":5945603, "ctx":"main","msg":"Multi threading initialized"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.340+00:00"},"s":"I",  "c":"NETWORK",  "id":4648601, "ctx":"main","msg":"Implicit TCP FastOpen unavailable. If TCP FastOpen is required, set at least one of the related parameters","attr":{"relatedParameters":["tcpFastOpenServer","tcpFastOpenClient","tcpFastOpenQueueSize"]}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.340+00:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"main","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":25},"outgoing":{"minWireVersion":6,"maxWireVersion":25},"isInternalClient":true}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.342+00:00"},"s":"I",  "c":"TENANT_M", "id":7091600, "ctx":"main","msg":"Starting TenantMigrationAccessBlockerRegistry"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.342+00:00"},"s":"I",  "c":"CONTROL",  "id":4615611, "ctx":"initandlisten","msg":"MongoDB starting","attr":{"pid":1,"port":27017,"dbPath":"/data/db","architecture":"64-bit","host":"2c9ed380c792"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.342+00:00"},"s":"I",  "c":"CONTROL",  "id":23403,   "ctx":"initandlisten","msg":"Build Info","attr":{"buildInfo":{"version":"8.0.12","gitVersion":"b60fc6875b5fb4b63cc0dbbd8dda0d6d6277921a","openSSLVersion":"OpenSSL 3.0.13 30 Jan 2024","modules":[],"allocator":"tcmalloc-google","environment":{"distmod":"ubuntu2404","distarch":"x86_64","target_arch":"x86_64"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.342+00:00"},"s":"I",  "c":"CONTROL",  "id":51765,   "ctx":"initandlisten","msg":"Operating System","attr":{"os":{"name":"Ubuntu","version":"24.04"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.342+00:00"},"s":"I",  "c":"CONTROL",  "id":21951,   "ctx":"initandlisten","msg":"Options set by command line","attr":{"options":{"net":{"bindIp":"*"},"security":{"authorization":"enabled"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.343+00:00"},"s":"I",  "c":"STORAGE",  "id":22270,   "ctx":"initandlisten","msg":"Storage engine to use detected by data files","attr":{"dbpath":"/data/db","storageEngine":"wiredTiger"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.343+00:00"},"s":"I",  "c":"STORAGE",  "id":22297,   "ctx":"initandlisten","msg":"Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem","tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.343+00:00"},"s":"I",  "c":"STORAGE",  "id":22315,   "ctx":"initandlisten","msg":"Opening WiredTiger","attr":{"config":"create,cache_size=3398M,session_max=33000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,remove=true,path=journal,compressor=snappy),builtin_extension_config=(zstd=(compression_level=6)),file_manager=(close_idle_time=600,close_scan_interval=10,close_handle_minimum=2000),statistics_log=(wait=0),json_output=(error,message),verbose=[recovery_progress:1,checkpoint_progress:1,compact_progress:1,backup:0,checkpoint:0,compact:0,evict:0,history_store:0,recovery:0,rts:0,salvage:0,tiered:0,timestamp:0,transaction:0,verify:0,log:0],prefetch=(available=true,default=false),"}}
-[Kapp1-1 exited with code 137
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.665+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":665120,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Recovering log 1 through 2"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.730+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":730202,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Recovering log 2 through 2"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.794+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":794056,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Main recovery loop: starting at 1/32128 to 2/256"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.851+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":851028,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Recovering log 1 through 2"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.897+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":897258,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Recovering log 2 through 2"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.925+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":924985,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery log replay has successfully finished and ran for 260 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.925+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":925094,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Set global recovery timestamp: (0, 0)"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.925+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":925122,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"Set global oldest timestamp: (0, 0)"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.926+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":926178,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery rollback to stable has successfully finished and ran for 1 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.929+00:00"},"s":"I",  "c":"WTCHKPT",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":929850,"thread":"1:0x75cbcb142680","session_name":"WT_SESSION.checkpoint","category":"WT_VERB_CHECKPOINT_PROGRESS","category_id":7,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"saving checkpoint snapshot min: 1, snapshot max: 1 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 7"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.940+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":940340,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery checkpoint has successfully finished and ran for 13 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.940+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614729,"ts_usec":940435,"thread":"1:0x75cbcb142680","session_name":"txn-recover","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"recovery was completed successfully and took 275ms, including 260ms for the log replay, 1ms for the rollback to stable, and 13ms for the checkpoint."}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.943+00:00"},"s":"I",  "c":"STORAGE",  "id":4795906, "ctx":"initandlisten","msg":"WiredTiger opened","attr":{"durationMillis":600}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.943+00:00"},"s":"I",  "c":"RECOVERY", "id":23987,   "ctx":"initandlisten","msg":"WiredTiger recoveryTimestamp","attr":{"recoveryTimestamp":{"$timestamp":{"t":0,"i":0}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.947+00:00"},"s":"I",  "c":"STORAGE",  "id":9529901, "ctx":"initandlisten","msg":"Initializing durable catalog","attr":{"numRecords":4}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.947+00:00"},"s":"I",  "c":"STORAGE",  "id":9529902, "ctx":"initandlisten","msg":"Retrieving all idents from storage engine"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.948+00:00"},"s":"I",  "c":"STORAGE",  "id":9529903, "ctx":"initandlisten","msg":"Initializing all collections in durable catalog","attr":{"numEntries":4}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.954+00:00"},"s":"W",  "c":"CONTROL",  "id":9068900, "ctx":"initandlisten","msg":"For customers running the current memory allocator, we suggest changing the contents of the following sysfsFile","attr":{"allocator":"tcmalloc-google","sysfsFile":"/sys/kernel/mm/transparent_hugepage/enabled","currentValue":"never","desiredValue":"always"},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.954+00:00"},"s":"W",  "c":"CONTROL",  "id":9068900, "ctx":"initandlisten","msg":"For customers running the current memory allocator, we suggest changing the contents of the following sysfsFile","attr":{"allocator":"tcmalloc-google","sysfsFile":"/sys/kernel/mm/transparent_hugepage/defrag","currentValue":"madvise","desiredValue":"defer+madvise"},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.954+00:00"},"s":"W",  "c":"CONTROL",  "id":8640302, "ctx":"initandlisten","msg":"We suggest setting the contents of sysfsFile to 0.","attr":{"sysfsFile":"/sys/kernel/mm/transparent_hugepage/khugepaged/max_ptes_none","currentValue":511},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.954+00:00"},"s":"W",  "c":"NETWORK",  "id":5123300, "ctx":"initandlisten","msg":"vm.max_map_count is too low","attr":{"currentValue":1048576,"recommendedMinimum":1677720,"maxConns":838860},"tags":["startupWarnings"]}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.958+00:00"},"s":"I",  "c":"NETWORK",  "id":4915702, "ctx":"initandlisten","msg":"Updated wire specification","attr":{"oldSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":25},"outgoing":{"minWireVersion":6,"maxWireVersion":25},"isInternalClient":true},"newSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":25},"incomingInternalClient":{"minWireVersion":25,"maxWireVersion":25},"outgoing":{"minWireVersion":25,"maxWireVersion":25},"isInternalClient":true}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.958+00:00"},"s":"I",  "c":"REPL",     "id":5853300, "ctx":"initandlisten","msg":"current featureCompatibilityVersion value","attr":{"featureCompatibilityVersion":"8.0","context":"startup"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.958+00:00"},"s":"I",  "c":"STORAGE",  "id":5071100, "ctx":"initandlisten","msg":"Clearing temp directory"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.960+00:00"},"s":"I",  "c":"CONTROL",  "id":6608200, "ctx":"initandlisten","msg":"Initializing cluster server parameters from disk"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.960+00:00"},"s":"I",  "c":"CONTROL",  "id":20536,   "ctx":"initandlisten","msg":"Flow Control is enabled on this deployment"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.960+00:00"},"s":"I",  "c":"FTDC",     "id":20625,   "ctx":"initandlisten","msg":"Initializing full-time diagnostic data capture","attr":{"dataDirectory":"/data/db/diagnostic.data"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.962+00:00"},"s":"I",  "c":"REPL",     "id":6015317, "ctx":"initandlisten","msg":"Setting new configuration state","attr":{"newState":"ConfigReplicationDisabled","oldState":"ConfigPreStart"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.962+00:00"},"s":"I",  "c":"STORAGE",  "id":22262,   "ctx":"initandlisten","msg":"Timestamp monitor starting"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.962+00:00"},"s":"I",  "c":"STORAGE",  "id":7333401, "ctx":"initandlisten","msg":"Starting the DiskSpaceMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.963+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"/tmp/mongodb-27017.sock"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.963+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"0.0.0.0:27017"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.964+00:00"},"s":"I",  "c":"NETWORK",  "id":23016,   "ctx":"listener","msg":"Waiting for connections","attr":{"port":27017,"ssl":"off"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:29.964+00:00"},"s":"I",  "c":"CONTROL",  "id":8423403, "ctx":"initandlisten","msg":"mongod startup complete","attr":{"Summary of time elapsed":{"Startup from clean shutdown?":true,"Statistics":{"Set up periodic runner":"0 ms","Set up online certificate status protocol manager":"0 ms","Transport layer setup":"0 ms","Run initial syncer crash recovery":"0 ms","Create storage engine lock file in the data directory":"0 ms","Get metadata describing storage engine":"0 ms","Validate options in metadata against current startup options":"0 ms","Create storage engine":"605 ms","Write current PID to file":"0 ms","Initialize FCV before rebuilding indexes":"4 ms","Drop abandoned idents and get back indexes that need to be rebuilt or builds that need to be restarted":"0 ms","Rebuild indexes for collections":"0 ms","Load cluster parameters from disk for a standalone":"0 ms","Build user and roles graph":"0 ms","Verify indexes for admin.system.users collection":"0 ms","Set up the background thread pool responsible for waiting for opTimes to be majority committed":"0 ms","Start up the replication coordinator":"1 ms","Ensure the change stream collections on startup contain consistent data":"0 ms","Write startup options to the audit log":"0 ms","Start transport layer":"1 ms","_initAndListen total elapsed time":"622 ms"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:30.006+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"internalQueryCacheSize","canonicalName":"internalQueryCacheMaxEntriesPerCollection"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:30.006+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"oplogSamplingLogIntervalSeconds","canonicalName":"collectionSamplingLogIntervalSeconds"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:30.006+00:00"},"s":"W",  "c":"NETWORK",  "id":23803,   "ctx":"ftdc","msg":"Use of deprecated server parameter 'sslMode', please use 'tlsMode' instead."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:30.006+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"wiredTigerConcurrentReadTransactions","canonicalName":"storageEngineConcurrentReadTransactions"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:45:30.007+00:00"},"s":"W",  "c":"CONTROL",  "id":636300,  "ctx":"ftdc","msg":"Use of deprecated server parameter name","attr":{"deprecatedName":"wiredTigerConcurrentWriteTransactions","canonicalName":"storageEngineConcurrentWriteTransactions"}}
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:45:34 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:45:42 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:45:50 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:45:58 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:06 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:14 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:22 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-mongodb_container  | {"t":{"$date":"2025-08-19T14:46:29.955+00:00"},"s":"I",  "c":"WTCHKPT",  "id":22430,   "ctx":"Checkpointer","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614789,"ts_usec":955586,"thread":"1:0x75cbbc9016c0","session_name":"WT_SESSION.checkpoint","category":"WT_VERB_CHECKPOINT_PROGRESS","category_id":7,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"saving checkpoint snapshot min: 3, snapshot max: 3 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 7"}}}
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:30 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:38 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:46 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:46:54 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-nginx-1            | 172.20.0.1 - - [19/Aug/2025:14:47:02 +0000] "GET /payments-summary HTTP/1.1" 499 0 "-" "curl/8.5.0" "-"
-redis-1            | 1:signal-handler (1755614827) Received SIGTERM scheduling shutdown...
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
-nginx-1            | 2025/08/19 14:47:07 [notice] 29#29: gracefully shutting down
-nginx-1            | 2025/08/19 14:47:07 [notice] 28#28: gracefully shutting down
-nginx-1            | 2025/08/19 14:47:07 [notice] 28#28: exiting
-nginx-1            | 2025/08/19 14:47:07 [notice] 29#29: exiting
-nginx-1            | 2025/08/19 14:47:07 [notice] 30#30: gracefully shutting down
-nginx-1            | 2025/08/19 14:47:07 [notice] 30#30: exiting
-nginx-1            | 2025/08/19 14:47:07 [notice] 30#30: exit
-nginx-1            | 2025/08/19 14:47:07 [notice] 31#31: gracefully shutting down
-nginx-1            | 2025/08/19 14:47:07 [notice] 29#29: exit
-nginx-1            | 2025/08/19 14:47:07 [notice] 31#31: exiting
-nginx-1            | 2025/08/19 14:47:07 [notice] 31#31: exit
-nginx-1            | 2025/08/19 14:47:07 [notice] 28#28: exit
-redis-1            | 1:M 19 Aug 2025 14:47:07.258 * User requested shutdown...
-redis-1            | 1:M 19 Aug 2025 14:47:07.258 * Saving the final RDB snapshot before exiting.
-redis-1            | 1:M 19 Aug 2025 14:47:07.263 * DB saved on disk
-redis-1            | 1:M 19 Aug 2025 14:47:07.263 # Redis is now ready to exit, bye bye...
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: signal 17 (SIGCHLD) received from 29
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: worker process 29 exited with code 0
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: signal 29 (SIGIO) received
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: signal 17 (SIGCHLD) received from 30
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: worker process 28 exited with code 0
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: worker process 30 exited with code 0
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: worker process 31 exited with code 0
-nginx-1            | 2025/08/19 14:47:07 [notice] 1#1: exit
-[Knginx-1 exited with code 0
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"CONTROL",  "id":23377,   "ctx":"SignalHandler","msg":"Received signal","attr":{"signal":15,"error":"Terminated"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"CONTROL",  "id":23378,   "ctx":"SignalHandler","msg":"Signal was sent by kill(2)","attr":{"pid":0,"uid":0}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"CONTROL",  "id":23381,   "ctx":"SignalHandler","msg":"will terminate after current cmd ends"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"REPL",     "id":4784900, "ctx":"SignalHandler","msg":"Stepping down the ReplicationCoordinator for shutdown","attr":{"waitTimeMillis":15000}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"REPL",     "id":4794602, "ctx":"SignalHandler","msg":"Attempting to enter quiesce mode"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"STORAGE",  "id":7333402, "ctx":"SignalHandler","msg":"Shutting down the DiskSpaceMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"-",        "id":6371601, "ctx":"SignalHandler","msg":"Shutting down the FLE Crud thread pool"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"COMMAND",  "id":4784901, "ctx":"SignalHandler","msg":"Shutting down the MirrorMaestro"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.490+00:00"},"s":"I",  "c":"SHARDING", "id":4784902, "ctx":"SignalHandler","msg":"Shutting down the WaitForMajorityService"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"CONTROL",  "id":4784903, "ctx":"SignalHandler","msg":"Shutting down the LogicalSessionCache"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"NETWORK",  "id":8314100, "ctx":"SignalHandler","msg":"Shutdown: Closing listener sockets"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"NETWORK",  "id":23017,   "ctx":"listener","msg":"removing socket file","attr":{"path":"/tmp/mongodb-27017.sock"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"NETWORK",  "id":4784905, "ctx":"SignalHandler","msg":"Shutting down the global connection pool"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"CONTROL",  "id":4784906, "ctx":"SignalHandler","msg":"Shutting down the FlowControlTicketholder"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"-",        "id":20520,   "ctx":"SignalHandler","msg":"Stopping further Flow Control ticket acquisitions."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"CONTROL",  "id":4784908, "ctx":"SignalHandler","msg":"Shutting down the PeriodicThreadToAbortExpiredTransactions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"REPL",     "id":4784909, "ctx":"SignalHandler","msg":"Shutting down the ReplicationCoordinator"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.491+00:00"},"s":"I",  "c":"SHARDING", "id":4784910, "ctx":"SignalHandler","msg":"Shutting down the ShardingInitializationMongoD"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"REPL",     "id":4784911, "ctx":"SignalHandler","msg":"Enqueuing the ReplicationStateTransitionLock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"-",        "id":4784912, "ctx":"SignalHandler","msg":"Killing all operations for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"-",        "id":4695300, "ctx":"SignalHandler","msg":"Interrupted all currently running operations","attr":{"opsKilled":3}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"TENANT_M", "id":5093807, "ctx":"SignalHandler","msg":"Shutting down all TenantMigrationAccessBlockers on global shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"TenantMigrationBlockerNet","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"ASIO",     "id":6529201, "ctx":"SignalHandler","msg":"Network interface redundant shutdown","attr":{"state":"Stopped"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"SignalHandler","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"COMMAND",  "id":4784913, "ctx":"SignalHandler","msg":"Shutting down all open transactions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"REPL",     "id":4784914, "ctx":"SignalHandler","msg":"Acquiring the ReplicationStateTransitionLock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"INDEX",    "id":4784915, "ctx":"SignalHandler","msg":"Shutting down the IndexBuildsCoordinator"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"NETWORK",  "id":4784918, "ctx":"SignalHandler","msg":"Shutting down the ReplicaSetMonitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"SHARDING", "id":4784921, "ctx":"SignalHandler","msg":"Shutting down the MigrationUtilExecutor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"MigrationUtil-TaskExecutor","msg":"Killing all outstanding egress activity."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"NETWORK",  "id":20562,   "ctx":"SignalHandler","msg":"Shutdown: Closing open transport sessions"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"NETWORK",  "id":4784923, "ctx":"SignalHandler","msg":"Shutting down the ASIO transport SessionManager"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"CONTROL",  "id":4784927, "ctx":"SignalHandler","msg":"Shutting down the HealthLog"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.492+00:00"},"s":"I",  "c":"CONTROL",  "id":4784928, "ctx":"SignalHandler","msg":"Shutting down the TTL monitor"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"INDEX",    "id":3684100, "ctx":"SignalHandler","msg":"Shutting down TTL collection monitor thread"}
-[Kredis-1 exited with code 0
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"INDEX",    "id":3684101, "ctx":"SignalHandler","msg":"Finished shutting down TTL collection monitor thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"CONTROL",  "id":6278511, "ctx":"SignalHandler","msg":"Shutting down the Change Stream Expired Pre-images Remover"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"CONTROL",  "id":4784929, "ctx":"SignalHandler","msg":"Acquiring the global lock for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"CONTROL",  "id":4784930, "ctx":"SignalHandler","msg":"Shutting down the storage engine"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22320,   "ctx":"SignalHandler","msg":"Shutting down journal flusher thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22321,   "ctx":"SignalHandler","msg":"Finished shutting down journal flusher thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22322,   "ctx":"SignalHandler","msg":"Shutting down checkpoint thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22323,   "ctx":"SignalHandler","msg":"Finished shutting down checkpoint thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22261,   "ctx":"SignalHandler","msg":"Timestamp monitor shutting down"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":20282,   "ctx":"SignalHandler","msg":"Deregistering all the collections"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22317,   "ctx":"SignalHandler","msg":"WiredTigerKVEngine shutting down"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22318,   "ctx":"SignalHandler","msg":"Shutting down session sweeper thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":22319,   "ctx":"SignalHandler","msg":"Finished shutting down session sweeper thread"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.493+00:00"},"s":"I",  "c":"STORAGE",  "id":4795902, "ctx":"SignalHandler","msg":"Closing WiredTiger","attr":{"closeConfig":"leak_memory=true,use_timestamp=false,"}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.495+00:00"},"s":"I",  "c":"WTCHKPT",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614827,"ts_usec":494978,"thread":"1:0x75cbcb11e6c0","session_name":"close_ckpt","category":"WT_VERB_CHECKPOINT_PROGRESS","category_id":7,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"saving checkpoint snapshot min: 5, snapshot max: 5 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 7"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.508+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614827,"ts_usec":508777,"thread":"1:0x75cbcb11e6c0","session_name":"WT_CONNECTION.close","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"shutdown checkpoint has successfully finished and ran for 14 milliseconds"}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.508+00:00"},"s":"I",  "c":"WTRECOV",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":{"ts_sec":1755614827,"ts_usec":508908,"thread":"1:0x75cbcb11e6c0","session_name":"WT_CONNECTION.close","category":"WT_VERB_RECOVERY_PROGRESS","category_id":34,"verbose_level":"DEBUG_1","verbose_level_id":1,"msg":"shutdown was completed successfully and took 14ms, including 0ms for the rollback to stable, and 14ms for the checkpoint."}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.522+00:00"},"s":"I",  "c":"STORAGE",  "id":4795901, "ctx":"SignalHandler","msg":"WiredTiger closed","attr":{"durationMillis":29}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.522+00:00"},"s":"I",  "c":"STORAGE",  "id":22279,   "ctx":"SignalHandler","msg":"shutdown: removing fs lock..."}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.522+00:00"},"s":"I",  "c":"-",        "id":4784931, "ctx":"SignalHandler","msg":"Dropping the scope cache for shutdown"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.522+00:00"},"s":"I",  "c":"FTDC",     "id":20626,   "ctx":"SignalHandler","msg":"Shutting down full-time diagnostic data capture"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.527+00:00"},"s":"I",  "c":"CONTROL",  "id":20565,   "ctx":"SignalHandler","msg":"Now exiting"}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.527+00:00"},"s":"I",  "c":"CONTROL",  "id":8423404, "ctx":"SignalHandler","msg":"mongod shutdown complete","attr":{"Summary of time elapsed":{"Statistics":{"Enter terminal shutdown":"0 ms","Step down the replication coordinator for shutdown":"0 ms","Time spent in quiesce mode":"0 ms","Shut down FLE Crud subsystem":"0 ms","Shut down MirrorMaestro":"0 ms","Shut down WaitForMajorityService":"1 ms","Shut down the logical session cache":"0 ms","Shut down the global connection pool":"0 ms","Shut down the flow control ticket holder":"0 ms","Shut down the thread that aborts expired transactions":"0 ms","Kill all operations for shutdown":"0 ms","Shut down all tenant migration access blockers on global shutdown":"0 ms","Shut down all open transactions":"0 ms","Acquire the RSTL for shutdown":"0 ms","Shut down the IndexBuildsCoordinator and wait for index builds to finish":"0 ms","Shut down the replica set monitor":"0 ms","Shut down the migration util executor":"0 ms","Shut down the transport layer":"0 ms","Shut down the health log":"0 ms","Shut down the TTL monitor":"1 ms","Shut down expired pre-images and documents removers":"0 ms","Shut down the storage engine":"29 ms","Wait for the oplog cap maintainer thread to stop":"0 ms","Shut down full-time data capture":"0 ms","Shut down online certificate status protocol manager":"0 ms","shutdownTask total elapsed time":"37 ms"}}}}
-mongodb_container  | {"t":{"$date":"2025-08-19T14:47:07.527+00:00"},"s":"I",  "c":"CONTROL",  "id":23138,   "ctx":"SignalHandler","msg":"Shutting down","attr":{"exitCode":0}}
+ Container mongodb_container  Error response from daemon: No such image: mongo:latest
+Error response from daemon: No such image: mongo:latest

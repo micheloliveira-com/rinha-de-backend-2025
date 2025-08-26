@@ -1,46 +1,186 @@
 
+ haproxy Pulling 
+ redis Pulling 
+ jvpayments-1 Pulling 
+ jvpayments-2 Pulling 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 7c3b32e64b22 Pulling fs layer 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ 5e28347af205 Waiting 
+ 311eca34042e Waiting 
+ 4f4fb700ef54 Waiting 
+ e6fe6f07e192 Waiting 
+ a976ed7e7808 Waiting 
+ a2cadbfeca72 Waiting 
+ 9824c27679d3 Already exists 
+ 4f4fb700ef54 Pulling fs layer 
+ 7c3b32e64b22 Pulling fs layer 
+ 7c3b32e64b22 Downloading [>                                                  ]  78.49kB/7.548MB
+ 7c3b32e64b22 Downloading [>                                                  ]  78.49kB/7.548MB
+ 9824c27679d3 Already exists 
+ 123b92336b82 Pulling fs layer 
+ e7cee334a64b Pulling fs layer 
+ 536eff87c11a Pulling fs layer 
+ 0b2aa9ab96ae Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 123b92336b82 Waiting 
+ e7cee334a64b Waiting 
+ 536eff87c11a Waiting 
+ 0b2aa9ab96ae Waiting 
+ 4f4fb700ef54 Waiting 
+ 7c3b32e64b22 Verifying Checksum 
+ 7c3b32e64b22 Download complete 
+ 7c3b32e64b22 Verifying Checksum 
+ 7c3b32e64b22 Download complete 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 7c3b32e64b22 Extracting [>                                                  ]   98.3kB/7.548MB
+ 7c3b32e64b22 Extracting [>                                                  ]   98.3kB/7.548MB
+ 7c3b32e64b22 Extracting [==================================================>]  7.548MB/7.548MB
+ 7c3b32e64b22 Extracting [==================================================>]  7.548MB/7.548MB
+ 7c3b32e64b22 Extracting [==================================================>]  7.548MB/7.548MB
+ 7c3b32e64b22 Extracting [==================================================>]  7.548MB/7.548MB
+ 7c3b32e64b22 Pull complete 
+ 7c3b32e64b22 Pull complete 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ jvpayments-1 Pulled 
+ 4c55286bbede Pull complete 
+ jvpayments-2 Pulled 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 311eca34042e Downloading [>                                                  ]  10.93kB/1.003MB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ e6fe6f07e192 Downloading [>                                                  ]    127kB/12.41MB
+ 5e28347af205 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [=======================>                           ]  5.898MB/12.41MB
+ e6fe6f07e192 Downloading [===========================================>       ]  10.86MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ e6fe6f07e192 Extracting [=========================>                         ]  6.423MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ e7cee334a64b Downloading [==================================================>]     964B/964B
+ e7cee334a64b Download complete 
+ 123b92336b82 Downloading [>                                                  ]  3.785kB/282.4kB
+ 123b92336b82 Downloading [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Verifying Checksum 
+ 123b92336b82 Extracting [=====>                                             ]  32.77kB/282.4kB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Extracting [==================================================>]  282.4kB/282.4kB
+ 123b92336b82 Pull complete 
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ e7cee334a64b Extracting [==================================================>]     964B/964B
+ e7cee334a64b Pull complete 
+ 536eff87c11a Downloading [>                                                  ]  111.5kB/11.02MB
+ 536eff87c11a Downloading [=====================>                             ]  4.731MB/11.02MB
+ 0b2aa9ab96ae Downloading [==================================================>]     440B/440B
+ 0b2aa9ab96ae Verifying Checksum 
+ 0b2aa9ab96ae Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 536eff87c11a Downloading [===========================================>       ]  9.667MB/11.02MB
+ 536eff87c11a Verifying Checksum 
+ 536eff87c11a Download complete 
+ 536eff87c11a Extracting [>                                                  ]  131.1kB/11.02MB
+ 536eff87c11a Extracting [==================================>                ]  7.602MB/11.02MB
+ 536eff87c11a Extracting [==================================================>]  11.02MB/11.02MB
+ 536eff87c11a Pull complete 
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 0b2aa9ab96ae Extracting [==================================================>]     440B/440B
+ 0b2aa9ab96ae Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ haproxy Pulled 
  Network jvcouto-go_app  Creating
  Network jvcouto-go_app  Created
  Container jvcouto-go-redis-1  Creating
  Container jvcouto-go-redis-1  Created
  Container jvcouto-go-jvpayments-1-1  Creating
  Container jvcouto-go-jvpayments-2-1  Creating
- Container jvcouto-go-jvpayments-2-1  Created
  Container jvcouto-go-jvpayments-1-1  Created
+ Container jvcouto-go-jvpayments-2-1  Created
  Container jvcouto-go-haproxy-1  Creating
  Container jvcouto-go-haproxy-1  Created
 Attaching to haproxy-1, jvpayments-1-1, jvpayments-2-1, redis-1
-redis-1  | 1:C 19 Aug 2025 01:35:51.902 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis-1  | 1:C 19 Aug 2025 01:35:51.902 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis-1  | 1:C 19 Aug 2025 01:35:51.902 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-redis-1  | 1:C 19 Aug 2025 01:35:51.902 * Configuration loaded
-redis-1  | 1:M 19 Aug 2025 01:35:51.902 * monotonic clock: POSIX clock_gettime
-redis-1  | 1:M 19 Aug 2025 01:35:51.904 * Running mode=standalone, port=6379.
-redis-1  | 1:M 19 Aug 2025 01:35:51.904 * Server initialized
-redis-1  | 1:M 19 Aug 2025 01:35:51.904 * Ready to accept connections tcp
-jvpayments-2-1  | 2025/08/19 01:35:57 Successfully connected to Redis
-jvpayments-1-1  | 2025/08/19 01:35:57 Successfully connected to Redis
-jvpayments-2-1  | 2025/08/19 01:35:57 Server starting on :3001
-jvpayments-1-1  | 2025/08/19 01:35:57 Server starting on :3001
+redis-1  | 1:C 21 Aug 2025 16:07:27.411 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1  | 1:C 21 Aug 2025 16:07:27.411 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1  | 1:C 21 Aug 2025 16:07:27.411 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis-1  | 1:C 21 Aug 2025 16:07:27.411 * Configuration loaded
+redis-1  | 1:M 21 Aug 2025 16:07:27.411 * monotonic clock: POSIX clock_gettime
+redis-1  | 1:M 21 Aug 2025 16:07:27.412 * Running mode=standalone, port=6379.
+redis-1  | 1:M 21 Aug 2025 16:07:27.412 * Server initialized
+redis-1  | 1:M 21 Aug 2025 16:07:27.412 * Ready to accept connections tcp
+jvpayments-1-1  | 2025/08/21 16:07:33 Successfully connected to Redis
+jvpayments-1-1  | 2025/08/21 16:07:33 Server starting on :3001
+jvpayments-2-1  | 2025/08/21 16:07:33 Successfully connected to Redis
+jvpayments-2-1  | 2025/08/21 16:07:33 Server starting on :3001
 haproxy-1       | [NOTICE]   (1) : Initializing new worker (8)
-haproxy-1       | [NOTICE]   (1) : haproxy version is 3.2.3-1844da7
+haproxy-1       | [NOTICE]   (1) : haproxy version is 3.2.4-98813a1
 haproxy-1       | [WARNING]  (1) : Failed to load worker!
 [Khaproxy-1 exited with code 137
-jvpayments-2-1  | 2025/08/19 01:36:02 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:07 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:12 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:17 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:22 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:27 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:32 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:37 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:42 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:47 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:52 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:36:57 Processing heath check
-jvpayments-2-1  | 2025/08/19 01:37:02 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:07:38 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:07:43 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:07:48 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:07:53 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:07:58 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:03 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:08 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:13 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:18 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:23 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:28 Processing heath check
+jvpayments-1-1  | 2025/08/21 16:08:33 Processing heath check
 [Kjvpayments-2-1 exited with code 2
 [Kjvpayments-1-1 exited with code 2
-redis-1         | 1:signal-handler (1755567426) Received SIGTERM scheduling shutdown...
-redis-1         | 1:M 19 Aug 2025 01:37:06.643 * User requested shutdown...
-redis-1         | 1:M 19 Aug 2025 01:37:06.643 # Redis is now ready to exit, bye bye...
+redis-1         | 1:signal-handler (1755792518) Received SIGTERM scheduling shutdown...
+redis-1         | 1:M 21 Aug 2025 16:08:38.374 * User requested shutdown...
+redis-1         | 1:M 21 Aug 2025 16:08:38.374 # Redis is now ready to exit, bye bye...

@@ -1,5 +1,7 @@
 
+ nginx Pulling 
  api2 Pulling 
  api1 Pulling 
- api2  Interrupted
+ redis Pulling 
+ api1  Interrupted
 no matching manifest for linux/amd64 in the manifest list entries

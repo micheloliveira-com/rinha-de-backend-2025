@@ -1,4 +1,203 @@
 
+ backend-1 Pulling 
+ backend-2 Pulling 
+ nginx Pulling 
+ 0368fd46e3c6 Already exists 
+ 0670596c9dd1 Pulling fs layer 
+ b2683b5bf4e2 Pulling fs layer 
+ 4a805e037314 Pulling fs layer 
+ 6f730f3f37cf Pulling fs layer 
+ f7ee2846e40e Pulling fs layer 
+ 1c21be00f048 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 27f1973ed36a Pulling fs layer 
+ 6f730f3f37cf Waiting 
+ f7ee2846e40e Waiting 
+ 1c21be00f048 Waiting 
+ 4f4fb700ef54 Waiting 
+ 27f1973ed36a Waiting 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ 6bc572a340ec Waiting 
+ 403e3f251637 Waiting 
+ a992fbc61ecc Waiting 
+ 9adfbae99cb7 Waiting 
+ cb1ff4086f82 Waiting 
+ b2683b5bf4e2 Downloading [==================================================>]     946B/946B
+ b2683b5bf4e2 Verifying Checksum 
+ b2683b5bf4e2 Download complete 
+ 0670596c9dd1 Downloading [>                                                  ]  11.02kB/1.064MB
+ 0670596c9dd1 Verifying Checksum 
+ 0670596c9dd1 Download complete 
+ 0670596c9dd1 Extracting [=>                                                 ]  32.77kB/1.064MB
+ 4a805e037314 Downloading [>                                                  ]  359.2kB/34.57MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Pull complete 
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ b2683b5bf4e2 Pull complete 
+ 4a805e037314 Downloading [====>                                              ]  3.243MB/34.57MB
+ 4a805e037314 Downloading [==========>                                        ]  7.193MB/34.57MB
+ 6f730f3f37cf Downloading [==================================================>]     153B/153B
+ 6f730f3f37cf Verifying Checksum 
+ 6f730f3f37cf Download complete 
+ 4a805e037314 Downloading [================>                                  ]  11.47MB/34.57MB
+ 4a805e037314 Downloading [======================>                            ]  15.73MB/34.57MB
+ 4a805e037314 Downloading [============================>                      ]  19.98MB/34.57MB
+ 1c21be00f048 Downloading [==================================================>]      96B/96B
+ 1c21be00f048 Download complete 
+ f7ee2846e40e Downloading [>                                                  ]  113.5kB/11.31MB
+ 4a805e037314 Downloading [==================================>                ]  23.91MB/34.57MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f7ee2846e40e Downloading [=>                                                 ]  342.9kB/11.31MB
+ 4a805e037314 Downloading [========================================>          ]  28.19MB/34.57MB
+ f7ee2846e40e Downloading [===>                                               ]  686.9kB/11.31MB
+ 4a805e037314 Downloading [==============================================>    ]  32.45MB/34.57MB
+ 4a805e037314 Downloading [==================================================>]  34.57MB/34.57MB
+ 4a805e037314 Verifying Checksum 
+ 4a805e037314 Download complete 
+ 4a805e037314 Extracting [>                                                  ]  360.4kB/34.57MB
+ f7ee2846e40e Downloading [=====>                                             ]  1.291MB/11.31MB
+ 0368fd46e3c6 Already exists 
+ 0670596c9dd1 Already exists 
+ b2683b5bf4e2 Already exists 
+ 4a805e037314 Pulling fs layer 
+ 6f730f3f37cf Pulling fs layer 
+ f7ee2846e40e Pulling fs layer 
+ 1c21be00f048 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 27f1973ed36a Pulling fs layer 
+ 27f1973ed36a Waiting 
+ f7ee2846e40e Downloading [=====>                                             ]  1.291MB/11.31MB
+ 4a805e037314 Extracting [>                                                  ]  360.4kB/34.57MB
+ 1c21be00f048 Download complete 
+ 6f730f3f37cf Download complete 
+ 4f4fb700ef54 Download complete 
+ 4a805e037314 Extracting [===========>                                       ]   7.93MB/34.57MB
+ 4a805e037314 Extracting [===========>                                       ]   7.93MB/34.57MB
+ f7ee2846e40e Downloading [=======>                                           ]  1.759MB/11.31MB
+ f7ee2846e40e Downloading [=======>                                           ]  1.759MB/11.31MB
+ 4a805e037314 Extracting [========================>                          ]  16.94MB/34.57MB
+ 4a805e037314 Extracting [========================>                          ]  16.94MB/34.57MB
+ 27f1973ed36a Downloading [>                                                  ]  45.17kB/4.495MB
+ 27f1973ed36a Downloading [>                                                  ]  45.17kB/4.495MB
+ f7ee2846e40e Downloading [=============>                                     ]  3.148MB/11.31MB
+ f7ee2846e40e Downloading [=============>                                     ]  3.148MB/11.31MB
+ 4a805e037314 Extracting [===================================>               ]  24.87MB/34.57MB
+ 4a805e037314 Extracting [===================================>               ]  24.87MB/34.57MB
+ 27f1973ed36a Downloading [==============================================>    ]  4.189MB/4.495MB
+ 27f1973ed36a Downloading [==============================================>    ]  4.189MB/4.495MB
+ 27f1973ed36a Verifying Checksum 
+ 27f1973ed36a Verifying Checksum 
+ 27f1973ed36a Download complete 
+ 27f1973ed36a Download complete 
+ f7ee2846e40e Downloading [==========================>                        ]  6.074MB/11.31MB
+ f7ee2846e40e Downloading [==========================>                        ]  6.074MB/11.31MB
+ 4a805e037314 Extracting [===============================================>   ]   32.8MB/34.57MB
+ 4a805e037314 Extracting [===============================================>   ]   32.8MB/34.57MB
+ 4a805e037314 Extracting [==================================================>]  34.57MB/34.57MB
+ 4a805e037314 Extracting [==================================================>]  34.57MB/34.57MB
+ 4a805e037314 Pull complete 
+ 4a805e037314 Pull complete 
+ f7ee2846e40e Downloading [============================================>      ]  10.16MB/11.31MB
+ f7ee2846e40e Downloading [============================================>      ]  10.16MB/11.31MB
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ f7ee2846e40e Verifying Checksum 
+ f7ee2846e40e Download complete 
+ f7ee2846e40e Verifying Checksum 
+ f7ee2846e40e Download complete 
+ 6f730f3f37cf Pull complete 
+ 6f730f3f37cf Pull complete 
+ f7ee2846e40e Extracting [>                                                  ]  131.1kB/11.31MB
+ f7ee2846e40e Extracting [>                                                  ]  131.1kB/11.31MB
+ 6bc572a340ec Downloading [>                                                  ]  19.22kB/1.806MB
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ f7ee2846e40e Extracting [============================>                      ]  6.554MB/11.31MB
+ f7ee2846e40e Extracting [============================>                      ]  6.554MB/11.31MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ f7ee2846e40e Extracting [==================================================>]  11.31MB/11.31MB
+ f7ee2846e40e Extracting [==================================================>]  11.31MB/11.31MB
+ f7ee2846e40e Pull complete 
+ f7ee2846e40e Pull complete 
+ 1c21be00f048 Extracting [==================================================>]      96B/96B
+ 1c21be00f048 Extracting [==================================================>]      96B/96B
+ 1c21be00f048 Extracting [==================================================>]      96B/96B
+ 1c21be00f048 Extracting [==================================================>]      96B/96B
+ 1c21be00f048 Pull complete 
+ 1c21be00f048 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 6bc572a340ec Pull complete 
+ 27f1973ed36a Extracting [>                                                  ]  65.54kB/4.495MB
+ 27f1973ed36a Extracting [>                                                  ]  65.54kB/4.495MB
+ 27f1973ed36a Extracting [==================================================>]  4.495MB/4.495MB
+ 27f1973ed36a Extracting [==================================================>]  4.495MB/4.495MB
+ 27f1973ed36a Pull complete 
+ 27f1973ed36a Pull complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ backend-2 Pulled 
+ backend-1 Pulled 
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ cb1ff4086f82 Downloading [>                                                  ]  168.5kB/16.84MB
+ cb1ff4086f82 Downloading [================================>                  ]  10.96MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ cb1ff4086f82 Extracting [===========>                                       ]  3.736MB/16.84MB
+ cb1ff4086f82 Extracting [===================================>               ]   11.8MB/16.84MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
  Network yanpitangui-dotnet_backend  Creating
  Network yanpitangui-dotnet_backend  Created
  Container yanpitangui-dotnet-rinha-db-1  Creating
@@ -28,7 +227,7 @@ rinha-db-1  | selecting default time zone ... UTC
 rinha-db-1  | creating configuration files ... ok
 rinha-db-1  | running bootstrap script ... ok
 rinha-db-1  | sh: locale: not found
-rinha-db-1  | 2025-08-19 21:38:22.326 UTC [41] WARNING:  no usable system locales were found
+rinha-db-1  | 2025-08-21 10:21:58.435 UTC [35] WARNING:  no usable system locales were found
 rinha-db-1  | performing post-bootstrap initialization ... ok
 rinha-db-1  | syncing data to disk ... ok
 rinha-db-1  | 
@@ -39,10 +238,10 @@ rinha-db-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 rinha-db-1  | 
 rinha-db-1  | initdb: warning: enabling "trust" authentication for local connections
 rinha-db-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
-rinha-db-1  | waiting for server to start....2025-08-19 21:38:24.341 UTC [59] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-db-1  | 2025-08-19 21:38:24.342 UTC [59] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-db-1  | 2025-08-19 21:38:24.344 UTC [62] LOG:  database system was shut down at 2025-08-19 21:38:24 UTC
-rinha-db-1  | 2025-08-19 21:38:24.348 UTC [59] LOG:  database system is ready to accept connections
+rinha-db-1  | waiting for server to start....2025-08-21 10:22:00.344 UTC [60] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-08-21 10:22:00.344 UTC [60] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-08-21 10:22:00.432 UTC [63] LOG:  database system was shut down at 2025-08-21 10:21:59 UTC
+rinha-db-1  | 2025-08-21 10:22:00.436 UTC [60] LOG:  database system is ready to accept connections
 rinha-db-1  |  done
 rinha-db-1  | server started
 rinha-db-1  | CREATE DATABASE
@@ -53,52 +252,53 @@ rinha-db-1  | CREATE TABLE
 rinha-db-1  | CREATE INDEX
 rinha-db-1  | 
 rinha-db-1  | 
-rinha-db-1  | waiting for server to shut down....2025-08-19 21:38:24.736 UTC [59] LOG:  received fast shutdown request
-rinha-db-1  | 2025-08-19 21:38:24.736 UTC [59] LOG:  aborting any active transactions
-rinha-db-1  | 2025-08-19 21:38:24.823 UTC [59] LOG:  background worker "logical replication launcher" (PID 65) exited with exit code 1
-rinha-db-1  | 2025-08-19 21:38:24.823 UTC [60] LOG:  shutting down
-rinha-db-1  | 2025-08-19 21:38:24.823 UTC [60] LOG:  checkpoint starting: shutdown immediate
-rinha-db-1  | 2025-08-19 21:38:24.832 UTC [60] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.009 s, sync=0.001 s, total=0.010 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A360, redo lsn=0/191A360
-rinha-db-1  | 2025-08-19 21:38:24.843 UTC [59] LOG:  database system is shut down
+rinha-db-1  | waiting for server to shut down....2025-08-21 10:22:00.744 UTC [60] LOG:  received fast shutdown request
+rinha-db-1  | 2025-08-21 10:22:00.744 UTC [60] LOG:  aborting any active transactions
+rinha-db-1  | 2025-08-21 10:22:00.747 UTC [60] LOG:  background worker "logical replication launcher" (PID 66) exited with exit code 1
+rinha-db-1  | 2025-08-21 10:22:00.748 UTC [61] LOG:  shutting down
+rinha-db-1  | 2025-08-21 10:22:00.748 UTC [61] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-08-21 10:22:00.836 UTC [61] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.088 s, sync=0.001 s, total=0.088 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A360, redo lsn=0/191A360
+rinha-db-1  | 2025-08-21 10:22:00.848 UTC [60] LOG:  database system is shut down
 rinha-db-1  |  done
 rinha-db-1  | server stopped
 rinha-db-1  | 
 rinha-db-1  | PostgreSQL init process complete; ready for start up.
 rinha-db-1  | 
-rinha-db-1  | 2025-08-19 21:38:24.964 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-db-1  | 2025-08-19 21:38:24.964 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-rinha-db-1  | 2025-08-19 21:38:24.964 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-rinha-db-1  | 2025-08-19 21:38:24.964 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-db-1  | 2025-08-19 21:38:24.966 UTC [77] LOG:  database system was shut down at 2025-08-19 21:38:24 UTC
-rinha-db-1  | 2025-08-19 21:38:25.027 UTC [1] LOG:  database system is ready to accept connections
-backend-2   | [INFO][08/19/2025 21:38:28.110Z][Thread 0009][remoting (akka://Rinha)] Starting remoting
-backend-1   | [INFO][08/19/2025 21:38:28.110Z][Thread 0009][remoting (akka://Rinha)] Starting remoting
-backend-2   | [INFO][08/19/2025 21:38:28.366Z][Thread 0009][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-2:5214]
-backend-2   | [INFO][08/19/2025 21:38:28.367Z][Thread 0009][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-2:5214]
-backend-2   | [INFO][08/19/2025 21:38:28.378Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Starting up...
-backend-1   | [INFO][08/19/2025 21:38:28.392Z][Thread 0009][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-1:5213]
-backend-1   | [INFO][08/19/2025 21:38:28.393Z][Thread 0009][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-1:5213]
-backend-1   | [INFO][08/19/2025 21:38:28.404Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Starting up...
-backend-1   | [INFO][08/19/2025 21:38:28.488Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Started up successfully
-backend-2   | [INFO][08/19/2025 21:38:28.460Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Started up successfully
-backend-1   | [INFO][08/19/2025 21:38:28.694Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-1:5213] is JOINING itself (with roles [Rinha], version [1.0.0]) and forming a new cluster
-backend-1   | [INFO][08/19/2025 21:38:28.699Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - is the new leader among reachable nodes (more leaders may exist)
-backend-1   | [WARNING][08/19/2025 21:38:28.786Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
-backend-1   | [INFO][08/19/2025 21:38:28.795Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Up]
-backend-1   | [INFO][08/19/2025 21:38:28.893Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/system/cluster/core/daemon/downingProvider] This node is now the leader responsible for taking SBR decisions among the reachable nodes (more leaders may exist).
-backend-1   | [INFO][08/19/2025 21:38:28.986Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Singleton manager started singleton actor [akka://Rinha/user/health-monitor/health-monitor] 
-backend-1   | [INFO][08/19/2025 21:38:28.988Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Start -> Oldest] Akka.Cluster.Tools.Singleton.Uninitialized
-backend-1   | [INFO][08/19/2025 21:38:28.997Z][Thread 0019][akka://Rinha/system/healthcheck-readiness-cluster] Message [CurrentClusterState] from [akka://Rinha/system/cluster/core/publisher#1517498460] to [akka://Rinha/system/healthcheck-readiness-cluster#1761688471] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: Akka.Cluster.ClusterEvent+CurrentClusterState
-backend-2   | [WARNING][08/19/2025 21:38:29.170Z][Thread 0012][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
-backend-1   | [WARNING][08/19/2025 21:38:29.387Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
-backend-1   | [INFO][08/19/2025 21:38:29.387Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] Singleton identified at [akka://Rinha/user/health-monitor/health-monitor]
-backend-1   | [INFO][08/19/2025 21:38:29.891Z][Thread 0019][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Received InitJoin message from [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#1571767023]] to [akka.tcp://Rinha@backend-1:5213]
-backend-1   | [INFO][08/19/2025 21:38:29.891Z][Thread 0019][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Sending InitJoinAck message from node [akka.tcp://Rinha@backend-1:5213] to [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#1571767023]]
-backend-1   | [INFO][08/19/2025 21:38:29.987Z][Thread 0020][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-2:5214] is JOINING, roles [Rinha], version [1.0.0]
-backend-2   | [INFO][08/19/2025 21:38:30.025Z][Thread 0019][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Welcome from [akka.tcp://Rinha@backend-1:5213]
-backend-2   | [WARNING][08/19/2025 21:38:30.053Z][Thread 0018][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
-backend-2   | [INFO][08/19/2025 21:38:30.099Z][Thread 0018][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] Singleton identified at [akka.tcp://Rinha@backend-1:5213/user/health-monitor/health-monitor]
-backend-1   | [INFO][08/19/2025 21:38:30.506Z][Thread 0021][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Up]
+rinha-db-1  | 2025-08-21 10:22:00.973 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-08-21 10:22:00.973 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rinha-db-1  | 2025-08-21 10:22:00.973 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rinha-db-1  | 2025-08-21 10:22:00.973 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-08-21 10:22:01.032 UTC [78] LOG:  database system was shut down at 2025-08-21 10:22:00 UTC
+rinha-db-1  | 2025-08-21 10:22:01.036 UTC [1] LOG:  database system is ready to accept connections
+backend-1   | [INFO][08/21/2025 10:22:03.644Z][Thread 0009][remoting (akka://Rinha)] Starting remoting
+backend-1   | [INFO][08/21/2025 10:22:03.855Z][Thread 0009][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][08/21/2025 10:22:03.856Z][Thread 0009][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][08/21/2025 10:22:03.866Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Starting up...
+backend-1   | [INFO][08/21/2025 10:22:03.949Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Started up successfully
+backend-1   | [INFO][08/21/2025 10:22:04.055Z][Thread 0016][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-1:5213] is JOINING itself (with roles [Rinha], version [1.0.0]) and forming a new cluster
+backend-1   | [INFO][08/21/2025 10:22:04.057Z][Thread 0016][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - is the new leader among reachable nodes (more leaders may exist)
+backend-1   | [INFO][08/21/2025 10:22:04.147Z][Thread 0016][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Up]
+backend-1   | [INFO][08/21/2025 10:22:04.177Z][Thread 0016][akka.tcp://Rinha@backend-1:5213/system/cluster/core/daemon/downingProvider] This node is now the leader responsible for taking SBR decisions among the reachable nodes (more leaders may exist).
+backend-2   | [INFO][08/21/2025 10:22:04.095Z][Thread 0005][remoting (akka://Rinha)] Starting remoting
+backend-2   | [INFO][08/21/2025 10:22:04.362Z][Thread 0005][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-2:5214]
+backend-2   | [INFO][08/21/2025 10:22:04.363Z][Thread 0005][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-2:5214]
+backend-2   | [INFO][08/21/2025 10:22:04.378Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Starting up...
+backend-1   | [INFO][08/21/2025 10:22:04.447Z][Thread 0005][akka://Rinha/system/healthcheck-readiness-cluster] Message [CurrentClusterState] from [akka://Rinha/system/cluster/core/publisher#913100212] to [akka://Rinha/system/healthcheck-readiness-cluster#1911650980] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: Akka.Cluster.ClusterEvent+CurrentClusterState
+backend-2   | [INFO][08/21/2025 10:22:04.462Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Started up successfully
+backend-1   | [WARNING][08/21/2025 10:22:04.546Z][Thread 0005][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-1   | [INFO][08/21/2025 10:22:04.552Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Singleton manager started singleton actor [akka://Rinha/user/health-monitor/health-monitor] 
+backend-1   | [INFO][08/21/2025 10:22:04.554Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Start -> Oldest] Akka.Cluster.Tools.Singleton.Uninitialized
+backend-2   | [WARNING][08/21/2025 10:22:04.767Z][Thread 0017][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-2   | [INFO][08/21/2025 10:22:05.164Z][Thread 0009][akka://Rinha/system/healthcheck-readiness-cluster] Message [CurrentClusterState] from [akka://Rinha/system/cluster/core/publisher#85447386] to [akka://Rinha/system/healthcheck-readiness-cluster#1362104864] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: Akka.Cluster.ClusterEvent+CurrentClusterState
+backend-1   | [INFO][08/21/2025 10:22:05.390Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Received InitJoin message from [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#348202990]] to [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][08/21/2025 10:22:05.391Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Sending InitJoinAck message from node [akka.tcp://Rinha@backend-1:5213] to [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#348202990]]
+backend-1   | [INFO][08/21/2025 10:22:05.453Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] Singleton identified at [akka://Rinha/user/health-monitor/health-monitor]
+backend-1   | [INFO][08/21/2025 10:22:05.462Z][Thread 0020][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-2:5214] is JOINING, roles [Rinha], version [1.0.0]
+backend-2   | [INFO][08/21/2025 10:22:05.498Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Welcome from [akka.tcp://Rinha@backend-1:5213]
+backend-2   | [WARNING][08/21/2025 10:22:05.570Z][Thread 0009][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-2   | [INFO][08/21/2025 10:22:05.594Z][Thread 0009][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] Singleton identified at [akka.tcp://Rinha@backend-1:5213/user/health-monitor/health-monitor]
+backend-1   | [INFO][08/21/2025 10:22:05.972Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Up]
+backend-2   | [INFO][08/21/2025 10:22:06.498Z][Thread 0016][akka.tcp://Rinha@backend-2:5214/user/health-monitor] ClusterSingletonManager state change [Start -> Younger] Akka.Cluster.Tools.Singleton.Uninitialized
 nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -108,75 +308,73 @@ nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-reso
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
-backend-2   | [INFO][08/19/2025 21:38:31.491Z][Thread 0017][akka.tcp://Rinha@backend-2:5214/user/health-monitor] ClusterSingletonManager state change [Start -> Younger] Akka.Cluster.Tools.Singleton.Uninitialized
-backend-2   | [INFO][08/19/2025 21:41:24.436Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 442d17ac-0395-4c2e-8c20-dc5822286ff7, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.436Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 60bb6dfa-2b3f-490a-8be3-4f85cf6cd125, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.436Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = ba8fdb01-f35d-4893-9337-72f921508b1f, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.436Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 011d956d-2782-482d-908f-1c711ac2248c, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.436Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = a72610ae-bbd0-41b3-8f98-49df6ca6973f, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.436Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 1fd53ef9-a646-4349-8127-e70fc7ce196d, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.436Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 0264d2bb-e68d-4560-ad4f-292d5dd48d27, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.436Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 897327d2-57cc-450e-96f4-7de55a3a82c4, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.436Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 89589828-dc9d-48e4-b519-339097db265d, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.440Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 18cf1fb1-3695-4d9d-8746-374da6ee4976, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.445Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 74cdf591-60d5-4067-a545-b699d10a77db, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.445Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = be5e2ff0-4a6b-4b58-888c-3b8aecc98aff, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.445Z][Thread 0019][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 68054c36-61bd-4e90-b8ce-d7eef9b0b3f2, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.446Z][Thread 0018][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 469b3130-700f-41c7-83f4-a5c180348256, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.448Z][Thread 0018][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 5c282096-2409-4db4-bf54-d9edbcc221e8, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.454Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 0b2ed505-38cb-42e9-9ede-23ffd9ae8f80, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-1   | [INFO][08/19/2025 21:41:24.462Z][Thread 0018][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-10/Flow-0-0-actorRefSource#597364237] was unhandled. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 4097d98c-b3ba-4ca0-82f7-0eb08016f2ba, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.470Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = f2942574-685a-44e3-890f-dfaa0c2405ab, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-backend-2   | [INFO][08/19/2025 21:41:24.472Z][Thread 0005][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-5/Flow-0-0-actorRefSource#1185091210] was unhandled. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 1ff0e19f-5d38-47fa-a15b-d05afc13385e, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/19/2025 21:41:10 +00:00, Key = fallback }
-rinha-db-1  | 2025-08-19 21:43:25.066 UTC [75] LOG:  checkpoint starting: time
-rinha-db-1  | 2025-08-19 21:43:30.435 UTC [75] LOG:  checkpoint complete: wrote 72 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.369 s, sync=0.001 s, total=5.371 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1380 kB, estimate=1380 kB; lsn=0/1A7AA08, redo lsn=0/1A735A0
+backend-1   | [INFO][08/21/2025 10:25:00.940Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 92f4f07e-7e4c-4c20-bd6a-bbb05478977b, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.941Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = af7e34f7-9a08-42d6-9ede-79ba067bd157, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.941Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 145464e9-9851-48ba-842c-b783c6dedd29, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.941Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [2] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 27ef0c16-8068-48f8-8125-fa673b3390de, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.941Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [3] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 7be20716-b748-4bfe-b79d-ef597e0d14eb, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.941Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [4] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = deb383b8-e783-466d-b763-8e5aef09133d, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.941Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = f5676a2e-2b12-4f91-8676-f7dba39feafa, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.944Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [5] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = cd0f3d5c-576d-4c6a-a2c4-b68e28c4d31b, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.946Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = ab81fdd4-5b41-45fb-9e95-f196d4993047, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.951Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [6] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 5434938e-7228-459f-b12a-600c06bb0b7e, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.953Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 223bf96e-25f2-41c8-a741-c525054b1a94, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.955Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [7] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = da3d68f9-93ac-43fa-a623-5959af9df8fb, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.955Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = d19eb9f8-967a-4635-b15f-fa475884b998, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.959Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [8] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 537f2863-f257-41f8-8437-ec8f0aa9660b, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.966Z][Thread 0009][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 0545bce8-3323-40d8-8155-fd701250dfa3, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.964Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [9] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 61db0607-40fe-428e-9c1e-f8ba8f4e70a6, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-1   | [INFO][08/21/2025 10:25:00.966Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-8/Flow-0-0-actorRefSource#2132961270] was unhandled. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = 8e4d4773-fca2-47b8-9880-2d314aac4659, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+backend-2   | [INFO][08/21/2025 10:25:00.967Z][Thread 0017][akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource] Message [PaymentResult] to [akka://Rinha/user/fallbackPool/$a/StreamSupervisor-7/Flow-0-0-actorRefSource#1087302636] was unhandled. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentResult { Request = PaymentRequest { CorrelationId = e1d49ab7-4a12-46c1-a2e7-2628e3a5a28b, Amount = 20.05 }, IsSuccess = False, RequestedAt = 08/21/2025 10:24:46 +00:00, Key = fallback }
+rinha-db-1  | 2025-08-21 10:27:01.073 UTC [76] LOG:  checkpoint starting: time
+rinha-db-1  | 2025-08-21 10:27:06.339 UTC [76] LOG:  checkpoint complete: wrote 70 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=5.265 s, sync=0.001 s, total=5.266 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1337 kB, estimate=1337 kB; lsn=0/1A6FCB8, redo lsn=0/1A68890
 [Knginx-1 exited with code 0
-backend-2   | [INFO][08/19/2025 21:43:41.964Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Marked address [akka.tcp://Rinha@backend-2:5214] as [Leaving]
-backend-2   | [INFO][08/19/2025 21:43:41.969Z][Thread 0017][akka.tcp://Rinha@backend-2:5214/user/health-monitor] Exited [akka.tcp://Rinha@backend-2:5214]
-backend-1   | [INFO][08/19/2025 21:43:41.960Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Marked address [akka.tcp://Rinha@backend-1:5213] as [Leaving]
-backend-1   | [INFO][08/19/2025 21:43:41.969Z][Thread 0018][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Exited [akka.tcp://Rinha@backend-1:5213]
-backend-1   | [INFO][08/19/2025 21:43:41.970Z][Thread 0018][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Oldest observed OldestChanged: [akka.tcp://Rinha@backend-1:5213 -> akka.tcp://Rinha@backend-2:5214]
-backend-1   | [INFO][08/19/2025 21:43:41.975Z][Thread 0018][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Oldest -> WasOldest] Akka.Cluster.Tools.Singleton.OldestData
-backend-1   | [INFO][08/19/2025 21:43:42.505Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Exiting]
-backend-1   | [INFO][08/19/2025 21:43:42.505Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Exiting]
-backend-1   | [WARNING][08/19/2025 21:43:42.514Z][Thread 0018][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
-backend-2   | [INFO][08/19/2025 21:43:42.511Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Exiting completed.
-backend-2   | [INFO][08/19/2025 21:43:42.513Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Shutting down...
-backend-2   | [INFO][08/19/2025 21:43:42.514Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Successfully shut down
-backend-1   | [INFO][08/19/2025 21:43:42.528Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Exiting confirmed [akka.tcp://Rinha@backend-2:5214]
-backend-2   | [INFO][08/19/2025 21:43:42.575Z][Thread 0017][remoting-terminator] Shutting down remote daemon.
-backend-2   | [INFO][08/19/2025 21:43:42.575Z][Thread 0017][remoting-terminator] Remote daemon shut down; proceeding with flushing remote transports.
-backend-2   | [INFO][08/19/2025 21:43:42.608Z][Thread 0017][akka.tcp://Rinha@backend-2:5214/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-1%3A5213-1] Removing receive buffers for [akka.tcp://Rinha@backend-2:5214]->[akka.tcp://Rinha@backend-1:5213]
-backend-2   | [INFO][08/19/2025 21:43:42.647Z][Thread 0017][remoting (akka://Rinha)] Remoting shut down
-backend-2   | [WARNING][08/19/2025 21:43:42.648Z][Thread 0016][TcpClientHandler (akka://Rinha)] Unable to REMOVE channel [[::ffff:172.19.0.6]:52588->[::ffff:172.19.0.5]:5213](Id=1a01353b) from connection group. May not shut down cleanly.
-backend-2   | [INFO][08/19/2025 21:43:42.648Z][Thread 0017][remoting-terminator] Remoting shut down.
-backend-1   | [WARNING][08/19/2025 21:43:42.651Z][Thread 0018][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1] Association with remote system akka.tcp://Rinha@backend-2:5214 has failed; address is now gated for 5000 ms. Reason is: [Akka.Remote.EndpointDisassociatedException: Disassociated
-backend-1   |    at Akka.Remote.EndpointWriter.PublishAndThrow(Exception reason, LogLevel level, Boolean needToThrow)
-backend-1   |    at Akka.Remote.EndpointWriter.Unhandled(Object message)
-backend-1   |    at Akka.Actor.UntypedActor.Receive(Object message)
-backend-1   |    at Akka.Actor.ActorBase.AroundReceive(Receive receive, Object message)
-backend-1   |    at Akka.Actor.ActorCell.ReceiveMessage(Object message)
-backend-1   |    at Akka.Actor.ActorCell.ReceivedTerminated(Terminated t)
-backend-1   |    at Akka.Actor.ActorCell.AutoReceiveMessage(Envelope envelope)
-backend-1   |    at Akka.Actor.ActorCell.Invoke(Envelope envelope)]
-backend-1   | [ERROR][08/19/2025 21:43:42.664Z][Thread 0018][akka://Rinha/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1/endpointWriter] Disassociated
-backend-1   | Cause: Akka.Remote.EndpointDisassociatedException: Disassociated
-backend-1   |    at Akka.Remote.EndpointWriter.PublishAndThrow(Exception reason, LogLevel level, Boolean needToThrow)
-backend-1   |    at Akka.Remote.EndpointWriter.Unhandled(Object message)
-backend-1   |    at Akka.Actor.UntypedActor.Receive(Object message)
-backend-1   |    at Akka.Actor.ActorBase.AroundReceive(Receive receive, Object message)
-backend-1   |    at Akka.Actor.ActorCell.ReceiveMessage(Object message)
-backend-1   |    at Akka.Actor.ActorCell.ReceivedTerminated(Terminated t)
-backend-1   |    at Akka.Actor.ActorCell.AutoReceiveMessage(Envelope envelope)
-backend-1   |    at Akka.Actor.ActorCell.Invoke(Envelope envelope)
+backend-2   | [INFO][08/21/2025 10:27:18.573Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Marked address [akka.tcp://Rinha@backend-2:5214] as [Leaving]
+backend-2   | [INFO][08/21/2025 10:27:18.576Z][Thread 0009][akka.tcp://Rinha@backend-2:5214/user/health-monitor] Exited [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][08/21/2025 10:27:18.570Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Marked address [akka.tcp://Rinha@backend-1:5213] as [Leaving]
+backend-1   | [INFO][08/21/2025 10:27:18.580Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Exited [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][08/21/2025 10:27:18.581Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Oldest observed OldestChanged: [akka.tcp://Rinha@backend-1:5213 -> akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][08/21/2025 10:27:18.582Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Oldest -> WasOldest] Akka.Cluster.Tools.Singleton.OldestData
+backend-1   | [INFO][08/21/2025 10:27:18.970Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Exiting]
+backend-1   | [INFO][08/21/2025 10:27:18.970Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Exiting]
+backend-2   | [INFO][08/21/2025 10:27:18.973Z][Thread 0009][akka.tcp://Rinha@backend-2:5214/user/health-monitor] Younger observed OldestChanged: [akka.tcp://Rinha@backend-1:5213 -> ]
+backend-2   | [INFO][08/21/2025 10:27:18.974Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Exiting completed.
+backend-2   | [INFO][08/21/2025 10:27:18.974Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Shutting down...
+backend-2   | [INFO][08/21/2025 10:27:18.975Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Successfully shut down
+backend-1   | [INFO][08/21/2025 10:27:18.976Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Exiting confirmed [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [WARNING][08/21/2025 10:27:18.980Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-2   | [INFO][08/21/2025 10:27:18.979Z][Thread 0017][akka.tcp://Rinha@backend-2:5214/user/health-monitor] Self removed, stopping ClusterSingletonManager
+backend-2   | [INFO][08/21/2025 10:27:18.993Z][Thread 0009][remoting-terminator] Shutting down remote daemon.
+backend-2   | [INFO][08/21/2025 10:27:18.993Z][Thread 0009][remoting-terminator] Remote daemon shut down; proceeding with flushing remote transports.
+backend-1   | [INFO][08/21/2025 10:27:19.016Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1] Removing receive buffers for [akka.tcp://Rinha@backend-1:5213]->[akka.tcp://Rinha@backend-2:5214]
+backend-2   | [INFO][08/21/2025 10:27:19.003Z][Thread 0009][akka.tcp://Rinha@backend-2:5214/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-1%3A5213-1] Removing receive buffers for [akka.tcp://Rinha@backend-2:5214]->[akka.tcp://Rinha@backend-1:5213]
+backend-2   | [WARNING][08/21/2025 10:27:19.061Z][Thread 0015][TcpClientHandler (akka://Rinha)] Unable to REMOVE channel [[::ffff:172.19.0.5]:48280->[::ffff:172.19.0.6]:5213](Id=31d0d38e) from connection group. May not shut down cleanly.
+backend-2   | [INFO][08/21/2025 10:27:19.063Z][Thread 0009][remoting (akka://Rinha)] Remoting shut down
+backend-2   | [INFO][08/21/2025 10:27:19.063Z][Thread 0009][remoting-terminator] Remoting shut down.
 [Kbackend-2 exited with code 0
-backend-1   | [INFO][08/19/2025 21:43:43.519Z][Thread 0018][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is removing confirmed Exiting node [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][08/21/2025 10:27:19.971Z][Thread 0017][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is removing confirmed Exiting node [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [WARNING][08/21/2025 10:27:24.655Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-2/endpointWriter] AssociationError [akka.tcp://Rinha@backend-1:5213] -> akka.tcp://Rinha@backend-2:5214: Error [Association failed with akka.tcp://Rinha@backend-2:5214] []
+backend-1   | [WARNING][08/21/2025 10:27:24.657Z][Thread 0017][remoting (akka://Rinha)] Tried to associate with unreachable remote address [akka.tcp://Rinha@backend-2:5214]. Address is now gated for 5000 ms, all messages to this address will be delivered to dead letters. Reason: [Association failed with akka.tcp://Rinha@backend-2:5214] Caused by: [System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-1   |    at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-1   |    at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_1(Object s, NameResolutionActivity activity)
+backend-1   |    at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-1   |    at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-1   |    at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   | --- End of stack trace from previous location ---
+backend-1   |    at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |    at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-1   | --- End of stack trace from previous location ---
+backend-1   |    at Akka.Remote.Transport.DotNetty.DotNettyTransport.ResolveNameAsync(DnsEndPoint address, AddressFamily addressFamily)
+backend-1   |    at Akka.Remote.Transport.DotNetty.DotNettyTransport.DnsToIPEndpoint(DnsEndPoint dns)
+backend-1   |    at Akka.Remote.Transport.DotNetty.TcpTransport.MapEndpointAsync(EndPoint socketAddress)
+backend-1   |    at Akka.Remote.Transport.DotNetty.TcpTransport.AssociateInternal(Address remoteAddress)]
+backend-1   | [INFO][08/21/2025 10:27:24.657Z][Thread 0017][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-2] Removing receive buffers for [akka.tcp://Rinha@backend-1:5213]->[akka.tcp://Rinha@backend-2:5214]
 [Kbackend-1 exited with code 137
-rinha-db-1  | 2025-08-19 21:43:52.103 UTC [1] LOG:  received fast shutdown request
-rinha-db-1  | 2025-08-19 21:43:52.103 UTC [1] LOG:  aborting any active transactions
-rinha-db-1  | 2025-08-19 21:43:52.107 UTC [1] LOG:  background worker "logical replication launcher" (PID 80) exited with exit code 1
-rinha-db-1  | 2025-08-19 21:43:52.108 UTC [75] LOG:  shutting down
-rinha-db-1  | 2025-08-19 21:43:52.108 UTC [75] LOG:  checkpoint starting: shutdown immediate
-rinha-db-1  | 2025-08-19 21:43:52.116 UTC [75] LOG:  checkpoint complete: wrote 1655 buffers (10.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.008 s, sync=0.001 s, total=0.009 s; sync files=0, longest=0.000 s, average=0.000 s; distance=80 kB, estimate=1250 kB; lsn=0/1A87960, redo lsn=0/1A87960
-rinha-db-1  | 2025-08-19 21:43:52.129 UTC [1] LOG:  database system is shut down
+rinha-db-1  | 2025-08-21 10:27:28.924 UTC [1] LOG:  received fast shutdown request
+rinha-db-1  | 2025-08-21 10:27:28.924 UTC [1] LOG:  aborting any active transactions
+rinha-db-1  | 2025-08-21 10:27:28.927 UTC [1] LOG:  background worker "logical replication launcher" (PID 81) exited with exit code 1
+rinha-db-1  | 2025-08-21 10:27:28.927 UTC [76] LOG:  shutting down
+rinha-db-1  | 2025-08-21 10:27:28.927 UTC [76] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-08-21 10:27:28.935 UTC [76] LOG:  checkpoint complete: wrote 1668 buffers (10.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.008 s, sync=0.001 s, total=0.009 s; sync files=0, longest=0.000 s, average=0.000 s; distance=94 kB, estimate=1212 kB; lsn=0/1A80178, redo lsn=0/1A80178
+rinha-db-1  | 2025-08-21 10:27:28.948 UTC [1] LOG:  database system is shut down
 log truncated at line 1000

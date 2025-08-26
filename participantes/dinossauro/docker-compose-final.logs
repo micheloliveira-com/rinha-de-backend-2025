@@ -1,14 +1,1001 @@
 
- nginx Pulling 
  worker Pulling 
- redis Pulling 
+ nginx Pulling 
  api01 Pulling 
  api02 Pulling 
- worker Pulled 
+ redis Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 112172c80402 Pulling fs layer 
+ 913b6ed29788 Pulling fs layer 
+ e05fa586d922 Pulling fs layer 
+ 913b6ed29788 Waiting 
+ e05fa586d922 Waiting 
+ 112172c80402 Waiting 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  19.14kB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 112172c80402 Pulling fs layer 
+ 913b6ed29788 Pulling fs layer 
+ e05fa586d922 Pulling fs layer 
+ e05fa586d922 Waiting 
+ 112172c80402 Waiting 
+ 913b6ed29788 Waiting 
+ 9824c27679d3 Already exists 
+ 43c712fe7cea Pulling fs layer 
+ 2713eae6b724 Pulling fs layer 
+ 1775a0685fc1 Pulling fs layer 
+ 43c712fe7cea Waiting 
+ 2713eae6b724 Waiting 
+ 1775a0685fc1 Waiting 
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ 4c55286bbede Waiting 
+ 5e28347af205 Waiting 
+ e6fe6f07e192 Waiting 
+ 311eca34042e Waiting 
+ a2cadbfeca72 Waiting 
+ a976ed7e7808 Waiting 
+ 4f4fb700ef54 Waiting 
+ a992fbc61ecc Pull complete 
+ 112172c80402 Downloading [>                                                  ]  310.8kB/29.77MB
+ 112172c80402 Downloading [>                                                  ]  310.8kB/29.77MB
+ 913b6ed29788 Downloading [==================================================>]      93B/93B
+ 913b6ed29788 Verifying Checksum 
+ 913b6ed29788 Download complete 
+ 913b6ed29788 Downloading [==================================================>]      93B/93B
+ 913b6ed29788 Verifying Checksum 
+ 913b6ed29788 Download complete 
+ 112172c80402 Downloading [=================================================> ]  29.47MB/29.77MB
+ 112172c80402 Downloading [=================================================> ]  29.47MB/29.77MB
+ 112172c80402 Verifying Checksum 
+ 112172c80402 Verifying Checksum 
+ 112172c80402 Download complete 
+ 112172c80402 Download complete 
+ cb1ff4086f82 Downloading [>                                                  ]  172.4kB/16.84MB
+ 112172c80402 Extracting [>                                                  ]  327.7kB/29.77MB
+ 112172c80402 Extracting [>                                                  ]  327.7kB/29.77MB
+ cb1ff4086f82 Downloading [=================================>                 ]  11.17MB/16.84MB
+ 112172c80402 Extracting [=========>                                         ]  5.898MB/29.77MB
+ 112172c80402 Extracting [=========>                                         ]  5.898MB/29.77MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ 112172c80402 Extracting [=================>                                 ]  10.16MB/29.77MB
+ 112172c80402 Extracting [=================>                                 ]  10.16MB/29.77MB
+ e05fa586d922 Downloading [=======>                                           ]     934B/6.568kB
+ e05fa586d922 Downloading [=======>                                           ]     934B/6.568kB
+ e05fa586d922 Verifying Checksum 
+ e05fa586d922 Downloading [==================================================>]  6.568kB/6.568kB
+ e05fa586d922 Verifying Checksum 
+ e05fa586d922 Download complete 
+ e05fa586d922 Download complete 
+ cb1ff4086f82 Extracting [========>                                          ]  2.949MB/16.84MB
+ 112172c80402 Extracting [======================>                            ]  13.11MB/29.77MB
+ 112172c80402 Extracting [======================>                            ]  13.11MB/29.77MB
+ 43c712fe7cea Downloading [>                                                  ]   3.67kB/282.5kB
+ 43c712fe7cea Downloading [==================================================>]  282.5kB/282.5kB
+ 43c712fe7cea Verifying Checksum 
+ 43c712fe7cea Download complete 
+ 43c712fe7cea Extracting [=====>                                             ]  32.77kB/282.5kB
+ cb1ff4086f82 Extracting [============================>                      ]  9.437MB/16.84MB
+ 43c712fe7cea Extracting [==================================================>]  282.5kB/282.5kB
+ 43c712fe7cea Extracting [==================================================>]  282.5kB/282.5kB
+ 112172c80402 Extracting [===============================>                   ]  19.01MB/29.77MB
+ 112172c80402 Extracting [===============================>                   ]  19.01MB/29.77MB
+ cb1ff4086f82 Extracting [==========================================>        ]  14.16MB/16.84MB
+ 43c712fe7cea Pull complete 
+ 2713eae6b724 Downloading [==================================================>]      93B/93B
+ 2713eae6b724 Verifying Checksum 
+ 2713eae6b724 Download complete 
+ 2713eae6b724 Extracting [==================================================>]      93B/93B
+ 2713eae6b724 Extracting [==================================================>]      93B/93B
+ 112172c80402 Extracting [=========================================>         ]  24.58MB/29.77MB
+ 112172c80402 Extracting [=========================================>         ]  24.58MB/29.77MB
+ 2713eae6b724 Pull complete 
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ 1775a0685fc1 Downloading [>                                                  ]  52.75kB/5.162MB
+ cb1ff4086f82 Pull complete 
  nginx Pulled 
+ 1775a0685fc1 Verifying Checksum 
+ 1775a0685fc1 Download complete 
+ 1775a0685fc1 Extracting [>                                                  ]  65.54kB/5.162MB
+ 1775a0685fc1 Extracting [==================================================>]  5.162MB/5.162MB
+ 112172c80402 Extracting [============================================>      ]  26.21MB/29.77MB
+ 112172c80402 Extracting [============================================>      ]  26.21MB/29.77MB
+ 1775a0685fc1 Pull complete 
+ worker Pulled 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Pull complete 
+ 112172c80402 Extracting [===============================================>   ]  28.51MB/29.77MB
+ 112172c80402 Extracting [===============================================>   ]  28.51MB/29.77MB
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 112172c80402 Extracting [================================================>  ]  29.16MB/29.77MB
+ 112172c80402 Extracting [================================================>  ]  29.16MB/29.77MB
+ 5e28347af205 Pull complete 
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 112172c80402 Extracting [==================================================>]  29.77MB/29.77MB
+ 112172c80402 Extracting [==================================================>]  29.77MB/29.77MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ 112172c80402 Pull complete 
+ 112172c80402 Pull complete 
+ 913b6ed29788 Extracting [==================================================>]      93B/93B
+ 913b6ed29788 Extracting [==================================================>]      93B/93B
+ 913b6ed29788 Extracting [==================================================>]      93B/93B
+ 913b6ed29788 Extracting [==================================================>]      93B/93B
+ 913b6ed29788 Pull complete 
+ 913b6ed29788 Pull complete 
+ e05fa586d922 Extracting [==================================================>]  6.568kB/6.568kB
+ e05fa586d922 Extracting [==================================================>]  6.568kB/6.568kB
+ e05fa586d922 Extracting [==================================================>]  6.568kB/6.568kB
+ e05fa586d922 Extracting [==================================================>]  6.568kB/6.568kB
+ e05fa586d922 Pull complete 
+ e05fa586d922 Pull complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.1kB/12.41MB
  api01 Pulled 
- redis Pulled 
  api02 Pulled 
+ e6fe6f07e192 Downloading [===================================>               ]  8.774MB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ e6fe6f07e192 Extracting [==========================>                        ]  6.554MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
  Network dinossauro_backend  Creating
- Network dinossauro_backend  Error
-failed to create network dinossauro_backend: Error response from daemon: invalid pool request: Pool overlaps with other one on this address space
+ Network dinossauro_backend  Created
+ Container redis  Creating
+ Container redis  Created
+ Container worker  Creating
+ Container worker  Created
+ Container api01  Creating
+ Container api02  Creating
+ Container api02  Created
+ Container api01  Created
+ Container nginx  Creating
+ Container nginx  Created
+Attaching to api01, api02, nginx, redis, worker
+redis  | 1:C 21 Aug 2025 07:20:05.443 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 07:20:05.443 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 07:20:05.443 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis  | 1:C 21 Aug 2025 07:20:05.443 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+redis  | 1:M 21 Aug 2025 07:20:05.444 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 07:20:05.444 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 07:20:05.444 * Server initialized
+redis  | 1:M 21 Aug 2025 07:20:05.444 * Ready to accept connections tcp
+worker  | 2025/08/21 07:20:07 [MAIN] Starting Dinossauro worker...
+worker  | 2025/08/21 07:20:07 [MAIN] Configuration loaded: WorkerPoolSize=20, JobChannelSize=500, RedisPoolSize=20, MaxRetries=5
+worker  | 2025/08/21 07:20:07 [MAIN] Redis client initialized
+worker  | 2025/08/21 07:20:07 [MAIN] Job channel created with buffer size: 500
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 0
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 1
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 2
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 3
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 4
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 5
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 6
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 7
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 8
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 9
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 10
+worker  | 2025/08/21 07:20:07 [WORKER-0] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 11
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 12
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 13
+worker  | 2025/08/21 07:20:07 [WORKER-5] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 14
+worker  | 2025/08/21 07:20:07 [WORKER-13] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-6] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-7] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-8] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 15
+worker  | 2025/08/21 07:20:07 [WORKER-9] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 16
+worker  | 2025/08/21 07:20:07 [WORKER-15] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 17
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 18
+worker  | 2025/08/21 07:20:07 [WORKER-10] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting worker 19
+worker  | 2025/08/21 07:20:07 [WORKER-11] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Starting Redis subscriber...
+worker  | 2025/08/21 07:20:07 [WORKER-19] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [MAIN] Worker system ready and listening for payments
+worker  | 2025/08/21 07:20:07 [WORKER-1] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-2] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-3] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-4] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-14] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-16] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-17] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-18] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [WORKER-12] Started and waiting for jobs
+worker  | 2025/08/21 07:20:07 [SUBSCRIBER] Subscribed to 'payments' channel
+nginx   | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx   | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx   | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx   | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx   | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx   | /docker-entrypoint.sh: Configuration complete; ready for start up
+api01   | Verb: GET
+api01   | Path: /payments-summary
+api01   | Verb: POST
+api01   | Path: /purge-payments
+nginx   | 2025/08/21 07:20:15 [error] 31#31: *3 upstream prematurely closed connection while reading upstream, client: 172.20.0.1, server: , request: "POST /purge-payments HTTP/1.1", upstream: "http://172.20.0.3:3000/purge-payments", host: "localhost:9999"
+api01   | Verb: GET
+api01   | Path: /payments-summary
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:15 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:15 [SUBSCRIBER] Enqueuing job: correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2, amount=20.05
+worker  | 2025/08/21 07:20:15 [WORKER-0] Processing payment: correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Starting processing for correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2, amount=20.05
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Trying default processor for correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2, timeout=3.5s
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Default processor succeeded for correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2
+worker  | 2025/08/21 07:20:15 [STORE] Saving payment: correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:15 [STORE] Successfully saved payment data for correlationId=d7677b09-4060-4ecd-a5dc-f0858813a1b2
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:15 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:15 [SUBSCRIBER] Enqueuing job: correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005, amount=20.05
+worker  | 2025/08/21 07:20:15 [WORKER-5] Processing payment: correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Starting processing for correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005, amount=20.05
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Trying default processor for correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005, timeout=3.5s
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:15 [PROCESSOR] Default processor succeeded for correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005
+worker  | 2025/08/21 07:20:15 [STORE] Saving payment: correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:15 [STORE] Successfully saved payment data for correlationId=60dd06d2-4bf0-43c2-bdef-7e8ebe4fb005
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Enqueuing job: correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e, amount=20.05
+worker  | 2025/08/21 07:20:16 [WORKER-13] Processing payment: correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Starting processing for correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e, amount=20.05
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Trying default processor for correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e, timeout=3.5s
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Default processor succeeded for correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e
+worker  | 2025/08/21 07:20:16 [STORE] Saving payment: correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:16 [STORE] Successfully saved payment data for correlationId=875e6fc8-0f15-4d65-ba92-0f53a073c36e
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Enqueuing job: correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e, amount=20.05
+worker  | 2025/08/21 07:20:16 [WORKER-6] Processing payment: correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Starting processing for correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e, amount=20.05
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Trying default processor for correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e, timeout=3.5s
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Default processor succeeded for correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e
+worker  | 2025/08/21 07:20:16 [STORE] Saving payment: correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:16 [STORE] Successfully saved payment data for correlationId=16212b15-f8b8-4a3b-be2f-97aff0e3590e
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Enqueuing job: correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17, amount=20.05
+worker  | 2025/08/21 07:20:16 [WORKER-7] Processing payment: correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Starting processing for correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17, amount=20.05
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Trying default processor for correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17, timeout=3.5s
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Default processor succeeded for correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17
+worker  | 2025/08/21 07:20:16 [STORE] Saving payment: correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:16 [STORE] Successfully saved payment data for correlationId=f0176bd5-b262-4178-a29d-2583d7f9ce17
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:16 [SUBSCRIBER] Enqueuing job: correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b, amount=20.05
+worker  | 2025/08/21 07:20:16 [WORKER-8] Processing payment: correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Starting processing for correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b, amount=20.05
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Trying default processor for correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b, timeout=3.5s
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:16 [PROCESSOR] Default processor succeeded for correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b
+worker  | 2025/08/21 07:20:16 [STORE] Saving payment: correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:16 [STORE] Successfully saved payment data for correlationId=ae141159-a9a9-4a75-8e8e-784e95e1a78b
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-9] Processing payment: correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=3c9b16d1-56bd-4b76-9a51-dbec0c6a6f13
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=e007be05-2435-4c72-ac45-2b988be16d60, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-15] Processing payment: correlationId=e007be05-2435-4c72-ac45-2b988be16d60, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=e007be05-2435-4c72-ac45-2b988be16d60, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=e007be05-2435-4c72-ac45-2b988be16d60
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=e007be05-2435-4c72-ac45-2b988be16d60, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=e007be05-2435-4c72-ac45-2b988be16d60
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=e007be05-2435-4c72-ac45-2b988be16d60, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=e007be05-2435-4c72-ac45-2b988be16d60
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=97394c22-0131-4478-bfdc-6f49d473a300, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-10] Processing payment: correlationId=97394c22-0131-4478-bfdc-6f49d473a300, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=97394c22-0131-4478-bfdc-6f49d473a300, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=97394c22-0131-4478-bfdc-6f49d473a300
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=97394c22-0131-4478-bfdc-6f49d473a300, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=97394c22-0131-4478-bfdc-6f49d473a300
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=97394c22-0131-4478-bfdc-6f49d473a300, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=97394c22-0131-4478-bfdc-6f49d473a300
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-11] Processing payment: correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=78ba26cd-de97-45dd-8068-73902ecc9f95
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=e2d3132f-e180-44c2-baea-65fa35a26828, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-19] Processing payment: correlationId=e2d3132f-e180-44c2-baea-65fa35a26828, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=e2d3132f-e180-44c2-baea-65fa35a26828, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=e2d3132f-e180-44c2-baea-65fa35a26828
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=e2d3132f-e180-44c2-baea-65fa35a26828, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=e2d3132f-e180-44c2-baea-65fa35a26828
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=e2d3132f-e180-44c2-baea-65fa35a26828, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=e2d3132f-e180-44c2-baea-65fa35a26828
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:17 [SUBSCRIBER] Enqueuing job: correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c, amount=20.05
+worker  | 2025/08/21 07:20:17 [WORKER-1] Processing payment: correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Starting processing for correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c, amount=20.05
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Trying default processor for correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c, timeout=3.5s
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:17 [PROCESSOR] Default processor succeeded for correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c
+worker  | 2025/08/21 07:20:17 [STORE] Saving payment: correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:17 [STORE] Successfully saved payment data for correlationId=a508bb45-3719-4e1e-b215-4c38b26f570c
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-2] Processing payment: correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=50a1319d-31e0-4e9b-a43f-b012f2cf67da
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-3] Processing payment: correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=8dd74c7f-8e02-46d6-b89b-4a29efcd032e
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-4] Processing payment: correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=68d29023-ebf5-423d-b282-32ff8a02cbb7
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=56743d24-5af1-4fb5-bc43-10001cf66525, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-14] Processing payment: correlationId=56743d24-5af1-4fb5-bc43-10001cf66525, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=56743d24-5af1-4fb5-bc43-10001cf66525, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=56743d24-5af1-4fb5-bc43-10001cf66525
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=56743d24-5af1-4fb5-bc43-10001cf66525, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=56743d24-5af1-4fb5-bc43-10001cf66525
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=56743d24-5af1-4fb5-bc43-10001cf66525, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=56743d24-5af1-4fb5-bc43-10001cf66525
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=8d961455-6933-4329-bdbb-ac02013659a5, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-16] Processing payment: correlationId=8d961455-6933-4329-bdbb-ac02013659a5, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=8d961455-6933-4329-bdbb-ac02013659a5, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=8d961455-6933-4329-bdbb-ac02013659a5
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=8d961455-6933-4329-bdbb-ac02013659a5, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=8d961455-6933-4329-bdbb-ac02013659a5
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=8d961455-6933-4329-bdbb-ac02013659a5, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=8d961455-6933-4329-bdbb-ac02013659a5
+api01   | Verb: POST
+api01   | Path: /payments
+api02   | Verb: POST
+api02   | Path: /payments
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=24622174-170a-4952-b521-c6a2169999d8, amount=20.05
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650, amount=20.05
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:18 [SUBSCRIBER] Enqueuing job: correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd, amount=20.05
+worker  | 2025/08/21 07:20:18 [WORKER-12] Processing payment: correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [WORKER-17] Processing payment: correlationId=24622174-170a-4952-b521-c6a2169999d8, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=24622174-170a-4952-b521-c6a2169999d8, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=24622174-170a-4952-b521-c6a2169999d8
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=24622174-170a-4952-b521-c6a2169999d8, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [WORKER-18] Processing payment: correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Starting processing for correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650, amount=20.05
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Trying default processor for correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650, timeout=3.5s
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=1ebc11d3-32a2-451f-809a-2b1a42d76650
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd
+worker  | 2025/08/21 07:20:18 [PROCESSOR] Default processor succeeded for correlationId=24622174-170a-4952-b521-c6a2169999d8
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Saving payment: correlationId=24622174-170a-4952-b521-c6a2169999d8, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=3b3bef8b-3226-4cc1-b8c6-982d6523adcd
+worker  | 2025/08/21 07:20:18 [STORE] Successfully saved payment data for correlationId=24622174-170a-4952-b521-c6a2169999d8
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-0] Processing payment: correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=b2e75482-d94a-4f38-94e5-3fac58693a73
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=1d959929-b8be-43d6-b944-6a4786213fd5, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-5] Processing payment: correlationId=1d959929-b8be-43d6-b944-6a4786213fd5, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=1d959929-b8be-43d6-b944-6a4786213fd5, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=1d959929-b8be-43d6-b944-6a4786213fd5
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=1d959929-b8be-43d6-b944-6a4786213fd5, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=1d959929-b8be-43d6-b944-6a4786213fd5
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=1d959929-b8be-43d6-b944-6a4786213fd5, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=1d959929-b8be-43d6-b944-6a4786213fd5
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-13] Processing payment: correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=662620ed-af6c-46f4-a6d8-e74ca08ea490
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-6] Processing payment: correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=023e1c37-ddc8-4301-aba1-b073f66bf006
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-7] Processing payment: correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=11d7ae16-24d3-4479-85db-c6d49d555a83
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=2c382c95-bcde-486c-b682-96a34cc986c9, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-8] Processing payment: correlationId=2c382c95-bcde-486c-b682-96a34cc986c9, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=2c382c95-bcde-486c-b682-96a34cc986c9, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=2c382c95-bcde-486c-b682-96a34cc986c9
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=2c382c95-bcde-486c-b682-96a34cc986c9, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=2c382c95-bcde-486c-b682-96a34cc986c9
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=2c382c95-bcde-486c-b682-96a34cc986c9, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=2c382c95-bcde-486c-b682-96a34cc986c9
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=30f66982-bd3b-4663-94e7-845b45af6227, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-9] Processing payment: correlationId=30f66982-bd3b-4663-94e7-845b45af6227, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=30f66982-bd3b-4663-94e7-845b45af6227, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=30f66982-bd3b-4663-94e7-845b45af6227
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=30f66982-bd3b-4663-94e7-845b45af6227, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=30f66982-bd3b-4663-94e7-845b45af6227
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=30f66982-bd3b-4663-94e7-845b45af6227, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=30f66982-bd3b-4663-94e7-845b45af6227
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-15] Processing payment: correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=a328836c-0277-4e72-9ee2-bdae0d9c9f49
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-10] Processing payment: correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=0e236c32-3117-4aec-9c7c-6e21c1c9a398
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:19 [SUBSCRIBER] Enqueuing job: correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0, amount=20.05
+worker  | 2025/08/21 07:20:19 [WORKER-11] Processing payment: correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Starting processing for correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0, amount=20.05
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Trying default processor for correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0, timeout=3.5s
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:19 [PROCESSOR] Default processor succeeded for correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0
+worker  | 2025/08/21 07:20:19 [STORE] Saving payment: correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:19 [STORE] Successfully saved payment data for correlationId=cad17721-abc3-4e6f-9ad0-1dbb5e9d63b0
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-19] Processing payment: correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=38cb5272-24ab-45fd-b7ed-4e73aff0a656
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-1] Processing payment: correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=8f76e7f5-4e71-42f2-8e2d-300f11db7711
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-2] Processing payment: correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=f477f9a7-5bde-4886-8e39-97b42c0d0e8e
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-3] Processing payment: correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=bb818c88-ecc9-40f4-a456-526b36f82cc8
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-4] Processing payment: correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=a2bed03c-4669-456a-a4dd-fa9982d5aef1
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-14] Processing payment: correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=715aa870-79f4-4ebd-8cbc-6b8e3b44d45f
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-16] Processing payment: correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=97dd1495-f6a1-4248-bc32-1754c93ea2d8
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-18] Processing payment: correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=5b1f0e88-25d3-4b2c-83da-82de5135bbd4
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-12] Processing payment: correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=c34083de-0264-4db6-8e6d-3faefcfaacd7
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-17] Processing payment: correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=9e6f7aa8-f934-4b1d-a08f-a18b51898f0a
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=b315048d-32f3-470c-992d-a4b2139bec8f, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-0] Processing payment: correlationId=b315048d-32f3-470c-992d-a4b2139bec8f, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=b315048d-32f3-470c-992d-a4b2139bec8f, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=b315048d-32f3-470c-992d-a4b2139bec8f
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=b315048d-32f3-470c-992d-a4b2139bec8f, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=b315048d-32f3-470c-992d-a4b2139bec8f
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=b315048d-32f3-470c-992d-a4b2139bec8f, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=b315048d-32f3-470c-992d-a4b2139bec8f
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:20 [SUBSCRIBER] Enqueuing job: correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2, amount=20.05
+worker  | 2025/08/21 07:20:20 [WORKER-5] Processing payment: correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Starting processing for correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2, amount=20.05
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Trying default processor for correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2, timeout=3.5s
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:20 [PROCESSOR] Default processor succeeded for correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2
+worker  | 2025/08/21 07:20:20 [STORE] Saving payment: correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:20 [STORE] Successfully saved payment data for correlationId=53bf36c1-7cbd-49f5-8a1b-2b311b96bfb2
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-13] Processing payment: correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=6c57526a-ecfd-471e-bd4f-277610ce6c6e
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-6] Processing payment: correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=a1aa936c-289d-4143-bb9c-462acdd51f7d
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-7] Processing payment: correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=1d8bcb0a-212a-4fb5-9d20-766b887f8f22
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-8] Processing payment: correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=36548ac1-7671-4ffe-b6d0-99a1379c418d
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=c66ef331-0548-4584-9366-d51af94f7e56, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-9] Processing payment: correlationId=c66ef331-0548-4584-9366-d51af94f7e56, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=c66ef331-0548-4584-9366-d51af94f7e56, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=c66ef331-0548-4584-9366-d51af94f7e56
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=c66ef331-0548-4584-9366-d51af94f7e56, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=c66ef331-0548-4584-9366-d51af94f7e56
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=c66ef331-0548-4584-9366-d51af94f7e56, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=c66ef331-0548-4584-9366-d51af94f7e56
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-15] Processing payment: correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=29eb2553-100a-41da-80c3-c63a64cc6ec6
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-10] Processing payment: correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=9e245b51-752f-4454-82a5-c7c7b0e0dfff
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-11] Processing payment: correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=f8ebb197-f8ce-455e-b27c-1fcdb056aa49
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-19] Processing payment: correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=2e2a0995-293f-447c-8c71-6db487ebe8f1
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-1] Processing payment: correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=bdbfe66e-2b9e-4620-b5b0-a1aa8934cb59
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=ca526618-361e-4450-8c27-33183fa1a83e, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-2] Processing payment: correlationId=ca526618-361e-4450-8c27-33183fa1a83e, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=ca526618-361e-4450-8c27-33183fa1a83e, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=ca526618-361e-4450-8c27-33183fa1a83e
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=ca526618-361e-4450-8c27-33183fa1a83e, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=ca526618-361e-4450-8c27-33183fa1a83e
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=ca526618-361e-4450-8c27-33183fa1a83e, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=ca526618-361e-4450-8c27-33183fa1a83e
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-3] Processing payment: correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=1a56e4a5-20af-48fe-96bf-2d42e11edb71
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-4] Processing payment: correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=45a02d39-cd39-478b-8ace-fb17dd55f708
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:21 [SUBSCRIBER] Enqueuing job: correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4, amount=20.05
+worker  | 2025/08/21 07:20:21 [WORKER-14] Processing payment: correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Starting processing for correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4, amount=20.05
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Trying default processor for correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4, timeout=3.5s
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:21 [PROCESSOR] Default processor succeeded for correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4
+worker  | 2025/08/21 07:20:21 [STORE] Saving payment: correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:21 [STORE] Successfully saved payment data for correlationId=1d3d0159-379b-4218-9b35-2ba03cbf46e4
+api01   | Verb: POST
+api01   | Path: /payments
+worker  | 2025/08/21 07:20:22 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:22 [SUBSCRIBER] Enqueuing job: correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935, amount=20.05
+worker  | 2025/08/21 07:20:22 [WORKER-16] Processing payment: correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Starting processing for correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935, amount=20.05
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Trying default processor for correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Sending request to http://payment-processor-default:8080/payments: correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935, timeout=3.5s
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Response from default: status=200, success=true
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Default processor succeeded for correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935
+worker  | 2025/08/21 07:20:22 [STORE] Saving payment: correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935, processor=default, amount=20.05
+worker  | 2025/08/21 07:20:22 [STORE] Successfully saved payment data for correlationId=b9dcc03e-a3a4-4199-a9e0-d8d9f53b8935
+api02   | Verb: POST
+api02   | Path: /payments
+worker  | 2025/08/21 07:20:22 [SUBSCRIBER] Received message from channel: 92 bytes
+worker  | 2025/08/21 07:20:22 [SUBSCRIBER] Enqueuing job: correlationId=7c18e768-ce25-4469-9626-ca740f4edc1b, amount=20.05
+worker  | 2025/08/21 07:20:22 [WORKER-18] Processing payment: correlationId=7c18e768-ce25-4469-9626-ca740f4edc1b, amount=20.05, retryCount=0
+worker  | 2025/08/21 07:20:22 [PROCESSOR] Starting processing for correlationId=7c18e768-ce25-4469-9626-ca740f4edc1b, amount=20.05
+log truncated at line 1000

@@ -1,35 +1,241 @@
 
+ backend-2 Pulling 
+ backend-1 Pulling 
+ worker Pulling 
+ nginx Pulling 
+ nats Pulling 
+ 0368fd46e3c6 Already exists 
+ b2cfd92d46e1 Already exists 
+ bed0ae60cca4 Already exists 
+ a70d06f762c0 Already exists 
+ 431200b796ef Already exists 
+ d4da49add472 Already exists 
+ 45cf7baa40e8 Pulling fs layer 
+ be59798da687 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 9a1374604128 Pulling fs layer 
+ 9a1374604128 Waiting 
+ 0368fd46e3c6 Already exists 
+ b2cfd92d46e1 Already exists 
+ bed0ae60cca4 Already exists 
+ a70d06f762c0 Already exists 
+ 431200b796ef Already exists 
+ d4da49add472 Already exists 
+ 45cf7baa40e8 Pulling fs layer 
+ be59798da687 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 9a1374604128 Pulling fs layer 
+ 9a1374604128 Waiting 
+ 0368fd46e3c6 Already exists 
+ b2cfd92d46e1 Already exists 
+ bed0ae60cca4 Already exists 
+ a70d06f762c0 Already exists 
+ 431200b796ef Already exists 
+ d4da49add472 Already exists 
+ 45cf7baa40e8 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 031517344be7 Pulling fs layer 
+ 031517344be7 Waiting 
+ 4f4fb700ef54 Waiting 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 45cf7baa40e8 Downloading [==================================================>]      96B/96B
+ 45cf7baa40e8 Verifying Checksum 
+ 45cf7baa40e8 Downloading [==================================================>]      96B/96B
+ 45cf7baa40e8 Verifying Checksum 
+ 45cf7baa40e8 Downloading [==================================================>]      96B/96B
+ 45cf7baa40e8 Verifying Checksum 
+ 45cf7baa40e8 Extracting [==================================================>]      96B/96B
+ 45cf7baa40e8 Extracting [==================================================>]      96B/96B
+ 45cf7baa40e8 Extracting [==================================================>]      96B/96B
+ 45cf7baa40e8 Extracting [==================================================>]      96B/96B
+ 45cf7baa40e8 Extracting [==================================================>]      96B/96B
+ 45cf7baa40e8 Pull complete 
+ 45cf7baa40e8 Pull complete 
+ 45cf7baa40e8 Pull complete 
+ be59798da687 Downloading [==================================================>]     100B/100B
+ be59798da687 Verifying Checksum 
+ be59798da687 Download complete 
+ be59798da687 Downloading [==================================================>]     100B/100B
+ be59798da687 Verifying Checksum 
+ be59798da687 Download complete 
+ be59798da687 Extracting [==================================================>]     100B/100B
+ be59798da687 Extracting [==================================================>]     100B/100B
+ be59798da687 Extracting [==================================================>]     100B/100B
+ be59798da687 Pull complete 
+ be59798da687 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 9a1374604128 Downloading [>                                                  ]  245.8kB/23.82MB
+ 9a1374604128 Downloading [>                                                  ]  245.8kB/23.82MB
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 403e3f251637 Waiting 
+ 9adfbae99cb7 Waiting 
+ 9a1374604128 Downloading [=========>                                         ]  4.407MB/23.82MB
+ 9a1374604128 Downloading [=========>                                         ]  4.407MB/23.82MB
+ 9a1374604128 Downloading [==================>                                ]  8.585MB/23.82MB
+ 9a1374604128 Downloading [==================>                                ]  8.585MB/23.82MB
+ 031517344be7 Downloading [>                                                  ]  31.56kB/3.147MB
+ 031517344be7 Verifying Checksum 
+ 031517344be7 Download complete 
+ 031517344be7 Extracting [>                                                  ]  32.77kB/3.147MB
+ 9a1374604128 Downloading [==========================>                        ]  12.75MB/23.82MB
+ 9a1374604128 Downloading [==========================>                        ]  12.75MB/23.82MB
+ 031517344be7 Extracting [==================================================>]  3.147MB/3.147MB
+ 031517344be7 Pull complete 
+ worker Pulled 
+ 9a1374604128 Downloading [===================================>               ]  17.13MB/23.82MB
+ 9a1374604128 Downloading [===================================>               ]  17.13MB/23.82MB
+ 9a1374604128 Downloading [============================================>      ]  21.28MB/23.82MB
+ 9a1374604128 Downloading [============================================>      ]  21.28MB/23.82MB
+ 9a1374604128 Verifying Checksum 
+ 9a1374604128 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 9a1374604128 Download complete 
+ 9a1374604128 Extracting [>                                                  ]  262.1kB/23.82MB
+ 9a1374604128 Extracting [>                                                  ]  262.1kB/23.82MB
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 9a1374604128 Extracting [==============>                                    ]  7.078MB/23.82MB
+ 9a1374604128 Extracting [==============>                                    ]  7.078MB/23.82MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 9a1374604128 Extracting [=======================================>           ]  18.61MB/23.82MB
+ 9a1374604128 Extracting [=======================================>           ]  18.61MB/23.82MB
+ 9824c27679d3 Already exists 
+ 81ab6e8880f2 Pulling fs layer 
+ 283833608b5a Pulling fs layer 
+ 3411c495c894 Pulling fs layer 
+ 3411c495c894 Waiting 
+ 283833608b5a Waiting 
+ 81ab6e8880f2 Waiting 
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Download complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 9a1374604128 Extracting [===============================================>   ]  22.54MB/23.82MB
+ 9a1374604128 Extracting [===============================================>   ]  22.54MB/23.82MB
+ 403e3f251637 Pull complete 
+ 9a1374604128 Extracting [==================================================>]  23.82MB/23.82MB
+ 9a1374604128 Extracting [==================================================>]  23.82MB/23.82MB
+ 9a1374604128 Pull complete 
+ 9a1374604128 Pull complete 
+ backend-2 Pulled 
+ backend-1 Pulled 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Download complete 
+ 9adfbae99cb7 Pull complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ cb1ff4086f82 Downloading [>                                                  ]  172.6kB/16.84MB
+ cb1ff4086f82 Downloading [===============================>                   ]  10.48MB/16.84MB
+ cb1ff4086f82 Downloading [===========================================>       ]  14.58MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ 81ab6e8880f2 Downloading [>                                                  ]  69.77kB/6.786MB
+ cb1ff4086f82 Extracting [===========>                                       ]  3.736MB/16.84MB
+ 81ab6e8880f2 Downloading [===============>                                   ]  2.081MB/6.786MB
+ cb1ff4086f82 Extracting [==================================>                ]   11.6MB/16.84MB
+ 283833608b5a Download complete 
+ 81ab6e8880f2 Downloading [=================================================> ]   6.75MB/6.786MB
+ 81ab6e8880f2 Download complete 
+ 81ab6e8880f2 Extracting [>                                                  ]   98.3kB/6.786MB
+ 81ab6e8880f2 Extracting [======================>                            ]  3.047MB/6.786MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
+ 81ab6e8880f2 Extracting [==================================================>]  6.786MB/6.786MB
+ 3411c495c894 Downloading [==================================================>]     411B/411B
+ 3411c495c894 Downloading [==================================================>]     411B/411B
+ 3411c495c894 Verifying Checksum 
+ 3411c495c894 Download complete 
+ 81ab6e8880f2 Pull complete 
+ 283833608b5a Extracting [==================================================>]     561B/561B
+ 283833608b5a Extracting [==================================================>]     561B/561B
+ 283833608b5a Pull complete 
+ 3411c495c894 Extracting [==================================================>]     411B/411B
+ 3411c495c894 Extracting [==================================================>]     411B/411B
+ 3411c495c894 Pull complete 
+ nats Pulled 
  Network yanpitangui-dotnet-v2_backend  Creating
  Network yanpitangui-dotnet-v2_backend  Created
- Volume "yanpitangui-dotnet-v2_postgres-socket"  Creating
- Volume "yanpitangui-dotnet-v2_postgres-socket"  Created
  Volume "yanpitangui-dotnet-v2_uds-sockets"  Creating
  Volume "yanpitangui-dotnet-v2_uds-sockets"  Created
+ Volume "yanpitangui-dotnet-v2_postgres-socket"  Creating
+ Volume "yanpitangui-dotnet-v2_postgres-socket"  Created
  Container yanpitangui-dotnet-v2-nats-1  Creating
  Container yanpitangui-dotnet-v2-rinha-db-1  Creating
- Container yanpitangui-dotnet-v2-rinha-db-1  Created
  Container yanpitangui-dotnet-v2-nats-1  Created
+ Container yanpitangui-dotnet-v2-rinha-db-1  Created
  Container yanpitangui-dotnet-v2-worker-1  Creating
  Container backend-2  Creating
  Container backend-1  Creating
- Container backend-2  Created
  Container yanpitangui-dotnet-v2-worker-1  Created
+ Container backend-2  Created
  Container backend-1  Created
  Container yanpitangui-dotnet-v2-nginx-1  Creating
  Container yanpitangui-dotnet-v2-nginx-1  Created
 Attaching to backend-1, backend-2, nats-1, nginx-1, rinha-db-1, worker-1
-nats-1  | [1] 2025/08/19 21:44:01.039485 [INF] Starting nats-server
-nats-1  | [1] 2025/08/19 21:44:01.039535 [INF]   Version:  2.11.7
-nats-1  | [1] 2025/08/19 21:44:01.039538 [INF]   Git:      [df44964]
-nats-1  | [1] 2025/08/19 21:44:01.039540 [INF]   Cluster:  my_cluster
-nats-1  | [1] 2025/08/19 21:44:01.039542 [INF]   Name:     NABWCOFJWRFDLTNBYMQLNYSMGVS4RULRMYLL7EHE3LXBRXMBZDEATYWI
-nats-1  | [1] 2025/08/19 21:44:01.039544 [INF]   ID:       NABWCOFJWRFDLTNBYMQLNYSMGVS4RULRMYLL7EHE3LXBRXMBZDEATYWI
-nats-1  | [1] 2025/08/19 21:44:01.039562 [INF] Using configuration file: /etc/nats/nats-server.conf (sha256:c7aaa34d64beb74e7c700fd3504b40b01deb1275f6567fb81ed3809ff03a5fe4)
-nats-1  | [1] 2025/08/19 21:44:01.045512 [INF] Starting http monitor on 0.0.0.0:8222
-nats-1  | [1] 2025/08/19 21:44:01.046529 [INF] Listening for client connections on 0.0.0.0:4222
-nats-1  | [1] 2025/08/19 21:44:01.046744 [INF] Server is ready
-nats-1  | [1] 2025/08/19 21:44:01.049666 [INF] Cluster name is my_cluster
-nats-1  | [1] 2025/08/19 21:44:01.055087 [INF] Listening for route connections on 0.0.0.0:6222
+nats-1  | [1] 2025/08/21 20:42:21.373026 [INF] Starting nats-server
+nats-1  | [1] 2025/08/21 20:42:21.373173 [INF]   Version:  2.11.8
+nats-1  | [1] 2025/08/21 20:42:21.373180 [INF]   Git:      [ec0d7e3]
+nats-1  | [1] 2025/08/21 20:42:21.373182 [INF]   Cluster:  my_cluster
+nats-1  | [1] 2025/08/21 20:42:21.373184 [INF]   Name:     NCBFU4AMW2LNNBEPGOT6RCTMWPOFKKB66PZF5AXKRTDFZII6JLDDQTFX
+nats-1  | [1] 2025/08/21 20:42:21.373196 [INF]   ID:       NCBFU4AMW2LNNBEPGOT6RCTMWPOFKKB66PZF5AXKRTDFZII6JLDDQTFX
+nats-1  | [1] 2025/08/21 20:42:21.373215 [INF] Using configuration file: /etc/nats/nats-server.conf (sha256:c7aaa34d64beb74e7c700fd3504b40b01deb1275f6567fb81ed3809ff03a5fe4)
+nats-1  | [1] 2025/08/21 20:42:21.374229 [INF] Starting http monitor on 0.0.0.0:8222
+nats-1  | [1] 2025/08/21 20:42:21.374491 [INF] Listening for client connections on 0.0.0.0:4222
+nats-1  | [1] 2025/08/21 20:42:21.459669 [INF] Server is ready
+nats-1  | [1] 2025/08/21 20:42:21.459738 [INF] Cluster name is my_cluster
+nats-1  | [1] 2025/08/21 20:42:21.459796 [INF] Listening for route connections on 0.0.0.0:6222
 rinha-db-1  | The files belonging to this database system will be owned by user "postgres".
 rinha-db-1  | This user must also own the server process.
 rinha-db-1  | 
@@ -48,7 +254,7 @@ rinha-db-1  | selecting default time zone ... UTC
 rinha-db-1  | creating configuration files ... ok
 rinha-db-1  | running bootstrap script ... ok
 rinha-db-1  | sh: locale: not found
-rinha-db-1  | 2025-08-19 21:44:08.718 UTC [53] WARNING:  no usable system locales were found
+rinha-db-1  | 2025-08-21 20:42:29.325 UTC [53] WARNING:  no usable system locales were found
 rinha-db-1  | performing post-bootstrap initialization ... ok
 rinha-db-1  | initdb: warning: enabling "trust" authentication for local connections
 rinha-db-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
@@ -59,10 +265,10 @@ rinha-db-1  | Success. You can now start the database server using:
 rinha-db-1  | 
 rinha-db-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 rinha-db-1  | 
-rinha-db-1  | waiting for server to start....2025-08-19 21:44:17.115 UTC [107] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-db-1  | 2025-08-19 21:44:17.115 UTC [107] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-db-1  | 2025-08-19 21:44:17.118 UTC [110] LOG:  database system was shut down at 2025-08-19 21:44:16 UTC
-rinha-db-1  | 2025-08-19 21:44:17.122 UTC [107] LOG:  database system is ready to accept connections
+rinha-db-1  | waiting for server to start....2025-08-21 20:42:37.629 UTC [107] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-08-21 20:42:37.629 UTC [107] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-08-21 20:42:37.631 UTC [110] LOG:  database system was shut down at 2025-08-21 20:42:36 UTC
+rinha-db-1  | 2025-08-21 20:42:37.725 UTC [107] LOG:  database system is ready to accept connections
 rinha-db-1  |  done
 rinha-db-1  | server started
 rinha-db-1  | CREATE DATABASE
@@ -73,27 +279,26 @@ rinha-db-1  | CREATE TABLE
 rinha-db-1  | CREATE INDEX
 rinha-db-1  | 
 rinha-db-1  | 
-rinha-db-1  | waiting for server to shut down....2025-08-19 21:44:18.614 UTC [107] LOG:  received fast shutdown request
-rinha-db-1  | 2025-08-19 21:44:18.614 UTC [107] LOG:  aborting any active transactions
-rinha-db-1  | 2025-08-19 21:44:18.712 UTC [128] FATAL:  canceling authentication due to timeout
-rinha-db-1  | 2025-08-19 21:44:18.812 UTC [107] LOG:  background worker "logical replication launcher" (PID 113) exited with exit code 1
-rinha-db-1  | 2025-08-19 21:44:18.814 UTC [108] LOG:  shutting down
-rinha-db-1  | 2025-08-19 21:44:18.814 UTC [108] LOG:  checkpoint starting: shutdown immediate
-rinha-db-1  | 2025-08-19 21:44:18.915 UTC [108] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.102 s, sync=0.001 s, total=0.102 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A328, redo lsn=0/191A328
-rinha-db-1  | 2025-08-19 21:44:19.015 UTC [107] LOG:  database system is shut down
+rinha-db-1  | waiting for server to shut down....2025-08-21 20:42:39.126 UTC [107] LOG:  received fast shutdown request
+rinha-db-1  | 2025-08-21 20:42:39.126 UTC [107] LOG:  aborting any active transactions
+rinha-db-1  | 2025-08-21 20:42:39.225 UTC [107] LOG:  background worker "logical replication launcher" (PID 113) exited with exit code 1
+rinha-db-1  | 2025-08-21 20:42:39.226 UTC [108] LOG:  shutting down
+rinha-db-1  | 2025-08-21 20:42:39.226 UTC [108] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-08-21 20:42:39.329 UTC [108] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.102 s, sync=0.001 s, total=0.103 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A328, redo lsn=0/191A328
+rinha-db-1  | 2025-08-21 20:42:39.524 UTC [107] LOG:  database system is shut down
 rinha-db-1  |  done
 rinha-db-1  | server stopped
 rinha-db-1  | 
 rinha-db-1  | PostgreSQL init process complete; ready for start up.
 rinha-db-1  | 
-rinha-db-1  | 2025-08-19 21:44:19.221 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-db-1  | 2025-08-19 21:44:19.222 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-rinha-db-1  | 2025-08-19 21:44:19.222 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-rinha-db-1  | 2025-08-19 21:44:19.312 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-db-1  | 2025-08-19 21:44:19.314 UTC [132] LOG:  database system was shut down at 2025-08-19 21:44:18 UTC
-rinha-db-1  | 2025-08-19 21:44:19.318 UTC [1] LOG:  database system is ready to accept connections
-backend-2   | backend-2
+rinha-db-1  | 2025-08-21 20:42:39.737 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-08-21 20:42:39.737 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rinha-db-1  | 2025-08-21 20:42:39.737 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rinha-db-1  | 2025-08-21 20:42:39.825 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-08-21 20:42:39.828 UTC [132] LOG:  database system was shut down at 2025-08-21 20:42:39 UTC
+rinha-db-1  | 2025-08-21 20:42:39.835 UTC [1] LOG:  database system is ready to accept connections
 backend-1   | backend-1
+backend-2   | backend-2
 nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -103,6 +308,10 @@ nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-reso
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
+worker-1    | PoolConfig { RouterPoolSize = 3 }
+worker-1    | PipelineConfig { HandlePaymentParallelism = 20, PersistPaymentsParallelism = 10, GroupSize = 100, Timeout = 10 }
+nginx-1     | 2025/08/21 20:42:40 [crit] 30#30: *1 connect() to unix:/sockets/backend-1.sock failed (2: No such file or directory) while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://unix:/sockets/backend-1.sock:/payments-summary", host: "localhost:9999"
+nginx-1     | 2025/08/21 20:42:40 [crit] 30#30: *1 connect() to unix:/sockets/backend-2.sock failed (2: No such file or directory) while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://unix:/sockets/backend-2.sock:/payments-summary", host: "localhost:9999"
 backend-2   | warn: Microsoft.AspNetCore.Server.Kestrel[0]
 backend-2   |       Overriding address(es) 'http://*:8080'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
 backend-2   | info: Microsoft.Hosting.Lifetime[14]
@@ -113,8 +322,6 @@ backend-2   | info: Microsoft.Hosting.Lifetime[0]
 backend-2   |       Hosting environment: Production
 backend-2   | info: Microsoft.Hosting.Lifetime[0]
 backend-2   |       Content root path: /app
-worker-1    | PoolConfig { RouterPoolSize = 3 }
-worker-1    | PipelineConfig { HandlePaymentParallelism = 20, PersistPaymentsParallelism = 10, GroupSize = 100, Timeout = 10 }
 backend-1   | warn: Microsoft.AspNetCore.Server.Kestrel[0]
 backend-1   |       Overriding address(es) 'http://*:8080'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
 backend-1   | info: Microsoft.Hosting.Lifetime[14]
@@ -125,35 +332,36 @@ backend-1   | info: Microsoft.Hosting.Lifetime[0]
 backend-1   |       Hosting environment: Production
 backend-1   | info: Microsoft.Hosting.Lifetime[0]
 backend-1   |       Content root path: /app
-worker-1    | [INFO][08/19/2025 21:44:45.442Z][Thread 0005][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$d#2016760190] was not delivered. [1] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#2016760190] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:45.442Z][Thread 0005][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$e#199125827] was not delivered. [2] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#199125827] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:50.449Z][Thread 0008][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$d#2016760190] was not delivered. [3] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#2016760190] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:50.449Z][Thread 0008][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$e#199125827] was not delivered. [4] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#199125827] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:55.459Z][Thread 0008][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$d#2016760190] was not delivered. [5] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#2016760190] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:55.459Z][Thread 0008][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$e#199125827] was not delivered. [6] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#199125827] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:44:55.459Z][Thread 0008][akka://Rinha/user/rinha/$f] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$f#1321025646] was not delivered. [7] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$f#1321025646] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:45:00.470Z][Thread 0008][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$d#2016760190] was not delivered. [8] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#2016760190] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:45:00.470Z][Thread 0008][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$e#199125827] was not delivered. [9] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#199125827] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-worker-1    | [INFO][08/19/2025 21:45:00.528Z][Thread 0008][akka://Rinha/user/rinha/$f] Message [HealthUpdate] from [akka://Rinha/user/$a#530276730] to [akka://Rinha/user/rinha/$f#1321025646] was not delivered. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. If this is not an expected behavior then [akka://Rinha/user/rinha/$f#1321025646] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
-rinha-db-1  | 2025-08-19 21:49:19.366 UTC [130] LOG:  checkpoint starting: time
-rinha-db-1  | 2025-08-19 21:49:21.213 UTC [130] LOG:  checkpoint complete: wrote 28 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.847 s, sync=0.001 s, total=1.848 s; sync files=0, longest=0.000 s, average=0.000 s; distance=588 kB, estimate=588 kB; lsn=0/19AEBE8, redo lsn=0/19AD6D8
+nginx-1     | 2025/08/21 20:42:48 [error] 30#30: *4 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://api/payments-summary", host: "localhost:9999"
+worker-1    | [INFO][08/21/2025 20:43:13.668Z][Thread 0005][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$d#140132454] was not delivered. [1] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#140132454] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:18.675Z][Thread 0008][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$d#140132454] was not delivered. [2] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#140132454] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:23.688Z][Thread 0012][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$d#140132454] was not delivered. [3] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#140132454] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:23.688Z][Thread 0012][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$e#784446067] was not delivered. [4] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#784446067] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:23.688Z][Thread 0012][akka://Rinha/user/rinha/$f] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$f#1262032273] was not delivered. [5] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$f#1262032273] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:28.697Z][Thread 0011][akka://Rinha/user/rinha/$d] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$d#140132454] was not delivered. [6] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$d#140132454] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:28.697Z][Thread 0011][akka://Rinha/user/rinha/$e] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$e#784446067] was not delivered. [7] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$e#784446067] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:28.697Z][Thread 0011][akka://Rinha/user/rinha/$f] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$f#1262032273] was not delivered. [8] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$f#1262032273] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:28.697Z][Thread 0011][akka://Rinha/user/rinha/$g] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$g#1800037403] was not delivered. [9] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/rinha/$g#1800037403] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+worker-1    | [INFO][08/21/2025 20:43:28.699Z][Thread 0011][akka://Rinha/user/rinha/$h] Message [HealthUpdate] from [akka://Rinha/user/$a#1221115661] to [akka://Rinha/user/rinha/$h#340153134] was not delivered. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. If this is not an expected behavior then [akka://Rinha/user/rinha/$h#340153134] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: HealthUpdate { Default = ServiceHealth { Failing = False, MinResponseTime = 0 }, Fallback = ServiceHealth { Failing = False, MinResponseTime = 0 } }
+rinha-db-1  | 2025-08-21 20:47:39.927 UTC [130] LOG:  checkpoint starting: time
+rinha-db-1  | 2025-08-21 20:47:44.532 UTC [130] LOG:  checkpoint complete: wrote 54 buffers (0.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=4.605 s, sync=0.001 s, total=4.605 s; sync files=0, longest=0.000 s, average=0.000 s; distance=602 kB, estimate=602 kB; lsn=0/19B3D58, redo lsn=0/19B0C00
 [Knginx-1 exited with code 0
-backend-2   | info: Microsoft.Hosting.Lifetime[0]
-backend-2   |       Application is shutting down...
 backend-1   | info: Microsoft.Hosting.Lifetime[0]
 backend-1   |       Application is shutting down...
+backend-2   | info: Microsoft.Hosting.Lifetime[0]
+backend-2   |       Application is shutting down...
+[Kworker-1 exited with code 0
 [Kbackend-2 exited with code 0
 [Kbackend-1 exited with code 0
-[Kworker-1 exited with code 0
-rinha-db-1  | 2025-08-19 21:49:32.525 UTC [1] LOG:  received fast shutdown request
-rinha-db-1  | 2025-08-19 21:49:32.525 UTC [1] LOG:  aborting any active transactions
-nats-1      | [1] 2025/08/19 21:49:32.528731 [INF] Trapped "terminated" signal
-rinha-db-1  | 2025-08-19 21:49:32.530 UTC [1] LOG:  background worker "logical replication launcher" (PID 135) exited with exit code 1
-nats-1      | [1] 2025/08/19 21:49:32.532267 [INF] Initiating Shutdown...
-nats-1      | [1] 2025/08/19 21:49:32.536076 [INF] Server Exiting..
-rinha-db-1  | 2025-08-19 21:49:32.614 UTC [130] LOG:  shutting down
-rinha-db-1  | 2025-08-19 21:49:32.614 UTC [130] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-08-21 20:48:07.493 UTC [1] LOG:  received fast shutdown request
+nats-1      | [1] 2025/08/21 20:48:07.493338 [INF] Trapped "terminated" signal
+nats-1      | [1] 2025/08/21 20:48:07.493489 [INF] Initiating Shutdown...
+nats-1      | [1] 2025/08/21 20:48:07.493593 [INF] Server Exiting..
+rinha-db-1  | 2025-08-21 20:48:07.494 UTC [1] LOG:  aborting any active transactions
+rinha-db-1  | 2025-08-21 20:48:07.527 UTC [1] LOG:  background worker "logical replication launcher" (PID 135) exited with exit code 1
+rinha-db-1  | 2025-08-21 20:48:07.625 UTC [130] LOG:  shutting down
+rinha-db-1  | 2025-08-21 20:48:07.626 UTC [130] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-08-21 20:48:07.826 UTC [130] LOG:  checkpoint complete: wrote 1660 buffers (10.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.200 s, sync=0.001 s, total=0.201 s; sync files=0, longest=0.000 s, average=0.000 s; distance=69 kB, estimate=548 kB; lsn=0/19C2130, redo lsn=0/19C2130
 [Knats-1 exited with code 0
-rinha-db-1  | 2025-08-19 21:49:32.717 UTC [130] LOG:  checkpoint complete: wrote 1685 buffers (10.3%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.103 s, sync=0.001 s, total=0.103 s; sync files=0, longest=0.000 s, average=0.000 s; distance=28 kB, estimate=532 kB; lsn=0/19B48E8, redo lsn=0/19B48E8
-rinha-db-1  | 2025-08-19 21:49:32.817 UTC [1] LOG:  database system is shut down
+rinha-db-1  | 2025-08-21 20:48:07.930 UTC [1] LOG:  database system is shut down
 log truncated at line 1000

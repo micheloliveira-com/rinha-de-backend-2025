@@ -1,6 +1,23 @@
 
+ redis Pulling 
+ nginx Pulling 
  api-2 Pulling 
+ postgres Pulling 
  api-1 Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ cb1ff4086f82 Waiting 
+ a992fbc61ecc Waiting 
  api-1 Error pull access denied for drope-dev/rinha-backend-node, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+ redis  Interrupted
+ postgres  Interrupted
  api-2  Interrupted
 Error response from daemon: pull access denied for drope-dev/rinha-backend-node, repository does not exist or may require 'docker login': denied: requested access to the resource is denied

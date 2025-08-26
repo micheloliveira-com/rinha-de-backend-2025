@@ -2,70 +2,181 @@
  nginx Pulling 
  payments-api-1 Pulling 
  payments-api-2 Pulling 
- nginx Pulled 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
  9824c27679d3 Already exists 
- 1a283093615e Already exists 
- c0055458ac5d Already exists 
+ 1a283093615e Pulling fs layer 
+ c0055458ac5d Pulling fs layer 
  8e34d40d203a Pulling fs layer 
  4f4fb700ef54 Pulling fs layer 
  ff878a18e878 Pulling fs layer 
+ 1a283093615e Waiting 
+ 4f4fb700ef54 Waiting 
+ c0055458ac5d Waiting 
+ ff878a18e878 Waiting 
+ 8e34d40d203a Waiting 
  9824c27679d3 Already exists 
- 1a283093615e Already exists 
- c0055458ac5d Already exists 
+ 1a283093615e Pulling fs layer 
+ c0055458ac5d Pulling fs layer 
  8e34d40d203a Pulling fs layer 
  4f4fb700ef54 Pulling fs layer 
  ff878a18e878 Pulling fs layer 
+ ff878a18e878 Waiting 
+ c0055458ac5d Waiting 
+ 8e34d40d203a Waiting 
+ 4f4fb700ef54 Waiting 
+ 1a283093615e Waiting 
+ b1badc6e5066 Downloading [>                                                  ]  282.6kB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.45MB/28.23MB
+ a2da0c0f2353 Downloading [==========>                                        ]    9.4MB/44.07MB
+ b1badc6e5066 Downloading [==============================================>    ]   26.3MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ a2da0c0f2353 Downloading [====================>                              ]  17.91MB/44.07MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [===============================>                   ]  27.79MB/44.07MB
+ b1badc6e5066 Extracting [========>                                          ]  5.014MB/28.23MB
+ a2da0c0f2353 Downloading [==========================================>        ]  37.18MB/44.07MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ a2da0c0f2353 Downloading [=============================================>     ]  40.32MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ b1badc6e5066 Extracting [=================================>                 ]  19.17MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ 1a283093615e Downloading [>                                                  ]  11.96kB/1.064MB
+ 1a283093615e Downloading [>                                                  ]  11.96kB/1.064MB
+ 1a283093615e Download complete 
+ 1a283093615e Download complete 
+ 1a283093615e Extracting [=>                                                 ]  32.77kB/1.064MB
+ 1a283093615e Extracting [=>                                                 ]  32.77kB/1.064MB
+ 1a283093615e Extracting [==================================================>]  1.064MB/1.064MB
+ 1a283093615e Extracting [==================================================>]  1.064MB/1.064MB
+ 1a283093615e Extracting [==================================================>]  1.064MB/1.064MB
+ 1a283093615e Extracting [==================================================>]  1.064MB/1.064MB
+ c0055458ac5d Downloading [=================================================> ]     935B/947B
+ c0055458ac5d Downloading [==================================================>]     947B/947B
+ c0055458ac5d Verifying Checksum 
+ c0055458ac5d Download complete 
+ c0055458ac5d Downloading [=================================================> ]     935B/947B
+ c0055458ac5d Downloading [==================================================>]     947B/947B
+ c0055458ac5d Verifying Checksum 
+ c0055458ac5d Download complete 
+ 1a283093615e Pull complete 
+ 1a283093615e Pull complete 
+ 8e34d40d203a Downloading [==================================================>]      95B/95B
+ 8e34d40d203a Downloading [==================================================>]      95B/95B
+ 8e34d40d203a Verifying Checksum 
+ 8e34d40d203a Download complete 
+ 8e34d40d203a Verifying Checksum 
+ 8e34d40d203a Download complete 
+ c0055458ac5d Extracting [==================================================>]     947B/947B
+ c0055458ac5d Extracting [==================================================>]     947B/947B
+ c0055458ac5d Extracting [==================================================>]     947B/947B
+ c0055458ac5d Extracting [==================================================>]     947B/947B
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ c0055458ac5d Pull complete 
+ c0055458ac5d Pull complete 
+ 8e34d40d203a Extracting [==================================================>]      95B/95B
+ 8e34d40d203a Extracting [==================================================>]      95B/95B
+ 8e34d40d203a Extracting [==================================================>]      95B/95B
+ 8e34d40d203a Extracting [==================================================>]      95B/95B
+ 8e34d40d203a Pull complete 
+ 8e34d40d203a Pull complete 
+ b1badc6e5066 Pull complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
  4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
  4f4fb700ef54 Verifying Checksum 
  4f4fb700ef54 Download complete 
- 4f4fb700ef54 Download complete 
- 8e34d40d203a Downloading [==================================================>]      95B/95B
- 8e34d40d203a Verifying Checksum 
- 8e34d40d203a Download complete 
- 8e34d40d203a Extracting [==================================================>]      95B/95B
- 8e34d40d203a Downloading [==================================================>]      95B/95B
- 8e34d40d203a Verifying Checksum 
- 8e34d40d203a Download complete 
- 8e34d40d203a Extracting [==================================================>]      95B/95B
- 8e34d40d203a Extracting [==================================================>]      95B/95B
- 8e34d40d203a Extracting [==================================================>]      95B/95B
- 8e34d40d203a Pull complete 
- 8e34d40d203a Pull complete 
  4f4fb700ef54 Extracting [==================================================>]      32B/32B
  4f4fb700ef54 Extracting [==================================================>]      32B/32B
  4f4fb700ef54 Extracting [==================================================>]      32B/32B
  4f4fb700ef54 Extracting [==================================================>]      32B/32B
  4f4fb700ef54 Pull complete 
  4f4fb700ef54 Pull complete 
- ff878a18e878 Downloading [>                                                  ]  222.2kB/21.55MB
- ff878a18e878 Downloading [>                                                  ]  222.2kB/21.55MB
- ff878a18e878 Downloading [=========================================>         ]  17.84MB/21.55MB
- ff878a18e878 Downloading [=========================================>         ]  17.84MB/21.55MB
+ a2da0c0f2353 Extracting [================>                                  ]  14.22MB/44.07MB
+ ff878a18e878 Downloading [>                                                  ]  216.8kB/21.55MB
+ ff878a18e878 Downloading [>                                                  ]  216.8kB/21.55MB
  ff878a18e878 Verifying Checksum 
  ff878a18e878 Download complete 
+ ff878a18e878 Verifying Checksum 
  ff878a18e878 Download complete 
+ a2da0c0f2353 Extracting [=========================>                         ]  22.48MB/44.07MB
  ff878a18e878 Extracting [>                                                  ]  229.4kB/21.55MB
  ff878a18e878 Extracting [>                                                  ]  229.4kB/21.55MB
- ff878a18e878 Extracting [======================>                            ]  9.634MB/21.55MB
- ff878a18e878 Extracting [======================>                            ]  9.634MB/21.55MB
- ff878a18e878 Extracting [=============================================>     ]  19.73MB/21.55MB
- ff878a18e878 Extracting [=============================================>     ]  19.73MB/21.55MB
+ a2da0c0f2353 Extracting [=================================>                 ]  29.36MB/44.07MB
+ ff878a18e878 Extracting [===================>                               ]  8.487MB/21.55MB
+ ff878a18e878 Extracting [===================>                               ]  8.487MB/21.55MB
+ ff878a18e878 Extracting [===========================================>       ]  18.81MB/21.55MB
+ ff878a18e878 Extracting [===========================================>       ]  18.81MB/21.55MB
+ a2da0c0f2353 Extracting [========================================>          ]  35.78MB/44.07MB
  ff878a18e878 Extracting [==================================================>]  21.55MB/21.55MB
  ff878a18e878 Extracting [==================================================>]  21.55MB/21.55MB
  ff878a18e878 Extracting [==================================================>]  21.55MB/21.55MB
  ff878a18e878 Extracting [==================================================>]  21.55MB/21.55MB
+ a2da0c0f2353 Extracting [============================================>      ]  39.45MB/44.07MB
  ff878a18e878 Pull complete 
  ff878a18e878 Pull complete 
- payments-api-1 Pulled 
  payments-api-2 Pulled 
+ payments-api-1 Pulled 
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
  Network backend  Creating
  Network backend  Created
- Container load-balancer  Creating
  Container payments-db  Creating
+ Container load-balancer  Creating
  Container load-balancer  Created
  Container payments-db  Created
- Container payments-api-1  Creating
  Container payments-api-2  Creating
+ Container payments-api-1  Creating
  Container payments-api-2  Created
  Container payments-api-1  Created
 Attaching to load-balancer, payments-api-1, payments-api-2, payments-db
@@ -81,20 +192,20 @@ payments-db  |
 payments-db  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
 payments-db  | creating subdirectories ... ok
 payments-db  | selecting dynamic shared memory implementation ... posix
+payments-db  | selecting default "max_connections" ... 100
 load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-payments-db    | selecting default "max_connections" ... 100
 load-balancer  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
 payments-db    | selecting default "shared_buffers" ... 128MB
 load-balancer  | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
 load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
 payments-db    | selecting default time zone ... UTC
 payments-db    | creating configuration files ... ok
-load-balancer  | 2025/08/18 19:17:31 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
+load-balancer  | 2025/08/21 08:02:08 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 payments-db    | running bootstrap script ... ok
 [Kload-balancer exited with code 1
@@ -106,21 +217,10 @@ load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-r
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
-load-balancer  | 2025/08/18 19:17:32 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+load-balancer  | 2025/08/21 08:02:08 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
-[Kload-balancer exited with code 1
-load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
-load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-load-balancer  | 10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
-load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 payments-db    | sh: locale: not found
-payments-db    | 2025-08-18 19:17:32.552 UTC [36] WARNING:  no usable system locales were found
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
-load-balancer  | 2025/08/18 19:17:32 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
-load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+payments-db    | 2025-08-21 08:02:09.178 UTC [35] WARNING:  no usable system locales were found
 [Kload-balancer exited with code 1
 load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
@@ -130,10 +230,16 @@ load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-r
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
-load-balancer  | 2025/08/18 19:17:33 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+load-balancer  | 2025/08/21 08:02:09 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 [Kload-balancer exited with code 1
 payments-db    | performing post-bootstrap initialization ... ok
+load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+load-balancer  | 10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
+load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 payments-db    | syncing data to disk ... ok
 payments-db    | 
 payments-db    | 
@@ -143,12 +249,17 @@ payments-db    |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 payments-db    | 
 payments-db    | initdb: warning: enabling "trust" authentication for local connections
 payments-db    | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
-payments-db    | waiting for server to start....2025-08-18 19:17:34.060 UTC [42] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-payments-db    | 2025-08-18 19:17:34.060 UTC [42] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-payments-db    | 2025-08-18 19:17:34.062 UTC [45] LOG:  database system was shut down at 2025-08-18 19:17:33 UTC
-payments-db    | 2025-08-18 19:17:34.067 UTC [42] LOG:  database system is ready to accept connections
+load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
+load-balancer  | 2025/08/21 08:02:10 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+payments-db    | waiting for server to start....2025-08-21 08:02:10.568 UTC [41] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+payments-db    | 2025-08-21 08:02:10.568 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+payments-db    | 2025-08-21 08:02:10.570 UTC [44] LOG:  database system was shut down at 2025-08-21 08:02:10 UTC
+payments-db    | 2025-08-21 08:02:10.574 UTC [41] LOG:  database system is ready to accept connections
 payments-db    |  done
 payments-db    | server started
+[Kload-balancer exited with code 1
 payments-db    | CREATE DATABASE
 payments-db    | 
 payments-db    | 
@@ -157,47 +268,47 @@ payments-db    | CREATE TABLE
 payments-db    | CREATE INDEX
 payments-db    | 
 payments-db    | 
-payments-db    | waiting for server to shut down...2025-08-18 19:17:34.356 UTC [42] LOG:  received fast shutdown request
-payments-db    | 2025-08-18 19:17:34.356 UTC [42] LOG:  aborting any active transactions
-payments-db    | .2025-08-18 19:17:34.360 UTC [42] LOG:  background worker "logical replication launcher" (PID 48) exited with exit code 1
-payments-db    | 2025-08-18 19:17:34.362 UTC [43] LOG:  shutting down
-payments-db    | 2025-08-18 19:17:34.362 UTC [43] LOG:  checkpoint starting: shutdown immediate
-payments-db    | 2025-08-18 19:17:34.445 UTC [43] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.083 s, sync=0.001 s, total=0.084 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4269 kB, estimate=4269 kB; lsn=0/1918708, redo lsn=0/1918708
-payments-db    | 2025-08-18 19:17:34.458 UTC [42] LOG:  database system is shut down
+payments-db    | waiting for server to shut down....2025-08-21 08:02:10.797 UTC [41] LOG:  received fast shutdown request
+payments-db    | 2025-08-21 08:02:10.797 UTC [41] LOG:  aborting any active transactions
+payments-db    | 2025-08-21 08:02:10.866 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+payments-db    | 2025-08-21 08:02:10.867 UTC [42] LOG:  shutting down
+payments-db    | 2025-08-21 08:02:10.867 UTC [42] LOG:  checkpoint starting: shutdown immediate
+payments-db    | 2025-08-21 08:02:10.877 UTC [42] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.010 s, sync=0.001 s, total=0.010 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4269 kB, estimate=4269 kB; lsn=0/1918708, redo lsn=0/1918708
+payments-db    | 2025-08-21 08:02:10.889 UTC [41] LOG:  database system is shut down
 payments-db    |  done
 payments-db    | server stopped
 payments-db    | 
 payments-db    | PostgreSQL init process complete; ready for start up.
 payments-db    | 
-payments-db    | 2025-08-18 19:17:34.596 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-payments-db    | 2025-08-18 19:17:34.596 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-payments-db    | 2025-08-18 19:17:34.597 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-payments-db    | 2025-08-18 19:17:34.597 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-payments-db    | 2025-08-18 19:17:34.600 UTC [60] LOG:  database system was shut down at 2025-08-18 19:17:34 UTC
+payments-db    | 2025-08-21 08:02:10.986 UTC [1] LOG:  starting PostgreSQL 17.6 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+payments-db    | 2025-08-21 08:02:10.986 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+payments-db    | 2025-08-21 08:02:10.986 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+payments-db    | 2025-08-21 08:02:10.986 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+payments-db    | 2025-08-21 08:02:10.988 UTC [59] LOG:  database system was shut down at 2025-08-21 08:02:10 UTC
+payments-db    | 2025-08-21 08:02:10.992 UTC [1] LOG:  database system is ready to accept connections
 load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
 load-balancer  | 10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
 load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-payments-db    | 2025-08-18 19:17:34.649 UTC [1] LOG:  database system is ready to accept connections
 load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
-load-balancer  | 2025/08/18 19:17:34 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
+load-balancer  | 2025/08/21 08:02:11 [emerg] 1#1: host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 load-balancer  | nginx: [emerg] host not found in upstream "payments-api-1:8080" in /etc/nginx/nginx.conf:11
 [Kload-balancer exited with code 1
-load-balancer  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
-load-balancer  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-load-balancer  | 10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
-load-balancer  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-load-balancer  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-load-balancer  | /docker-entrypoint.sh: Configuration complete; ready for start up
 payments-api-2  | warn: Microsoft.AspNetCore.Hosting.Diagnostics[15]
 payments-api-2  |       Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://+:8080'.
 payments-api-1  | warn: Microsoft.AspNetCore.Hosting.Diagnostics[15]
 payments-api-1  |       Overriding HTTP_PORTS '8080' and HTTPS_PORTS ''. Binding to values defined by URLS instead 'http://+:8080'.
+load-balancer   | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+load-balancer   | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+load-balancer   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+load-balancer   | 10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
+load-balancer   | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+load-balancer   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+load-balancer   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+load-balancer   | /docker-entrypoint.sh: Configuration complete; ready for start up
 payments-api-2  | warn: Payments.Processors.MainPaymentProcessor[1010]
 payments-api-2  |       Erro ao processar o pagamento. HTTP InternalServerError
 payments-api-2  | warn: Payments.Processors.MainPaymentProcessor[1010]
@@ -358,8 +469,140 @@ payments-api-1  | warn: Payments.Processors.MainPaymentProcessor[1010]
 payments-api-1  |       Erro ao processar o pagamento. HTTP InternalServerError
 payments-api-1  | warn: Payments.Processors.MainPaymentProcessor[1010]
 payments-api-1  |       Erro ao processar o pagamento. HTTP InternalServerError
+payments-api-2  | warn: Payments.Workers.PaymentProcessorWorker[1002]
+payments-api-2  |       Falha ao processar pagamento 3c6b7431-dc36-4359-ab76-2784b3c6a2eb no Main, tentando fallback...
+payments-api-2  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
+payments-api-2  |        ---> System.TimeoutException: The operation was canceled.
+payments-api-2  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+payments-api-2  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+payments-api-2  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
+payments-api-2  |          at System.Net.Http.HttpConnection.<<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0>d.MoveNext() + 0x1d4
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1681
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
+payments-api-2  | warn: Payments.Workers.PaymentProcessorWorker[1002]
+payments-api-2  |       Falha ao processar pagamento 7fb46382-83c1-4918-aa5e-20378146afd7 no Main, tentando fallback...
+payments-api-2  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
+payments-api-2  |        ---> System.TimeoutException: The operation was canceled.
+payments-api-2  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+payments-api-2  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+payments-api-2  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
+payments-api-2  |          at System.Net.Http.HttpConnection.<<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0>d.MoveNext() + 0x1d4
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1681
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
+payments-api-2  | warn: Payments.Workers.PaymentProcessorWorker[1002]
+payments-api-2  |       Falha ao processar pagamento 50370e3d-d1dc-41ed-bc8f-3e2b797d15fd no Main, tentando fallback...
+payments-api-2  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
+payments-api-2  |        ---> System.TimeoutException: The operation was canceled.
+payments-api-2  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+payments-api-2  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+payments-api-2  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
+payments-api-2  |          at System.Net.Http.HttpConnection.<<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0>d.MoveNext() + 0x1d4
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1681
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
+payments-api-2  | warn: Payments.Workers.PaymentProcessorWorker[1002]
+payments-api-2  |       Falha ao processar pagamento 33dc70c9-7bad-4837-a93d-e462542b9032 no Main, tentando fallback...
+payments-api-2  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
+payments-api-2  |        ---> System.TimeoutException: The operation was canceled.
+payments-api-2  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+payments-api-2  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+payments-api-2  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
+payments-api-2  |          at System.Net.Http.HttpConnection.<<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0>d.MoveNext() + 0x1d4
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1681
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 8d27349c-7a37-431e-834b-d0ffa8ca1c62 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento dad362f0-3fe5-4f10-a09e-422263a5bb53 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -390,7 +633,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 2c7decbc-05df-4e62-9c3c-66ce3ae8f032 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento fff5b148-7034-45de-8d45-925531a1ce17 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -421,7 +664,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento c4aafe0f-49c4-438d-942c-132e804aa307 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 5953fc92-8c5e-4d06-8e8c-17594c3ef35b no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -452,7 +695,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento a7f84e51-a3fa-4e20-ae52-103bba4d436e no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 6d97d112-4cbc-4c32-a50c-c084f305f9d4 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -483,7 +726,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento f9199ef6-722a-4408-9baf-7a2dcd8222c3 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento ac0882be-7ac1-4647-9a1a-8d7e973b1146 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -514,7 +757,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 3364219c-602e-4d2c-828a-76ffa53b1ecd no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 103e8b15-7baf-4914-9e24-ff4d61c3488f no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -545,7 +788,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 84dbd912-d79d-4e71-89cb-0ba1a270f4fb no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 2f5288b4-b2c8-4380-a177-a7072a8c42fc no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -576,7 +819,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento d5a4ec47-bd49-47bd-a2dd-c2b6190190a7 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 42480253-cbef-4172-ab1a-661665346ea2 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -607,7 +850,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 223462de-5916-411d-b260-ec6e096c9909 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 4699bb9b-9315-4564-9179-d38ad5e61b60 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -638,7 +881,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 0e53ef26-6196-49e6-b1cf-af7455b030fe no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento c1a72082-9cb8-48df-ac0d-9cc61282ccb4 no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -669,7 +912,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 0a3a2d73-bdc8-44ba-acb5-2ab11c296d68 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 965e84cb-d41e-41b9-9dd4-613d5fdb093f no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -700,7 +943,7 @@ payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessP
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
 payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento fa7b7e41-1ea0-4859-81ee-f32d50e58088 no Main, tentando fallback...
+payments-api-1  |       Falha ao processar pagamento 7e5ee7f0-ed5e-4b2c-8da5-a08746e7480d no Main, tentando fallback...
 payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
 payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
 payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
@@ -730,272 +973,29 @@ payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
 payments-api-1  |       --- End of stack trace from previous location ---
 payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento caaefbc4-c7b8-4cc9-92ea-344a287a338c no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 55095e3b-ea17-40a9-81a2-bebc684af676 no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 5930ab25-f689-4df4-bc09-4fcd27b61b8e no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 98d6c455-e8aa-46e2-9176-e91c221833bb no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 53ad57af-febf-44f6-af33-eabd4717d59b no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento f67caf9c-b534-4fed-9e8a-027658925fd8 no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 628dc4c8-1689-43ef-b6dd-81916f05737f no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 5d8525c5-e9e6-4a5e-8117-e5b76314b266 no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpClient.HandleFailure(Exception, Boolean, HttpResponseMessage, CancellationTokenSource, CancellationToken, CancellationTokenSource) + 0x328
-payments-api-1  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0x394
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Processors.MainPaymentProcessor.<ProcessPaymentAsync>d__5.MoveNext() + 0x144
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Payments.Workers.PaymentProcessorWorker.<ProcessPaymentAsync>d__7.MoveNext() + 0x25e
-payments-api-1  | warn: Payments.Workers.PaymentProcessorWorker[1002]
-payments-api-1  |       Falha ao processar pagamento 51d41ebb-34bb-43f9-8470-f958bd6b5ea8 no Main, tentando fallback...
-payments-api-1  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
-payments-api-1  |        ---> System.TimeoutException: The operation was canceled.
-payments-api-1  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
-payments-api-1  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
-payments-api-1  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
-payments-api-1  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1660
-payments-api-1  |          --- End of inner exception stack trace ---
-payments-api-1  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
-payments-api-1  |       --- End of stack trace from previous location ---
-payments-api-1  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
-payments-api-1  |       --- End of stack trace from previous location ---
+payments-api-2  | warn: Payments.Workers.PaymentProcessorWorker[1002]
+payments-api-2  |       Falha ao processar pagamento a96d7c97-5b6b-44dc-bc31-99a93cf227e3 no Main, tentando fallback...
+payments-api-2  |       System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 1.5 seconds elapsing.
+payments-api-2  |        ---> System.TimeoutException: The operation was canceled.
+payments-api-2  |        ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+payments-api-2  |        ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+payments-api-2  |        ---> System.Net.Sockets.SocketException (125): Operation canceled
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError, CancellationToken) + 0x3e
+payments-api-2  |          at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16) + 0x62
+payments-api-2  |          at System.Net.Http.HttpConnection.<<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|39_0>d.MoveNext() + 0x1d4
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x1681
+payments-api-2  |          --- End of inner exception stack trace ---
+payments-api-2  |          at System.Net.Http.HttpConnection.<SendAsync>d__56.MoveNext() + 0x2094
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpConnectionPool.<SendWithVersionDetectionAndRetryAsync>d__52.MoveNext() + 0x36c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.RedirectHandler.<SendAsync>d__4.MoveNext() + 0x1e8
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0xf0
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<<SendCoreAsync>g__Core|4_0>d.MoveNext() + 0x13c
+payments-api-2  |       --- End of stack trace from previous location ---
+payments-api-2  |          at System.Net.Http.HttpClient.<<SendAsync>g__Core|83_0>d.MoveNext() + 0xa0
 log truncated at line 1000

@@ -1,82 +1,350 @@
 
+ payment-api-02 Pulling 
+ redis Pulling 
+ payment-api-01 Pulling 
+ nginx Pulling 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ 13fcfbc94648 Waiting 
+ 9824c27679d3 Already exists 
+ 9880d81ff87a Pulling fs layer 
+ 168694ef5d62 Pulling fs layer 
+ f8eab6d4856e Pulling fs layer 
+ 1f79dac8d2d4 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 61cfb50eeff3 Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 168694ef5d62 Waiting 
+ 61cfb50eeff3 Waiting 
+ f8eab6d4856e Waiting 
+ 1f79dac8d2d4 Waiting 
+ 9880d81ff87a Waiting 
+ 9824c27679d3 Already exists 
+ fc21a1d387f5 Downloading [>                                                  ]  41.11kB/3.985MB
+ 3126b83620d1 Pulling fs layer 
+ 3896391fbd35 Pulling fs layer 
+ 0e254d606f0d Pulling fs layer 
+ 1475c570d605 Pulling fs layer 
+ 0a6825db6bee Pulling fs layer 
+ 6b621c23ada2 Pulling fs layer 
+ 162a8529d7e1 Pulling fs layer 
+ 3126b83620d1 Waiting 
+ 3896391fbd35 Waiting 
+ 1475c570d605 Waiting 
+ 0a6825db6bee Waiting 
+ 6b621c23ada2 Waiting 
+ 162a8529d7e1 Waiting 
+ 0e254d606f0d Waiting 
+ 4abcf2066143 Downloading [>                                                  ]  34.16kB/3.409MB
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ 4abcf2066143 Verifying Checksum 
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ fc21a1d387f5 Extracting [=================================================> ]  3.932MB/3.985MB
+ 9824c27679d3 Already exists 
+ 3126b83620d1 Pulling fs layer 
+ 3896391fbd35 Pulling fs layer 
+ 0e254d606f0d Pulling fs layer 
+ 1475c570d605 Pulling fs layer 
+ 0a6825db6bee Pulling fs layer 
+ 6b621c23ada2 Pulling fs layer 
+ 162a8529d7e1 Pulling fs layer 
+ 162a8529d7e1 Waiting 
+ 3126b83620d1 Waiting 
+ 3896391fbd35 Waiting 
+ 0e254d606f0d Waiting 
+ 1475c570d605 Waiting 
+ 0a6825db6bee Waiting 
+ 6b621c23ada2 Waiting 
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Pull complete 
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Download complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Verifying Checksum 
+ d4bca490e609 Download complete 
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 5406ed7b06d9 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Verifying Checksum 
+ 5406ed7b06d9 Download complete 
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 9880d81ff87a Downloading [==================================================>]     951B/951B
+ 9880d81ff87a Download complete 
+ 9880d81ff87a Extracting [==================================================>]     951B/951B
+ 9880d81ff87a Extracting [==================================================>]     951B/951B
+ 0d0c16747d2c Downloading [>                                                  ]  130.7kB/13.04MB
+ 9880d81ff87a Pull complete 
+ 0d0c16747d2c Downloading [=======================>                           ]  6.042MB/13.04MB
+ 0d0c16747d2c Downloading [===================================>               ]  9.241MB/13.04MB
+ 0d0c16747d2c Verifying Checksum 
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ 0d0c16747d2c Extracting [==========>                                        ]  2.621MB/13.04MB
+ 168694ef5d62 Downloading [>                                                  ]  2.416kB/197kB
+ 0d0c16747d2c Extracting [========================================>          ]  10.49MB/13.04MB
+ 168694ef5d62 Downloading [==================================================>]    197kB/197kB
+ 168694ef5d62 Verifying Checksum 
+ 168694ef5d62 Download complete 
+ 168694ef5d62 Extracting [========>                                          ]  32.77kB/197kB
+ f8eab6d4856e Downloading [>                                                  ]  250.5kB/23.47MB
+ 168694ef5d62 Extracting [==================================================>]    197kB/197kB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ f8eab6d4856e Downloading [=============>                                     ]  6.337MB/23.47MB
+ 168694ef5d62 Pull complete 
+ 0d0c16747d2c Pull complete 
+ nginx Pulled 
+ f8eab6d4856e Downloading [====================>                              ]  9.503MB/23.47MB
+ 1f79dac8d2d4 Downloading [==================================================>]      99B/99B
+ 1f79dac8d2d4 Verifying Checksum 
+ 1f79dac8d2d4 Download complete 
+ f8eab6d4856e Downloading [===============================>                   ]  14.85MB/23.47MB
+ f8eab6d4856e Downloading [=============================================>     ]  21.46MB/23.47MB
+ f8eab6d4856e Verifying Checksum 
+ f8eab6d4856e Download complete 
+ f8eab6d4856e Extracting [>                                                  ]  262.1kB/23.47MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f8eab6d4856e Extracting [=================>                                 ]  8.126MB/23.47MB
+ f8eab6d4856e Extracting [=================================>                 ]  15.73MB/23.47MB
+ f8eab6d4856e Extracting [==================================================>]  23.47MB/23.47MB
+ f8eab6d4856e Pull complete 
+ 1f79dac8d2d4 Extracting [==================================================>]      99B/99B
+ 1f79dac8d2d4 Extracting [==================================================>]      99B/99B
+ 1f79dac8d2d4 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 61cfb50eeff3 Downloading [========================>                          ]  1.049kB/2.102kB
+ 61cfb50eeff3 Downloading [==================================================>]  2.102kB/2.102kB
+ 61cfb50eeff3 Verifying Checksum 
+ 61cfb50eeff3 Download complete 
+ 4f4fb700ef54 Pull complete 
+ 61cfb50eeff3 Extracting [==================================================>]  2.102kB/2.102kB
+ 61cfb50eeff3 Extracting [==================================================>]  2.102kB/2.102kB
+ 3126b83620d1 Downloading [>                                                  ]  526.8kB/53.42MB
+ 3126b83620d1 Downloading [>                                                  ]  526.8kB/53.42MB
+ 3896391fbd35 Downloading [>                                                  ]  13.25kB/1.261MB
+ 3896391fbd35 Downloading [>                                                  ]  13.25kB/1.261MB
+ 3896391fbd35 Download complete 
+ 3896391fbd35 Verifying Checksum 
+ 3896391fbd35 Download complete 
+ 61cfb50eeff3 Pull complete 
+ redis Pulled 
+ 3126b83620d1 Downloading [=====>                                             ]  5.847MB/53.42MB
+ 3126b83620d1 Downloading [=====>                                             ]  5.847MB/53.42MB
+ 3126b83620d1 Downloading [============>                                      ]  13.35MB/53.42MB
+ 3126b83620d1 Downloading [============>                                      ]  13.35MB/53.42MB
+ 3126b83620d1 Downloading [===============>                                   ]  17.07MB/53.42MB
+ 3126b83620d1 Downloading [===============>                                   ]  17.07MB/53.42MB
+ 3126b83620d1 Downloading [======================>                            ]  24.53MB/53.42MB
+ 3126b83620d1 Downloading [======================>                            ]  24.53MB/53.42MB
+ 1475c570d605 Verifying Checksum 
+ 1475c570d605 Downloading [==================================================>]      91B/91B
+ 1475c570d605 Download complete 
+ 1475c570d605 Verifying Checksum 
+ 1475c570d605 Download complete 
+ 3126b83620d1 Downloading [=========================>                         ]  27.73MB/53.42MB
+ 3126b83620d1 Downloading [=========================>                         ]  27.73MB/53.42MB
+ 3126b83620d1 Downloading [===============================>                   ]   33.6MB/53.42MB
+ 3126b83620d1 Downloading [===============================>                   ]   33.6MB/53.42MB
+ 3126b83620d1 Downloading [====================================>              ]  38.93MB/53.42MB
+ 3126b83620d1 Downloading [====================================>              ]  38.93MB/53.42MB
+ 0e254d606f0d Download complete 
+ 0e254d606f0d Download complete 
+ 0a6825db6bee Downloading [====>                                              ]     934B/10.69kB
+ 0a6825db6bee Downloading [====>                                              ]     934B/10.69kB
+ 0a6825db6bee Downloading [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Verifying Checksum 
+ 0a6825db6bee Downloading [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Verifying Checksum 
+ 0a6825db6bee Download complete 
+ 0a6825db6bee Download complete 
+ 3126b83620d1 Downloading [===========================================>       ]  46.43MB/53.42MB
+ 3126b83620d1 Downloading [===========================================>       ]  46.43MB/53.42MB
+ 3126b83620d1 Verifying Checksum 
+ 3126b83620d1 Download complete 
+ 3126b83620d1 Download complete 
+ 3126b83620d1 Extracting [>                                                  ]  557.1kB/53.42MB
+ 3126b83620d1 Extracting [>                                                  ]  557.1kB/53.42MB
+ 3126b83620d1 Extracting [=======>                                           ]  8.356MB/53.42MB
+ 3126b83620d1 Extracting [=======>                                           ]  8.356MB/53.42MB
+ 3126b83620d1 Extracting [===============>                                   ]  16.71MB/53.42MB
+ 3126b83620d1 Extracting [===============>                                   ]  16.71MB/53.42MB
+ 162a8529d7e1 Downloading [>                                                  ]  16.49kB/1.622MB
+ 162a8529d7e1 Downloading [>                                                  ]  16.49kB/1.622MB
+ 3126b83620d1 Extracting [======================>                            ]  24.51MB/53.42MB
+ 3126b83620d1 Extracting [======================>                            ]  24.51MB/53.42MB
+ 162a8529d7e1 Download complete 
+ 162a8529d7e1 Download complete 
+ 3126b83620d1 Extracting [==============================>                    ]  32.87MB/53.42MB
+ 3126b83620d1 Extracting [==============================>                    ]  32.87MB/53.42MB
+ 3126b83620d1 Extracting [=======================================>           ]  42.34MB/53.42MB
+ 3126b83620d1 Extracting [=======================================>           ]  42.34MB/53.42MB
+ 6b621c23ada2 Downloading [========>                                          ]  1.009kB/6.269kB
+ 6b621c23ada2 Downloading [========>                                          ]  1.009kB/6.269kB
+ 6b621c23ada2 Download complete 
+ 6b621c23ada2 Download complete 
+ 3126b83620d1 Extracting [==============================================>    ]  49.58MB/53.42MB
+ 3126b83620d1 Extracting [==============================================>    ]  49.58MB/53.42MB
+ 3126b83620d1 Extracting [===============================================>   ]  50.69MB/53.42MB
+ 3126b83620d1 Extracting [===============================================>   ]  50.69MB/53.42MB
+ 3126b83620d1 Extracting [===============================================>   ]  51.25MB/53.42MB
+ 3126b83620d1 Extracting [===============================================>   ]  51.25MB/53.42MB
+ 3126b83620d1 Extracting [================================================>  ]  51.81MB/53.42MB
+ 3126b83620d1 Extracting [================================================>  ]  51.81MB/53.42MB
+ 3126b83620d1 Extracting [=================================================> ]  52.92MB/53.42MB
+ 3126b83620d1 Extracting [=================================================> ]  52.92MB/53.42MB
+ 3126b83620d1 Extracting [==================================================>]  53.42MB/53.42MB
+ 3126b83620d1 Extracting [==================================================>]  53.42MB/53.42MB
+ 3126b83620d1 Pull complete 
+ 3126b83620d1 Pull complete 
+ 3896391fbd35 Extracting [=>                                                 ]  32.77kB/1.261MB
+ 3896391fbd35 Extracting [=>                                                 ]  32.77kB/1.261MB
+ 3896391fbd35 Extracting [==================================================>]  1.261MB/1.261MB
+ 3896391fbd35 Extracting [==================================================>]  1.261MB/1.261MB
+ 3896391fbd35 Extracting [==================================================>]  1.261MB/1.261MB
+ 3896391fbd35 Extracting [==================================================>]  1.261MB/1.261MB
+ 3896391fbd35 Pull complete 
+ 3896391fbd35 Pull complete 
+ 0e254d606f0d Extracting [==================================================>]     447B/447B
+ 0e254d606f0d Extracting [==================================================>]     447B/447B
+ 0e254d606f0d Extracting [==================================================>]     447B/447B
+ 0e254d606f0d Extracting [==================================================>]     447B/447B
+ 0e254d606f0d Pull complete 
+ 0e254d606f0d Pull complete 
+ 1475c570d605 Extracting [==================================================>]      91B/91B
+ 1475c570d605 Extracting [==================================================>]      91B/91B
+ 1475c570d605 Extracting [==================================================>]      91B/91B
+ 1475c570d605 Extracting [==================================================>]      91B/91B
+ 1475c570d605 Pull complete 
+ 1475c570d605 Pull complete 
+ 0a6825db6bee Extracting [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Extracting [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Extracting [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Extracting [==================================================>]  10.69kB/10.69kB
+ 0a6825db6bee Pull complete 
+ 0a6825db6bee Pull complete 
+ 6b621c23ada2 Extracting [==================================================>]  6.269kB/6.269kB
+ 6b621c23ada2 Extracting [==================================================>]  6.269kB/6.269kB
+ 6b621c23ada2 Extracting [==================================================>]  6.269kB/6.269kB
+ 6b621c23ada2 Extracting [==================================================>]  6.269kB/6.269kB
+ 6b621c23ada2 Pull complete 
+ 6b621c23ada2 Pull complete 
+ 162a8529d7e1 Extracting [=>                                                 ]  32.77kB/1.622MB
+ 162a8529d7e1 Extracting [=>                                                 ]  32.77kB/1.622MB
+ 162a8529d7e1 Extracting [====================>                              ]  655.4kB/1.622MB
+ 162a8529d7e1 Extracting [====================>                              ]  655.4kB/1.622MB
+ 162a8529d7e1 Extracting [===============================================>   ]   1.54MB/1.622MB
+ 162a8529d7e1 Extracting [===============================================>   ]   1.54MB/1.622MB
+ 162a8529d7e1 Extracting [==================================================>]  1.622MB/1.622MB
+ 162a8529d7e1 Extracting [==================================================>]  1.622MB/1.622MB
+ 162a8529d7e1 Pull complete 
+ 162a8529d7e1 Pull complete 
+ payment-api-02 Pulled 
+ payment-api-01 Pulled 
  Network mauricio-cantu-4_rinha-backend  Creating
  Network mauricio-cantu-4_rinha-backend  Created
  Container redis  Creating
  Container redis  Created
- Container payment-api-01  Creating
  Container payment-api-02  Creating
- Container payment-api-01  Created
+ Container payment-api-01  Creating
  Container payment-api-02  Created
+ Container payment-api-01  Created
  Container nginx  Creating
  Container nginx  Created
 Attaching to nginx, payment-api-01, payment-api-02, redis
 redis  | Starting Redis Server
-redis  | 1:C 19 Aug 2025 08:47:55.894 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis  | 1:C 19 Aug 2025 08:47:55.894 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis  | 1:C 19 Aug 2025 08:47:55.894 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-redis  | 1:C 19 Aug 2025 08:47:55.894 * Configuration loaded
-redis  | 1:M 19 Aug 2025 08:47:55.894 * monotonic clock: POSIX clock_gettime
-redis  | 1:M 19 Aug 2025 08:47:55.895 * Running mode=standalone, port=6379.
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ bf-error-rate       :      0.01 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ bf-initial-size     :       100 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ bf-expansion-factor :         2 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ cf-bucket-size      :         2 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ cf-initial-size     :      1024 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ cf-max-iterations   :        20 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ cf-expansion-factor :         1 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> 	{ cf-max-expansions   :        32 }
-redis  | 1:M 19 Aug 2025 08:47:55.896 * <bf> ]
-redis  | 1:M 19 Aug 2025 08:47:55.896 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> Low level api version 1 initialized successfully
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> Initialized thread pools!
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> Disabled workers threadpool of size 0
-redis  | 1:M 19 Aug 2025 08:47:55.902 * <search> Subscribe to config changes
-redis  | 1:M 19 Aug 2025 08:47:55.989 * <search> Enabled role change notification
-redis  | 1:M 19 Aug 2025 08:47:55.989 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-redis  | 1:M 19 Aug 2025 08:47:55.989 * <search> Register write commands
-redis  | 1:M 19 Aug 2025 08:47:55.989 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-compaction-policy   :              }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-num-threads         :            3 }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-retention-policy    :            0 }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-duplicate-policy    :        block }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-encoding            :   compressed }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> ]
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> Detected redis oss
-redis  | 1:M 19 Aug 2025 08:47:55.991 * <timeseries> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 08:47:55.991 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-redis  | 1:M 19 Aug 2025 08:47:55.994 * <ReJSON> Created new data type 'ReJSON-RL'
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Exported RedisJSON_V1 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Exported RedisJSON_V2 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Exported RedisJSON_V3 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Exported RedisJSON_V4 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Exported RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <ReJSON> Initialized shared string cache, thread safe: false.
-redis  | 1:M 19 Aug 2025 08:47:55.995 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-redis  | 1:M 19 Aug 2025 08:47:55.995 * <search> Acquired RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 08:47:55.995 * Server initialized
-redis  | 1:M 19 Aug 2025 08:47:55.995 * Ready to accept connections tcp
-nginx  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
-nginx  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
-nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-nginx  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
-nginx  | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
-nginx  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
-nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-nginx  | /docker-entrypoint.sh: Configuration complete; ready for start up
+redis  | 1:C 21 Aug 2025 16:37:12.336 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 16:37:12.336 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 16:37:12.336 * Redis version=8.2.1, bits=64, commit=00000000, modified=1, pid=1, just started
+redis  | 1:C 21 Aug 2025 16:37:12.336 * Configuration loaded
+redis  | 1:M 21 Aug 2025 16:37:12.336 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 16:37:12.337 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> RedisBloom version 8.2.0 (Git=unknown)
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ bf-error-rate       :      0.01 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ bf-initial-size     :       100 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ bf-expansion-factor :         2 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ cf-bucket-size      :         2 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ cf-initial-size     :      1024 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ cf-max-iterations   :        20 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ cf-expansion-factor :         1 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> 	{ cf-max-expansions   :        32 }
+redis  | 1:M 21 Aug 2025 16:37:12.337 * <bf> ]
+redis  | 1:M 21 Aug 2025 16:37:12.428 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Redis version found by RedisSearch : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> RediSearch version 8.2.1 (Git=dba8dd0)
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Low level api version 1 initialized successfully
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Initialized thread pools!
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Disabled workers threadpool of size 0
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Subscribe to config changes
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Enabled role change notification
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
+redis  | 1:M 21 Aug 2025 16:37:12.431 * <search> Register write commands
+redis  | 1:M 21 Aug 2025 16:37:12.432 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> Redis version found by RedisTimeSeries : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-compaction-policy   :              }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-num-threads         :            3 }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-retention-policy    :            0 }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-duplicate-policy    :        block }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-encoding            :   compressed }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> ]
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> Detected redis oss
+redis  | 1:M 21 Aug 2025 16:37:12.432 * <timeseries> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 16:37:12.432 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Created new data type 'ReJSON-RL'
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> version: 80200 git sha: unknown branch: unknown
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Exported RedisJSON_V1 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Exported RedisJSON_V2 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Exported RedisJSON_V3 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Exported RedisJSON_V4 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Exported RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <ReJSON> Initialized shared string cache, thread safe: false.
+redis  | 1:M 21 Aug 2025 16:37:12.433 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
+redis  | 1:M 21 Aug 2025 16:37:12.433 * <search> Acquired RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 16:37:12.433 * Server initialized
+redis  | 1:M 21 Aug 2025 16:37:12.433 * Ready to accept connections tcp
 payment-api-02  | 
 payment-api-02  | > rinha-backend-25@1.0.0 start
 payment-api-02  | > node dist/src/external/server.js
@@ -85,19 +353,26 @@ payment-api-01  |
 payment-api-01  | > rinha-backend-25@1.0.0 start
 payment-api-01  | > node dist/src/external/server.js
 payment-api-01  | 
-payment-api-01  | Server payment-api-01 rodando na porta 3000
+nginx           | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx           | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx           | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx           | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx           | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx           | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx           | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx           | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx           | /docker-entrypoint.sh: Configuration complete; ready for start up
 payment-api-02  | Server payment-api-02 rodando na porta 3000
+payment-api-01  | Server payment-api-01 rodando na porta 3000
 payment-api-01  | (node:18) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
 payment-api-01  | (Use `node --trace-deprecation ...` to show where the warning was created)
-payment-api-02  | (node:18) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+payment-api-02  | (node:17) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
 payment-api-02  | (Use `node --trace-deprecation ...` to show where the warning was created)
-nginx           | 2025/08/19 08:51:20 [error] 30#30: *438 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 172.20.0.1, server: , request: "POST /payments HTTP/1.1", upstream: "http://172.20.0.4:3000/payments", host: "localhost:9999"
 [Knginx exited with code 0
-[Kpayment-api-01 exited with code 1
 [Kpayment-api-02 exited with code 1
-redis           | 1:signal-handler (1755593593) Received SIGTERM scheduling shutdown...
-redis           | 1:M 19 Aug 2025 08:53:13.352 * User requested shutdown...
-redis           | 1:M 19 Aug 2025 08:53:13.352 * Saving the final RDB snapshot before exiting.
-redis           | 1:M 19 Aug 2025 08:53:13.358 * DB saved on disk
-redis           | 1:M 19 Aug 2025 08:53:13.358 # Redis is now ready to exit, bye bye...
-log truncated at line 1000
+[Kpayment-api-01 exited with code 1
+redis           | 1:signal-handler (1755794332) Received SIGTERM scheduling shutdown...
+redis           | 1:M 21 Aug 2025 16:38:52.320 * User requested shutdown...
+redis           | 1:M 21 Aug 2025 16:38:52.320 * Saving the final RDB snapshot before exiting.
+redis           | 1:M 21 Aug 2025 16:38:52.325 * DB saved on disk
+redis           | 1:M 21 Aug 2025 16:38:52.325 # Redis is now ready to exit, bye bye...

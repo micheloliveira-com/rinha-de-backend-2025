@@ -1,6 +1,8 @@
 
- api1 Pulling 
  api2 Pulling 
+ haproxy Pulling 
+ api1 Pulling 
  api1 Error manifest for wendelllsc/rinha_backend_2025_01:latest not found: manifest unknown: manifest unknown
  api2  Interrupted
+ haproxy  Interrupted
 Error response from daemon: manifest for wendelllsc/rinha_backend_2025_01:latest not found: manifest unknown: manifest unknown

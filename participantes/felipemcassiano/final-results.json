@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-18T16:00:23.225Z",
+  "timestamp": "2025-08-21T21:19:30.730Z",
   "participante": "felipemcassiano",
   "total_liquido": 0,
   "total_bruto": 0,
   "total_taxas": 0,
   "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
   "p99": {
-    "valor": "69.36ms",
+    "valor": "55.53ms",
     "bonus": "0%",
     "max_requests": "603",
     "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
@@ -25,13 +25,13 @@
   },
   "lag": {
     "num_pagamentos_total": 0,
-    "num_pagamentos_solicitados": 81031,
-    "lag": 81031,
+    "num_pagamentos_solicitados": 86661,
+    "lag": 86661,
     "descricao": "Lag é a diferença entre a quantidade de solicitações de pagamentos e o que foi realmente computado pelo backend. Mostra a perda de pagamentos possivelmente por estarem enfileirados."
   },
   "pagamentos_solicitados": {
-    "qtd_sucesso": 81031,
-    "qtd_falha": 6495,
+    "qtd_sucesso": 86661,
+    "qtd_falha": 1791,
     "descricao": "'qtd_sucesso' foram requests bem sucedidos para 'POST /payments' e 'qtd_falha' os requests com erro."
   },
   "pagamentos_realizados_default": {

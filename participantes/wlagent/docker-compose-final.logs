@@ -1,75 +1,301 @@
 
+ app2 Pulling 
+ redis Pulling 
+ nginx Pulling 
+ nats Pulling 
+ app1 Pulling 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ a2cadbfeca72 Waiting 
+ 4f4fb700ef54 Waiting 
+ e6fe6f07e192 Waiting 
+ a976ed7e7808 Waiting 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ b1badc6e5066 Waiting 
+ 716cdf61af59 Pulling fs layer 
+ a2da0c0f2353 Waiting 
+ e5d9bb0b85cc Waiting 
+ 14e422fd20a0 Pulling fs layer 
+ 14a859b5ba24 Waiting 
+ c3741b707ce6 Pulling fs layer 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ 9824c27679d3 Already exists 
+ 847861e8dd44 Pulling fs layer 
+ 43e37305c0d9 Pulling fs layer 
+ 847861e8dd44 Waiting 
+ 43e37305c0d9 Waiting 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 4c55286bbede Pull complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 9824c27679d3 Already exists 
+ 847861e8dd44 Pulling fs layer 
+ 43e37305c0d9 Pulling fs layer 
+ 43e37305c0d9 Waiting 
+ 847861e8dd44 Waiting 
+ 9824c27679d3 Already exists 
+ 24c015b31706 Pulling fs layer 
+ 6a97296c7fe6 Pulling fs layer 
+ ca7355fe018b Pulling fs layer 
+ 6a97296c7fe6 Waiting 
+ ca7355fe018b Waiting 
+ 24c015b31706 Waiting 
+ 5e28347af205 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.8kB/12.41MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Downloading [===========>                                       ]  2.765MB/12.41MB
+ e6fe6f07e192 Downloading [=====================>                             ]   5.39MB/12.41MB
+ e6fe6f07e192 Downloading [========================================>          ]  9.986MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ e6fe6f07e192 Extracting [=========================>                         ]  6.423MB/12.41MB
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ b1badc6e5066 Downloading [>                                                  ]  290.8kB/28.23MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ b1badc6e5066 Downloading [======>                                            ]  3.817MB/28.23MB
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ b1badc6e5066 Downloading [===============>                                   ]  8.475MB/28.23MB
+ b1badc6e5066 Downloading [=====================>                             ]  11.98MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  450.6kB/44.07MB
+ b1badc6e5066 Downloading [===========================>                       ]  15.78MB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [==========>                                        ]  8.897MB/44.07MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.94MB/28.23MB
+ a2da0c0f2353 Downloading [=============>                                     ]  11.57MB/44.07MB
+ b1badc6e5066 Downloading [================================>                  ]   18.1MB/28.23MB
+ a2da0c0f2353 Downloading [=====================>                             ]  18.74MB/44.07MB
+ b1badc6e5066 Downloading [======================================>            ]  21.87MB/28.23MB
+ a2da0c0f2353 Downloading [=============================>                     ]  26.32MB/44.07MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.76MB/28.23MB
+ b1badc6e5066 Downloading [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Download complete 
+ a2da0c0f2353 Downloading [=======================================>           ]  34.79MB/44.07MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [================================================>  ]  42.83MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ b1badc6e5066 Extracting [=================================>                 ]  19.17MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ 24c015b31706 Downloading [>                                                  ]  67.37kB/6.628MB
+ b1badc6e5066 Pull complete 
+ 24c015b31706 Downloading [======================================>            ]  5.063MB/6.628MB
+ 24c015b31706 Verifying Checksum 
+ 24c015b31706 Download complete 
+ 24c015b31706 Extracting [>                                                  ]   98.3kB/6.628MB
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ 24c015b31706 Extracting [====================>                              ]  2.753MB/6.628MB
+ a2da0c0f2353 Extracting [=======>                                           ]  6.881MB/44.07MB
+ 24c015b31706 Extracting [==================================================>]  6.628MB/6.628MB
+ a2da0c0f2353 Extracting [=============>                                     ]  11.93MB/44.07MB
+ 43e37305c0d9 Downloading [>                                                  ]  67.52kB/6.524MB
+ 43e37305c0d9 Downloading [>                                                  ]  67.52kB/6.524MB
+ a2da0c0f2353 Extracting [======================>                            ]  20.19MB/44.07MB
+ 847861e8dd44 Downloading [==================================================>]      93B/93B
+ 847861e8dd44 Verifying Checksum 
+ 847861e8dd44 Download complete 
+ 847861e8dd44 Downloading [==================================================>]      93B/93B
+ 847861e8dd44 Verifying Checksum 
+ 847861e8dd44 Download complete 
+ 847861e8dd44 Extracting [==================================================>]      93B/93B
+ 847861e8dd44 Extracting [==================================================>]      93B/93B
+ 847861e8dd44 Extracting [==================================================>]      93B/93B
+ 847861e8dd44 Pull complete 
+ 847861e8dd44 Pull complete 
+ 24c015b31706 Pull complete 
+ 43e37305c0d9 Downloading [===========>                                       ]  1.556MB/6.524MB
+ 43e37305c0d9 Downloading [===========>                                       ]  1.556MB/6.524MB
+ a2da0c0f2353 Extracting [================================>                  ]   28.9MB/44.07MB
+ 43e37305c0d9 Downloading [================>                                  ]  2.101MB/6.524MB
+ 43e37305c0d9 Downloading [================>                                  ]  2.101MB/6.524MB
+ 6a97296c7fe6 Downloading [==================================================>]     559B/559B
+ 6a97296c7fe6 Verifying Checksum 
+ 6a97296c7fe6 Download complete 
+ 6a97296c7fe6 Extracting [==================================================>]     559B/559B
+ 6a97296c7fe6 Extracting [==================================================>]     559B/559B
+ a2da0c0f2353 Extracting [=========================================>         ]  36.24MB/44.07MB
+ 6a97296c7fe6 Pull complete 
+ 43e37305c0d9 Downloading [=============================>                     ]  3.895MB/6.524MB
+ 43e37305c0d9 Downloading [=============================>                     ]  3.895MB/6.524MB
+ a2da0c0f2353 Extracting [==============================================>    ]  40.83MB/44.07MB
+ 43e37305c0d9 Downloading [================================>                  ]  4.243MB/6.524MB
+ 43e37305c0d9 Downloading [================================>                  ]  4.243MB/6.524MB
+ a2da0c0f2353 Extracting [===============================================>   ]  42.21MB/44.07MB
+ 43e37305c0d9 Downloading [==========================================>        ]  5.493MB/6.524MB
+ 43e37305c0d9 Downloading [==========================================>        ]  5.493MB/6.524MB
+ 43e37305c0d9 Verifying Checksum 
+ 43e37305c0d9 Download complete 
+ 43e37305c0d9 Verifying Checksum 
+ 43e37305c0d9 Download complete 
+ 43e37305c0d9 Extracting [>                                                  ]  65.54kB/6.524MB
+ 43e37305c0d9 Extracting [>                                                  ]  65.54kB/6.524MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ 43e37305c0d9 Extracting [==================================================>]  6.524MB/6.524MB
+ 43e37305c0d9 Extracting [==================================================>]  6.524MB/6.524MB
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ 43e37305c0d9 Pull complete 
+ 43e37305c0d9 Pull complete 
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ app1 Pulled 
+ app2 Pulled 
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ ca7355fe018b Downloading [==================================================>]     407B/407B
+ ca7355fe018b Verifying Checksum 
+ ca7355fe018b Download complete 
+ ca7355fe018b Extracting [==================================================>]     407B/407B
+ ca7355fe018b Extracting [==================================================>]     407B/407B
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ ca7355fe018b Pull complete 
+ c3741b707ce6 Pull complete 
+ nats Pulled 
+ nginx Pulled 
  Network wlagent_backend  Creating
  Network wlagent_backend  Created
+ Volume "wlagent_redis-data"  Creating
+ Volume "wlagent_redis-data"  Created
  Volume "wlagent_nats-data"  Creating
  Volume "wlagent_nats-data"  Created
  Volume "wlagent_rinha-store"  Creating
  Volume "wlagent_rinha-store"  Created
- Volume "wlagent_redis-data"  Creating
- Volume "wlagent_redis-data"  Created
  Container wlagent-nats-1  Creating
  Container wlagent-redis-1  Creating
- Container wlagent-nats-1  Created
  Container wlagent-redis-1  Created
+ Container wlagent-nats-1  Created
  Container wlagent-app1-1  Creating
  Container wlagent-app2-1  Creating
- Container wlagent-app2-1  Created
  Container wlagent-app1-1  Created
+ Container wlagent-app2-1  Created
  Container wlagent-nginx-1  Creating
  Container wlagent-nginx-1  Created
 Attaching to app1-1, app2-1, nats-1, nginx-1, redis-1
-nats-1  | [1] 2025/08/19 21:27:19.298319 [INF] Starting nats-server
-nats-1  | [1] 2025/08/19 21:27:19.302495 [INF]   Version:  2.10.29
-nats-1  | [1] 2025/08/19 21:27:19.302498 [INF]   Git:      [f91ddd8]
-nats-1  | [1] 2025/08/19 21:27:19.302500 [INF]   Name:     NDBKNW73QNL7PJCZO35BJZDPNZLR3A73AH7BWHIPOX3TJVH4DSBSNBCN
-nats-1  | [1] 2025/08/19 21:27:19.302503 [INF]   Node:     3y3uAiiW
-nats-1  | [1] 2025/08/19 21:27:19.302505 [INF]   ID:       NDBKNW73QNL7PJCZO35BJZDPNZLR3A73AH7BWHIPOX3TJVH4DSBSNBCN
-nats-1  | [1] 2025/08/19 21:27:19.307399 [INF] Starting JetStream
-nats-1  | [1] 2025/08/19 21:27:19.307446 [WRN] Temporary storage directory used, data could be lost on system reboot
-nats-1  | [1] 2025/08/19 21:27:19.310381 [INF]     _ ___ _____ ___ _____ ___ ___   _   __  __
-nats-1  | [1] 2025/08/19 21:27:19.310391 [INF]  _ | | __|_   _/ __|_   _| _ \ __| /_\ |  \/  |
-nats-1  | [1] 2025/08/19 21:27:19.310393 [INF] | || | _|  | | \__ \ | | |   / _| / _ \| |\/| |
-nats-1  | [1] 2025/08/19 21:27:19.310395 [INF]  \__/|___| |_| |___/ |_| |_|_\___/_/ \_\_|  |_|
-nats-1  | [1] 2025/08/19 21:27:19.310397 [INF] 
-nats-1  | [1] 2025/08/19 21:27:19.310399 [INF]          https://docs.nats.io/jetstream
-nats-1  | [1] 2025/08/19 21:27:19.310401 [INF] 
-nats-1  | [1] 2025/08/19 21:27:19.310403 [INF] ---------------- JETSTREAM ----------------
-nats-1  | [1] 2025/08/19 21:27:19.310407 [INF]   Max Memory:      5.73 GB
-nats-1  | [1] 2025/08/19 21:27:19.310410 [INF]   Max Storage:     95.69 GB
-nats-1  | [1] 2025/08/19 21:27:19.310412 [INF]   Store Directory: "/tmp/nats/jetstream"
-nats-1  | [1] 2025/08/19 21:27:19.310414 [INF] -------------------------------------------
-nats-1  | [1] 2025/08/19 21:27:19.311068 [INF] Listening for client connections on 0.0.0.0:4222
-nats-1  | [1] 2025/08/19 21:27:19.311354 [INF] Server is ready
-redis-1  | 1:C 19 Aug 2025 21:27:19.334 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis-1  | 1:C 19 Aug 2025 21:27:19.334 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis-1  | 1:C 19 Aug 2025 21:27:19.334 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-redis-1  | 1:C 19 Aug 2025 21:27:19.334 * Configuration loaded
-redis-1  | 1:M 19 Aug 2025 21:27:19.334 * monotonic clock: POSIX clock_gettime
-redis-1  | 1:M 19 Aug 2025 21:27:19.335 * Running mode=standalone, port=6379.
-redis-1  | 1:M 19 Aug 2025 21:27:19.336 * Server initialized
-redis-1  | 1:M 19 Aug 2025 21:27:19.336 * Ready to accept connections tcp
-app2-1   | 2025/08/19 21:27:19 Broker connected successfully
+nats-1  | [1] 2025/08/21 20:30:28.210790 [INF] Starting nats-server
+nats-1  | [1] 2025/08/21 20:30:28.210967 [INF]   Version:  2.10.29
+nats-1  | [1] 2025/08/21 20:30:28.210982 [INF]   Git:      [f91ddd8]
+nats-1  | [1] 2025/08/21 20:30:28.210985 [INF]   Name:     NDCGVT7W2TWXUITKFDDVGAFI7WO2SUDO3YA26E2FX5VBBYRMGANSQMBB
+nats-1  | [1] 2025/08/21 20:30:28.210990 [INF]   Node:     DiBPfFqy
+nats-1  | [1] 2025/08/21 20:30:28.210993 [INF]   ID:       NDCGVT7W2TWXUITKFDDVGAFI7WO2SUDO3YA26E2FX5VBBYRMGANSQMBB
+nats-1  | [1] 2025/08/21 20:30:28.211384 [INF] Starting JetStream
+nats-1  | [1] 2025/08/21 20:30:28.211447 [WRN] Temporary storage directory used, data could be lost on system reboot
+nats-1  | [1] 2025/08/21 20:30:28.214943 [INF]     _ ___ _____ ___ _____ ___ ___   _   __  __
+nats-1  | [1] 2025/08/21 20:30:28.214960 [INF]  _ | | __|_   _/ __|_   _| _ \ __| /_\ |  \/  |
+nats-1  | [1] 2025/08/21 20:30:28.214961 [INF] | || | _|  | | \__ \ | | |   / _| / _ \| |\/| |
+nats-1  | [1] 2025/08/21 20:30:28.214963 [INF]  \__/|___| |_| |___/ |_| |_|_\___/_/ \_\_|  |_|
+nats-1  | [1] 2025/08/21 20:30:28.214965 [INF] 
+nats-1  | [1] 2025/08/21 20:30:28.214966 [INF]          https://docs.nats.io/jetstream
+nats-1  | [1] 2025/08/21 20:30:28.214968 [INF] 
+nats-1  | [1] 2025/08/21 20:30:28.214969 [INF] ---------------- JETSTREAM ----------------
+nats-1  | [1] 2025/08/21 20:30:28.214972 [INF]   Max Memory:      5.75 GB
+nats-1  | [1] 2025/08/21 20:30:28.214975 [INF]   Max Storage:     2.98 GB
+nats-1  | [1] 2025/08/21 20:30:28.214977 [INF]   Store Directory: "/tmp/nats/jetstream"
+nats-1  | [1] 2025/08/21 20:30:28.214978 [INF] -------------------------------------------
+nats-1  | [1] 2025/08/21 20:30:28.215678 [INF] Listening for client connections on 0.0.0.0:4222
+nats-1  | [1] 2025/08/21 20:30:28.215860 [INF] Server is ready
+redis-1  | 1:C 21 Aug 2025 20:30:28.363 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1  | 1:C 21 Aug 2025 20:30:28.363 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1  | 1:C 21 Aug 2025 20:30:28.363 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis-1  | 1:C 21 Aug 2025 20:30:28.363 * Configuration loaded
+redis-1  | 1:M 21 Aug 2025 20:30:28.363 * monotonic clock: POSIX clock_gettime
+redis-1  | 1:M 21 Aug 2025 20:30:28.364 * Running mode=standalone, port=6379.
+redis-1  | 1:M 21 Aug 2025 20:30:28.364 * Server initialized
+redis-1  | 1:M 21 Aug 2025 20:30:28.364 * Ready to accept connections tcp
 app2-1   | Stream PAYMENT criado com sucesso!
-app2-1   | 2025/08/19 21:27:19 Redis connected successfully
-app2-1   | 2025/08/19 21:27:19 Starting consumer 7
-app2-1   | 2025/08/19 21:27:19 Starting consumer 3
-app2-1   | 2025/08/19 21:27:19 Starting consumer 0
-app2-1   | 2025/08/19 21:27:19 Starting consumer 1
-app2-1   | 2025/08/19 21:27:19 Starting consumer 2
-app2-1   | 2025/08/19 21:27:19 Starting consumer 5
-app2-1   | 2025/08/19 21:27:19 Starting consumer 4
-app2-1   | 2025/08/19 21:27:19 Starting consumer 6
+app2-1   | 2025/08/21 20:30:28 Broker connected successfully
+app2-1   | 2025/08/21 20:30:28 Redis connected successfully
+app2-1   | 2025/08/21 20:30:28 Starting consumer 7
+app2-1   | 2025/08/21 20:30:28 Starting consumer 6
+app2-1   | 2025/08/21 20:30:28 Starting consumer 5
+app2-1   | 2025/08/21 20:30:28 Starting consumer 3
+app2-1   | 2025/08/21 20:30:28 Starting consumer 0
+app2-1   | 2025/08/21 20:30:28 Starting consumer 1
+app2-1   | 2025/08/21 20:30:28 Starting consumer 2
+app2-1   | 2025/08/21 20:30:28 Starting consumer 4
 app1-1   | Stream PAYMENT criado com sucesso!
-app1-1   | 2025/08/19 21:27:19 Broker connected successfully
-app1-1   | 2025/08/19 21:27:19 Redis connected successfully
-app1-1   | 2025/08/19 21:27:19 Starting consumer 7
-app1-1   | 2025/08/19 21:27:19 Starting consumer 0
-app1-1   | 2025/08/19 21:27:19 Starting consumer 1
-app1-1   | 2025/08/19 21:27:19 Starting consumer 4
-app1-1   | 2025/08/19 21:27:19 Starting consumer 2
-app1-1   | 2025/08/19 21:27:19 Starting consumer 3
-app1-1   | 2025/08/19 21:27:19 Starting consumer 5
-app1-1   | 2025/08/19 21:27:19 Starting consumer 6
+app1-1   | 2025/08/21 20:30:28 Broker connected successfully
+app1-1   | 2025/08/21 20:30:28 Redis connected successfully
+app1-1   | 2025/08/21 20:30:28 Starting consumer 7
+app1-1   | 2025/08/21 20:30:28 Starting consumer 5
+app1-1   | 2025/08/21 20:30:28 Starting consumer 3
+app1-1   | 2025/08/21 20:30:28 Starting consumer 4
+app1-1   | 2025/08/21 20:30:28 Starting consumer 0
+app1-1   | 2025/08/21 20:30:28 Starting consumer 1
+app1-1   | 2025/08/21 20:30:28 Starting consumer 2
+app1-1   | 2025/08/21 20:30:28 Starting consumer 6
 nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -79,17 +305,17 @@ nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolve
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
-app2-1   | 2025/08/19 21:27:28 All payment sets purged successfully
+app2-1   | 2025/08/21 20:30:44 All payment sets purged successfully
 [Knginx-1 exited with code 0
 [Kapp2-1 exited with code 2
 [Kapp1-1 exited with code 2
-nats-1   | [1] 2025/08/19 21:32:32.157668 [INF] Trapped "terminated" signal
-redis-1  | 1:signal-handler (1755639152) Received SIGTERM scheduling shutdown...
-nats-1   | [1] 2025/08/19 21:32:32.208712 [INF] Initiating Shutdown...
-nats-1   | [1] 2025/08/19 21:32:32.208750 [INF] Initiating JetStream Shutdown...
-nats-1   | [1] 2025/08/19 21:32:32.209018 [INF] JetStream Shutdown
-nats-1   | [1] 2025/08/19 21:32:32.209091 [INF] Server Exiting..
-redis-1  | 1:M 19 Aug 2025 21:32:32.212 * User requested shutdown...
-redis-1  | 1:M 19 Aug 2025 21:32:32.212 # Redis is now ready to exit, bye bye...
-[Knats-1 exited with code 1
+nats-1   | [1] 2025/08/21 20:35:47.718305 [INF] Trapped "terminated" signal
+redis-1  | 1:signal-handler (1755808547) Received SIGTERM scheduling shutdown...
+redis-1  | 1:M 21 Aug 2025 20:35:47.760 * User requested shutdown...
+redis-1  | 1:M 21 Aug 2025 20:35:47.760 # Redis is now ready to exit, bye bye...
+nats-1   | [1] 2025/08/21 20:35:47.768831 [INF] Initiating Shutdown...
+nats-1   | [1] 2025/08/21 20:35:47.768867 [INF] Initiating JetStream Shutdown...
+nats-1   | [1] 2025/08/21 20:35:47.769121 [INF] JetStream Shutdown
+nats-1   | [1] 2025/08/21 20:35:47.769189 [INF] Server Exiting..
+[Kredis-1 exited with code 0
 log truncated at line 1000

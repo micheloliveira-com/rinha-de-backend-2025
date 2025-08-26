@@ -1,27 +1,118 @@
 
+ worker1 Pulling 
+ api1 Pulling 
+ api2 Pulling 
+ lb Pulling 
+ 9824c27679d3 Already exists 
+ 929d3807d95e Pulling fs layer 
+ 003c2b017d15 Pulling fs layer 
+ 4d1bb10ecdfe Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 929d3807d95e Pulling fs layer 
+ 003c2b017d15 Pulling fs layer 
+ 4d1bb10ecdfe Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 929d3807d95e Pulling fs layer 
+ 003c2b017d15 Pulling fs layer 
+ 4d1bb10ecdfe Pulling fs layer 
+ 9824c27679d3 Already exists 
+ 929d3807d95e Pulling fs layer 
+ 003c2b017d15 Pulling fs layer 
+ 4d1bb10ecdfe Pulling fs layer 
+ 929d3807d95e Download complete 
+ 929d3807d95e Download complete 
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Download complete 
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Downloading [==================================================>]      93B/93B
+ 929d3807d95e Download complete 
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 929d3807d95e Extracting [==================================================>]      93B/93B
+ 003c2b017d15 Downloading [>                                                  ]  32.24kB/3.127MB
+ 003c2b017d15 Downloading [>                                                  ]  32.24kB/3.127MB
+ 003c2b017d15 Downloading [>                                                  ]  32.24kB/3.127MB
+ 003c2b017d15 Downloading [>                                                  ]  32.24kB/3.127MB
+ 4d1bb10ecdfe Downloading [>                                                  ]  16.51kB/1.605MB
+ 4d1bb10ecdfe Downloading [>                                                  ]  16.51kB/1.605MB
+ 4d1bb10ecdfe Downloading [>                                                  ]  16.51kB/1.605MB
+ 4d1bb10ecdfe Downloading [>                                                  ]  16.51kB/1.605MB
+ 929d3807d95e Pull complete 
+ 929d3807d95e Pull complete 
+ 929d3807d95e Pull complete 
+ 929d3807d95e Pull complete 
+ 4d1bb10ecdfe Verifying Checksum 
+ 4d1bb10ecdfe Verifying Checksum 
+ 4d1bb10ecdfe Verifying Checksum 
+ 4d1bb10ecdfe Download complete 
+ 4d1bb10ecdfe Download complete 
+ 4d1bb10ecdfe Download complete 
+ 4d1bb10ecdfe Verifying Checksum 
+ 4d1bb10ecdfe Download complete 
+ 003c2b017d15 Verifying Checksum 
+ 003c2b017d15 Download complete 
+ 003c2b017d15 Download complete 
+ 003c2b017d15 Verifying Checksum 
+ 003c2b017d15 Download complete 
+ 003c2b017d15 Extracting [>                                                  ]  32.77kB/3.127MB
+ 003c2b017d15 Extracting [>                                                  ]  32.77kB/3.127MB
+ 003c2b017d15 Extracting [>                                                  ]  32.77kB/3.127MB
+ 003c2b017d15 Download complete 
+ 003c2b017d15 Extracting [>                                                  ]  32.77kB/3.127MB
+ 003c2b017d15 Extracting [==================================================>]  3.127MB/3.127MB
+ 003c2b017d15 Extracting [==================================================>]  3.127MB/3.127MB
+ 003c2b017d15 Extracting [==================================================>]  3.127MB/3.127MB
+ 003c2b017d15 Extracting [==================================================>]  3.127MB/3.127MB
+ 003c2b017d15 Pull complete 
+ 003c2b017d15 Pull complete 
+ 003c2b017d15 Pull complete 
+ 003c2b017d15 Pull complete 
+ 4d1bb10ecdfe Extracting [=>                                                 ]  32.77kB/1.605MB
+ 4d1bb10ecdfe Extracting [=>                                                 ]  32.77kB/1.605MB
+ 4d1bb10ecdfe Extracting [=>                                                 ]  32.77kB/1.605MB
+ 4d1bb10ecdfe Extracting [=>                                                 ]  32.77kB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Extracting [==================================================>]  1.605MB/1.605MB
+ 4d1bb10ecdfe Pull complete 
+ 4d1bb10ecdfe Pull complete 
+ 4d1bb10ecdfe Pull complete 
+ 4d1bb10ecdfe Pull complete 
+ worker1 Pulled 
+ lb Pulled 
+ api2 Pulled 
+ api1 Pulled 
  Volume "josineyjr-go-4_sockets"  Creating
  Volume "josineyjr-go-4_sockets"  Created
  Container worker1  Creating
  Container worker1  Created
- Container api1  Creating
  Container api2  Creating
- Container api1  Created
+ Container api1  Creating
  Container api2  Created
+ Container api1  Created
  Container lb  Creating
  Container lb  Created
 Attaching to api1, api2, lb, worker1
-worker1  | {"level":"info","time":"2025-08-18T23:41:40Z","message":"Worker started successfully, listening on sockets."}
-api2     | {"level":"info","time":"2025-08-18T23:41:40Z","message":"gnet server starting on unix:///sockets/api3.sock"}
-api2     | [gnet] 2025-08-18T23:41:40.937232924Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: unix:///sockets/api3.sock
-api2     | {"level":"info","time":"2025-08-18T23:41:40Z","message":"gnet server started on port :80"}
-api1     | {"level":"info","time":"2025-08-18T23:41:40Z","message":"gnet server starting on unix:///sockets/api2.sock"}
-api1     | [gnet] 2025-08-18T23:41:40.947015619Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: unix:///sockets/api2.sock
-api1     | {"level":"info","time":"2025-08-18T23:41:40Z","message":"gnet server started on port :80"}
-lb       | {"level":"info","time":"2025-08-18T23:41:41Z","message":"gnet server starting on tcp4://:80"}
-lb       | [gnet] 2025-08-18T23:41:41.140340167Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: tcp4://:80
-lb       | {"level":"info","time":"2025-08-18T23:41:41Z","message":"gnet server started on port :80"}
+worker1  | {"level":"info","time":"2025-08-21T15:26:56Z","message":"Worker started successfully, listening on sockets."}
+api2     | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server starting on unix:///sockets/api3.sock"}
+api2     | [gnet] 2025-08-21T15:26:56.44671874Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: unix:///sockets/api3.sock
+api2     | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server started on port :80"}
+api1     | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server starting on unix:///sockets/api2.sock"}
+api1     | [gnet] 2025-08-21T15:26:56.471295812Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: unix:///sockets/api2.sock
+api1     | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server started on port :80"}
+lb       | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server starting on tcp4://:80"}
+lb       | [gnet] 2025-08-21T15:26:56.6833074Z	INFO	logging/logger.go:256	Launching gnet with 4 event-loops, listening on: tcp4://:80
+lb       | {"level":"info","time":"2025-08-21T15:26:56Z","message":"gnet server started on port :80"}
 [Klb exited with code 137
-[Kapi2 exited with code 137
 [Kapi1 exited with code 137
-worker1  | {"level":"info","time":"2025-08-18T23:47:23Z","message":"Worker stopped gracefully."}
+[Kapi2 exited with code 137
+worker1  | {"level":"info","time":"2025-08-21T15:32:26Z","message":"Worker stopped gracefully."}
 log truncated at line 1000

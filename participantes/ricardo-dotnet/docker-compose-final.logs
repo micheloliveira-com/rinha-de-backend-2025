@@ -1,75 +1,562 @@
 
+ worker Pulling 
+ nginx Pulling 
+ redis Pulling 
+ backend1 Pulling 
+ backend2 Pulling 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ 63edde0222ea Download complete 
+ e51f60c71d8e Download complete 
+ b1badc6e5066 Downloading [==========================================>        ]   24.1MB/28.23MB
+ 311d9cf20af5 Download complete 
+ f22261c94fe4 Download complete 
+ 6f34ca96de3f Download complete 
+ 4f4fb700ef54 Download complete 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ e6ef242c1570 Waiting 
+ 13fcfbc94648 Waiting 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ b1badc6e5066 Pulling fs layer 
+ d6be1056b429 Pulling fs layer 
+ ec6bd5206fee Pulling fs layer 
+ b1fb025d5138 Pulling fs layer 
+ c94c45320924 Pulling fs layer 
+ b6b9d8fab292 Pulling fs layer 
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ 4f4fb700ef54 Pulling fs layer 
+ d6be1056b429 Waiting 
+ d31d499dedea Pulling fs layer 
+ ec6bd5206fee Waiting 
+ b1fb025d5138 Waiting 
+ 4f4fb700ef54 Waiting 
+ c94c45320924 Waiting 
+ d31d499dedea Waiting 
+ b6b9d8fab292 Waiting 
+ 4abcf2066143 Downloading [>                                                  ]  34.16kB/3.409MB
+ fc21a1d387f5 Downloading [>                                                  ]  41.08kB/3.985MB
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ b1badc6e5066 Pulling fs layer 
+ d6be1056b429 Pulling fs layer 
+ ec6bd5206fee Pulling fs layer 
+ b1fb025d5138 Pulling fs layer 
+ c94c45320924 Pulling fs layer 
+ ad921d49f1c2 Pulling fs layer 
+ 7935493aafa7 Pulling fs layer 
+ ec6bd5206fee Waiting 
+ 2211bc1876f2 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 3c2c93108d7e Pulling fs layer 
+ b1fb025d5138 Waiting 
+ c94c45320924 Waiting 
+ ad921d49f1c2 Waiting 
+ 7935493aafa7 Waiting 
+ 2211bc1876f2 Waiting 
+ 4f4fb700ef54 Waiting 
+ 3c2c93108d7e Waiting 
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ d6be1056b429 Waiting 
+ fc21a1d387f5 Downloading [================================================>  ]  3.883MB/3.985MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ b1badc6e5066 Pulling fs layer 
+ d6be1056b429 Pulling fs layer 
+ ec6bd5206fee Pulling fs layer 
+ b1fb025d5138 Pulling fs layer 
+ c94c45320924 Pulling fs layer 
+ ad921d49f1c2 Pulling fs layer 
+ 7935493aafa7 Pulling fs layer 
+ 2211bc1876f2 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 3c2c93108d7e Pulling fs layer 
+ 3c2c93108d7e Waiting 
+ b1fb025d5138 Waiting 
+ 7935493aafa7 Waiting 
+ c94c45320924 Waiting 
+ ad921d49f1c2 Waiting 
+ 2211bc1876f2 Waiting 
+ d6be1056b429 Waiting 
+ b1badc6e5066 Downloading [===========================================>       ]   24.4MB/28.23MB
+ ec6bd5206fee Waiting 
+ 4f4fb700ef54 Waiting 
+ fc21a1d387f5 Extracting [=================================================> ]  3.932MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.69MB/28.23MB
+ fc21a1d387f5 Pull complete 
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Verifying Checksum 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 5406ed7b06d9 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Verifying Checksum 
+ 5406ed7b06d9 Download complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  24.97MB/28.23MB
+ 8a3742a9529d Downloading [=====================================>             ]  1.049kB/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Download complete 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [>                                                  ]  131.5kB/13.04MB
+ 0d0c16747d2c Downloading [====================>                              ]   5.39MB/13.04MB
+ 0d0c16747d2c Downloading [================================>                  ]  8.454MB/13.04MB
+ 0d0c16747d2c Verifying Checksum 
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ d6be1056b429 Downloading [>                                                  ]  189.2kB/18.74MB
+ d6be1056b429 Downloading [>                                                  ]  189.2kB/18.74MB
+ d6be1056b429 Downloading [>                                                  ]  189.2kB/18.74MB
+ 0d0c16747d2c Extracting [=========>                                         ]  2.359MB/13.04MB
+ d6be1056b429 Verifying Checksum 
+ d6be1056b429 Verifying Checksum 
+ d6be1056b429 Download complete 
+ d6be1056b429 Verifying Checksum 
+ d6be1056b429 Download complete 
+ d6be1056b429 Download complete 
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ b1badc6e5066 Downloading [============================================>      ]  25.26MB/28.23MB
+ 0d0c16747d2c Extracting [======================================>            ]  10.09MB/13.04MB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ 0d0c16747d2c Pull complete 
+ ec6bd5206fee Downloading [==============>                                    ]     934B/3.28kB
+ ec6bd5206fee Downloading [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Verifying Checksum 
+ ec6bd5206fee Download complete 
+ ec6bd5206fee Downloading [==============>                                    ]     934B/3.28kB
+ ec6bd5206fee Downloading [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Verifying Checksum 
+ ec6bd5206fee Download complete 
+ ec6bd5206fee Downloading [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Verifying Checksum 
+ ec6bd5206fee Download complete 
+ nginx Pulled 
+ b1fb025d5138 Downloading [>                                                  ]  355.8kB/34.55MB
+ b1fb025d5138 Downloading [>                                                  ]  355.8kB/34.55MB
+ b1fb025d5138 Downloading [>                                                  ]  355.8kB/34.55MB
+ b1fb025d5138 Downloading [==================>                                ]  12.47MB/34.55MB
+ b1fb025d5138 Downloading [==================>                                ]  12.47MB/34.55MB
+ b1fb025d5138 Downloading [==================>                                ]  12.47MB/34.55MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.56MB/28.23MB
+ b1fb025d5138 Downloading [================================>                  ]  22.42MB/34.55MB
+ b1fb025d5138 Downloading [================================>                  ]  22.42MB/34.55MB
+ b1fb025d5138 Downloading [================================>                  ]  22.42MB/34.55MB
+ c94c45320924 Verifying Checksum 
+ c94c45320924 Downloading [==================================================>]     154B/154B
+ c94c45320924 Download complete 
+ c94c45320924 Verifying Checksum 
+ c94c45320924 Download complete 
+ c94c45320924 Downloading [==================================================>]     154B/154B
+ c94c45320924 Download complete 
+ b1fb025d5138 Downloading [=======================================>           ]  27.05MB/34.55MB
+ b1fb025d5138 Downloading [=======================================>           ]  27.05MB/34.55MB
+ b1fb025d5138 Downloading [=======================================>           ]  27.05MB/34.55MB
+ b1fb025d5138 Verifying Checksum 
+ b1fb025d5138 Download complete 
+ b1fb025d5138 Download complete 
+ b1fb025d5138 Verifying Checksum 
+ b1fb025d5138 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ d31d499dedea Downloading [>                                                  ]  13.25kB/1.233MB
+ d31d499dedea Downloading [==================================================>]  1.233MB/1.233MB
+ d31d499dedea Verifying Checksum 
+ d31d499dedea Download complete 
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b1badc6e5066 Downloading [=============================================>     ]  25.85MB/28.23MB
+ b6b9d8fab292 Downloading [==================================================>]      96B/96B
+ b6b9d8fab292 Verifying Checksum 
+ b6b9d8fab292 Download complete 
+ ad921d49f1c2 Downloading [>                                                  ]  115.7kB/11.31MB
+ ad921d49f1c2 Downloading [>                                                  ]  115.7kB/11.31MB
+ ad921d49f1c2 Verifying Checksum 
+ ad921d49f1c2 Download complete 
+ ad921d49f1c2 Verifying Checksum 
+ ad921d49f1c2 Download complete 
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.15MB/28.23MB
+ 7935493aafa7 Verifying Checksum 
+ 7935493aafa7 Downloading [==================================================>]      95B/95B
+ 7935493aafa7 Verifying Checksum 
+ 7935493aafa7 Download complete 
+ 7935493aafa7 Download complete 
+ 2211bc1876f2 Downloading [>                                                  ]  335.9kB/33.45MB
+ 2211bc1876f2 Downloading [>                                                  ]  335.9kB/33.45MB
+ 2211bc1876f2 Downloading [===========================>                       ]  18.17MB/33.45MB
+ 2211bc1876f2 Downloading [===========================>                       ]  18.17MB/33.45MB
+ 2211bc1876f2 Downloading [==========================================>        ]  28.42MB/33.45MB
+ 2211bc1876f2 Downloading [==========================================>        ]  28.42MB/33.45MB
+ 2211bc1876f2 Verifying Checksum 
+ 2211bc1876f2 Download complete 
+ 2211bc1876f2 Verifying Checksum 
+ 2211bc1876f2 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ b1badc6e5066 Downloading [==============================================>    ]  26.44MB/28.23MB
+ 3c2c93108d7e Downloading [>                                                  ]  233.6kB/23.28MB
+ 3c2c93108d7e Downloading [>                                                  ]  233.6kB/23.28MB
+ 3c2c93108d7e Downloading [========>                                          ]  4.088MB/23.28MB
+ 3c2c93108d7e Downloading [========>                                          ]  4.088MB/23.28MB
+ 3c2c93108d7e Downloading [===================>                               ]  9.085MB/23.28MB
+ 3c2c93108d7e Downloading [===================>                               ]  9.085MB/23.28MB
+ 3c2c93108d7e Downloading [============================>                      ]  13.12MB/23.28MB
+ 3c2c93108d7e Downloading [============================>                      ]  13.12MB/23.28MB
+ 3c2c93108d7e Downloading [=====================================>             ]  17.67MB/23.28MB
+ 3c2c93108d7e Downloading [=====================================>             ]  17.67MB/23.28MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  26.73MB/28.23MB
+ 3c2c93108d7e Downloading [================================================>  ]  22.66MB/23.28MB
+ 3c2c93108d7e Downloading [================================================>  ]  22.66MB/23.28MB
+ 3c2c93108d7e Verifying Checksum 
+ 3c2c93108d7e Download complete 
+ 3c2c93108d7e Verifying Checksum 
+ 3c2c93108d7e Download complete 
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [===============================================>   ]  27.02MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.31MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.61MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   27.9MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Downloading [=================================================> ]   28.2MB/28.23MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ b1badc6e5066 Pull complete 
+ b1badc6e5066 Pull complete 
+ b1badc6e5066 Pull complete 
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ d6be1056b429 Extracting [>                                                  ]  196.6kB/18.74MB
+ d6be1056b429 Extracting [>                                                  ]  196.6kB/18.74MB
+ d6be1056b429 Extracting [>                                                  ]  196.6kB/18.74MB
+ e51f60c71d8e Pull complete 
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Pull complete 
+ f22261c94fe4 Extracting [>                                                  ]  262.1kB/24.19MB
+ d6be1056b429 Extracting [====>                                              ]  1.769MB/18.74MB
+ d6be1056b429 Extracting [====>                                              ]  1.769MB/18.74MB
+ d6be1056b429 Extracting [====>                                              ]  1.769MB/18.74MB
+ f22261c94fe4 Extracting [==============>                                    ]  6.816MB/24.19MB
+ d6be1056b429 Extracting [===================>                               ]  7.274MB/18.74MB
+ d6be1056b429 Extracting [===================>                               ]  7.274MB/18.74MB
+ d6be1056b429 Extracting [===================>                               ]  7.274MB/18.74MB
+ f22261c94fe4 Extracting [==========================>                        ]  12.85MB/24.19MB
+ d6be1056b429 Extracting [=================================>                 ]  12.58MB/18.74MB
+ d6be1056b429 Extracting [=================================>                 ]  12.58MB/18.74MB
+ d6be1056b429 Extracting [=================================>                 ]  12.58MB/18.74MB
+ f22261c94fe4 Extracting [===================================>               ]  17.04MB/24.19MB
+ d6be1056b429 Extracting [=============================================>     ]   17.1MB/18.74MB
+ d6be1056b429 Extracting [=============================================>     ]   17.1MB/18.74MB
+ d6be1056b429 Extracting [=============================================>     ]   17.1MB/18.74MB
+ f22261c94fe4 Extracting [===============================================>   ]  22.81MB/24.19MB
+ d6be1056b429 Extracting [=================================================> ]  18.48MB/18.74MB
+ d6be1056b429 Extracting [=================================================> ]  18.48MB/18.74MB
+ d6be1056b429 Extracting [=================================================> ]  18.48MB/18.74MB
+ d6be1056b429 Extracting [==================================================>]  18.74MB/18.74MB
+ d6be1056b429 Extracting [==================================================>]  18.74MB/18.74MB
+ d6be1056b429 Extracting [==================================================>]  18.74MB/18.74MB
+ f22261c94fe4 Extracting [==================================================>]  24.19MB/24.19MB
+ d6be1056b429 Pull complete 
+ d6be1056b429 Pull complete 
+ d6be1056b429 Pull complete 
+ f22261c94fe4 Pull complete 
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ ec6bd5206fee Extracting [==================================================>]   3.28kB/3.28kB
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ ec6bd5206fee Pull complete 
+ ec6bd5206fee Pull complete 
+ ec6bd5206fee Pull complete 
+ 6f34ca96de3f Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ b1fb025d5138 Extracting [>                                                  ]  360.4kB/34.55MB
+ b1fb025d5138 Extracting [>                                                  ]  360.4kB/34.55MB
+ b1fb025d5138 Extracting [>                                                  ]  360.4kB/34.55MB
+ 4f4fb700ef54 Pull complete 
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Pull complete 
+ redis Pulled 
+ b1fb025d5138 Extracting [========>                                          ]  6.128MB/34.55MB
+ b1fb025d5138 Extracting [========>                                          ]  6.128MB/34.55MB
+ b1fb025d5138 Extracting [========>                                          ]  6.128MB/34.55MB
+ b1fb025d5138 Extracting [===================>                               ]  13.34MB/34.55MB
+ b1fb025d5138 Extracting [===================>                               ]  13.34MB/34.55MB
+ b1fb025d5138 Extracting [===================>                               ]  13.34MB/34.55MB
+ b1fb025d5138 Extracting [==============================>                    ]  21.27MB/34.55MB
+ b1fb025d5138 Extracting [==============================>                    ]  21.27MB/34.55MB
+ b1fb025d5138 Extracting [==============================>                    ]  21.27MB/34.55MB
+ b1fb025d5138 Extracting [=========================================>         ]  28.48MB/34.55MB
+ b1fb025d5138 Extracting [=========================================>         ]  28.48MB/34.55MB
+ b1fb025d5138 Extracting [=========================================>         ]  28.48MB/34.55MB
+ b1fb025d5138 Extracting [==================================================>]  34.55MB/34.55MB
+ b1fb025d5138 Extracting [==================================================>]  34.55MB/34.55MB
+ b1fb025d5138 Extracting [==================================================>]  34.55MB/34.55MB
+ b1fb025d5138 Pull complete 
+ b1fb025d5138 Pull complete 
+ b1fb025d5138 Pull complete 
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Extracting [==================================================>]     154B/154B
+ c94c45320924 Pull complete 
+ c94c45320924 Pull complete 
+ c94c45320924 Pull complete 
+ b6b9d8fab292 Extracting [==================================================>]      96B/96B
+ b6b9d8fab292 Extracting [==================================================>]      96B/96B
+ ad921d49f1c2 Extracting [>                                                  ]  131.1kB/11.31MB
+ ad921d49f1c2 Extracting [>                                                  ]  131.1kB/11.31MB
+ b6b9d8fab292 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ d31d499dedea Extracting [=>                                                 ]  32.77kB/1.233MB
+ ad921d49f1c2 Extracting [======================>                            ]  5.112MB/11.31MB
+ ad921d49f1c2 Extracting [======================>                            ]  5.112MB/11.31MB
+ d31d499dedea Extracting [==================================================>]  1.233MB/1.233MB
+ ad921d49f1c2 Extracting [==========================================>        ]  9.568MB/11.31MB
+ ad921d49f1c2 Extracting [==========================================>        ]  9.568MB/11.31MB
+ d31d499dedea Pull complete 
+ worker Pulled 
+ ad921d49f1c2 Extracting [==================================================>]  11.31MB/11.31MB
+ ad921d49f1c2 Extracting [==================================================>]  11.31MB/11.31MB
+ ad921d49f1c2 Pull complete 
+ ad921d49f1c2 Pull complete 
+ 7935493aafa7 Extracting [==================================================>]      95B/95B
+ 7935493aafa7 Extracting [==================================================>]      95B/95B
+ 7935493aafa7 Extracting [==================================================>]      95B/95B
+ 7935493aafa7 Extracting [==================================================>]      95B/95B
+ 7935493aafa7 Pull complete 
+ 7935493aafa7 Pull complete 
+ 2211bc1876f2 Extracting [>                                                  ]  360.4kB/33.45MB
+ 2211bc1876f2 Extracting [>                                                  ]  360.4kB/33.45MB
+ 2211bc1876f2 Extracting [=======>                                           ]  5.046MB/33.45MB
+ 2211bc1876f2 Extracting [=======>                                           ]  5.046MB/33.45MB
+ 2211bc1876f2 Extracting [==========>                                        ]  6.849MB/33.45MB
+ 2211bc1876f2 Extracting [==========>                                        ]  6.849MB/33.45MB
+ 2211bc1876f2 Extracting [===============>                                   ]  10.09MB/33.45MB
+ 2211bc1876f2 Extracting [===============>                                   ]  10.09MB/33.45MB
+ 2211bc1876f2 Extracting [=========================>                         ]   17.3MB/33.45MB
+ 2211bc1876f2 Extracting [=========================>                         ]   17.3MB/33.45MB
+ 2211bc1876f2 Extracting [==========================>                        ]  18.02MB/33.45MB
+ 2211bc1876f2 Extracting [==========================>                        ]  18.02MB/33.45MB
+ 2211bc1876f2 Extracting [============================================>      ]  29.56MB/33.45MB
+ 2211bc1876f2 Extracting [============================================>      ]  29.56MB/33.45MB
+ 2211bc1876f2 Extracting [==================================================>]  33.45MB/33.45MB
+ 2211bc1876f2 Extracting [==================================================>]  33.45MB/33.45MB
+ 2211bc1876f2 Pull complete 
+ 2211bc1876f2 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 3c2c93108d7e Extracting [>                                                  ]  262.1kB/23.28MB
+ 3c2c93108d7e Extracting [>                                                  ]  262.1kB/23.28MB
+ 3c2c93108d7e Extracting [=====================>                             ]  9.961MB/23.28MB
+ 3c2c93108d7e Extracting [=====================>                             ]  9.961MB/23.28MB
+ 3c2c93108d7e Extracting [=============================================>     ]  20.97MB/23.28MB
+ 3c2c93108d7e Extracting [=============================================>     ]  20.97MB/23.28MB
+ 3c2c93108d7e Extracting [==================================================>]  23.28MB/23.28MB
+ 3c2c93108d7e Extracting [==================================================>]  23.28MB/23.28MB
+ 3c2c93108d7e Pull complete 
+ 3c2c93108d7e Pull complete 
+ backend2 Pulled 
+ backend1 Pulled 
  Network ricardo-dotnet_backend  Creating
  Network ricardo-dotnet_backend  Created
  Container cache  Creating
  Container cache  Created
- Container backend2  Creating
  Container backend1  Creating
+ Container backend2  Creating
  Container backend1  Created
  Container backend2  Created
  Container rinha-nginx  Creating
  Container worker  Creating
- Container worker  Created
  Container rinha-nginx  Created
+ Container worker  Created
 Attaching to backend1, backend2, cache, rinha-nginx, worker
 cache  | Starting Redis Server
-cache  | 1:C 19 Aug 2025 14:52:39.183 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-cache  | 1:C 19 Aug 2025 14:52:39.183 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-cache  | 1:C 19 Aug 2025 14:52:39.183 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-cache  | 1:C 19 Aug 2025 14:52:39.183 * Configuration loaded
-cache  | 1:M 19 Aug 2025 14:52:39.184 * monotonic clock: POSIX clock_gettime
-cache  | 1:M 19 Aug 2025 14:52:39.185 * Running mode=standalone, port=6379.
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> Registering configuration options: [
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> 	{ bf-error-rate       :      0.01 }
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> 	{ bf-initial-size     :       100 }
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> 	{ bf-expansion-factor :         2 }
-cache  | 1:M 19 Aug 2025 14:52:39.186 * <bf> 	{ cf-bucket-size      :         2 }
-cache  | 1:M 19 Aug 2025 14:52:39.187 * <bf> 	{ cf-initial-size     :      1024 }
-cache  | 1:M 19 Aug 2025 14:52:39.187 * <bf> 	{ cf-max-iterations   :        20 }
-cache  | 1:M 19 Aug 2025 14:52:39.187 * <bf> 	{ cf-expansion-factor :         1 }
-cache  | 1:M 19 Aug 2025 14:52:39.187 * <bf> 	{ cf-max-expansions   :        32 }
-cache  | 1:M 19 Aug 2025 14:52:39.187 * <bf> ]
-cache  | 1:M 19 Aug 2025 14:52:39.187 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-cache  | 1:M 19 Aug 2025 14:52:39.192 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-cache  | 1:M 19 Aug 2025 14:52:39.193 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-cache  | 1:M 19 Aug 2025 14:52:39.193 * <search> Low level api version 1 initialized successfully
-cache  | 1:M 19 Aug 2025 14:52:39.193 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-cache  | 1:M 19 Aug 2025 14:52:39.193 * <search> Initialized thread pools!
-cache  | 1:M 19 Aug 2025 14:52:39.193 * <search> Disabled workers threadpool of size 0
-cache  | 1:M 19 Aug 2025 14:52:39.194 * <search> Subscribe to config changes
-cache  | 1:M 19 Aug 2025 14:52:39.194 * <search> Enabled role change notification
-cache  | 1:M 19 Aug 2025 14:52:39.194 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-cache  | 1:M 19 Aug 2025 14:52:39.194 * <search> Register write commands
-cache  | 1:M 19 Aug 2025 14:52:39.195 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> Registering configuration options: [
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-compaction-policy   :              }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-num-threads         :            3 }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-retention-policy    :            0 }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-duplicate-policy    :        block }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-encoding            :   compressed }
-cache  | 1:M 19 Aug 2025 14:52:39.196 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-cache  | 1:M 19 Aug 2025 14:52:39.197 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-cache  | 1:M 19 Aug 2025 14:52:39.197 * <timeseries> ]
-cache  | 1:M 19 Aug 2025 14:52:39.197 * <timeseries> Detected redis oss
-cache  | 1:M 19 Aug 2025 14:52:39.197 * <timeseries> Enabled diskless replication
-cache  | 1:M 19 Aug 2025 14:52:39.197 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-cache  | 1:M 19 Aug 2025 14:52:39.197 * <ReJSON> Created new data type 'ReJSON-RL'
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Exported RedisJSON_V1 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Exported RedisJSON_V2 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Exported RedisJSON_V3 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Exported RedisJSON_V4 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Exported RedisJSON_V5 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Enabled diskless replication
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <ReJSON> Initialized shared string cache, thread safe: false.
-cache  | 1:M 19 Aug 2025 14:52:39.198 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-cache  | 1:M 19 Aug 2025 14:52:39.198 * <search> Acquired RedisJSON_V5 API
-cache  | 1:M 19 Aug 2025 14:52:39.198 * Server initialized
-cache  | 1:M 19 Aug 2025 14:52:39.199 * Ready to accept connections tcp
+cache  | 1:C 21 Aug 2025 17:22:32.041 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+cache  | 1:C 21 Aug 2025 17:22:32.041 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+cache  | 1:C 21 Aug 2025 17:22:32.041 * Redis version=8.2.1, bits=64, commit=00000000, modified=1, pid=1, just started
+cache  | 1:C 21 Aug 2025 17:22:32.041 * Configuration loaded
+cache  | 1:M 21 Aug 2025 17:22:32.041 * monotonic clock: POSIX clock_gettime
+cache  | 1:M 21 Aug 2025 17:22:32.042 * Running mode=standalone, port=6379.
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> RedisBloom version 8.2.0 (Git=unknown)
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> Registering configuration options: [
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ bf-error-rate       :      0.01 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ bf-initial-size     :       100 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ bf-expansion-factor :         2 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ cf-bucket-size      :         2 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ cf-initial-size     :      1024 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ cf-max-iterations   :        20 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ cf-expansion-factor :         1 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> 	{ cf-max-expansions   :        32 }
+cache  | 1:M 21 Aug 2025 17:22:32.042 * <bf> ]
+cache  | 1:M 21 Aug 2025 17:22:32.043 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Redis version found by RedisSearch : 8.2.1 - oss
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> RediSearch version 8.2.1 (Git=dba8dd0)
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Low level api version 1 initialized successfully
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Initialized thread pools!
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Disabled workers threadpool of size 0
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Subscribe to config changes
+cache  | 1:M 21 Aug 2025 17:22:32.045 * <search> Enabled role change notification
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <search> Register write commands
+cache  | 1:M 21 Aug 2025 17:22:32.046 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> Redis version found by RedisTimeSeries : 8.2.1 - oss
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> Registering configuration options: [
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-compaction-policy   :              }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-num-threads         :            3 }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-retention-policy    :            0 }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-duplicate-policy    :        block }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-encoding            :   compressed }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> ]
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> Detected redis oss
+cache  | 1:M 21 Aug 2025 17:22:32.046 * <timeseries> Enabled diskless replication
+cache  | 1:M 21 Aug 2025 17:22:32.046 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Created new data type 'ReJSON-RL'
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> version: 80200 git sha: unknown branch: unknown
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Exported RedisJSON_V1 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Exported RedisJSON_V2 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Exported RedisJSON_V3 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Exported RedisJSON_V4 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Exported RedisJSON_V5 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Enabled diskless replication
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <ReJSON> Initialized shared string cache, thread safe: false.
+cache  | 1:M 21 Aug 2025 17:22:32.047 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
+cache  | 1:M 21 Aug 2025 17:22:32.047 * <search> Acquired RedisJSON_V5 API
+cache  | 1:M 21 Aug 2025 17:22:32.047 * Server initialized
+cache  | 1:M 21 Aug 2025 17:22:32.047 * Ready to accept connections tcp
 backend2  | info: Microsoft.Hosting.Lifetime[14]
 backend2  |       Now listening on: http://[::]:8080
 backend2  | info: Microsoft.Hosting.Lifetime[0]
@@ -106,253 +593,189 @@ worker       |       Start processing HTTP request GET http://payment-processor-
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 97.7711ms - 200
+worker       |       Received HTTP response headers after 60.5408ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 122.2191ms - 200
+worker       |       End processing HTTP request after 141.15ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 4.0918ms - 200
+worker       |       Received HTTP response headers after 74.5656ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 4.1845ms - 200
+worker       |       End processing HTTP request after 74.6809ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 42.1797ms - 200
+worker       |       Received HTTP response headers after 1.4537ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 42.273ms - 200
+worker       |       End processing HTTP request after 1.5209ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.2709ms - 200
+worker       |       Received HTTP response headers after 10.8999ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3448ms - 200
+worker       |       End processing HTTP request after 10.9589ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 95.4076ms - 200
+worker       |       Received HTTP response headers after 0.4195ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 95.5259ms - 200
+worker       |       End processing HTTP request after 0.5212ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.2537ms - 200
+worker       |       Received HTTP response headers after 0.3829ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3113ms - 200
+worker       |       End processing HTTP request after 0.4563ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 97.8276ms - 200
+worker       |       Received HTTP response headers after 0.682ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 97.9223ms - 200
+worker       |       End processing HTTP request after 0.7757ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3193ms - 200
+worker       |       Received HTTP response headers after 0.3159ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.379ms - 200
+worker       |       End processing HTTP request after 0.3833ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.5496ms - 200
+worker       |       Received HTTP response headers after 0.4653ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.649ms - 200
+worker       |       End processing HTTP request after 0.5463ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.2474ms - 200
+worker       |       Received HTTP response headers after 0.2181ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3175ms - 200
+worker       |       End processing HTTP request after 0.2687ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.4372ms - 200
+worker       |       Received HTTP response headers after 0.5171ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.5181ms - 200
+worker       |       End processing HTTP request after 0.6061ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3003ms - 200
+worker       |       Received HTTP response headers after 80.9093ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3587ms - 200
+worker       |       End processing HTTP request after 80.9991ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 58.8811ms - 200
+worker       |       Received HTTP response headers after 0.3072ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 60.7879ms - 200
+worker       |       End processing HTTP request after 0.3943ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.4563ms - 200
+worker       |       Received HTTP response headers after 0.2717ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.5373ms - 200
+worker       |       End processing HTTP request after 0.3358ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 99.2613ms - 200
+worker       |       Received HTTP response headers after 0.4696ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 99.3629ms - 200
+worker       |       End processing HTTP request after 0.5528ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.4345ms - 200
+worker       |       Received HTTP response headers after 94.147ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.4867ms - 200
+worker       |       End processing HTTP request after 94.2067ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 97.3814ms - 200
+worker       |       Received HTTP response headers after 0.5858ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 97.4976ms - 200
+worker       |       End processing HTTP request after 0.6594ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3859ms - 200
+worker       |       Received HTTP response headers after 96.9208ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.6163ms - 200
+worker       |       End processing HTTP request after 96.9739ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 64.4086ms - 200
+worker       |       Received HTTP response headers after 0.5913ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 64.5906ms - 200
+worker       |       End processing HTTP request after 0.693ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3712ms - 200
+worker       |       Received HTTP response headers after 0.5241ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.415ms - 200
+worker       |       End processing HTTP request after 0.5997ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.5429ms - 200
+worker       |       Received HTTP response headers after 0.3212ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.6106ms - 200
+worker       |       End processing HTTP request after 0.72ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
 worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
 worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.2886ms - 200
+worker       |       Received HTTP response headers after 0.3579ms - 200
 worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3316ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 96.3996ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 96.4971ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3063ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3502ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3198ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3824ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.277ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3276ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.3066ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3714ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.2982ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.3569ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-default:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 92.3655ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 92.4826ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[100]
-worker       |       Start processing HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[100]
-worker       |       Sending HTTP request GET http://payment-processor-fallback:8080/payments/service-health
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.ClientHandler[101]
-worker       |       Received HTTP response headers after 0.4228ms - 200
-worker       | info: System.Net.Http.HttpClient.IHttpFacade<HealthCheck>.LogicalHandler[101]
-worker       |       End processing HTTP request after 0.4954ms - 200
+worker       |       End processing HTTP request after 0.4056ms - 200
 worker       | info: Microsoft.Hosting.Lifetime[0]
 worker       |       Application is shutting down...
-[Krinha-nginx exited with code 0
 [Kworker exited with code 0
-backend1     | info: Microsoft.Hosting.Lifetime[0]
-backend1     |       Application is shutting down...
+[Krinha-nginx exited with code 0
 backend2     | info: Microsoft.Hosting.Lifetime[0]
 backend2     |       Application is shutting down...
-[Kbackend1 exited with code 0
+backend1     | info: Microsoft.Hosting.Lifetime[0]
+backend1     |       Application is shutting down...
 [Kbackend2 exited with code 0
-cache        | 1:signal-handler (1755615234) Received SIGTERM scheduling shutdown...
-cache        | 1:M 19 Aug 2025 14:53:54.087 * User requested shutdown...
-cache        | 1:M 19 Aug 2025 14:53:54.087 * Saving the final RDB snapshot before exiting.
-cache        | 1:M 19 Aug 2025 14:53:54.093 * DB saved on disk
-cache        | 1:M 19 Aug 2025 14:53:54.093 # Redis is now ready to exit, bye bye...
+[Kbackend1 exited with code 0
+cache        | 1:signal-handler (1755797008) Received SIGTERM scheduling shutdown...
+cache        | 1:M 21 Aug 2025 17:23:28.776 * User requested shutdown...
+cache        | 1:M 21 Aug 2025 17:23:28.776 * Saving the final RDB snapshot before exiting.
+cache        | 1:M 21 Aug 2025 17:23:28.782 * DB saved on disk
+cache        | 1:M 21 Aug 2025 17:23:28.782 # Redis is now ready to exit, bye bye...

@@ -1,21 +1,169 @@
 
+ app1 Pulling 
+ app2 Pulling 
+ nginx Pulling 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ b1badc6e5066 Downloading [>                                                  ]  282.6kB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [>                                                  ]  446.5kB/44.07MB
+ b1badc6e5066 Downloading [======>                                            ]   3.49MB/28.23MB
+ a2da0c0f2353 Downloading [=======>                                           ]  6.685MB/44.07MB
+ b1badc6e5066 Downloading [=========>                                         ]  5.243MB/28.23MB
+ a2da0c0f2353 Downloading [==============>                                    ]  12.93MB/44.07MB
+ b1badc6e5066 Downloading [============>                                      ]  7.012MB/28.23MB
+ a2da0c0f2353 Downloading [====================>                              ]  17.84MB/44.07MB
+ b1badc6e5066 Downloading [==============>                                    ]  8.192MB/28.23MB
+ fe07684b16b8 Pulling fs layer 
+ 830c926b8919 Pulling fs layer 
+ bd7f74010097 Pulling fs layer 
+ fe07684b16b8 Waiting 
+ bd7f74010097 Waiting 
+ 830c926b8919 Waiting 
+ a2da0c0f2353 Downloading [============================>                      ]  25.44MB/44.07MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ a2da0c0f2353 Downloading [================================>                  ]     29MB/44.07MB
+ b1badc6e5066 Downloading [=================>                                 ]   9.65MB/28.23MB
+ b1badc6e5066 Downloading [====================>                              ]  11.42MB/28.23MB
+ a2da0c0f2353 Downloading [=====================================>             ]  33.44MB/44.07MB
+ b1badc6e5066 Downloading [======================>                            ]   12.6MB/28.23MB
+ a2da0c0f2353 Downloading [=============================================>     ]  40.11MB/44.07MB
+ fe07684b16b8 Pulling fs layer 
+ 830c926b8919 Pulling fs layer 
+ bd7f74010097 Pulling fs layer 
+ bd7f74010097 Waiting 
+ fe07684b16b8 Waiting 
+ 830c926b8919 Waiting 
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ b1badc6e5066 Downloading [========================>                          ]  13.77MB/28.23MB
+ b1badc6e5066 Downloading [==========================>                        ]  14.93MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Downloading [============================>                      ]  15.81MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]   16.4MB/28.23MB
+ b1badc6e5066 Downloading [================================>                  ]  18.15MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ b1badc6e5066 Downloading [===================================>               ]  19.87MB/28.23MB
+ b1badc6e5066 Downloading [=======================================>           ]  22.48MB/28.23MB
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Downloading [===========================================>       ]  24.53MB/28.23MB
+ b1badc6e5066 Downloading [================================================>  ]  27.15MB/28.23MB
+ fe07684b16b8 Downloading [>                                                  ]  38.27kB/3.797MB
+ fe07684b16b8 Downloading [>                                                  ]  38.27kB/3.797MB
+ fe07684b16b8 Download complete 
+ fe07684b16b8 Verifying Checksum 
+ fe07684b16b8 Download complete 
+ fe07684b16b8 Extracting [>                                                  ]  65.54kB/3.797MB
+ fe07684b16b8 Extracting [>                                                  ]  65.54kB/3.797MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ fe07684b16b8 Extracting [==================================>                ]  2.621MB/3.797MB
+ fe07684b16b8 Extracting [==================================>                ]  2.621MB/3.797MB
+ fe07684b16b8 Extracting [==================================================>]  3.797MB/3.797MB
+ fe07684b16b8 Extracting [==================================================>]  3.797MB/3.797MB
+ fe07684b16b8 Extracting [==================================================>]  3.797MB/3.797MB
+ fe07684b16b8 Extracting [==================================================>]  3.797MB/3.797MB
+ fe07684b16b8 Pull complete 
+ fe07684b16b8 Pull complete 
+ b1badc6e5066 Extracting [========>                                          ]  4.719MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ b1badc6e5066 Extracting [=================================>                 ]  18.87MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ 830c926b8919 Downloading [==================================================>]      93B/93B
+ 830c926b8919 Download complete 
+ 830c926b8919 Verifying Checksum 
+ 830c926b8919 Download complete 
+ 830c926b8919 Extracting [==================================================>]      93B/93B
+ 830c926b8919 Extracting [==================================================>]      93B/93B
+ 830c926b8919 Extracting [==================================================>]      93B/93B
+ 830c926b8919 Extracting [==================================================>]      93B/93B
+ 830c926b8919 Pull complete 
+ 830c926b8919 Pull complete 
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ bd7f74010097 Downloading [>                                                  ]  54.79kB/5.423MB
+ bd7f74010097 Downloading [>                                                  ]  54.79kB/5.423MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ bd7f74010097 Downloading [==================>                                ]  1.982MB/5.423MB
+ bd7f74010097 Downloading [==================>                                ]  1.982MB/5.423MB
+ bd7f74010097 Downloading [==============================================>    ]   5.03MB/5.423MB
+ bd7f74010097 Downloading [==============================================>    ]   5.03MB/5.423MB
+ bd7f74010097 Verifying Checksum 
+ bd7f74010097 Download complete 
+ bd7f74010097 Verifying Checksum 
+ bd7f74010097 Download complete 
+ bd7f74010097 Extracting [>                                                  ]  65.54kB/5.423MB
+ bd7f74010097 Extracting [>                                                  ]  65.54kB/5.423MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ bd7f74010097 Extracting [==================================================>]  5.423MB/5.423MB
+ bd7f74010097 Extracting [==================================================>]  5.423MB/5.423MB
+ bd7f74010097 Pull complete 
+ bd7f74010097 Pull complete 
+ b1badc6e5066 Pull complete 
+ app2 Pulled 
+ app1 Pulled 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
+ a2da0c0f2353 Extracting [================>                                  ]  14.68MB/44.07MB
+ a2da0c0f2353 Extracting [===========================>                       ]  23.86MB/44.07MB
+ a2da0c0f2353 Extracting [====================================>              ]  32.57MB/44.07MB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.54MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
  Network willzada-agorinha_backend  Creating
  Network willzada-agorinha_backend  Created
  Volume "willzada-agorinha_rinha-store"  Creating
  Volume "willzada-agorinha_rinha-store"  Created
- Container willzada-agorinha-app2-1  Creating
  Container willzada-agorinha-app1-1  Creating
+ Container willzada-agorinha-app2-1  Creating
  Container willzada-agorinha-app2-1  Created
  Container willzada-agorinha-app1-1  Created
  Container willzada-agorinha-nginx-1  Creating
  Container willzada-agorinha-nginx-1  Created
 Attaching to app1-1, app2-1, nginx-1
 app1-1  | Default Processor URL:  http://payment-processor-default:8080
+app1-1  | Fallback Processor URL: http://payment-processor-fallback:8080
+app1-1  | 2025/08/21 20:24:39 Serve running on :9999
 app2-1  | Default Processor URL:  http://payment-processor-default:8080
 app2-1  | Fallback Processor URL: http://payment-processor-fallback:8080
-app1-1  | Fallback Processor URL: http://payment-processor-fallback:8080
-app1-1  | 2025/08/19 21:21:55 Serve running on :9999
-app2-1  | 2025/08/19 21:21:55 Serve running on :9999
+app2-1  | 2025/08/21 20:24:39 Serve running on :9999
 nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -25,977 +173,829 @@ nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolve
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:30 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:31 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:32 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:33 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:34 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app1-1   | 2025/08/19 21:24:35 Failed to process payment: client error: 500
-app2-1   | 2025/08/19 21:24:35 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:16 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:17 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:18 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:19 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:20 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:21 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
+app2-1   | 2025/08/21 20:27:22 Queue full, payment discarded
 log truncated at line 1000

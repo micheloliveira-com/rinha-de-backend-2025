@@ -1,4 +1,426 @@
 
+ rinhabackend Pulling 
+ rinhabackend-2 Pulling 
+ load-balancer Pulling 
+ redis Pulling 
+ postgres Pulling 
+ 0368fd46e3c6 Already exists 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ f22261c94fe4 Waiting 
+ 6f34ca96de3f Waiting 
+ 4f4fb700ef54 Waiting 
+ 63edde0222ea Waiting 
+ 0670596c9dd1 Pulling fs layer 
+ b2683b5bf4e2 Pulling fs layer 
+ 4a805e037314 Pulling fs layer 
+ 6f730f3f37cf Pulling fs layer 
+ f7ee2846e40e Pulling fs layer 
+ 7fc59183e44c Pulling fs layer 
+ a4851bce39e4 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a5c1e1df39ba Pulling fs layer 
+ 0670596c9dd1 Waiting 
+ b2683b5bf4e2 Waiting 
+ 7fc59183e44c Waiting 
+ 4a805e037314 Waiting 
+ a4851bce39e4 Waiting 
+ 4f4fb700ef54 Waiting 
+ 6f730f3f37cf Waiting 
+ f7ee2846e40e Waiting 
+ a5c1e1df39ba Waiting 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ d4bca490e609 Waiting 
+ 4abcf2066143 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ e6ef242c1570 Waiting 
+ fc21a1d387f5 Waiting 
+ 13fcfbc94648 Waiting 
+ 0368fd46e3c6 Already exists 
+ 0670596c9dd1 Pulling fs layer 
+ b2683b5bf4e2 Pulling fs layer 
+ 4a805e037314 Pulling fs layer 
+ 6f730f3f37cf Pulling fs layer 
+ f7ee2846e40e Pulling fs layer 
+ 7fc59183e44c Pulling fs layer 
+ a4851bce39e4 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a5c1e1df39ba Pulling fs layer 
+ 4a805e037314 Waiting 
+ 0670596c9dd1 Waiting 
+ b2683b5bf4e2 Waiting 
+ a5c1e1df39ba Waiting 
+ 7fc59183e44c Waiting 
+ a4851bce39e4 Waiting 
+ 6f730f3f37cf Waiting 
+ 4f4fb700ef54 Waiting 
+ f7ee2846e40e Waiting 
+ 9824c27679d3 Already exists 
+ 01ef787617d5 Pulling fs layer 
+ d444581c5dc1 Pulling fs layer 
+ 127625cab66d Pulling fs layer 
+ 7f8bf47818a2 Pulling fs layer 
+ 0951477387e1 Pulling fs layer 
+ 878e28e3ecd5 Pulling fs layer 
+ d079e32a74cc Pulling fs layer 
+ cb87d3c01966 Pulling fs layer 
+ 40af0ccd9733 Pulling fs layer 
+ 01ef787617d5 Waiting 
+ d444581c5dc1 Waiting 
+ 7f8bf47818a2 Waiting 
+ 0951477387e1 Waiting 
+ 0b003ba20c51 Pulling fs layer 
+ 878e28e3ecd5 Waiting 
+ d079e32a74cc Waiting 
+ 127625cab66d Waiting 
+ cb87d3c01966 Waiting 
+ 0b003ba20c51 Waiting 
+ 40af0ccd9733 Waiting 
+ e51f60c71d8e Downloading [===============================================>   ]  1.049kB/1.103kB
+ e51f60c71d8e Downloading [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Verifying Checksum 
+ e51f60c71d8e Download complete 
+ 311d9cf20af5 Download complete 
+ b1badc6e5066 Downloading [>                                                  ]  282.6kB/28.23MB
+ b1badc6e5066 Downloading [============>                                      ]   6.91MB/28.23MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.45MB/28.23MB
+ b1badc6e5066 Downloading [=============================>                     ]  16.79MB/28.23MB
+ b1badc6e5066 Downloading [========================================>          ]  22.86MB/28.23MB
+ f22261c94fe4 Downloading [>                                                  ]  250.5kB/24.19MB
+ b1badc6e5066 Verifying Checksum 
+ b1badc6e5066 Download complete 
+ 6f34ca96de3f Downloading [==================================================>]      97B/97B
+ 6f34ca96de3f Verifying Checksum 
+ 6f34ca96de3f Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ f22261c94fe4 Downloading [===============>                                   ]  7.258MB/24.19MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ f22261c94fe4 Downloading [===================>                               ]  9.531MB/24.19MB
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ f22261c94fe4 Downloading [===================================>               ]  17.29MB/24.19MB
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ f22261c94fe4 Verifying Checksum 
+ f22261c94fe4 Download complete 
+ b1badc6e5066 Extracting [================================>                  ]  18.58MB/28.23MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 63edde0222ea Downloading [========================>                          ]  1.049kB/2.117kB
+ 63edde0222ea Downloading [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Verifying Checksum 
+ 63edde0222ea Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ 0670596c9dd1 Downloading [>                                                  ]  11.88kB/1.064MB
+ 0670596c9dd1 Downloading [>                                                  ]  11.88kB/1.064MB
+ 0670596c9dd1 Download complete 
+ 0670596c9dd1 Download complete 
+ 0670596c9dd1 Extracting [=>                                                 ]  32.77kB/1.064MB
+ 0670596c9dd1 Extracting [=>                                                 ]  32.77kB/1.064MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Extracting [==================================================>]  1.064MB/1.064MB
+ 0670596c9dd1 Pull complete 
+ 0670596c9dd1 Pull complete 
+ 4a805e037314 Downloading [>                                                  ]  348.2kB/34.57MB
+ 4a805e037314 Downloading [>                                                  ]  348.2kB/34.57MB
+ b2683b5bf4e2 Downloading [=================================================> ]     934B/946B
+ b2683b5bf4e2 Downloading [=================================================> ]     934B/946B
+ b2683b5bf4e2 Downloading [==================================================>]     946B/946B
+ b2683b5bf4e2 Download complete 
+ b2683b5bf4e2 Verifying Checksum 
+ b2683b5bf4e2 Download complete 
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ b2683b5bf4e2 Extracting [==================================================>]     946B/946B
+ 4a805e037314 Downloading [=================>                                 ]  12.38MB/34.57MB
+ 4a805e037314 Downloading [=================>                                 ]  12.38MB/34.57MB
+ b2683b5bf4e2 Pull complete 
+ b2683b5bf4e2 Pull complete 
+ 4a805e037314 Downloading [=============================>                     ]  20.17MB/34.57MB
+ 4a805e037314 Downloading [=============================>                     ]  20.17MB/34.57MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ 6f730f3f37cf Downloading [==================================================>]     153B/153B
+ 6f730f3f37cf Download complete 
+ 6f730f3f37cf Downloading [==================================================>]     153B/153B
+ 6f730f3f37cf Download complete 
+ 4a805e037314 Downloading [==========================================>        ]  29.36MB/34.57MB
+ 4a805e037314 Downloading [==========================================>        ]  29.36MB/34.57MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ 4a805e037314 Verifying Checksum 
+ 4a805e037314 Download complete 
+ 4a805e037314 Download complete 
+ 4a805e037314 Extracting [>                                                  ]  360.4kB/34.57MB
+ 4a805e037314 Extracting [>                                                  ]  360.4kB/34.57MB
+ b1badc6e5066 Pull complete 
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ f7ee2846e40e Downloading [>                                                  ]  114.8kB/11.31MB
+ f7ee2846e40e Downloading [>                                                  ]  114.8kB/11.31MB
+ e51f60c71d8e Pull complete 
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 4a805e037314 Extracting [==========>                                        ]  7.209MB/34.57MB
+ 4a805e037314 Extracting [==========>                                        ]  7.209MB/34.57MB
+ 311d9cf20af5 Pull complete 
+ f7ee2846e40e Verifying Checksum 
+ f7ee2846e40e Download complete 
+ f7ee2846e40e Verifying Checksum 
+ f7ee2846e40e Download complete 
+ f22261c94fe4 Extracting [>                                                  ]  262.1kB/24.19MB
+ 4a805e037314 Extracting [====================>                              ]  14.06MB/34.57MB
+ 4a805e037314 Extracting [====================>                              ]  14.06MB/34.57MB
+ f22261c94fe4 Extracting [==============>                                    ]  6.816MB/24.19MB
+ 7fc59183e44c Downloading [>                                                  ]  48.64kB/4.789MB
+ 7fc59183e44c Downloading [>                                                  ]  48.64kB/4.789MB
+ 7fc59183e44c Verifying Checksum 
+ 7fc59183e44c Download complete 
+ 7fc59183e44c Verifying Checksum 
+ 7fc59183e44c Download complete 
+ 4a805e037314 Extracting [==============================>                    ]  20.91MB/34.57MB
+ 4a805e037314 Extracting [==============================>                    ]  20.91MB/34.57MB
+ f22261c94fe4 Extracting [===========================>                       ]  13.37MB/24.19MB
+ a4851bce39e4 Download complete 
+ a4851bce39e4 Downloading [==================================================>]      96B/96B
+ 4a805e037314 Extracting [=======================================>           ]  27.39MB/34.57MB
+ 4a805e037314 Extracting [=======================================>           ]  27.39MB/34.57MB
+ f22261c94fe4 Extracting [========================================>          ]  19.66MB/24.19MB
+ 4a805e037314 Extracting [=================================================> ]  34.24MB/34.57MB
+ 4a805e037314 Extracting [=================================================> ]  34.24MB/34.57MB
+ 4a805e037314 Extracting [==================================================>]  34.57MB/34.57MB
+ 4a805e037314 Extracting [==================================================>]  34.57MB/34.57MB
+ f22261c94fe4 Extracting [==================================================>]  24.19MB/24.19MB
+ 4a805e037314 Pull complete 
+ 4a805e037314 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Download complete 
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ 6f730f3f37cf Extracting [==================================================>]     153B/153B
+ f22261c94fe4 Pull complete 
+ 6f730f3f37cf Pull complete 
+ 6f730f3f37cf Pull complete 
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ f7ee2846e40e Extracting [>                                                  ]  131.1kB/11.31MB
+ f7ee2846e40e Extracting [>                                                  ]  131.1kB/11.31MB
+ 6f34ca96de3f Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Pull complete 
+ f7ee2846e40e Extracting [========================>                          ]  5.636MB/11.31MB
+ f7ee2846e40e Extracting [========================>                          ]  5.636MB/11.31MB
+ redis Pulled 
+ a5c1e1df39ba Downloading [>                                                  ]  123.6kB/12.17MB
+ a5c1e1df39ba Downloading [>                                                  ]  123.6kB/12.17MB
+ f7ee2846e40e Extracting [==================================================>]  11.31MB/11.31MB
+ f7ee2846e40e Extracting [==================================================>]  11.31MB/11.31MB
+ f7ee2846e40e Pull complete 
+ f7ee2846e40e Pull complete 
+ 7fc59183e44c Extracting [>                                                  ]  65.54kB/4.789MB
+ 7fc59183e44c Extracting [>                                                  ]  65.54kB/4.789MB
+ a5c1e1df39ba Downloading [=================>                                 ]  4.316MB/12.17MB
+ a5c1e1df39ba Downloading [=================>                                 ]  4.316MB/12.17MB
+ 7fc59183e44c Extracting [==================================================>]  4.789MB/4.789MB
+ 7fc59183e44c Extracting [==================================================>]  4.789MB/4.789MB
+ 7fc59183e44c Pull complete 
+ 7fc59183e44c Pull complete 
+ a4851bce39e4 Extracting [==================================================>]      96B/96B
+ a4851bce39e4 Extracting [==================================================>]      96B/96B
+ a4851bce39e4 Extracting [==================================================>]      96B/96B
+ a4851bce39e4 Extracting [==================================================>]      96B/96B
+ a4851bce39e4 Pull complete 
+ a4851bce39e4 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4abcf2066143 Downloading [>                                                  ]  34.16kB/3.409MB
+ a5c1e1df39ba Downloading [=====================================>             ]  9.243MB/12.17MB
+ a5c1e1df39ba Downloading [=====================================>             ]  9.243MB/12.17MB
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4abcf2066143 Verifying Checksum 
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ a5c1e1df39ba Verifying Checksum 
+ a5c1e1df39ba Download complete 
+ a5c1e1df39ba Download complete 
+ a5c1e1df39ba Extracting [>                                                  ]  131.1kB/12.17MB
+ a5c1e1df39ba Extracting [>                                                  ]  131.1kB/12.17MB
+ fc21a1d387f5 Downloading [>                                                  ]  40.57kB/3.985MB
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ a5c1e1df39ba Extracting [=========================>                         ]   6.16MB/12.17MB
+ a5c1e1df39ba Extracting [=========================>                         ]   6.16MB/12.17MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ a5c1e1df39ba Extracting [==================================================>]  12.17MB/12.17MB
+ a5c1e1df39ba Extracting [==================================================>]  12.17MB/12.17MB
+ a5c1e1df39ba Pull complete 
+ a5c1e1df39ba Pull complete 
+ rinhabackend Pulled 
+ rinhabackend-2 Pulled 
+ fc21a1d387f5 Extracting [=================================================> ]  3.932MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ fc21a1d387f5 Pull complete 
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Download complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Verifying Checksum 
+ d4bca490e609 Download complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 8a3742a9529d Downloading [=====================================>             ]  1.049kB/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Download complete 
+ 5406ed7b06d9 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Verifying Checksum 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [>                                                  ]  131.1kB/13.04MB
+ 0d0c16747d2c Downloading [============>                                      ]  3.211MB/13.04MB
+ 0d0c16747d2c Downloading [===========================>                       ]  7.078MB/13.04MB
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ 01ef787617d5 Downloading [==================================================>]     968B/968B
+ 01ef787617d5 Verifying Checksum 
+ 01ef787617d5 Download complete 
+ 01ef787617d5 Extracting [==================================================>]     968B/968B
+ 01ef787617d5 Extracting [==================================================>]     968B/968B
+ 0d0c16747d2c Extracting [=========>                                         ]  2.359MB/13.04MB
+ d444581c5dc1 Downloading [>                                                  ]     12kB/1.116MB
+ 01ef787617d5 Pull complete 
+ d444581c5dc1 Verifying Checksum 
+ d444581c5dc1 Download complete 
+ d444581c5dc1 Extracting [=>                                                 ]  32.77kB/1.116MB
+ d444581c5dc1 Extracting [==================================================>]  1.116MB/1.116MB
+ d444581c5dc1 Pull complete 
+ 0d0c16747d2c Extracting [====================================>              ]  9.568MB/13.04MB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ 0d0c16747d2c Pull complete 
+ load-balancer Pulled 
+ 127625cab66d Downloading [==================================================>]     174B/174B
+ 127625cab66d Verifying Checksum 
+ 127625cab66d Download complete 
+ 127625cab66d Extracting [==================================================>]     174B/174B
+ 127625cab66d Extracting [==================================================>]     174B/174B
+ 127625cab66d Pull complete 
+ 7f8bf47818a2 Downloading [==================================================>]     116B/116B
+ 7f8bf47818a2 Download complete 
+ 7f8bf47818a2 Extracting [==================================================>]     116B/116B
+ 7f8bf47818a2 Extracting [==================================================>]     116B/116B
+ 7f8bf47818a2 Pull complete 
+ 0951477387e1 Downloading [>                                                  ]  532.5kB/104.8MB
+ 0951477387e1 Downloading [===>                                               ]  8.045MB/104.8MB
+ 0951477387e1 Downloading [======>                                            ]  13.91MB/104.8MB
+ 0951477387e1 Downloading [=======>                                           ]  16.61MB/104.8MB
+ 0951477387e1 Downloading [===========>                                       ]  24.08MB/104.8MB
+ d079e32a74cc Download complete 
+ 0951477387e1 Downloading [==============>                                    ]  30.51MB/104.8MB
+ 0951477387e1 Downloading [================>                                  ]  33.73MB/104.8MB
+ 0951477387e1 Downloading [===================>                               ]  40.17MB/104.8MB
+ 0951477387e1 Downloading [======================>                            ]  47.09MB/104.8MB
+ cb87d3c01966 Download complete 
+ 0951477387e1 Downloading [========================>                          ]  50.81MB/104.8MB
+ 0951477387e1 Downloading [===========================>                       ]  58.29MB/104.8MB
+ 0951477387e1 Downloading [===============================>                   ]  66.81MB/104.8MB
+ 0951477387e1 Downloading [==================================>                ]  73.23MB/104.8MB
+ 0951477387e1 Downloading [======================================>            ]  80.19MB/104.8MB
+ 0951477387e1 Downloading [========================================>          ]  85.55MB/104.8MB
+ 40af0ccd9733 Downloading [========>                                          ]  1.049kB/5.927kB
+ 40af0ccd9733 Download complete 
+ 0951477387e1 Downloading [==========================================>        ]  88.75MB/104.8MB
+ 0951477387e1 Downloading [============================================>      ]  94.11MB/104.8MB
+ 0951477387e1 Downloading [===============================================>   ]  99.47MB/104.8MB
+ 0951477387e1 Downloading [=================================================> ]  104.3MB/104.8MB
+ 0951477387e1 Verifying Checksum 
+ 0951477387e1 Extracting [>                                                  ]  557.1kB/104.8MB
+ 0b003ba20c51 Downloading [==================================================>]     185B/185B
+ 0b003ba20c51 Verifying Checksum 
+ 0b003ba20c51 Download complete 
+ 0951477387e1 Extracting [==>                                                ]  5.014MB/104.8MB
+ 0951477387e1 Extracting [======>                                            ]  13.37MB/104.8MB
+ 0951477387e1 Extracting [==========>                                        ]  21.73MB/104.8MB
+ 0951477387e1 Extracting [==============>                                    ]  30.08MB/104.8MB
+ 0951477387e1 Extracting [==================>                                ]  38.44MB/104.8MB
+ 0951477387e1 Extracting [======================>                            ]  46.79MB/104.8MB
+ 0951477387e1 Extracting [========================>                          ]  51.81MB/104.8MB
+ 0951477387e1 Extracting [===========================>                       ]  57.93MB/104.8MB
+ 0951477387e1 Extracting [===============================>                   ]  65.18MB/104.8MB
+ 0951477387e1 Extracting [==================================>                ]  72.97MB/104.8MB
+ 0951477387e1 Extracting [===================================>               ]   75.2MB/104.8MB
+ 0951477387e1 Extracting [====================================>              ]  75.76MB/104.8MB
+ 0951477387e1 Extracting [=====================================>             ]  78.54MB/104.8MB
+ 0951477387e1 Extracting [=======================================>           ]  81.89MB/104.8MB
+ 878e28e3ecd5 Downloading [=======>                                           ]  1.369kB/9.56kB
+ 0951477387e1 Extracting [========================================>          ]  85.79MB/104.8MB
+ 878e28e3ecd5 Downloading [==================================================>]   9.56kB/9.56kB
+ 878e28e3ecd5 Verifying Checksum 
+ 878e28e3ecd5 Download complete 
+ 0951477387e1 Extracting [===========================================>       ]  90.24MB/104.8MB
+ 0951477387e1 Extracting [===========================================>       ]  91.91MB/104.8MB
+ 0951477387e1 Extracting [================================================>  ]  101.9MB/104.8MB
+ 0951477387e1 Extracting [==================================================>]  104.8MB/104.8MB
+ 0951477387e1 Pull complete 
+ 878e28e3ecd5 Extracting [==================================================>]   9.56kB/9.56kB
+ 878e28e3ecd5 Extracting [==================================================>]   9.56kB/9.56kB
+ 878e28e3ecd5 Pull complete 
+ d079e32a74cc Extracting [==================================================>]     129B/129B
+ d079e32a74cc Extracting [==================================================>]     129B/129B
+ d079e32a74cc Pull complete 
+ cb87d3c01966 Extracting [==================================================>]     169B/169B
+ cb87d3c01966 Extracting [==================================================>]     169B/169B
+ cb87d3c01966 Pull complete 
+ 40af0ccd9733 Extracting [==================================================>]  5.927kB/5.927kB
+ 40af0ccd9733 Extracting [==================================================>]  5.927kB/5.927kB
+ 40af0ccd9733 Pull complete 
+ 0b003ba20c51 Extracting [==================================================>]     185B/185B
+ 0b003ba20c51 Extracting [==================================================>]     185B/185B
+ 0b003ba20c51 Pull complete 
+ postgres Pulled 
  Network backend  Creating
  Network backend  Created
  Container lbattochio-dotnet-redis-1  Creating
@@ -26,72 +448,19 @@ postgres-1  | creating subdirectories ... ok
 postgres-1  | selecting dynamic shared memory implementation ... posix
 postgres-1  | selecting default max_connections ... 100
 redis-1     | Starting Redis Server
+redis-1     | 1:C 21 Aug 2025 16:13:28.752 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1     | 1:C 21 Aug 2025 16:13:28.752 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1     | 1:C 21 Aug 2025 16:13:28.752 * Redis version=8.2.1, bits=64, commit=00000000, modified=1, pid=1, just started
+redis-1     | 1:C 21 Aug 2025 16:13:28.752 * Configuration loaded
+redis-1     | 1:M 21 Aug 2025 16:13:28.752 * monotonic clock: POSIX clock_gettime
 postgres-1  | selecting default shared_buffers ... 128MB
-redis-1     | 1:C 19 Aug 2025 02:39:46.344 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis-1     | 1:C 19 Aug 2025 02:39:46.344 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis-1     | 1:C 19 Aug 2025 02:39:46.344 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-redis-1     | 1:C 19 Aug 2025 02:39:46.344 * Configuration loaded
-redis-1     | 1:M 19 Aug 2025 02:39:46.345 * monotonic clock: POSIX clock_gettime
-redis-1     | 1:M 19 Aug 2025 02:39:46.346 * Running mode=standalone, port=6379.
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> Registering configuration options: [
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ bf-error-rate       :      0.01 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ bf-initial-size     :       100 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ bf-expansion-factor :         2 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ cf-bucket-size      :         2 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ cf-initial-size     :      1024 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ cf-max-iterations   :        20 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ cf-expansion-factor :         1 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> 	{ cf-max-expansions   :        32 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.348 * <bf> ]
-redis-1     | 1:M 19 Aug 2025 02:39:46.429 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Low level api version 1 initialized successfully
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Initialized thread pools!
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Disabled workers threadpool of size 0
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Subscribe to config changes
-redis-1     | 1:M 19 Aug 2025 02:39:46.443 * <search> Enabled role change notification
-redis-1     | 1:M 19 Aug 2025 02:39:46.444 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-redis-1     | 1:M 19 Aug 2025 02:39:46.444 * <search> Register write commands
-redis-1     | 1:M 19 Aug 2025 02:39:46.444 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> Registering configuration options: [
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-compaction-policy   :              }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-num-threads         :            3 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-retention-policy    :            0 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-duplicate-policy    :        block }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-encoding            :   compressed }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> ]
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> Detected redis oss
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * <timeseries> Enabled diskless replication
-redis-1     | 1:M 19 Aug 2025 02:39:46.447 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Created new data type 'ReJSON-RL'
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Exported RedisJSON_V1 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Exported RedisJSON_V2 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Exported RedisJSON_V3 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Exported RedisJSON_V4 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Exported RedisJSON_V5 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Enabled diskless replication
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <ReJSON> Initialized shared string cache, thread safe: false.
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-redis-1     | 1:M 19 Aug 2025 02:39:46.452 * <search> Acquired RedisJSON_V5 API
-redis-1     | 1:M 19 Aug 2025 02:39:46.453 * Server initialized
-redis-1     | 1:M 19 Aug 2025 02:39:46.453 * Ready to accept connections tcp
 postgres-1  | selecting default time zone ... UTC
 postgres-1  | creating configuration files ... ok
 postgres-1  | running bootstrap script ... ok
 postgres-1  | sh: locale: not found
-postgres-1  | 2025-08-19 02:39:50.000 UTC [35] WARNING:  no usable system locales were found
+postgres-1  | 2025-08-21 16:13:32.638 UTC [35] WARNING:  no usable system locales were found
+[Kredis-1 exited with code 137
 postgres-1  | performing post-bootstrap initialization ... ok
-postgres-1  | initdb: warning: enabling "trust" authentication for local connections
-postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
 postgres-1  | syncing data to disk ... ok
 postgres-1  | 
 postgres-1  | 
@@ -99,10 +468,12 @@ postgres-1  | Success. You can now start the database server using:
 postgres-1  | 
 postgres-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 postgres-1  | 
-postgres-1  | waiting for server to start....2025-08-19 02:39:52.978 UTC [47] LOG:  starting PostgreSQL 16.9 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-postgres-1  | 2025-08-19 02:39:52.978 UTC [47] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-19 02:39:52.981 UTC [50] LOG:  database system was shut down at 2025-08-19 02:39:52 UTC
-postgres-1  | 2025-08-19 02:39:52.987 UTC [47] LOG:  database system is ready to accept connections
+postgres-1  | initdb: warning: enabling "trust" authentication for local connections
+postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+postgres-1  | waiting for server to start....2025-08-21 16:13:37.343 UTC [47] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 16:13:37.343 UTC [47] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 16:13:37.346 UTC [50] LOG:  database system was shut down at 2025-08-21 16:13:36 UTC
+postgres-1  | 2025-08-21 16:13:37.351 UTC [47] LOG:  database system is ready to accept connections
 postgres-1  |  done
 postgres-1  | server started
 postgres-1  | CREATE DATABASE
@@ -112,74 +483,59 @@ postgres-1  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-in
 postgres-1  | CREATE TABLE
 postgres-1  | 
 postgres-1  | 
-postgres-1  | waiting for server to shut down...2025-08-19 02:39:53.579 UTC [47] LOG:  received fast shutdown request
-postgres-1  | .2025-08-19 02:39:53.579 UTC [47] LOG:  aborting any active transactions
-postgres-1  | 2025-08-19 02:39:53.676 UTC [47] LOG:  background worker "logical replication launcher" (PID 53) exited with exit code 1
-postgres-1  | 2025-08-19 02:39:53.677 UTC [48] LOG:  shutting down
-postgres-1  | 2025-08-19 02:39:53.677 UTC [48] LOG:  checkpoint starting: shutdown immediate
-postgres-1  | 2025-08-19 02:39:53.687 UTC [48] LOG:  checkpoint complete: wrote 933 buffers (22.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.010 s, sync=0.001 s, total=0.010 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4289 kB, estimate=4289 kB; lsn=0/1922C50, redo lsn=0/1922C50
-postgres-1  | 2025-08-19 02:39:53.778 UTC [47] LOG:  database system is shut down
+postgres-1  | waiting for server to shut down....2025-08-21 16:13:37.939 UTC [47] LOG:  received fast shutdown request
+postgres-1  | 2025-08-21 16:13:37.939 UTC [47] LOG:  aborting any active transactions
+postgres-1  | 2025-08-21 16:13:38.034 UTC [47] LOG:  background worker "logical replication launcher" (PID 53) exited with exit code 1
+postgres-1  | 2025-08-21 16:13:38.035 UTC [48] LOG:  shutting down
+postgres-1  | 2025-08-21 16:13:38.035 UTC [48] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-08-21 16:13:38.044 UTC [48] LOG:  checkpoint complete: wrote 933 buffers (22.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.010 s, sync=0.001 s, total=0.010 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4289 kB, estimate=4289 kB; lsn=0/1922C50, redo lsn=0/1922C50
+postgres-1  | 2025-08-21 16:13:38.135 UTC [47] LOG:  database system is shut down
 postgres-1  |  done
 postgres-1  | server stopped
 postgres-1  | 
 postgres-1  | PostgreSQL init process complete; ready for start up.
 postgres-1  | 
-postgres-1  | 2025-08-19 02:39:53.886 UTC [1] LOG:  starting PostgreSQL 16.9 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-postgres-1  | 2025-08-19 02:39:53.886 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-postgres-1  | 2025-08-19 02:39:53.886 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-postgres-1  | 2025-08-19 02:39:53.886 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-19 02:39:53.888 UTC [65] LOG:  database system was shut down at 2025-08-19 02:39:53 UTC
-postgres-1  | 2025-08-19 02:39:53.893 UTC [1] LOG:  database system is ready to accept connections
-rinhabackend-1  | info: Microsoft.Hosting.Lifetime[14]
-rinhabackend-1  |       Now listening on: http://[::]:8080
-rinhabackend-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-1  |       Application started. Press Ctrl+C to shut down.
-rinhabackend-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-1  |       Hosting environment: Production
-rinhabackend-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-1  |       Content root path: /app
-rinhabackend-2-1  | info: Microsoft.Hosting.Lifetime[14]
-rinhabackend-2-1  |       Now listening on: http://[::]:8080
-rinhabackend-2-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-2-1  |       Application started. Press Ctrl+C to shut down.
-rinhabackend-2-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-2-1  |       Hosting environment: Production
-rinhabackend-2-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-2-1  |       Content root path: /app
-load-balancer     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
-load-balancer     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
-load-balancer     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
-load-balancer     | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
-load-balancer     | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
-load-balancer     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
-load-balancer     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
-load-balancer     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
-load-balancer     | /docker-entrypoint.sh: Configuration complete; ready for start up
-redis-1           | 1:M 19 Aug 2025 02:44:47.042 * 100 changes in 300 seconds. Saving...
-redis-1           | 1:M 19 Aug 2025 02:44:47.042 * Background saving started by pid 2012
-redis-1           | 2012:C 19 Aug 2025 02:44:47.049 * DB saved on disk
-redis-1           | 2012:C 19 Aug 2025 02:44:47.050 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
-redis-1           | 1:M 19 Aug 2025 02:44:47.143 * Background saving terminated with success
-postgres-1        | 2025-08-19 02:44:53.945 UTC [63] LOG:  checkpoint starting: time
-redis-1           | 1:signal-handler (1755571519) Received SIGTERM scheduling shutdown...
-redis-1           | 1:M 19 Aug 2025 02:45:19.640 * User requested shutdown...
-redis-1           | 1:M 19 Aug 2025 02:45:19.640 * Saving the final RDB snapshot before exiting.
-redis-1           | 1:M 19 Aug 2025 02:45:19.649 * DB saved on disk
-redis-1           | 1:M 19 Aug 2025 02:45:19.649 # Redis is now ready to exit, bye bye...
-[Kload-balancer exited with code 0
-rinhabackend-2-1  | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-2-1  |       Application is shutting down...
-rinhabackend-1    | info: Microsoft.Hosting.Lifetime[0]
-rinhabackend-1    |       Application is shutting down...
-[Kredis-1 exited with code 0
-[Krinhabackend-2-1 exited with code 137
-[Krinhabackend-1 exited with code 137
-postgres-1        | 2025-08-19 02:45:30.150 UTC [1] LOG:  received fast shutdown request
-postgres-1        | 2025-08-19 02:45:30.150 UTC [1] LOG:  aborting any active transactions
-postgres-1        | 2025-08-19 02:45:30.153 UTC [1] LOG:  background worker "logical replication launcher" (PID 68) exited with exit code 1
-postgres-1        | 2025-08-19 02:45:30.156 UTC [63] LOG:  checkpoint complete: wrote 784 buffers (19.1%); 0 WAL file(s) added, 0 removed, 1 recycled; write=36.211 s, sync=0.001 s, total=36.212 s; sync files=0, longest=0.000 s, average=0.000 s; distance=11141 kB, estimate=11141 kB; lsn=0/2472FF8, redo lsn=0/24042E0
-postgres-1        | 2025-08-19 02:45:30.156 UTC [63] LOG:  shutting down
-postgres-1        | 2025-08-19 02:45:30.156 UTC [63] LOG:  checkpoint starting: shutdown immediate
-postgres-1        | 2025-08-19 02:45:30.157 UTC [63] LOG:  checkpoint complete: wrote 5 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.001 s; sync files=0, longest=0.000 s, average=0.000 s; distance=443 kB, estimate=10071 kB; lsn=0/2473070, redo lsn=0/2473070
-postgres-1        | 2025-08-19 02:45:30.182 UTC [1] LOG:  database system is shut down
-log truncated at line 1000
+postgres-1  | 2025-08-21 16:13:38.241 UTC [1] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 16:13:38.241 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-08-21 16:13:38.241 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1  | 2025-08-21 16:13:38.241 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 16:13:38.243 UTC [65] LOG:  database system was shut down at 2025-08-21 16:13:38 UTC
+postgres-1  | 2025-08-21 16:13:38.248 UTC [1] LOG:  database system is ready to accept connections
+rinhabackend-2-1  | Unhandled exception. StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). Error connecting right now. To allow this multiplexer to continue retrying until it's able to connect, use abortConnect=false in your connection string or AbortOnConnectFail=false; in your code.
+rinhabackend-2-1  |    at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(ConfigurationOptions configuration, TextWriter writer, Nullable`1 serverType, EndPointCollection endpoints) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 689
+rinhabackend-2-1  |    at StackExchange.Redis.ConnectionMultiplexer.Connect(ConfigurationOptions configuration, TextWriter log) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 661
+rinhabackend-2-1  |    at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 639
+rinhabackend-2-1  |    at Program.<>c__DisplayClass0_0.<<Main>$>b__1(IServiceProvider sp) in /src/RinhaBackend/Program.cs:line 42
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+rinhabackend-2-1  |    at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+rinhabackend-2-1  |    at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+rinhabackend-2-1  |    at MichelOliveira.Com.ReactiveLock.Distributed.Redis.ReactiveLockRedisTrackerExtensions.UseDistributedRedisReactiveLockAsync(IApplicationBuilder application)
+rinhabackend-2-1  |    at Program.<Main>$(String[] args) in /src/RinhaBackend/Program.cs:line 84
+rinhabackend-2-1  |    at Program.<Main>(String[] args)
+rinhabackend-1    | Unhandled exception. StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). Error connecting right now. To allow this multiplexer to continue retrying until it's able to connect, use abortConnect=false in your connection string or AbortOnConnectFail=false; in your code.
+rinhabackend-1    |    at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(ConfigurationOptions configuration, TextWriter writer, Nullable`1 serverType, EndPointCollection endpoints) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 689
+rinhabackend-1    |    at StackExchange.Redis.ConnectionMultiplexer.Connect(ConfigurationOptions configuration, TextWriter log) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 661
+rinhabackend-1    |    at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log) in /_/src/StackExchange.Redis/ConnectionMultiplexer.cs:line 639
+rinhabackend-1    |    at Program.<>c__DisplayClass0_0.<<Main>$>b__1(IServiceProvider sp) in /src/RinhaBackend/Program.cs:line 42
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(ServiceIdentifier serviceIdentifier)
+rinhabackend-1    |    at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+rinhabackend-1    |    at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+rinhabackend-1    |    at MichelOliveira.Com.ReactiveLock.Distributed.Redis.ReactiveLockRedisTrackerExtensions.UseDistributedRedisReactiveLockAsync(IApplicationBuilder application)
+rinhabackend-1    |    at Program.<Main>$(String[] args) in /src/RinhaBackend/Program.cs:line 84
+rinhabackend-1    |    at Program.<Main>(String[] args)
+[Krinhabackend-2-1 exited with code 139
+dependency failed to start: container lbattochio-dotnet-rinhabackend-2-1 exited (139)

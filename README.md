@@ -4,7 +4,14 @@ A Rinha de Backend é um desafio em que é necessário desenvolver uma solução
 
 Os resultados dessa edição estão disponíveis [aqui](./RESULTADOS_FINAIS.md)!!!
 
-Enquanto a tinha estava rolando, você podia acompanhar a prévia dos resultados [aqui](./PREVIA_RESULTADOS.md) ou por este [fantástico site](https://rinhers.kauefraga.dev/) gentilmente desenvolvido pelo [Kauê Fraga](https://kauefraga.dev/), ou [este site](https://rinha2025.andersongomes.dev.br/) focado no ranking desenvolvido por [Anderson Gomes](https://andersongomes.dev.br/).
+## Sites Memoráveis Feitos pela Comunidade
+
+- [https://rinhers.kauefraga.dev/](https://rinhers.kauefraga.dev/) mostra um overview do participantes, por [Kauê Fraga](https://kauefraga.dev/).
+
+- [https://rinha2025.andersongomes.dev.br/](https://rinha2025.andersongomes.dev.br/) virou praticamente o ranking oficial dessa edição, por [Anderson Gomes](https://andersongomes.dev.br/).
+
+- [https://rinha2025.cadumagalhaes.dev/](https://rinha2025.cadumagalhaes.dev/) um site com insights muito legais, por [Carlos Magalhães](https://github.com/1cadumagalhaes).
+
 
 ![galinha correndo](./misc/imgs/header.jpg)
 
@@ -25,10 +32,5 @@ Nessa terceira edição da Rinha de Backend o desafio é intermediar solicitaç�
 Você também pode assistir a [esse vídeo](https://www.youtube.com/watch?v=ldPkTtkJ86k) no YouTube sobre as instruções para participar da Rinha.
 
 [![youtube](./misc/imgs/youtube-thumb.png)](https://www.youtube.com/watch?v=ldPkTtkJ86k)
-
-## Pontos em Aberto
-
-O seguinte são questões ainda não foram endereçados ou são pontos em aberto:
-- Script final do teste
 
 *Por favor, contribua com esse evento revisando textos, reportando problemas, bugs e inconsistências, dando sugestões e divulgando. Faça parte dessa comunidade!*

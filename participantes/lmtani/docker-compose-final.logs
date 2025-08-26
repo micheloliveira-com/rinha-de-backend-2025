@@ -1,35 +1,326 @@
 
- api2 Pulling 
+ postgres Pulling 
  api1 Pulling 
- b865f3305bb8 Already exists 
- 8b0bf08f2bb9 Already exists 
- ba7fc1b01e24 Already exists 
+ nginx Pulling 
+ api2 Pulling 
+ redis Pulling 
+ 9824c27679d3 Already exists 
+ b865f3305bb8 Pulling fs layer 
+ 01ef787617d5 Pulling fs layer 
+ d444581c5dc1 Pulling fs layer 
+ 127625cab66d Pulling fs layer 
+ 7f8bf47818a2 Pulling fs layer 
+ 0951477387e1 Pulling fs layer 
+ 878e28e3ecd5 Pulling fs layer 
+ d079e32a74cc Pulling fs layer 
+ cb87d3c01966 Pulling fs layer 
+ 40af0ccd9733 Pulling fs layer 
+ 0b003ba20c51 Pulling fs layer 
+ 7f8bf47818a2 Waiting 
+ 0951477387e1 Waiting 
+ 878e28e3ecd5 Waiting 
+ d079e32a74cc Waiting 
+ cb87d3c01966 Waiting 
+ 40af0ccd9733 Waiting 
+ 0b003ba20c51 Waiting 
+ 8b0bf08f2bb9 Pulling fs layer 
+ ba7fc1b01e24 Pulling fs layer 
  8aa5e03c4bb5 Pulling fs layer 
- b865f3305bb8 Already exists 
- 8b0bf08f2bb9 Already exists 
- ba7fc1b01e24 Already exists 
+ b865f3305bb8 Waiting 
+ 8b0bf08f2bb9 Waiting 
+ ba7fc1b01e24 Waiting 
+ 8aa5e03c4bb5 Waiting 
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ fc21a1d387f5 Waiting 
+ e6ef242c1570 Waiting 
+ 13fcfbc94648 Waiting 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ 4abcf2066143 Waiting 
+ 0368fd46e3c6 Already exists 
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ 4e225d7a935a Waiting 
+ 74ab898fdb32 Waiting 
+ bb1131de5e60 Waiting 
+ 311eca34042e Waiting 
+ 87acabadf81b Waiting 
+ 407621d26c3b Waiting 
+ 4f4fb700ef54 Waiting 
+ b865f3305bb8 Pulling fs layer 
+ 8b0bf08f2bb9 Pulling fs layer 
+ ba7fc1b01e24 Pulling fs layer 
  8aa5e03c4bb5 Pulling fs layer 
- 8aa5e03c4bb5 Downloading [>                                                  ]  50.72kB/4.781MB
- 8aa5e03c4bb5 Downloading [>                                                  ]  50.72kB/4.781MB
- 8aa5e03c4bb5 Downloading [=======================>                           ]  2.202MB/4.781MB
- 8aa5e03c4bb5 Downloading [=======================>                           ]  2.202MB/4.781MB
- 8aa5e03c4bb5 Downloading [==============================================>    ]  4.399MB/4.781MB
- 8aa5e03c4bb5 Downloading [==============================================>    ]  4.399MB/4.781MB
+ 8aa5e03c4bb5 Waiting 
+ b865f3305bb8 Waiting 
+ 8b0bf08f2bb9 Waiting 
+ ba7fc1b01e24 Waiting 
+ 127625cab66d Downloading [==================================================>]     174B/174B
+ 127625cab66d Verifying Checksum 
+ 127625cab66d Download complete 
+ 01ef787617d5 Downloading [==================================================>]     968B/968B
+ 01ef787617d5 Download complete 
+ 01ef787617d5 Extracting [==================================================>]     968B/968B
+ 01ef787617d5 Extracting [==================================================>]     968B/968B
+ 01ef787617d5 Pull complete 
+ d444581c5dc1 Downloading [>                                                  ]   12.3kB/1.116MB
+ d444581c5dc1 Verifying Checksum 
+ d444581c5dc1 Download complete 
+ d444581c5dc1 Extracting [=>                                                 ]  32.77kB/1.116MB
+ d444581c5dc1 Extracting [==================================================>]  1.116MB/1.116MB
+ d444581c5dc1 Pull complete 
+ 127625cab66d Extracting [==================================================>]     174B/174B
+ 127625cab66d Extracting [==================================================>]     174B/174B
+ 127625cab66d Pull complete 
+ 7f8bf47818a2 Download complete 
+ 7f8bf47818a2 Extracting [==================================================>]     116B/116B
+ 7f8bf47818a2 Extracting [==================================================>]     116B/116B
+ 7f8bf47818a2 Pull complete 
+ 0951477387e1 Downloading [>                                                  ]  540.7kB/104.8MB
+ 878e28e3ecd5 Downloading [=====>                                             ]  1.049kB/9.56kB
+ 878e28e3ecd5 Downloading [==================================================>]   9.56kB/9.56kB
+ 878e28e3ecd5 Verifying Checksum 
+ 878e28e3ecd5 Download complete 
+ 0951477387e1 Downloading [===>                                               ]  6.439MB/104.8MB
+ 0951477387e1 Downloading [=====>                                             ]  11.29MB/104.8MB
+ 0951477387e1 Downloading [========>                                          ]  18.76MB/104.8MB
+ 0951477387e1 Downloading [===========>                                       ]  23.56MB/104.8MB
+ d079e32a74cc Download complete 
+ 0951477387e1 Downloading [===============>                                   ]  31.56MB/104.8MB
+ 0951477387e1 Downloading [==================>                                ]  39.58MB/104.8MB
+ cb87d3c01966 Downloading [==================================================>]     169B/169B
+ cb87d3c01966 Verifying Checksum 
+ cb87d3c01966 Download complete 
+ 0951477387e1 Downloading [=====================>                             ]  45.99MB/104.8MB
+ 0951477387e1 Downloading [=========================>                         ]  53.46MB/104.8MB
+ 0951477387e1 Downloading [=============================>                     ]  61.49MB/104.8MB
+ 40af0ccd9733 Downloading [========>                                          ]  1.049kB/5.927kB
+ 40af0ccd9733 Downloading [==================================================>]  5.927kB/5.927kB
+ 40af0ccd9733 Verifying Checksum 
+ 40af0ccd9733 Download complete 
+ 0951477387e1 Downloading [=================================>                 ]  69.49MB/104.8MB
+ 0951477387e1 Downloading [===================================>               ]   75.4MB/104.8MB
+ 0b003ba20c51 Downloading [==================================================>]     185B/185B
+ 0b003ba20c51 Verifying Checksum 
+ 0b003ba20c51 Download complete 
+ 0951477387e1 Downloading [=======================================>           ]  82.36MB/104.8MB
+ 0951477387e1 Downloading [==========================================>        ]  88.24MB/104.8MB
+ b865f3305bb8 Downloading [>                                                  ]  2.302kB/152.2kB
+ b865f3305bb8 Downloading [>                                                  ]  2.302kB/152.2kB
+ b865f3305bb8 Download complete 
+ b865f3305bb8 Extracting [==========>                                        ]  32.77kB/152.2kB
+ b865f3305bb8 Downloading [==================================================>]  152.2kB/152.2kB
+ b865f3305bb8 Verifying Checksum 
+ b865f3305bb8 Download complete 
+ b865f3305bb8 Extracting [==========>                                        ]  32.77kB/152.2kB
+ b865f3305bb8 Extracting [==================================================>]  152.2kB/152.2kB
+ b865f3305bb8 Extracting [==================================================>]  152.2kB/152.2kB
+ b865f3305bb8 Extracting [==================================================>]  152.2kB/152.2kB
+ b865f3305bb8 Extracting [==================================================>]  152.2kB/152.2kB
+ 0951477387e1 Downloading [=============================================>     ]  96.25MB/104.8MB
+ 0951477387e1 Downloading [================================================>  ]  101.1MB/104.8MB
+ 8b0bf08f2bb9 Verifying Checksum 
+ 8b0bf08f2bb9 Download complete 
+ 8b0bf08f2bb9 Downloading [==================================================>]     171B/171B
+ 8b0bf08f2bb9 Verifying Checksum 
+ 8b0bf08f2bb9 Download complete 
+ b865f3305bb8 Pull complete 
+ b865f3305bb8 Pull complete 
+ 0951477387e1 Verifying Checksum 
+ 0951477387e1 Download complete 
+ 8b0bf08f2bb9 Extracting [==================================================>]     171B/171B
+ 8b0bf08f2bb9 Extracting [==================================================>]     171B/171B
+ 8b0bf08f2bb9 Extracting [==================================================>]     171B/171B
+ 8b0bf08f2bb9 Extracting [==================================================>]     171B/171B
+ 0951477387e1 Extracting [>                                                  ]  557.1kB/104.8MB
+ 8b0bf08f2bb9 Pull complete 
+ 8b0bf08f2bb9 Pull complete 
+ 0951477387e1 Extracting [==>                                                ]  4.456MB/104.8MB
+ ba7fc1b01e24 Downloading [>                                                  ]  2.302kB/122.7kB
+ ba7fc1b01e24 Downloading [>                                                  ]  2.302kB/122.7kB
+ ba7fc1b01e24 Verifying Checksum 
+ ba7fc1b01e24 Download complete 
+ ba7fc1b01e24 Download complete 
+ ba7fc1b01e24 Extracting [=============>                                     ]  32.77kB/122.7kB
+ ba7fc1b01e24 Extracting [=============>                                     ]  32.77kB/122.7kB
+ ba7fc1b01e24 Extracting [==================================================>]  122.7kB/122.7kB
+ ba7fc1b01e24 Extracting [==================================================>]  122.7kB/122.7kB
+ ba7fc1b01e24 Extracting [==================================================>]  122.7kB/122.7kB
+ 0951477387e1 Extracting [======>                                            ]  13.37MB/104.8MB
+ ba7fc1b01e24 Pull complete 
+ ba7fc1b01e24 Pull complete 
+ 0951477387e1 Extracting [==========>                                        ]  21.73MB/104.8MB
+ 0951477387e1 Extracting [==============>                                    ]  30.08MB/104.8MB
+ 0951477387e1 Extracting [==================>                                ]  38.44MB/104.8MB
+ 4abcf2066143 Downloading [>                                                  ]   34.2kB/3.409MB
+ 4abcf2066143 Downloading [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ 0951477387e1 Extracting [======================>                            ]  46.79MB/104.8MB
+ 8aa5e03c4bb5 Downloading [>                                                  ]  49.17kB/4.781MB
+ 8aa5e03c4bb5 Downloading [>                                                  ]  49.17kB/4.781MB
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 0951477387e1 Extracting [========================>                          ]  51.25MB/104.8MB
+ fc21a1d387f5 Downloading [>                                                  ]  41.08kB/3.985MB
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ 8aa5e03c4bb5 Downloading [===========================================>       ]  4.149MB/4.781MB
+ 8aa5e03c4bb5 Downloading [===========================================>       ]  4.149MB/4.781MB
+ 0951477387e1 Extracting [==========================>                        ]  55.71MB/104.8MB
+ 8aa5e03c4bb5 Verifying Checksum 
  8aa5e03c4bb5 Verifying Checksum 
  8aa5e03c4bb5 Download complete 
- 8aa5e03c4bb5 Downloading [==================================================>]  4.781MB/4.781MB
- 8aa5e03c4bb5 Verifying Checksum 
  8aa5e03c4bb5 Download complete 
  8aa5e03c4bb5 Extracting [>                                                  ]  65.54kB/4.781MB
  8aa5e03c4bb5 Extracting [>                                                  ]  65.54kB/4.781MB
- 8aa5e03c4bb5 Extracting [==================================================>]  4.781MB/4.781MB
- 8aa5e03c4bb5 Extracting [==================================================>]  4.781MB/4.781MB
+ fc21a1d387f5 Extracting [================================================>  ]  3.867MB/3.985MB
+ 8aa5e03c4bb5 Extracting [===============================================>   ]  4.588MB/4.781MB
+ 8aa5e03c4bb5 Extracting [===============================================>   ]  4.588MB/4.781MB
+ 0951477387e1 Extracting [============================>                      ]  60.72MB/104.8MB
  8aa5e03c4bb5 Extracting [==================================================>]  4.781MB/4.781MB
  8aa5e03c4bb5 Extracting [==================================================>]  4.781MB/4.781MB
  8aa5e03c4bb5 Pull complete 
  8aa5e03c4bb5 Pull complete 
- api2 Pulled 
  api1 Pulled 
+ api2 Pulled 
+ 0951477387e1 Extracting [===============================>                   ]  66.29MB/104.8MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ e6ef242c1570 Downloading [==================================================>]     629B/629B
+ e6ef242c1570 Verifying Checksum 
+ e6ef242c1570 Download complete 
+ 0951477387e1 Extracting [===================================>               ]  74.09MB/104.8MB
+ fc21a1d387f5 Pull complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Download complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 0951477387e1 Extracting [===================================>               ]   75.2MB/104.8MB
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Verifying Checksum 
+ d4bca490e609 Download complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 0951477387e1 Extracting [====================================>              ]  75.76MB/104.8MB
+ 0951477387e1 Extracting [=====================================>             ]  78.54MB/104.8MB
+ 0951477387e1 Extracting [=======================================>           ]  81.89MB/104.8MB
+ 5406ed7b06d9 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Verifying Checksum 
+ 5406ed7b06d9 Download complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ 0951477387e1 Extracting [========================================>          ]  85.23MB/104.8MB
+ 8a3742a9529d Downloading [=====================================>             ]  1.049kB/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [>                                                  ]  130.7kB/13.04MB
+ 0951477387e1 Extracting [==========================================>        ]  89.69MB/104.8MB
+ 0d0c16747d2c Downloading [=====================>                             ]  5.636MB/13.04MB
+ 0951477387e1 Extracting [===========================================>       ]  91.91MB/104.8MB
+ 0d0c16747d2c Downloading [===============================================>   ]  12.45MB/13.04MB
+ 0d0c16747d2c Verifying Checksum 
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ 0951477387e1 Extracting [================================================>  ]  101.4MB/104.8MB
+ 0951477387e1 Extracting [==================================================>]  104.8MB/104.8MB
+ 4e225d7a935a Downloading [==================================================>]     948B/948B
+ 4e225d7a935a Verifying Checksum 
+ 4e225d7a935a Download complete 
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 0d0c16747d2c Extracting [=====>                                             ]  1.311MB/13.04MB
+ 4e225d7a935a Pull complete 
+ 0d0c16747d2c Extracting [===============================>                   ]  8.258MB/13.04MB
+ 74ab898fdb32 Downloading [>                                                  ]  2.416kB/173.2kB
+ 74ab898fdb32 Verifying Checksum 
+ 74ab898fdb32 Download complete 
+ 74ab898fdb32 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 0951477387e1 Pull complete 
+ 0d0c16747d2c Extracting [=================================================> ]  12.98MB/13.04MB
+ 878e28e3ecd5 Extracting [==================================================>]   9.56kB/9.56kB
+ 878e28e3ecd5 Extracting [==================================================>]   9.56kB/9.56kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 878e28e3ecd5 Pull complete 
+ d079e32a74cc Extracting [==================================================>]     129B/129B
+ d079e32a74cc Extracting [==================================================>]     129B/129B
+ d079e32a74cc Pull complete 
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ cb87d3c01966 Extracting [==================================================>]     169B/169B
+ cb87d3c01966 Extracting [==================================================>]     169B/169B
+ cb87d3c01966 Pull complete 
+ 40af0ccd9733 Extracting [==================================================>]  5.927kB/5.927kB
+ 40af0ccd9733 Extracting [==================================================>]  5.927kB/5.927kB
+ 40af0ccd9733 Pull complete 
+ 0b003ba20c51 Extracting [==================================================>]     185B/185B
+ 0b003ba20c51 Extracting [==================================================>]     185B/185B
+ 0b003ba20c51 Pull complete 
+ 311eca34042e Downloading [>                                                  ]  11.04kB/1.003MB
+ postgres Pulled 
+ 0d0c16747d2c Pull complete 
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 74ab898fdb32 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ nginx Pulled 
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ bb1131de5e60 Downloading [>                                                  ]  122.9kB/12.01MB
+ bb1131de5e60 Downloading [=======================>                           ]  5.603MB/12.01MB
+ 407621d26c3b Downloading [==================================================>]      99B/99B
+ 407621d26c3b Verifying Checksum 
+ 407621d26c3b Download complete 
+ bb1131de5e60 Downloading [==============================================>    ]  11.24MB/12.01MB
+ bb1131de5e60 Verifying Checksum 
+ bb1131de5e60 Download complete 
+ bb1131de5e60 Extracting [>                                                  ]  131.1kB/12.01MB
+ bb1131de5e60 Extracting [=========================>                         ]   6.16MB/12.01MB
+ bb1131de5e60 Extracting [==================================================>]  12.01MB/12.01MB
+ bb1131de5e60 Pull complete 
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 87acabadf81b Downloading [==================================================>]     573B/573B
+ 87acabadf81b Verifying Checksum 
+ 87acabadf81b Download complete 
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Pull complete 
+ redis Pulled 
  Network lmtani_backend  Creating
  Network lmtani_backend  Created
  Container rinha-postgres  Creating
@@ -43,14 +334,14 @@
  Container rinha-nginx  Creating
  Container rinha-nginx  Created
 Attaching to api1-1, api2-1, rinha-nginx, rinha-postgres, rinha-redis
-rinha-redis  | 1:C 19 Aug 2025 05:23:23.506 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-rinha-redis  | 1:C 19 Aug 2025 05:23:23.507 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-rinha-redis  | 1:C 19 Aug 2025 05:23:23.507 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
-rinha-redis  | 1:C 19 Aug 2025 05:23:23.507 * Configuration loaded
-rinha-redis  | 1:M 19 Aug 2025 05:23:23.507 * monotonic clock: POSIX clock_gettime
-rinha-redis  | 1:M 19 Aug 2025 05:23:23.508 * Running mode=standalone, port=6379.
-rinha-redis  | 1:M 19 Aug 2025 05:23:23.508 * Server initialized
-rinha-redis  | 1:M 19 Aug 2025 05:23:23.508 * Ready to accept connections tcp
+rinha-redis  | 1:C 21 Aug 2025 16:20:32.367 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+rinha-redis  | 1:C 21 Aug 2025 16:20:32.367 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+rinha-redis  | 1:C 21 Aug 2025 16:20:32.367 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
+rinha-redis  | 1:C 21 Aug 2025 16:20:32.367 * Configuration loaded
+rinha-redis  | 1:M 21 Aug 2025 16:20:32.368 * monotonic clock: POSIX clock_gettime
+rinha-redis  | 1:M 21 Aug 2025 16:20:32.368 * Running mode=standalone, port=6379.
+rinha-redis  | 1:M 21 Aug 2025 16:20:32.369 * Server initialized
+rinha-redis  | 1:M 21 Aug 2025 16:20:32.369 * Ready to accept connections tcp
 rinha-postgres  | The files belonging to this database system will be owned by user "postgres".
 rinha-postgres  | This user must also own the server process.
 rinha-postgres  | 
@@ -69,7 +360,7 @@ rinha-postgres  | selecting default time zone ... UTC
 rinha-postgres  | creating configuration files ... ok
 rinha-postgres  | running bootstrap script ... ok
 rinha-postgres  | sh: locale: not found
-rinha-postgres  | 2025-08-19 05:23:25.637 UTC [35] WARNING:  no usable system locales were found
+rinha-postgres  | 2025-08-21 16:20:34.357 UTC [36] WARNING:  no usable system locales were found
 rinha-postgres  | performing post-bootstrap initialization ... ok
 rinha-postgres  | initdb: warning: enabling "trust" authentication for local connections
 rinha-postgres  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
@@ -80,10 +371,10 @@ rinha-postgres  | Success. You can now start the database server using:
 rinha-postgres  | 
 rinha-postgres  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 rinha-postgres  | 
-rinha-postgres  | waiting for server to start....2025-08-19 05:23:27.817 UTC [41] LOG:  starting PostgreSQL 16.9 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-postgres  | 2025-08-19 05:23:27.821 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-postgres  | 2025-08-19 05:23:27.833 UTC [44] LOG:  database system was shut down at 2025-08-19 05:23:27 UTC
-rinha-postgres  | 2025-08-19 05:23:27.841 UTC [41] LOG:  database system is ready to accept connections
+rinha-postgres  | waiting for server to start....2025-08-21 16:20:36.538 UTC [42] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-postgres  | 2025-08-21 16:20:36.541 UTC [42] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-postgres  | 2025-08-21 16:20:36.552 UTC [45] LOG:  database system was shut down at 2025-08-21 16:20:36 UTC
+rinha-postgres  | 2025-08-21 16:20:36.559 UTC [42] LOG:  database system is ready to accept connections
 rinha-postgres  |  done
 rinha-postgres  | server started
 rinha-postgres  | CREATE DATABASE
@@ -99,39 +390,38 @@ rinha-postgres  | GRANT
 rinha-postgres  | Payment schema initialization completed successfully
 rinha-postgres  | 
 rinha-postgres  | 
-rinha-postgres  | waiting for server to shut down....2025-08-19 05:23:28.326 UTC [41] LOG:  received fast shutdown request
-rinha-postgres  | 2025-08-19 05:23:28.329 UTC [41] LOG:  aborting any active transactions
-rinha-postgres  | 2025-08-19 05:23:28.398 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
-rinha-postgres  | 2025-08-19 05:23:28.399 UTC [42] LOG:  shutting down
-rinha-postgres  | 2025-08-19 05:23:28.402 UTC [42] LOG:  checkpoint starting: shutdown immediate
-rinha-postgres  | 2025-08-19 05:23:28.458 UTC [42] LOG:  checkpoint complete: wrote 933 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.038 s, sync=0.008 s, total=0.059 s; sync files=307, longest=0.003 s, average=0.001 s; distance=4294 kB, estimate=4294 kB; lsn=0/1923EC0, redo lsn=0/1923EC0
-rinha-postgres  | 2025-08-19 05:23:28.502 UTC [41] LOG:  database system is shut down
+rinha-postgres  | waiting for server to shut down....2025-08-21 16:20:36.973 UTC [42] LOG:  received fast shutdown request
+rinha-postgres  | 2025-08-21 16:20:36.976 UTC [42] LOG:  aborting any active transactions
+rinha-postgres  | 2025-08-21 16:20:37.039 UTC [42] LOG:  background worker "logical replication launcher" (PID 48) exited with exit code 1
+rinha-postgres  | 2025-08-21 16:20:37.040 UTC [43] LOG:  shutting down
+rinha-postgres  | 2025-08-21 16:20:37.042 UTC [43] LOG:  checkpoint starting: shutdown immediate
+rinha-postgres  | 2025-08-21 16:20:37.156 UTC [43] LOG:  checkpoint complete: wrote 933 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.096 s, sync=0.008 s, total=0.117 s; sync files=307, longest=0.003 s, average=0.001 s; distance=4294 kB, estimate=4294 kB; lsn=0/1923EC0, redo lsn=0/1923EC0
+rinha-postgres  | 2025-08-21 16:20:37.165 UTC [42] LOG:  database system is shut down
 rinha-postgres  |  done
 rinha-postgres  | server stopped
 rinha-postgres  | 
 rinha-postgres  | PostgreSQL init process complete; ready for start up.
 rinha-postgres  | 
-rinha-postgres  | 2025-08-19 05:23:28.602 UTC [1] LOG:  starting PostgreSQL 16.9 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-rinha-postgres  | 2025-08-19 05:23:28.602 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-rinha-postgres  | 2025-08-19 05:23:28.602 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-rinha-postgres  | 2025-08-19 05:23:28.608 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-rinha-postgres  | 2025-08-19 05:23:28.698 UTC [65] LOG:  database system was shut down at 2025-08-19 05:23:28 UTC
-rinha-postgres  | 2025-08-19 05:23:28.703 UTC [66] FATAL:  the database system is starting up
-rinha-postgres  | 2025-08-19 05:23:28.707 UTC [1] LOG:  database system is ready to accept connections
-api1-1          | [API-1] Starting payment processor with 4 workers
-api1-1          | [API-1-worker-1] Worker started
-api1-1          | [API-1-worker-0] Worker started
-api1-1          | [API-1-worker-2] Worker started
-api1-1          | [API-1-worker-3] Worker started
-api1-1          | 2025/08/19 05:23:34 Starting payment service on :8080
-api1-1          | 2025/08/19 05:23:34 HTTP server listening on :8080
+rinha-postgres  | 2025-08-21 16:20:37.243 UTC [1] LOG:  starting PostgreSQL 16.10 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-postgres  | 2025-08-21 16:20:37.243 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rinha-postgres  | 2025-08-21 16:20:37.243 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rinha-postgres  | 2025-08-21 16:20:37.249 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-postgres  | 2025-08-21 16:20:37.257 UTC [60] LOG:  database system was shut down at 2025-08-21 16:20:37 UTC
+rinha-postgres  | 2025-08-21 16:20:37.265 UTC [1] LOG:  database system is ready to accept connections
 api2-1          | [API-2] Starting payment processor with 4 workers
-api2-1          | [API-2-worker-1] Worker started
-api2-1          | [API-2-worker-2] Worker started
 api2-1          | [API-2-worker-3] Worker started
 api2-1          | [API-2-worker-0] Worker started
-api2-1          | 2025/08/19 05:23:34 Starting payment service on :8080
-api2-1          | 2025/08/19 05:23:34 HTTP server listening on :8080
+api2-1          | [API-2-worker-2] Worker started
+api2-1          | [API-2-worker-1] Worker started
+api2-1          | 2025/08/21 16:20:38 Starting payment service on :8080
+api2-1          | 2025/08/21 16:20:38 HTTP server listening on :8080
+api1-1          | [API-1] Starting payment processor with 4 workers
+api1-1          | [API-1-worker-0] Worker started
+api1-1          | [API-1-worker-3] Worker started
+api1-1          | [API-1-worker-1] Worker started
+api1-1          | [API-1-worker-2] Worker started
+api1-1          | 2025/08/21 16:20:38 Starting payment service on :8080
+api1-1          | 2025/08/21 16:20:38 HTTP server listening on :8080
 rinha-nginx     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 rinha-nginx     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 rinha-nginx     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -141,861 +431,571 @@ rinha-nginx     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-
 rinha-nginx     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 rinha-nginx     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 rinha-nginx     | /docker-entrypoint.sh: Configuration complete; ready for start up
-api1-1          | [GIN] 2025/08/19 - 05:23:36 | 200 |    4.705377ms |      172.20.0.6 | GET      "/payments-summary"
-api1-1          | [GIN] 2025/08/19 - 05:23:41 | 404 |         680ns |      172.20.0.6 | POST     "/purge-payments"
-api1-1          | [API-1] Received payment request: a0c976bd-6914-41e1-8320-5052c46add45
-api1-1          | [GIN] 2025/08/19 - 05:23:41 | 200 |    1.814691ms |      172.20.0.6 | GET      "/payments-summary?from=2025-08-19T05:23:26.989Z&to=2025-08-19T05:23:39.989Z"
-api1-1          | [API-1] Successfully queued payment: a0c976bd-6914-41e1-8320-5052c46add45
-api1-1          | [GIN] 2025/08/19 - 05:23:41 | 202 |    2.277366ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment a0c976bd-6914-41e1-8320-5052c46add45
-api2-1          | [API-2] Received payment request: 8f71fe23-5943-4c0a-810f-b3d618a6ede2
-api2-1          | [API-2] Successfully queued payment: 8f71fe23-5943-4c0a-810f-b3d618a6ede2
-api2-1          | [GIN] 2025/08/19 - 05:23:42 | 202 |    2.165122ms |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 8f71fe23-5943-4c0a-810f-b3d618a6ede2
-api1-1          | [API-1] Received payment request: 454e2390-c5e1-47eb-a13b-c66757b59266
-api1-1          | [API-1] Successfully queued payment: 454e2390-c5e1-47eb-a13b-c66757b59266
-api1-1          | [GIN] 2025/08/19 - 05:23:42 | 202 |     475.886µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 454e2390-c5e1-47eb-a13b-c66757b59266
-api2-1          | [API-2] Received payment request: b8e2f909-1225-4349-912e-8507d28baf6c
-api2-1          | [API-2] Successfully queued payment: b8e2f909-1225-4349-912e-8507d28baf6c
-api2-1          | [GIN] 2025/08/19 - 05:23:42 | 202 |     425.914µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment b8e2f909-1225-4349-912e-8507d28baf6c
-api2-1          | [API-2] Received payment request: ab15fb46-fdcc-489b-8dd4-db1a1902e374
-api2-1          | [API-2] Successfully queued payment: ab15fb46-fdcc-489b-8dd4-db1a1902e374
-api2-1          | [GIN] 2025/08/19 - 05:23:43 | 202 |     425.904µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment ab15fb46-fdcc-489b-8dd4-db1a1902e374
-api1-1          | [API-1] Received payment request: de212f2c-2bfb-43d9-ab21-5945cac858db
-api1-1          | [API-1] Successfully queued payment: de212f2c-2bfb-43d9-ab21-5945cac858db
-api1-1          | [GIN] 2025/08/19 - 05:23:43 | 202 |     353.282µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment de212f2c-2bfb-43d9-ab21-5945cac858db
-api2-1          | [API-2] Received payment request: 10513603-517b-479e-a3a6-081b23db625c
-api2-1          | [API-2] Successfully queued payment: 10513603-517b-479e-a3a6-081b23db625c
-api2-1          | [GIN] 2025/08/19 - 05:23:43 | 202 |     443.805µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 10513603-517b-479e-a3a6-081b23db625c
-api1-1          | [API-1] Received payment request: 4381f0c9-2b6a-471e-928d-75ae05ad14af
-api1-1          | [API-1] Successfully queued payment: 4381f0c9-2b6a-471e-928d-75ae05ad14af
-api1-1          | [GIN] 2025/08/19 - 05:23:43 | 202 |     354.851µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 4381f0c9-2b6a-471e-928d-75ae05ad14af
-api1-1          | [API-1] Received payment request: aea9c131-ad85-49e9-98f9-093f4f6e530a
-api1-1          | [API-1] Successfully queued payment: aea9c131-ad85-49e9-98f9-093f4f6e530a
-api1-1          | [GIN] 2025/08/19 - 05:23:43 | 202 |     424.774µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment aea9c131-ad85-49e9-98f9-093f4f6e530a
-api2-1          | [API-2] Received payment request: df75b1ce-6a64-474c-bd3e-7ccaea03a055
-api2-1          | [API-2] Successfully queued payment: df75b1ce-6a64-474c-bd3e-7ccaea03a055
-api2-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     493.916µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment df75b1ce-6a64-474c-bd3e-7ccaea03a055
-api1-1          | [API-1] Received payment request: 2dc2e728-16d5-4796-ace7-cda4fd02d082
-api1-1          | [API-1] Successfully queued payment: 2dc2e728-16d5-4796-ace7-cda4fd02d082
-api1-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     337.351µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 2dc2e728-16d5-4796-ace7-cda4fd02d082
-api2-1          | [API-2] Received payment request: 4e4cc1d9-b3ba-48f5-ad28-948c183e9abe
-api2-1          | [API-2] Successfully queued payment: 4e4cc1d9-b3ba-48f5-ad28-948c183e9abe
-api2-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     343.892µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 4e4cc1d9-b3ba-48f5-ad28-948c183e9abe
-api1-1          | [API-1] Received payment request: ca823030-3948-4f6b-a22f-e8dcd96b06af
-api1-1          | [API-1] Successfully queued payment: ca823030-3948-4f6b-a22f-e8dcd96b06af
-api1-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     450.475µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment ca823030-3948-4f6b-a22f-e8dcd96b06af
-api2-1          | [API-2] Received payment request: cef37239-12ff-4ada-a12e-b57d67d4d9ed
-api2-1          | [API-2] Successfully queued payment: cef37239-12ff-4ada-a12e-b57d67d4d9ed
-api2-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     448.915µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment cef37239-12ff-4ada-a12e-b57d67d4d9ed
-api1-1          | [API-1] Received payment request: f88d6881-6284-4720-8458-b00e1d60efcf
-api1-1          | [API-1] Successfully queued payment: f88d6881-6284-4720-8458-b00e1d60efcf
-api1-1          | [GIN] 2025/08/19 - 05:23:44 | 202 |     267.259µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment f88d6881-6284-4720-8458-b00e1d60efcf
-api2-1          | [API-2] Received payment request: b32b65b4-b25d-40cc-9cd4-3765a6b52e97
-api2-1          | [API-2] Successfully queued payment: b32b65b4-b25d-40cc-9cd4-3765a6b52e97
-api2-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |      312.74µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment b32b65b4-b25d-40cc-9cd4-3765a6b52e97
-api2-1          | [API-2] Received payment request: 73928568-cf2c-4e02-a31e-c285be781742
-api2-1          | [API-2] Successfully queued payment: 73928568-cf2c-4e02-a31e-c285be781742
-api2-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     405.924µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 73928568-cf2c-4e02-a31e-c285be781742
-api1-1          | [API-1] Received payment request: 60de0044-ea46-4bae-9192-d54af395e116
-api1-1          | [API-1] Successfully queued payment: 60de0044-ea46-4bae-9192-d54af395e116
-api1-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     324.521µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 60de0044-ea46-4bae-9192-d54af395e116
-api2-1          | [API-2] Received payment request: bc172147-09dc-40f5-b170-838e5d17cc60
-api2-1          | [API-2] Successfully queued payment: bc172147-09dc-40f5-b170-838e5d17cc60
-api2-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     375.243µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment bc172147-09dc-40f5-b170-838e5d17cc60
-api1-1          | [API-1] Received payment request: 914a68bf-d929-47f9-b052-71bae187c9a9
-api1-1          | [API-1] Successfully queued payment: 914a68bf-d929-47f9-b052-71bae187c9a9
-api1-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |      305.51µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 914a68bf-d929-47f9-b052-71bae187c9a9
-api2-1          | [API-2] Received payment request: 89d9e6d9-b249-4db9-b4e9-3cd9c4669755
-api2-1          | [API-2] Successfully queued payment: 89d9e6d9-b249-4db9-b4e9-3cd9c4669755
-api2-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     413.244µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 89d9e6d9-b249-4db9-b4e9-3cd9c4669755
-api1-1          | [API-1] Received payment request: 89ebad6c-d3cd-49a5-b071-af1c3c71672a
-api1-1          | [API-1] Successfully queued payment: 89ebad6c-d3cd-49a5-b071-af1c3c71672a
-api1-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     325.491µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 89ebad6c-d3cd-49a5-b071-af1c3c71672a
-api2-1          | [API-2] Received payment request: 4919da82-b754-4452-94d7-6deba25e84c3
-api2-1          | [API-2] Successfully queued payment: 4919da82-b754-4452-94d7-6deba25e84c3
-api2-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |      302.01µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 4919da82-b754-4452-94d7-6deba25e84c3
-api1-1          | [API-1] Received payment request: bef2deb2-2c31-43e8-9837-60d98924c3ac
-api1-1          | [API-1] Successfully queued payment: bef2deb2-2c31-43e8-9837-60d98924c3ac
-api1-1          | [GIN] 2025/08/19 - 05:23:45 | 202 |     307.021µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment bef2deb2-2c31-43e8-9837-60d98924c3ac
-api1-1          | [API-1] Received payment request: 85d7235a-9c93-4e4d-a31a-fe0e1593ffb4
-api1-1          | [API-1] Successfully queued payment: 85d7235a-9c93-4e4d-a31a-fe0e1593ffb4
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     414.574µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 85d7235a-9c93-4e4d-a31a-fe0e1593ffb4
-api2-1          | [API-2] Received payment request: 53c9e289-5e41-42c8-9b46-276ae845d4c5
-api2-1          | [API-2] Successfully queued payment: 53c9e289-5e41-42c8-9b46-276ae845d4c5
-api2-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     385.353µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 53c9e289-5e41-42c8-9b46-276ae845d4c5
-api1-1          | [API-1] Received payment request: c4503ffa-faf0-457f-8feb-375faab2d11f
-api1-1          | [API-1] Successfully queued payment: c4503ffa-faf0-457f-8feb-375faab2d11f
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     390.294µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment c4503ffa-faf0-457f-8feb-375faab2d11f
-api2-1          | [API-2] Received payment request: 35a893cf-2216-49d2-8494-8cfef51c5537
-api2-1          | [API-2] Successfully queued payment: 35a893cf-2216-49d2-8494-8cfef51c5537
-api2-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     393.664µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 35a893cf-2216-49d2-8494-8cfef51c5537
-api1-1          | [API-1] Received payment request: f6d3b760-1cae-4eb9-b147-25375d4a209a
-api1-1          | [API-1] Successfully queued payment: f6d3b760-1cae-4eb9-b147-25375d4a209a
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     372.072µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment f6d3b760-1cae-4eb9-b147-25375d4a209a
-api2-1          | [API-2] Received payment request: 487cca4a-9f70-47ba-acbf-1ae6df315132
-api2-1          | [API-2] Successfully queued payment: 487cca4a-9f70-47ba-acbf-1ae6df315132
-api2-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     345.591µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 487cca4a-9f70-47ba-acbf-1ae6df315132
-api1-1          | [API-1] Received payment request: 8971a9f8-5f24-461f-a621-12fed38abadf
-api1-1          | [API-1] Successfully queued payment: 8971a9f8-5f24-461f-a621-12fed38abadf
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     422.274µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 8971a9f8-5f24-461f-a621-12fed38abadf
-api2-1          | [API-2] Received payment request: 2b898a64-2ed5-4b4b-bcba-eb4bc00c4da7
-api2-1          | [API-2] Successfully queued payment: 2b898a64-2ed5-4b4b-bcba-eb4bc00c4da7
-api2-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     344.202µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 2b898a64-2ed5-4b4b-bcba-eb4bc00c4da7
-api1-1          | [API-1] Received payment request: 5bf54ae6-7c4e-4716-96be-83b8044a57a6
-api1-1          | [API-1] Successfully queued payment: 5bf54ae6-7c4e-4716-96be-83b8044a57a6
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |      290.05µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 5bf54ae6-7c4e-4716-96be-83b8044a57a6
-api2-1          | [API-2] Received payment request: 7e65cbb9-a3ab-42f3-9e8b-1657cc823e41
-api2-1          | [API-2] Successfully queued payment: 7e65cbb9-a3ab-42f3-9e8b-1657cc823e41
-api2-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |      307.61µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 7e65cbb9-a3ab-42f3-9e8b-1657cc823e41
-api1-1          | [API-1] Received payment request: 1c27fe43-421e-42cb-9c15-548cd56ced7c
-api1-1          | [API-1] Successfully queued payment: 1c27fe43-421e-42cb-9c15-548cd56ced7c
-api1-1          | [GIN] 2025/08/19 - 05:23:46 | 202 |     346.172µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 1c27fe43-421e-42cb-9c15-548cd56ced7c
-api2-1          | [API-2] Received payment request: f38d5afe-ff3c-49f3-ac53-a21a80a9d2a0
-api2-1          | [API-2] Successfully queued payment: f38d5afe-ff3c-49f3-ac53-a21a80a9d2a0
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |      304.98µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment f38d5afe-ff3c-49f3-ac53-a21a80a9d2a0
-api2-1          | [API-2] Received payment request: aec0a46f-32c9-4a9d-9e06-fdf2dc3cc85d
-api2-1          | [API-2] Successfully queued payment: aec0a46f-32c9-4a9d-9e06-fdf2dc3cc85d
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     391.753µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment aec0a46f-32c9-4a9d-9e06-fdf2dc3cc85d
-api1-1          | [API-1] Received payment request: 41adaec4-8fdf-4afa-89f2-44030cc992e0
-api1-1          | [API-1] Successfully queued payment: 41adaec4-8fdf-4afa-89f2-44030cc992e0
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |      292.19µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 41adaec4-8fdf-4afa-89f2-44030cc992e0
-api2-1          | [API-2] Received payment request: e4e05175-8daa-4184-8766-622a1cb8622b
-api2-1          | [API-2] Successfully queued payment: e4e05175-8daa-4184-8766-622a1cb8622b
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     324.491µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment e4e05175-8daa-4184-8766-622a1cb8622b
-api1-1          | [API-1] Received payment request: aededd9e-2865-448f-802b-9639dd1bfd30
-api1-1          | [API-1] Successfully queued payment: aededd9e-2865-448f-802b-9639dd1bfd30
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     359.143µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment aededd9e-2865-448f-802b-9639dd1bfd30
-api2-1          | [API-2] Received payment request: 5e97f4bd-9ed2-4ddb-b0e7-4683480755a1
-api2-1          | [API-2] Successfully queued payment: 5e97f4bd-9ed2-4ddb-b0e7-4683480755a1
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     325.492µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 5e97f4bd-9ed2-4ddb-b0e7-4683480755a1
-api1-1          | [API-1] Received payment request: 8d2fa9e2-e344-49e5-9a6a-ea4e0c6fac5e
-api1-1          | [API-1] Successfully queued payment: 8d2fa9e2-e344-49e5-9a6a-ea4e0c6fac5e
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |      275.91µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 8d2fa9e2-e344-49e5-9a6a-ea4e0c6fac5e
-api2-1          | [API-2] Received payment request: 74c62fc2-1b3b-42b8-bda7-40d666e22b10
-api2-1          | [API-2] Successfully queued payment: 74c62fc2-1b3b-42b8-bda7-40d666e22b10
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     435.645µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 74c62fc2-1b3b-42b8-bda7-40d666e22b10
-api1-1          | [API-1] Received payment request: 2a4ecf1e-d01a-4b52-b19a-4bace410bc91
-api1-1          | [API-1] Successfully queued payment: 2a4ecf1e-d01a-4b52-b19a-4bace410bc91
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     347.172µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 2a4ecf1e-d01a-4b52-b19a-4bace410bc91
-api2-1          | [API-2] Received payment request: aea986bd-9671-43b2-876b-65d1f18dc950
-api2-1          | [API-2] Successfully queued payment: aea986bd-9671-43b2-876b-65d1f18dc950
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |      291.42µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment aea986bd-9671-43b2-876b-65d1f18dc950
-api1-1          | [API-1] Received payment request: bf410455-020d-480c-9ee2-c1b0647926bf
-api1-1          | [API-1] Successfully queued payment: bf410455-020d-480c-9ee2-c1b0647926bf
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     312.761µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment bf410455-020d-480c-9ee2-c1b0647926bf
-api2-1          | [API-2] Received payment request: 234cfe9a-0785-4c7e-92d1-b81c0fa02554
-api2-1          | [API-2] Successfully queued payment: 234cfe9a-0785-4c7e-92d1-b81c0fa02554
-api2-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     354.632µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 234cfe9a-0785-4c7e-92d1-b81c0fa02554
-api1-1          | [API-1] Received payment request: 5c198f72-157e-48eb-ad75-d775fb1460a6
-api1-1          | [API-1] Successfully queued payment: 5c198f72-157e-48eb-ad75-d775fb1460a6
-api1-1          | [GIN] 2025/08/19 - 05:23:47 | 202 |     347.152µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 5c198f72-157e-48eb-ad75-d775fb1460a6
-api1-1          | [API-1] Received payment request: de745cbc-7ff9-4276-bbe3-b8dd11636934
-api1-1          | [API-1] Successfully queued payment: de745cbc-7ff9-4276-bbe3-b8dd11636934
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     338.312µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment de745cbc-7ff9-4276-bbe3-b8dd11636934
-api2-1          | [API-2] Received payment request: bae772ba-7cab-4d96-b050-be60ed4475b3
-api2-1          | [API-2] Successfully queued payment: bae772ba-7cab-4d96-b050-be60ed4475b3
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     399.474µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment bae772ba-7cab-4d96-b050-be60ed4475b3
-api1-1          | [API-1] Received payment request: 898d6cbd-c6de-4dc1-b8b6-cd3e0a90565b
-api1-1          | [API-1] Successfully queued payment: 898d6cbd-c6de-4dc1-b8b6-cd3e0a90565b
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |       306.3µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 898d6cbd-c6de-4dc1-b8b6-cd3e0a90565b
-api2-1          | [API-2] Received payment request: c70ea3eb-db56-4bc6-acdd-e7569dadf49d
-api2-1          | [API-2] Successfully queued payment: c70ea3eb-db56-4bc6-acdd-e7569dadf49d
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     385.294µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment c70ea3eb-db56-4bc6-acdd-e7569dadf49d
-api1-1          | [API-1] Received payment request: b56fb938-f8f5-4468-8277-467155d6a481
-api1-1          | [API-1] Successfully queued payment: b56fb938-f8f5-4468-8277-467155d6a481
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     350.082µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment b56fb938-f8f5-4468-8277-467155d6a481
-api2-1          | [API-2] Received payment request: 01d63416-d0fb-4eed-a375-be637da049a4
-api2-1          | [API-2] Successfully queued payment: 01d63416-d0fb-4eed-a375-be637da049a4
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |      311.89µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 01d63416-d0fb-4eed-a375-be637da049a4
-api1-1          | [API-1] Received payment request: 2e11869c-190e-46c0-b1ef-63cb95baa6ad
-api1-1          | [API-1] Successfully queued payment: 2e11869c-190e-46c0-b1ef-63cb95baa6ad
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     337.231µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 2e11869c-190e-46c0-b1ef-63cb95baa6ad
-api2-1          | [API-2] Received payment request: dbeaf76c-8768-4ecb-9b47-90d43e625579
-api2-1          | [API-2] Successfully queued payment: dbeaf76c-8768-4ecb-9b47-90d43e625579
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     327.941µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment dbeaf76c-8768-4ecb-9b47-90d43e625579
-api1-1          | [API-1] Received payment request: e2cbd6f6-15a3-459a-a2f6-c0da8f79e50d
-api2-1          | [API-2] Received payment request: 51dc9c46-055b-4a66-94ce-5280206a2dd7
-api1-1          | [API-1] Received payment request: 00b998e8-b77d-4810-8e37-c01dbec8dc33
-api2-1          | [API-2] Received payment request: e541c4a6-eee5-494f-b1b3-bccbc9d4b093
-api1-1          | [API-1] Successfully queued payment: e2cbd6f6-15a3-459a-a2f6-c0da8f79e50d
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |   18.693952ms |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Successfully queued payment: 51dc9c46-055b-4a66-94ce-5280206a2dd7
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |   13.612937ms |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Successfully queued payment: e541c4a6-eee5-494f-b1b3-bccbc9d4b093
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |    4.583067ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 00b998e8-b77d-4810-8e37-c01dbec8dc33
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |   13.140261ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 244d2663-b7af-42f0-a864-ede7c1e65d29
-api1-1          | [API-1] Successfully queued payment: 244d2663-b7af-42f0-a864-ede7c1e65d29
-api1-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |     666.443µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 51dc9c46-055b-4a66-94ce-5280206a2dd7
-api2-1          | [API-2] Received payment request: ccce8bfb-c6e6-4673-92ce-16d1f9a39489
-api2-1          | [API-2] Successfully queued payment: ccce8bfb-c6e6-4673-92ce-16d1f9a39489
-api2-1          | [GIN] 2025/08/19 - 05:23:48 | 202 |    1.014835ms |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 00b998e8-b77d-4810-8e37-c01dbec8dc33
-api1-1          | [API-1] Received payment request: dab933d0-1daa-42e6-9fda-f847d06d6a14
-api1-1          | [API-1] Successfully queued payment: dab933d0-1daa-42e6-9fda-f847d06d6a14
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     998.974µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment e541c4a6-eee5-494f-b1b3-bccbc9d4b093
-api2-1          | [API-2-worker-3] Successfully processed payment ccce8bfb-c6e6-4673-92ce-16d1f9a39489
-api1-1          | [API-1-worker-3] Successfully processed payment dab933d0-1daa-42e6-9fda-f847d06d6a14
-api2-1          | [API-2] Received payment request: 674764dd-ad39-42e0-a787-c4c767453969
-api2-1          | [API-2] Successfully queued payment: 674764dd-ad39-42e0-a787-c4c767453969
-api1-1          | [API-1-worker-1] Successfully processed payment e2cbd6f6-15a3-459a-a2f6-c0da8f79e50d
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |      593.25µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 244d2663-b7af-42f0-a864-ede7c1e65d29
-api2-1          | [API-2-worker-0] Successfully processed payment 674764dd-ad39-42e0-a787-c4c767453969
-api2-1          | [API-2] Received payment request: 058a15e8-93ae-43b2-90c8-a41246ee4670
-api2-1          | [API-2] Successfully queued payment: 058a15e8-93ae-43b2-90c8-a41246ee4670
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     394.393µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 058a15e8-93ae-43b2-90c8-a41246ee4670
-api1-1          | [API-1] Received payment request: 3139f479-363a-41dc-9c40-50029e287687
-api1-1          | [API-1] Successfully queued payment: 3139f479-363a-41dc-9c40-50029e287687
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     346.582µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 3139f479-363a-41dc-9c40-50029e287687
-api2-1          | [API-2] Received payment request: 9efd989f-07b1-409b-930b-83bd48739aa1
-api2-1          | [API-2] Successfully queued payment: 9efd989f-07b1-409b-930b-83bd48739aa1
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     413.474µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 9efd989f-07b1-409b-930b-83bd48739aa1
-api1-1          | [API-1] Received payment request: c22465e8-6409-4a17-ae85-09c49bce90cd
-api1-1          | [API-1] Successfully queued payment: c22465e8-6409-4a17-ae85-09c49bce90cd
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |      297.46µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment c22465e8-6409-4a17-ae85-09c49bce90cd
-api2-1          | [API-2] Received payment request: 3a5f88aa-791e-49e4-a1fa-2e09d4cab8fd
-api2-1          | [API-2] Successfully queued payment: 3a5f88aa-791e-49e4-a1fa-2e09d4cab8fd
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     328.021µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 3a5f88aa-791e-49e4-a1fa-2e09d4cab8fd
-api1-1          | [API-1] Received payment request: 068edad3-9201-4cde-bb87-62194c9d11d6
-api1-1          | [API-1] Successfully queued payment: 068edad3-9201-4cde-bb87-62194c9d11d6
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     356.212µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 068edad3-9201-4cde-bb87-62194c9d11d6
-api2-1          | [API-2] Received payment request: a5b340e6-aabc-4b09-8fd9-e2be9d3b8762
-api2-1          | [API-2] Successfully queued payment: a5b340e6-aabc-4b09-8fd9-e2be9d3b8762
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     329.071µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment a5b340e6-aabc-4b09-8fd9-e2be9d3b8762
-api1-1          | [API-1] Received payment request: ceae850b-f25c-456d-a2fa-6e37b868d044
-api1-1          | [API-1] Successfully queued payment: ceae850b-f25c-456d-a2fa-6e37b868d044
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     309.291µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment ceae850b-f25c-456d-a2fa-6e37b868d044
-api2-1          | [API-2] Received payment request: 06be3771-aaf5-4b3b-887c-45d1e90be274
-api2-1          | [API-2] Successfully queued payment: 06be3771-aaf5-4b3b-887c-45d1e90be274
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     342.971µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 06be3771-aaf5-4b3b-887c-45d1e90be274
-api1-1          | [API-1] Received payment request: 441f7a85-de3c-4530-a265-3dcf754afe2c
-api2-1          | [API-2] Received payment request: bb21e37b-d478-482e-a15d-ab2270470110
-api1-1          | [API-1] Received payment request: 0f0d69d7-21f5-469b-a181-aac52f4a7674
-api1-1          | [API-1] Successfully queued payment: 441f7a85-de3c-4530-a265-3dcf754afe2c
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     357.582µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Successfully queued payment: bb21e37b-d478-482e-a15d-ab2270470110
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     719.734µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 0f0d69d7-21f5-469b-a181-aac52f4a7674
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     568.419µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 0f0d69d7-21f5-469b-a181-aac52f4a7674
-api1-1          | [API-1] Received payment request: 8a0034bf-f091-41d1-bcc3-88440d644a29
-api2-1          | [API-2] Received payment request: a3449004-776c-497c-80c5-2512168c0d64
-api1-1          | [API-1] Successfully queued payment: 8a0034bf-f091-41d1-bcc3-88440d644a29
-api2-1          | [API-2] Successfully queued payment: a3449004-776c-497c-80c5-2512168c0d64
-api2-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     588.821µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [GIN] 2025/08/19 - 05:23:49 | 202 |     604.111µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 441f7a85-de3c-4530-a265-3dcf754afe2c
-api2-1          | [API-2-worker-3] Successfully processed payment a3449004-776c-497c-80c5-2512168c0d64
-api1-1          | [API-1-worker-1] Successfully processed payment 8a0034bf-f091-41d1-bcc3-88440d644a29
-api2-1          | [API-2] Received payment request: f3d6792d-7bd4-4b0a-a914-3bc9fa9eefa1
-api2-1          | [API-2] Successfully queued payment: f3d6792d-7bd4-4b0a-a914-3bc9fa9eefa1
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     553.449µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 169be6e0-94fe-4262-a1f6-0e806df292ef
-api1-1          | [API-1] Successfully queued payment: 169be6e0-94fe-4262-a1f6-0e806df292ef
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     345.022µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment bb21e37b-d478-482e-a15d-ab2270470110
-api1-1          | [API-1-worker-2] Successfully processed payment f3d6792d-7bd4-4b0a-a914-3bc9fa9eefa1
-api2-1          | [API-2-worker-0] Successfully processed payment 169be6e0-94fe-4262-a1f6-0e806df292ef
-api1-1          | [API-1] Received payment request: a32a3e39-89a2-43ee-a39c-d5e3f29b07d2
-api1-1          | [API-1] Successfully queued payment: a32a3e39-89a2-43ee-a39c-d5e3f29b07d2
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     337.922µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment a32a3e39-89a2-43ee-a39c-d5e3f29b07d2
-api2-1          | [API-2] Received payment request: 3b3b8b00-3e28-41d8-a0d3-5de2dcf7572a
-api2-1          | [API-2] Successfully queued payment: 3b3b8b00-3e28-41d8-a0d3-5de2dcf7572a
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     497.797µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 3b3b8b00-3e28-41d8-a0d3-5de2dcf7572a
-api2-1          | [API-2] Received payment request: 4cd5ab73-dee3-4220-92bb-0f8c72731bb1
-api2-1          | [API-2] Successfully queued payment: 4cd5ab73-dee3-4220-92bb-0f8c72731bb1
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     329.861µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 4cd5ab73-dee3-4220-92bb-0f8c72731bb1
-api1-1          | [API-1] Received payment request: bbf55ea4-d66c-45aa-a955-bbadf6cddc7a
-api1-1          | [API-1] Successfully queued payment: bbf55ea4-d66c-45aa-a955-bbadf6cddc7a
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     354.492µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment bbf55ea4-d66c-45aa-a955-bbadf6cddc7a
-api2-1          | [API-2] Received payment request: 3450cf71-10ce-4cbf-863e-87dfe2d6ec37
-api2-1          | [API-2] Successfully queued payment: 3450cf71-10ce-4cbf-863e-87dfe2d6ec37
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |      287.08µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 3450cf71-10ce-4cbf-863e-87dfe2d6ec37
-api1-1          | [API-1] Received payment request: 8a9fcd12-e786-4455-9d76-14a072b657ee
-api1-1          | [API-1] Successfully queued payment: 8a9fcd12-e786-4455-9d76-14a072b657ee
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     349.232µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 8a9fcd12-e786-4455-9d76-14a072b657ee
-api2-1          | [API-2] Received payment request: b8e67796-e03e-49b1-a9d0-3e4d1a00c0bf
-api2-1          | [API-2] Successfully queued payment: b8e67796-e03e-49b1-a9d0-3e4d1a00c0bf
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     327.181µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment b8e67796-e03e-49b1-a9d0-3e4d1a00c0bf
-api1-1          | [API-1] Received payment request: 5e269063-7109-404f-b8d2-bbee308c69de
-api1-1          | [API-1] Successfully queued payment: 5e269063-7109-404f-b8d2-bbee308c69de
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |      302.74µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 5e269063-7109-404f-b8d2-bbee308c69de
-api2-1          | [API-2] Received payment request: 359cc446-9b66-4279-8cc3-62248ff9f277
-api2-1          | [API-2] Successfully queued payment: 359cc446-9b66-4279-8cc3-62248ff9f277
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     330.391µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 359cc446-9b66-4279-8cc3-62248ff9f277
-api1-1          | [API-1] Received payment request: 542334b0-71ce-4c9a-9211-cf1afc9e18c4
-api1-1          | [API-1] Successfully queued payment: 542334b0-71ce-4c9a-9211-cf1afc9e18c4
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     332.262µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 542334b0-71ce-4c9a-9211-cf1afc9e18c4
-api2-1          | [API-2] Received payment request: f421b944-6ecd-46eb-9966-af94490b1188
-api2-1          | [API-2] Successfully queued payment: f421b944-6ecd-46eb-9966-af94490b1188
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     392.994µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 56abc056-bff9-41f0-944a-4f6d61d67c2d
-api1-1          | [API-1] Successfully queued payment: 56abc056-bff9-41f0-944a-4f6d61d67c2d
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     405.614µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment f421b944-6ecd-46eb-9966-af94490b1188
-api2-1          | [API-2-worker-3] Successfully processed payment 56abc056-bff9-41f0-944a-4f6d61d67c2d
-api2-1          | [API-2] Received payment request: 49f2090f-8545-4fcc-a00c-ec8c1fe9566e
-api1-1          | [API-1] Received payment request: 904d2167-c1a4-403b-933e-9321fff5ba33
-api1-1          | [API-1] Received payment request: 041e0d7a-b724-471b-8682-38e19a0441fb
-api2-1          | [API-2] Successfully queued payment: 49f2090f-8545-4fcc-a00c-ec8c1fe9566e
-api1-1          | [API-1] Successfully queued payment: 904d2167-c1a4-403b-933e-9321fff5ba33
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     532.338µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     799.267µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 041e0d7a-b724-471b-8682-38e19a0441fb
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |    1.971837ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 904d2167-c1a4-403b-933e-9321fff5ba33
-api2-1          | [API-2] Received payment request: ca730be1-c518-4e11-aaa6-3a4e9f50327c
-api2-1          | [API-2-worker-2] Successfully processed payment 49f2090f-8545-4fcc-a00c-ec8c1fe9566e
-api2-1          | [API-2] Successfully queued payment: ca730be1-c518-4e11-aaa6-3a4e9f50327c
-api2-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     252.449µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 041e0d7a-b724-471b-8682-38e19a0441fb
-api1-1          | [API-1] Received payment request: 2311969a-db3b-4c9f-b4e9-9750fc351c8e
-api1-1          | [API-1] Successfully queued payment: 2311969a-db3b-4c9f-b4e9-9750fc351c8e
-api1-1          | [GIN] 2025/08/19 - 05:23:50 | 202 |     407.894µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment ca730be1-c518-4e11-aaa6-3a4e9f50327c
-api1-1          | [API-1-worker-0] Successfully processed payment 2311969a-db3b-4c9f-b4e9-9750fc351c8e
-api2-1          | [API-2] Received payment request: 16a78ed0-4898-4947-bf33-a7283b6c44e1
-api2-1          | [API-2] Successfully queued payment: 16a78ed0-4898-4947-bf33-a7283b6c44e1
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     332.202µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: e308e119-f4a5-4d92-a4e5-fc4911a1287c
-api2-1          | [API-2-worker-1] Successfully processed payment 16a78ed0-4898-4947-bf33-a7283b6c44e1
-api1-1          | [API-1] Successfully queued payment: e308e119-f4a5-4d92-a4e5-fc4911a1287c
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     405.264µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment e308e119-f4a5-4d92-a4e5-fc4911a1287c
-api2-1          | [API-2] Received payment request: 06c5cf65-9bd0-4427-888e-6761592c015b
-api2-1          | [API-2] Successfully queued payment: 06c5cf65-9bd0-4427-888e-6761592c015b
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     403.664µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 06c5cf65-9bd0-4427-888e-6761592c015b
-api2-1          | [API-2] Received payment request: 34cf16d4-44b6-46e2-9295-cb9c3bd325c0
-api2-1          | [API-2] Successfully queued payment: 34cf16d4-44b6-46e2-9295-cb9c3bd325c0
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     374.373µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 34cf16d4-44b6-46e2-9295-cb9c3bd325c0
-api1-1          | [API-1] Received payment request: 6b8df46e-54c6-48a6-8c39-cfa0dcc682df
-api1-1          | [API-1] Successfully queued payment: 6b8df46e-54c6-48a6-8c39-cfa0dcc682df
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     427.995µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 6b8df46e-54c6-48a6-8c39-cfa0dcc682df
-api2-1          | [API-2] Received payment request: d8f901ef-4752-46dd-b7d7-0beea1b34dc0
-api2-1          | [API-2] Successfully queued payment: d8f901ef-4752-46dd-b7d7-0beea1b34dc0
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     324.471µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment d8f901ef-4752-46dd-b7d7-0beea1b34dc0
-api1-1          | [API-1] Received payment request: 5273e8a6-e223-4ccd-92c5-e1b2383b8481
-api1-1          | [API-1] Successfully queued payment: 5273e8a6-e223-4ccd-92c5-e1b2383b8481
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     407.484µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 5273e8a6-e223-4ccd-92c5-e1b2383b8481
-api2-1          | [API-2] Received payment request: 0a38e607-7182-4695-bbb0-d188b2757cee
-api2-1          | [API-2] Successfully queued payment: 0a38e607-7182-4695-bbb0-d188b2757cee
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     295.781µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 0a38e607-7182-4695-bbb0-d188b2757cee
-api1-1          | [API-1] Received payment request: dd28a62d-165e-49c8-829e-f4b344e18120
-api1-1          | [API-1] Successfully queued payment: dd28a62d-165e-49c8-829e-f4b344e18120
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     348.112µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment dd28a62d-165e-49c8-829e-f4b344e18120
-api2-1          | [API-2] Received payment request: 94e96a83-6239-4143-8502-c9604c8efa33
-api2-1          | [API-2] Successfully queued payment: 94e96a83-6239-4143-8502-c9604c8efa33
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     315.371µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 94e96a83-6239-4143-8502-c9604c8efa33
-api1-1          | [API-1] Received payment request: 4835e56a-9be7-4a0a-8988-f2ed89dc38b7
-api1-1          | [API-1] Successfully queued payment: 4835e56a-9be7-4a0a-8988-f2ed89dc38b7
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     866.299µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 4835e56a-9be7-4a0a-8988-f2ed89dc38b7
-api2-1          | [API-2] Received payment request: e8f25cad-5a0d-43f1-be65-08323216bef5
-api2-1          | [API-2] Successfully queued payment: e8f25cad-5a0d-43f1-be65-08323216bef5
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     388.653µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment e8f25cad-5a0d-43f1-be65-08323216bef5
-api1-1          | [API-1] Received payment request: eaa390cb-ea8c-4953-ada9-8075a1e10afa
-api1-1          | [API-1] Successfully queued payment: eaa390cb-ea8c-4953-ada9-8075a1e10afa
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     356.572µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment eaa390cb-ea8c-4953-ada9-8075a1e10afa
-api2-1          | [API-2] Received payment request: 8329896b-a08a-4d1c-9d25-6f8e72ffc9fa
-api2-1          | [API-2] Successfully queued payment: 8329896b-a08a-4d1c-9d25-6f8e72ffc9fa
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     372.983µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 8329896b-a08a-4d1c-9d25-6f8e72ffc9fa
-api2-1          | [API-2] Received payment request: 8fd9ecdd-5f78-4f69-98c9-a766bea37ef3
-api2-1          | [API-2] Successfully queued payment: 8fd9ecdd-5f78-4f69-98c9-a766bea37ef3
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     351.752µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 9e73422a-a36f-4bd2-879b-e3a29e61b747
-api1-1          | [API-1] Successfully queued payment: 9e73422a-a36f-4bd2-879b-e3a29e61b747
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     473.266µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 8fd9ecdd-5f78-4f69-98c9-a766bea37ef3
-api1-1          | [API-1-worker-0] Successfully processed payment 9e73422a-a36f-4bd2-879b-e3a29e61b747
-api1-1          | [API-1] Received payment request: e556fbb0-877f-4cc8-8878-0a7095a96a15
-api1-1          | [API-1] Successfully queued payment: e556fbb0-877f-4cc8-8878-0a7095a96a15
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     356.982µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: e574aedf-ef18-4c95-8912-871678ddc281
-api1-1          | [API-1] Received payment request: 468717ba-08a7-4da6-ac6e-e4d1420dba24
-api2-1          | [API-2] Successfully queued payment: e574aedf-ef18-4c95-8912-871678ddc281
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     412.404µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 468717ba-08a7-4da6-ac6e-e4d1420dba24
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     835.568µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment e556fbb0-877f-4cc8-8878-0a7095a96a15
-api2-1          | [API-2] Received payment request: 7bf648d0-ff29-4e53-85a3-1997566b19dc
-api2-1          | [API-2-worker-3] Successfully processed payment 468717ba-08a7-4da6-ac6e-e4d1420dba24
-api2-1          | [API-2] Successfully queued payment: 7bf648d0-ff29-4e53-85a3-1997566b19dc
-api2-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     598.811µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: a9db8280-a6fd-4bb3-b67c-24855f62038c
-api1-1          | [API-1] Successfully queued payment: a9db8280-a6fd-4bb3-b67c-24855f62038c
-api1-1          | [GIN] 2025/08/19 - 05:23:51 | 202 |     483.086µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment e574aedf-ef18-4c95-8912-871678ddc281
-api1-1          | [API-1-worker-1] Successfully processed payment 7bf648d0-ff29-4e53-85a3-1997566b19dc
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 200 |    4.578847ms |      172.20.0.6 | GET      "/payments-summary?from=2025-08-19T05:23:36.996Z&to=2025-08-19T05:23:49.996Z"
-api2-1          | [API-2-worker-2] Successfully processed payment a9db8280-a6fd-4bb3-b67c-24855f62038c
-api2-1          | [API-2] Received payment request: b48f923e-6637-4d85-a9a4-e922a4c5dccc
-api2-1          | [API-2] Successfully queued payment: b48f923e-6637-4d85-a9a4-e922a4c5dccc
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     360.172µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment b48f923e-6637-4d85-a9a4-e922a4c5dccc
-api1-1          | [API-1] Received payment request: 6583f6e9-046f-4175-8fd4-43123986677e
-api1-1          | [API-1] Successfully queued payment: 6583f6e9-046f-4175-8fd4-43123986677e
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     361.082µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 6583f6e9-046f-4175-8fd4-43123986677e
-api1-1          | [API-1] Received payment request: 8407e9eb-bb3f-4cf3-86f7-f21f31a936d1
-api1-1          | [API-1] Successfully queued payment: 8407e9eb-bb3f-4cf3-86f7-f21f31a936d1
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     348.431µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 8407e9eb-bb3f-4cf3-86f7-f21f31a936d1
-api2-1          | [API-2] Received payment request: d57b790a-4344-4966-bb84-48253121c166
-api2-1          | [API-2] Successfully queued payment: d57b790a-4344-4966-bb84-48253121c166
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     419.475µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment d57b790a-4344-4966-bb84-48253121c166
-api1-1          | [API-1] Received payment request: 0e608a9f-cec4-4c42-9040-2e6d25de656c
-api1-1          | [API-1] Successfully queued payment: 0e608a9f-cec4-4c42-9040-2e6d25de656c
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     386.433µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 0e608a9f-cec4-4c42-9040-2e6d25de656c
-api2-1          | [API-2] Received payment request: 978fb649-0503-4494-b59b-05e84cd92f40
-api2-1          | [API-2] Successfully queued payment: 978fb649-0503-4494-b59b-05e84cd92f40
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     311.281µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 30673e7a-13ac-467a-af18-6c3b0642adb0
-api2-1          | [API-2] Successfully queued payment: 30673e7a-13ac-467a-af18-6c3b0642adb0
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     329.641µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 978fb649-0503-4494-b59b-05e84cd92f40
-api1-1          | [API-1-worker-1] Successfully processed payment 30673e7a-13ac-467a-af18-6c3b0642adb0
-api1-1          | [API-1] Received payment request: f710fb31-e5b8-42b8-8c2d-a1dd05998baa
-api1-1          | [API-1] Successfully queued payment: f710fb31-e5b8-42b8-8c2d-a1dd05998baa
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     309.291µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment f710fb31-e5b8-42b8-8c2d-a1dd05998baa
-api2-1          | [API-2] Received payment request: bb3e13e8-f508-4efc-9da3-59d20889907a
-api2-1          | [API-2] Successfully queued payment: bb3e13e8-f508-4efc-9da3-59d20889907a
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     348.672µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment bb3e13e8-f508-4efc-9da3-59d20889907a
-api1-1          | [API-1] Received payment request: 6b189542-23cc-4118-985a-ef8aa767145e
-api1-1          | [API-1] Successfully queued payment: 6b189542-23cc-4118-985a-ef8aa767145e
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     394.194µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 6b189542-23cc-4118-985a-ef8aa767145e
-api2-1          | [API-2] Received payment request: 64f8d143-6af1-44d2-8781-e51807389d67
-api2-1          | [API-2] Successfully queued payment: 64f8d143-6af1-44d2-8781-e51807389d67
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |      291.21µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 64f8d143-6af1-44d2-8781-e51807389d67
-api1-1          | [API-1] Received payment request: 0074f1a8-82e6-4070-9cfd-8ece3fbad32f
-api1-1          | [API-1] Successfully queued payment: 0074f1a8-82e6-4070-9cfd-8ece3fbad32f
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |      281.88µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 0074f1a8-82e6-4070-9cfd-8ece3fbad32f
-api2-1          | [API-2] Received payment request: 2227b54d-0ab9-41e6-b0ee-cd2cbc01611a
-api2-1          | [API-2] Successfully queued payment: 2227b54d-0ab9-41e6-b0ee-cd2cbc01611a
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     387.773µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 2227b54d-0ab9-41e6-b0ee-cd2cbc01611a
-api1-1          | [API-1] Received payment request: 2651de20-3be4-4f32-86ea-6c9d31426d0b
-api1-1          | [API-1] Successfully queued payment: 2651de20-3be4-4f32-86ea-6c9d31426d0b
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     330.271µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 2651de20-3be4-4f32-86ea-6c9d31426d0b
-api1-1          | [API-1] Received payment request: 00b92962-686d-4b76-8559-c863d55b240f
-api1-1          | [API-1] Successfully queued payment: 00b92962-686d-4b76-8559-c863d55b240f
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     397.504µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 00b92962-686d-4b76-8559-c863d55b240f
-api2-1          | [API-2] Received payment request: 72813dc1-4079-4dfc-a89b-d97f47e5d031
-api2-1          | [API-2] Successfully queued payment: 72813dc1-4079-4dfc-a89b-d97f47e5d031
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     369.953µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 72813dc1-4079-4dfc-a89b-d97f47e5d031
-api2-1          | [API-2] Received payment request: 4fa11f8e-f43d-4337-b7c3-c3fd59799767
-api2-1          | [API-2] Successfully queued payment: 4fa11f8e-f43d-4337-b7c3-c3fd59799767
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     333.411µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: c8b4aeac-7f94-4178-b26b-0d406a052785
-api1-1          | [API-1] Successfully queued payment: c8b4aeac-7f94-4178-b26b-0d406a052785
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     410.734µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 4fa11f8e-f43d-4337-b7c3-c3fd59799767
-api2-1          | [API-2-worker-0] Successfully processed payment c8b4aeac-7f94-4178-b26b-0d406a052785
-api1-1          | [API-1] Received payment request: ea930b84-9134-4b00-95c6-c22db1fd830c
-api1-1          | [API-1] Successfully queued payment: ea930b84-9134-4b00-95c6-c22db1fd830c
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     395.263µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 336189e1-5261-4de1-871a-43e605e4db80
-api2-1          | [API-2] Successfully queued payment: 336189e1-5261-4de1-871a-43e605e4db80
-api2-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |     733.435µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 74f73e70-7555-4df8-a27d-fb5e9410d9bb
-api1-1          | [API-1] Successfully queued payment: 74f73e70-7555-4df8-a27d-fb5e9410d9bb
-api1-1          | [GIN] 2025/08/19 - 05:23:52 | 202 |    1.302984ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment ea930b84-9134-4b00-95c6-c22db1fd830c
-api2-1          | [API-2] Received payment request: fc771da3-4548-4dbb-84ae-a08dfc03e780
-api2-1          | [API-2-worker-1] Successfully processed payment 336189e1-5261-4de1-871a-43e605e4db80
-api2-1          | [API-2] Successfully queued payment: fc771da3-4548-4dbb-84ae-a08dfc03e780
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     333.762µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 74f73e70-7555-4df8-a27d-fb5e9410d9bb
-api1-1          | [API-1] Received payment request: 3285fb1c-4912-495d-b9b2-381d8ce24e05
-api1-1          | [API-1] Successfully queued payment: 3285fb1c-4912-495d-b9b2-381d8ce24e05
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     617.761µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment fc771da3-4548-4dbb-84ae-a08dfc03e780
-api1-1          | [API-1-worker-1] Successfully processed payment 3285fb1c-4912-495d-b9b2-381d8ce24e05
-api2-1          | [API-2] Received payment request: 0b61168f-836c-4fd1-9b50-2af8c47454c0
-api2-1          | [API-2] Successfully queued payment: 0b61168f-836c-4fd1-9b50-2af8c47454c0
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     305.051µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 0b61168f-836c-4fd1-9b50-2af8c47454c0
-api1-1          | [API-1] Received payment request: 993d0064-eff8-43ad-9246-72d15ac655ac
-api1-1          | [API-1] Successfully queued payment: 993d0064-eff8-43ad-9246-72d15ac655ac
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     345.241µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 993d0064-eff8-43ad-9246-72d15ac655ac
-api2-1          | [API-2] Received payment request: 1fac2ebe-8aa1-419c-ba4b-b702e7b23154
-api2-1          | [API-2] Successfully queued payment: 1fac2ebe-8aa1-419c-ba4b-b702e7b23154
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |      284.03µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 1fac2ebe-8aa1-419c-ba4b-b702e7b23154
-api2-1          | [API-2] Received payment request: 7e7deb82-86a6-459b-902d-330d0ffcc6f3
-api2-1          | [API-2] Successfully queued payment: 7e7deb82-86a6-459b-902d-330d0ffcc6f3
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     409.094µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 7e7deb82-86a6-459b-902d-330d0ffcc6f3
-api1-1          | [API-1] Received payment request: b3107b35-57bf-4150-8090-9247b48923a7
-api1-1          | [API-1] Successfully queued payment: b3107b35-57bf-4150-8090-9247b48923a7
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     348.092µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment b3107b35-57bf-4150-8090-9247b48923a7
-api2-1          | [API-2] Received payment request: 6f3bd5b0-567e-41c5-9cab-6c6f2a1a4671
-api2-1          | [API-2] Successfully queued payment: 6f3bd5b0-567e-41c5-9cab-6c6f2a1a4671
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     358.942µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 6f3bd5b0-567e-41c5-9cab-6c6f2a1a4671
-api1-1          | [API-1] Received payment request: 06f4dda2-0352-4948-9f1a-6001824a26cb
-api1-1          | [API-1] Successfully queued payment: 06f4dda2-0352-4948-9f1a-6001824a26cb
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |      286.01µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 14cd6aef-8abd-40e1-a6fa-dd4578b521e8
-api2-1          | [API-2] Successfully queued payment: 14cd6aef-8abd-40e1-a6fa-dd4578b521e8
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     357.392µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 06f4dda2-0352-4948-9f1a-6001824a26cb
-api1-1          | [API-1-worker-1] Successfully processed payment 14cd6aef-8abd-40e1-a6fa-dd4578b521e8
-api1-1          | [API-1] Received payment request: 6ec07e00-18ad-4a5d-bced-5eb564527318
-api1-1          | [API-1] Successfully queued payment: 6ec07e00-18ad-4a5d-bced-5eb564527318
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     331.622µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 6ec07e00-18ad-4a5d-bced-5eb564527318
-api2-1          | [API-2] Received payment request: 36a0c70c-532e-4e81-91fc-cea204bf6de5
-api2-1          | [API-2] Successfully queued payment: 36a0c70c-532e-4e81-91fc-cea204bf6de5
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     356.852µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 36a0c70c-532e-4e81-91fc-cea204bf6de5
-api1-1          | [API-1] Received payment request: fb49ba45-5e57-4da8-85cf-a4ac49132d1c
-api1-1          | [API-1] Successfully queued payment: fb49ba45-5e57-4da8-85cf-a4ac49132d1c
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     317.541µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment fb49ba45-5e57-4da8-85cf-a4ac49132d1c
-api2-1          | [API-2] Received payment request: d8cb4d8a-0cf0-4351-83ed-9b538a7d3376
-api2-1          | [API-2] Successfully queued payment: d8cb4d8a-0cf0-4351-83ed-9b538a7d3376
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     284.999µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment d8cb4d8a-0cf0-4351-83ed-9b538a7d3376
-api1-1          | [API-1] Received payment request: bc1c22db-494e-4be3-9b26-35294bdb5d11
-api1-1          | [API-1] Successfully queued payment: bc1c22db-494e-4be3-9b26-35294bdb5d11
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     264.129µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment bc1c22db-494e-4be3-9b26-35294bdb5d11
-api2-1          | [API-2] Received payment request: 05bf72f8-810c-4315-8e5e-ecfce0c5f1d1
-api2-1          | [API-2] Successfully queued payment: 05bf72f8-810c-4315-8e5e-ecfce0c5f1d1
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     318.871µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 05bf72f8-810c-4315-8e5e-ecfce0c5f1d1
-api1-1          | [API-1] Received payment request: 0cf0c853-cf74-43d7-99ed-f1ef052e6708
-api1-1          | [API-1] Successfully queued payment: 0cf0c853-cf74-43d7-99ed-f1ef052e6708
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     339.452µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 0cf0c853-cf74-43d7-99ed-f1ef052e6708
-api2-1          | [API-2] Received payment request: 50299ce0-6ff5-402f-a35b-f1cc555aca52
-api2-1          | [API-2] Successfully queued payment: 50299ce0-6ff5-402f-a35b-f1cc555aca52
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     371.143µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 50299ce0-6ff5-402f-a35b-f1cc555aca52
-api1-1          | [API-1] Received payment request: cf9444e7-bef3-4797-9ba4-ec7529e8fea4
-api1-1          | [API-1] Successfully queued payment: cf9444e7-bef3-4797-9ba4-ec7529e8fea4
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     471.776µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment cf9444e7-bef3-4797-9ba4-ec7529e8fea4
-api2-1          | [API-2] Received payment request: cd3015a5-ebee-427c-b350-6ac4300f72ec
-api2-1          | [API-2] Successfully queued payment: cd3015a5-ebee-427c-b350-6ac4300f72ec
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     384.674µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment cd3015a5-ebee-427c-b350-6ac4300f72ec
-api2-1          | [API-2] Received payment request: 98c82958-d32f-4212-b445-99378ee2a2e1
-api2-1          | [API-2] Successfully queued payment: 98c82958-d32f-4212-b445-99378ee2a2e1
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     484.927µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 5e9ac5f2-f588-4563-8766-111cf586b381
-api1-1          | [API-1] Successfully queued payment: 5e9ac5f2-f588-4563-8766-111cf586b381
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     619.611µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 98c82958-d32f-4212-b445-99378ee2a2e1
-api1-1          | [API-1-worker-0] Successfully processed payment 5e9ac5f2-f588-4563-8766-111cf586b381
-api1-1          | [API-1] Received payment request: a6d4cfa8-e775-45ed-b2fc-47dbeb7dfbe2
-api1-1          | [API-1] Successfully queued payment: a6d4cfa8-e775-45ed-b2fc-47dbeb7dfbe2
-api1-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     955.573µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 2b7517dc-ad78-4495-8c5c-fbea2c0a85dd
-api2-1          | [API-2] Successfully queued payment: 2b7517dc-ad78-4495-8c5c-fbea2c0a85dd
-api2-1          | [GIN] 2025/08/19 - 05:23:53 | 202 |     790.937µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 0975a5b4-3111-442d-a142-15561109447b
-api2-1          | [API-2] Received payment request: 01841b12-477d-4da1-8861-07979ab6fcd3
-api1-1          | [API-1] Received payment request: 3a621552-7e03-4f88-8b52-e6f9dca3ccc8
-api2-1          | [API-2] Successfully queued payment: 01841b12-477d-4da1-8861-07979ab6fcd3
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     409.694µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment a6d4cfa8-e775-45ed-b2fc-47dbeb7dfbe2
-api1-1          | [API-1-worker-3] Successfully processed payment 2b7517dc-ad78-4495-8c5c-fbea2c0a85dd
-api1-1          | [API-1] Successfully queued payment: 3a621552-7e03-4f88-8b52-e6f9dca3ccc8
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |    1.659037ms |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 0975a5b4-3111-442d-a142-15561109447b
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |    2.860458ms |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 4519181c-13fb-4b65-948f-78ca34589cb8
-api2-1          | [API-2] Successfully queued payment: 4519181c-13fb-4b65-948f-78ca34589cb8
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      893.63µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 01841b12-477d-4da1-8861-07979ab6fcd3
-api1-1          | [API-1] Received payment request: 490d58e9-755a-45b1-ae91-0f52faba02a3
-api1-1          | [API-1] Successfully queued payment: 490d58e9-755a-45b1-ae91-0f52faba02a3
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     539.549µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 0975a5b4-3111-442d-a142-15561109447b
-api1-1          | [API-1-worker-2] Successfully processed payment 4519181c-13fb-4b65-948f-78ca34589cb8
-api2-1          | [API-2-worker-2] Successfully processed payment 3a621552-7e03-4f88-8b52-e6f9dca3ccc8
-api2-1          | [API-2-worker-0] Successfully processed payment 490d58e9-755a-45b1-ae91-0f52faba02a3
-api1-1          | [API-1] Received payment request: 5491d65d-18d3-47d8-8129-9b0b83e95c68
-api1-1          | [API-1] Successfully queued payment: 5491d65d-18d3-47d8-8129-9b0b83e95c68
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      609.14µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 5491d65d-18d3-47d8-8129-9b0b83e95c68
-api2-1          | [API-2] Received payment request: f91ce9ac-0a8c-4216-a6ca-04bef57a432c
-api2-1          | [API-2] Successfully queued payment: f91ce9ac-0a8c-4216-a6ca-04bef57a432c
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     455.696µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment f91ce9ac-0a8c-4216-a6ca-04bef57a432c
-api1-1          | [API-1] Received payment request: 7f66dd64-243b-4eca-979c-fc67486dcd0b
-api1-1          | [API-1] Successfully queued payment: 7f66dd64-243b-4eca-979c-fc67486dcd0b
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     340.451µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 7f66dd64-243b-4eca-979c-fc67486dcd0b
-api2-1          | [API-2] Received payment request: 3d7e6ea0-f176-43a5-ae96-0769478c9c5e
-api2-1          | [API-2] Successfully queued payment: 3d7e6ea0-f176-43a5-ae96-0769478c9c5e
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     360.562µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment 3d7e6ea0-f176-43a5-ae96-0769478c9c5e
-api1-1          | [API-1] Received payment request: de087b10-10bf-4414-b74a-efeea7497a27
-api1-1          | [API-1] Successfully queued payment: de087b10-10bf-4414-b74a-efeea7497a27
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     318.381µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment de087b10-10bf-4414-b74a-efeea7497a27
-api2-1          | [API-2] Received payment request: bc9b88c7-34e4-4cab-ac16-b6129ff8acac
-api2-1          | [API-2] Successfully queued payment: bc9b88c7-34e4-4cab-ac16-b6129ff8acac
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     332.982µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 38d6458b-9476-49a5-956c-207bd5e9e875
-api2-1          | [API-2] Successfully queued payment: 38d6458b-9476-49a5-956c-207bd5e9e875
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     364.742µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment bc9b88c7-34e4-4cab-ac16-b6129ff8acac
-api1-1          | [API-1-worker-2] Successfully processed payment 38d6458b-9476-49a5-956c-207bd5e9e875
-api1-1          | [API-1] Received payment request: 450d3eab-0ecf-426a-8796-a00ae8482902
-api1-1          | [API-1] Successfully queued payment: 450d3eab-0ecf-426a-8796-a00ae8482902
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      294.18µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment 450d3eab-0ecf-426a-8796-a00ae8482902
-api2-1          | [API-2] Received payment request: 49fb6f5a-2655-4a63-b508-eaf6258809fd
-api2-1          | [API-2] Successfully queued payment: 49fb6f5a-2655-4a63-b508-eaf6258809fd
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     347.322µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 49fb6f5a-2655-4a63-b508-eaf6258809fd
-api1-1          | [API-1] Received payment request: 69cfb977-5989-4c0a-ba79-75ee386c3926
-api1-1          | [API-1] Successfully queued payment: 69cfb977-5989-4c0a-ba79-75ee386c3926
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      296.67µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 69cfb977-5989-4c0a-ba79-75ee386c3926
-api2-1          | [API-2] Received payment request: 2c3ce042-ee30-4a2c-812b-bd176fd64dda
-api2-1          | [API-2] Successfully queued payment: 2c3ce042-ee30-4a2c-812b-bd176fd64dda
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     319.961µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment 2c3ce042-ee30-4a2c-812b-bd176fd64dda
-api1-1          | [API-1] Received payment request: aef14216-c0f2-4508-95a7-032cf3c06cc3
-api1-1          | [API-1] Successfully queued payment: aef14216-c0f2-4508-95a7-032cf3c06cc3
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     359.792µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment aef14216-c0f2-4508-95a7-032cf3c06cc3
-api2-1          | [API-2] Received payment request: c162f2bf-7e1c-41da-b19b-f10fc0db709c
-api2-1          | [API-2] Successfully queued payment: c162f2bf-7e1c-41da-b19b-f10fc0db709c
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      288.67µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment c162f2bf-7e1c-41da-b19b-f10fc0db709c
-api1-1          | [API-1] Received payment request: 8c52c773-7d71-490f-a3b7-91f5b0c01fc8
-api1-1          | [API-1] Successfully queued payment: 8c52c773-7d71-490f-a3b7-91f5b0c01fc8
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     348.252µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 8c52c773-7d71-490f-a3b7-91f5b0c01fc8
-api1-1          | [API-1] Received payment request: f6838734-78e6-4d09-b53b-3e5e71de2c52
-api1-1          | [API-1] Successfully queued payment: f6838734-78e6-4d09-b53b-3e5e71de2c52
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     408.364µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment f6838734-78e6-4d09-b53b-3e5e71de2c52
-api2-1          | [API-2] Received payment request: b1b6f8df-e460-4e95-bb78-be46e6df42ab
-api2-1          | [API-2] Successfully queued payment: b1b6f8df-e460-4e95-bb78-be46e6df42ab
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     432.755µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment b1b6f8df-e460-4e95-bb78-be46e6df42ab
-api1-1          | [API-1] Received payment request: 1e06c6e3-342a-4cce-9b1a-e8977d9a47b1
-api1-1          | [API-1] Successfully queued payment: 1e06c6e3-342a-4cce-9b1a-e8977d9a47b1
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |      308.07µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 1e06c6e3-342a-4cce-9b1a-e8977d9a47b1
-api2-1          | [API-2] Received payment request: 59fa104a-9b68-4ffd-b789-d31866095684
-api2-1          | [API-2] Successfully queued payment: 59fa104a-9b68-4ffd-b789-d31866095684
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     347.122µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 59fa104a-9b68-4ffd-b789-d31866095684
-api2-1          | [API-2] Received payment request: fbdf49f4-2754-4885-bc88-7ea5dd3f69e8
-api2-1          | [API-2] Successfully queued payment: fbdf49f4-2754-4885-bc88-7ea5dd3f69e8
-api2-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     344.962µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: f10bd957-c32a-442c-ba65-bb0bffe2be03
-api1-1          | [API-1] Successfully queued payment: f10bd957-c32a-442c-ba65-bb0bffe2be03
-api1-1          | [GIN] 2025/08/19 - 05:23:54 | 202 |     386.184µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment fbdf49f4-2754-4885-bc88-7ea5dd3f69e8
-api2-1          | [API-2-worker-3] Successfully processed payment f10bd957-c32a-442c-ba65-bb0bffe2be03
-api1-1          | [API-1] Received payment request: 90120c92-b0b3-458b-af34-812cbb038890
-api2-1          | [API-2] Received payment request: 080719c5-9001-47ad-91c2-f5e47c8c6df9
-api2-1          | [API-2] Successfully queued payment: 080719c5-9001-47ad-91c2-f5e47c8c6df9
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     441.925µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Successfully queued payment: 90120c92-b0b3-458b-af34-812cbb038890
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     395.784µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1] Received payment request: 09fea9b3-39a6-4d91-8be8-7899d601982b
-api1-1          | [API-1] Successfully queued payment: 09fea9b3-39a6-4d91-8be8-7899d601982b
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     540.578µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: fcbe4f98-2173-4278-9ce0-f1539e0a7b7d
-api2-1          | [API-2] Successfully queued payment: fcbe4f98-2173-4278-9ce0-f1539e0a7b7d
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     385.573µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 90120c92-b0b3-458b-af34-812cbb038890
-api1-1          | [API-1] Received payment request: d52c1192-5691-4763-a6f0-e1452015c7a3
-api1-1          | [API-1] Successfully queued payment: d52c1192-5691-4763-a6f0-e1452015c7a3
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     591.871µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 080719c5-9001-47ad-91c2-f5e47c8c6df9
-api2-1          | [API-2] Received payment request: d996bef4-2b88-4ca8-9055-9fcd693fda16
-api2-1          | [API-2-worker-0] Successfully processed payment 09fea9b3-39a6-4d91-8be8-7899d601982b
-api2-1          | [API-2-worker-1] Successfully processed payment d52c1192-5691-4763-a6f0-e1452015c7a3
-api2-1          | [API-2] Successfully queued payment: d996bef4-2b88-4ca8-9055-9fcd693fda16
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     453.295µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment fcbe4f98-2173-4278-9ce0-f1539e0a7b7d
-api1-1          | [API-1] Received payment request: 1ddf72c4-e9f4-46fd-9f2f-db2f548ac2b9
-api1-1          | [API-1] Successfully queued payment: 1ddf72c4-e9f4-46fd-9f2f-db2f548ac2b9
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     329.301µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment d996bef4-2b88-4ca8-9055-9fcd693fda16
-api2-1          | [API-2-worker-3] Successfully processed payment 1ddf72c4-e9f4-46fd-9f2f-db2f548ac2b9
-api2-1          | [API-2] Received payment request: f1916bb1-f11b-4952-bd4a-50e698a26921
-api2-1          | [API-2] Successfully queued payment: f1916bb1-f11b-4952-bd4a-50e698a26921
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |      314.22µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment f1916bb1-f11b-4952-bd4a-50e698a26921
-api2-1          | [API-2] Received payment request: 084045a8-7f58-428d-942d-554b6ec0009d
-api2-1          | [API-2] Successfully queued payment: 084045a8-7f58-428d-942d-554b6ec0009d
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     415.425µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 084045a8-7f58-428d-942d-554b6ec0009d
-api1-1          | [API-1] Received payment request: 01c5207c-ac53-4eed-89e4-fbbd242ea7b8
-api1-1          | [API-1] Successfully queued payment: 01c5207c-ac53-4eed-89e4-fbbd242ea7b8
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     386.144µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 01c5207c-ac53-4eed-89e4-fbbd242ea7b8
-api2-1          | [API-2] Received payment request: e6d9c9f4-f526-4e3d-8195-a95040cc1762
-api2-1          | [API-2] Successfully queued payment: e6d9c9f4-f526-4e3d-8195-a95040cc1762
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     300.671µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment e6d9c9f4-f526-4e3d-8195-a95040cc1762
-api1-1          | [API-1] Received payment request: 89d8e052-9c58-4ab2-bb2a-0271006d4345
-api1-1          | [API-1] Successfully queued payment: 89d8e052-9c58-4ab2-bb2a-0271006d4345
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     408.044µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 89d8e052-9c58-4ab2-bb2a-0271006d4345
-api2-1          | [API-2] Received payment request: 20cb2ffa-2a2b-41c1-971a-d689b2595330
-api2-1          | [API-2] Successfully queued payment: 20cb2ffa-2a2b-41c1-971a-d689b2595330
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     357.972µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 20cb2ffa-2a2b-41c1-971a-d689b2595330
-api1-1          | [API-1] Received payment request: 0665f568-1c59-4f21-ab5b-2df080b372f8
-api1-1          | [API-1] Successfully queued payment: 0665f568-1c59-4f21-ab5b-2df080b372f8
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |      306.65µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2] Received payment request: 7eb855f6-a62e-4989-b8ca-48e875ac17ef
-api2-1          | [API-2] Successfully queued payment: 7eb855f6-a62e-4989-b8ca-48e875ac17ef
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     278.899µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment 0665f568-1c59-4f21-ab5b-2df080b372f8
-api2-1          | [API-2-worker-3] Successfully processed payment 7eb855f6-a62e-4989-b8ca-48e875ac17ef
-api1-1          | [API-1] Received payment request: c7d00c75-fd74-40f7-ae96-887d63c51501
-api1-1          | [API-1] Successfully queued payment: c7d00c75-fd74-40f7-ae96-887d63c51501
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     312.501µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment c7d00c75-fd74-40f7-ae96-887d63c51501
-api2-1          | [API-2] Received payment request: 8a859961-ed6a-4e4c-a7b0-0f09241c2507
-api2-1          | [API-2] Successfully queued payment: 8a859961-ed6a-4e4c-a7b0-0f09241c2507
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     324.141µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 8a859961-ed6a-4e4c-a7b0-0f09241c2507
-api1-1          | [API-1] Received payment request: 07399dfb-68f3-44fd-9aa4-7c3b4e7cb3c3
-api1-1          | [API-1] Successfully queued payment: 07399dfb-68f3-44fd-9aa4-7c3b4e7cb3c3
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |      287.74µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-1] Successfully processed payment 07399dfb-68f3-44fd-9aa4-7c3b4e7cb3c3
-api2-1          | [API-2] Received payment request: b214db22-7299-4297-97ac-4bed1cc32c15
-api2-1          | [API-2] Successfully queued payment: b214db22-7299-4297-97ac-4bed1cc32c15
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     385.913µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-0] Successfully processed payment b214db22-7299-4297-97ac-4bed1cc32c15
-api1-1          | [API-1] Received payment request: 3a2bf40f-8289-43c9-8b69-b213a400f847
-api1-1          | [API-1] Successfully queued payment: 3a2bf40f-8289-43c9-8b69-b213a400f847
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     305.681µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-2] Successfully processed payment 3a2bf40f-8289-43c9-8b69-b213a400f847
-api2-1          | [API-2] Received payment request: 6a8482f2-b90c-4526-af4a-d6ea991907d5
-api2-1          | [API-2] Successfully queued payment: 6a8482f2-b90c-4526-af4a-d6ea991907d5
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     339.622µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-1] Successfully processed payment 6a8482f2-b90c-4526-af4a-d6ea991907d5
-api1-1          | [API-1] Received payment request: e77d5e91-4cca-4f52-a104-795db5bdda5c
-api1-1          | [API-1] Successfully queued payment: e77d5e91-4cca-4f52-a104-795db5bdda5c
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     336.671µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-0] Successfully processed payment e77d5e91-4cca-4f52-a104-795db5bdda5c
-api2-1          | [API-2] Received payment request: e38f88cd-0202-4b31-9f5b-6f6dc8404997
-api2-1          | [API-2] Successfully queued payment: e38f88cd-0202-4b31-9f5b-6f6dc8404997
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     426.155µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-3] Successfully processed payment e38f88cd-0202-4b31-9f5b-6f6dc8404997
-api1-1          | [API-1] Received payment request: af06db30-2cba-4ea4-a3da-f8e2964461d0
-api1-1          | [API-1] Successfully queued payment: af06db30-2cba-4ea4-a3da-f8e2964461d0
-api1-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     324.211µs |      172.20.0.6 | POST     "/payments"
-api1-1          | [API-1-worker-3] Successfully processed payment af06db30-2cba-4ea4-a3da-f8e2964461d0
-api2-1          | [API-2] Received payment request: 8230d1e6-5aef-4958-9deb-05bb0a46f7b9
-api2-1          | [API-2] Successfully queued payment: 8230d1e6-5aef-4958-9deb-05bb0a46f7b9
-api2-1          | [GIN] 2025/08/19 - 05:23:55 | 202 |     339.161µs |      172.20.0.6 | POST     "/payments"
-api2-1          | [API-2-worker-2] Successfully processed payment 8230d1e6-5aef-4958-9deb-05bb0a46f7b9
-api1-1          | [API-1] Received payment request: 7acac848-d209-40d3-a16a-22fb3870f480
+api1-1          | [GIN] 2025/08/21 - 16:20:41 | 200 |    4.676662ms |      172.21.0.6 | GET      "/payments-summary"
+api1-1          | [GIN] 2025/08/21 - 16:20:47 | 404 |         740ns |      172.21.0.6 | POST     "/purge-payments"
+api1-1          | [API-1] Received payment request: e395938a-f8d0-46ba-8c39-1cf6b4dc7a8a
+api1-1          | [GIN] 2025/08/21 - 16:20:47 | 200 |    2.094143ms |      172.21.0.6 | GET      "/payments-summary?from=2025-08-21T16:20:32.519Z&to=2025-08-21T16:20:45.519Z"
+api1-1          | [API-1] Successfully queued payment: e395938a-f8d0-46ba-8c39-1cf6b4dc7a8a
+api1-1          | [GIN] 2025/08/21 - 16:20:47 | 202 |    3.773646ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment e395938a-f8d0-46ba-8c39-1cf6b4dc7a8a
+api2-1          | [API-2] Received payment request: aa064436-3961-43a3-b485-ac5ba81b1e83
+api2-1          | [API-2] Successfully queued payment: aa064436-3961-43a3-b485-ac5ba81b1e83
+api2-1          | [GIN] 2025/08/21 - 16:20:48 | 202 |    1.388152ms |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment aa064436-3961-43a3-b485-ac5ba81b1e83
+api1-1          | [API-1] Received payment request: f05d63b2-a317-40c6-8735-046482a63076
+api1-1          | [API-1] Successfully queued payment: f05d63b2-a317-40c6-8735-046482a63076
+api1-1          | [GIN] 2025/08/21 - 16:20:48 | 202 |     398.369µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment f05d63b2-a317-40c6-8735-046482a63076
+api2-1          | [API-2] Received payment request: 8fa8ed62-cb39-42d4-add4-f2ba935bce7b
+api2-1          | [API-2] Successfully queued payment: 8fa8ed62-cb39-42d4-add4-f2ba935bce7b
+api2-1          | [GIN] 2025/08/21 - 16:20:48 | 202 |     424.981µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 8fa8ed62-cb39-42d4-add4-f2ba935bce7b
+api2-1          | [API-2] Received payment request: fa46c8f9-1774-4164-879a-53293c09ce0f
+api2-1          | [API-2] Successfully queued payment: fa46c8f9-1774-4164-879a-53293c09ce0f
+api2-1          | [GIN] 2025/08/21 - 16:20:49 | 202 |     470.024µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment fa46c8f9-1774-4164-879a-53293c09ce0f
+api1-1          | [API-1] Received payment request: f7400c29-84c1-4e26-90cb-b266c1122f27
+api1-1          | [API-1] Successfully queued payment: f7400c29-84c1-4e26-90cb-b266c1122f27
+api1-1          | [GIN] 2025/08/21 - 16:20:49 | 202 |     425.551µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment f7400c29-84c1-4e26-90cb-b266c1122f27
+api2-1          | [API-2] Received payment request: 27a14982-1192-4641-bf47-b63549089644
+api2-1          | [API-2] Successfully queued payment: 27a14982-1192-4641-bf47-b63549089644
+api2-1          | [GIN] 2025/08/21 - 16:20:49 | 202 |     453.143µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 27a14982-1192-4641-bf47-b63549089644
+api1-1          | [API-1] Received payment request: c8ca19f1-f9d8-49e0-b47b-de13a69a727b
+api1-1          | [API-1] Successfully queued payment: c8ca19f1-f9d8-49e0-b47b-de13a69a727b
+api1-1          | [GIN] 2025/08/21 - 16:20:49 | 202 |     423.981µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment c8ca19f1-f9d8-49e0-b47b-de13a69a727b
+api1-1          | [API-1] Received payment request: e2c4aa05-5a64-4168-a532-a6c8624dfb82
+api1-1          | [API-1] Successfully queued payment: e2c4aa05-5a64-4168-a532-a6c8624dfb82
+api1-1          | [GIN] 2025/08/21 - 16:20:49 | 202 |     361.957µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment e2c4aa05-5a64-4168-a532-a6c8624dfb82
+api2-1          | [API-2] Received payment request: 7854173d-d420-4817-9f01-27d3be53a203
+api2-1          | [API-2] Successfully queued payment: 7854173d-d420-4817-9f01-27d3be53a203
+api2-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |      401.43µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 7854173d-d420-4817-9f01-27d3be53a203
+api1-1          | [API-1] Received payment request: 5b8dcb01-ceb1-4866-86b4-541167f8f120
+api1-1          | [API-1] Successfully queued payment: 5b8dcb01-ceb1-4866-86b4-541167f8f120
+api1-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     303.902µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 5b8dcb01-ceb1-4866-86b4-541167f8f120
+api2-1          | [API-2] Received payment request: da373097-610d-42f5-9584-bfb5deada442
+api2-1          | [API-2] Successfully queued payment: da373097-610d-42f5-9584-bfb5deada442
+api2-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     287.531µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment da373097-610d-42f5-9584-bfb5deada442
+api1-1          | [API-1] Received payment request: 1fb62e25-2cb0-4dfb-8069-01cd4712e27d
+api1-1          | [API-1] Successfully queued payment: 1fb62e25-2cb0-4dfb-8069-01cd4712e27d
+api1-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     391.948µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 1fb62e25-2cb0-4dfb-8069-01cd4712e27d
+api2-1          | [API-2] Received payment request: 12d41829-1dda-459c-80dd-434d564db55a
+api2-1          | [API-2] Successfully queued payment: 12d41829-1dda-459c-80dd-434d564db55a
+api2-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     297.222µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 12d41829-1dda-459c-80dd-434d564db55a
+api1-1          | [API-1] Received payment request: 58630fa8-7f6e-4084-b998-cb60c3f83687
+api1-1          | [API-1] Successfully queued payment: 58630fa8-7f6e-4084-b998-cb60c3f83687
+api1-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     343.835µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 58630fa8-7f6e-4084-b998-cb60c3f83687
+api2-1          | [API-2] Received payment request: 6ac35205-c844-418c-9ddd-4dfc6428655f
+api2-1          | [API-2] Successfully queued payment: 6ac35205-c844-418c-9ddd-4dfc6428655f
+api2-1          | [GIN] 2025/08/21 - 16:20:50 | 202 |     373.697µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 6ac35205-c844-418c-9ddd-4dfc6428655f
+api2-1          | [API-2] Received payment request: 42ca5af0-d78b-4303-a511-4b11735c8035
+api2-1          | [API-2] Successfully queued payment: 42ca5af0-d78b-4303-a511-4b11735c8035
+api2-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     418.341µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 42ca5af0-d78b-4303-a511-4b11735c8035
+api1-1          | [API-1] Received payment request: 2ac7d2cf-b89c-4ab9-a151-362f347c10c2
+api1-1          | [API-1] Successfully queued payment: 2ac7d2cf-b89c-4ab9-a151-362f347c10c2
+api1-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     447.343µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 2ac7d2cf-b89c-4ab9-a151-362f347c10c2
+api2-1          | [API-2] Received payment request: 4b74ed74-ad4b-47a2-a187-54a4cdcd841b
+api2-1          | [API-2] Successfully queued payment: 4b74ed74-ad4b-47a2-a187-54a4cdcd841b
+api2-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     345.025µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 4b74ed74-ad4b-47a2-a187-54a4cdcd841b
+api1-1          | [API-1] Received payment request: 57f2dd2a-a57a-49f6-a17b-0002ff8224bc
+api1-1          | [API-1] Successfully queued payment: 57f2dd2a-a57a-49f6-a17b-0002ff8224bc
+api1-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     362.136µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 57f2dd2a-a57a-49f6-a17b-0002ff8224bc
+api2-1          | [API-2] Received payment request: 0b2efb0b-5477-4e34-a969-0bc4ab37ceb8
+api2-1          | [API-2] Successfully queued payment: 0b2efb0b-5477-4e34-a969-0bc4ab37ceb8
+api2-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |       405.4µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1] Received payment request: fc2b1fba-b76d-4672-bbe5-7abfca25ef31
+api1-1          | [API-1] Successfully queued payment: fc2b1fba-b76d-4672-bbe5-7abfca25ef31
+api1-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     518.408µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 0b2efb0b-5477-4e34-a969-0bc4ab37ceb8
+api1-1          | [API-1-worker-1] Successfully processed payment fc2b1fba-b76d-4672-bbe5-7abfca25ef31
+api2-1          | [API-2] Received payment request: 2b9c0b63-0e09-47a9-8061-9c6e191985b6
+api2-1          | [API-2] Successfully queued payment: 2b9c0b63-0e09-47a9-8061-9c6e191985b6
+api2-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     343.845µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 2b9c0b63-0e09-47a9-8061-9c6e191985b6
+api1-1          | [API-1] Received payment request: 6fad1b06-fa0b-4260-9d00-d16aefdc7129
+api1-1          | [API-1] Successfully queued payment: 6fad1b06-fa0b-4260-9d00-d16aefdc7129
+api1-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     360.126µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 6fad1b06-fa0b-4260-9d00-d16aefdc7129
+api1-1          | [API-1] Received payment request: 7b7b8228-728d-4614-a3ec-d7a28ad77f05
+api1-1          | [API-1] Successfully queued payment: 7b7b8228-728d-4614-a3ec-d7a28ad77f05
+api1-1          | [GIN] 2025/08/21 - 16:20:51 | 202 |     301.522µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 7b7b8228-728d-4614-a3ec-d7a28ad77f05
+api2-1          | [API-2] Received payment request: 7e9e4cef-0cc1-4926-b5ad-9ae4bef68c77
+api2-1          | [API-2] Successfully queued payment: 7e9e4cef-0cc1-4926-b5ad-9ae4bef68c77
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     438.582µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 7e9e4cef-0cc1-4926-b5ad-9ae4bef68c77
+api1-1          | [API-1] Received payment request: 5a02c535-72bf-46ca-b1d2-1dc361a00b46
+api1-1          | [API-1] Successfully queued payment: 5a02c535-72bf-46ca-b1d2-1dc361a00b46
+api1-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     349.265µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 5a02c535-72bf-46ca-b1d2-1dc361a00b46
+api2-1          | [API-2] Received payment request: 0f67a5f3-1245-4fba-bb54-ea4de73ebbec
+api2-1          | [API-2] Successfully queued payment: 0f67a5f3-1245-4fba-bb54-ea4de73ebbec
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     288.701µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 0f67a5f3-1245-4fba-bb54-ea4de73ebbec
+api1-1          | [API-1] Received payment request: 540bd49c-09f4-4983-89be-e8e1d23f7c01
+api1-1          | [API-1] Successfully queued payment: 540bd49c-09f4-4983-89be-e8e1d23f7c01
+api1-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     338.645µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 540bd49c-09f4-4983-89be-e8e1d23f7c01
+api2-1          | [API-2] Received payment request: 3da7f662-a877-496d-8dba-251ac662deb9
+api2-1          | [API-2] Successfully queued payment: 3da7f662-a877-496d-8dba-251ac662deb9
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     292.952µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 3da7f662-a877-496d-8dba-251ac662deb9
+api1-1          | [API-1] Received payment request: 8b768ac5-34d8-4987-ac8c-85b69729df0d
+api1-1          | [API-1] Successfully queued payment: 8b768ac5-34d8-4987-ac8c-85b69729df0d
+api1-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     379.278µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 8b768ac5-34d8-4987-ac8c-85b69729df0d
+api2-1          | [API-2] Received payment request: cda30f89-b5ec-49d3-a40d-c439947b0825
+api2-1          | [API-2] Successfully queued payment: cda30f89-b5ec-49d3-a40d-c439947b0825
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     375.168µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment cda30f89-b5ec-49d3-a40d-c439947b0825
+api1-1          | [API-1] Received payment request: d4df4b5c-0a15-47f2-a3cb-40f8767c6f27
+api1-1          | [API-1] Successfully queued payment: d4df4b5c-0a15-47f2-a3cb-40f8767c6f27
+api1-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     382.678µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment d4df4b5c-0a15-47f2-a3cb-40f8767c6f27
+api2-1          | [API-2] Received payment request: 30714b77-3a6c-4370-8f93-230d98ea77dd
+api2-1          | [API-2] Successfully queued payment: 30714b77-3a6c-4370-8f93-230d98ea77dd
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     362.147µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 30714b77-3a6c-4370-8f93-230d98ea77dd
+api1-1          | [API-1] Received payment request: 3e7ddd80-aa7f-4c9e-921a-5b4dc80b09b8
+api1-1          | [API-1] Successfully queued payment: 3e7ddd80-aa7f-4c9e-921a-5b4dc80b09b8
+api1-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     319.514µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 3e7ddd80-aa7f-4c9e-921a-5b4dc80b09b8
+api2-1          | [API-2] Received payment request: 6520f97c-1c96-4cea-bb85-6c997e721c7f
+api2-1          | [API-2] Successfully queued payment: 6520f97c-1c96-4cea-bb85-6c997e721c7f
+api2-1          | [GIN] 2025/08/21 - 16:20:52 | 202 |     292.861µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 6520f97c-1c96-4cea-bb85-6c997e721c7f
+api2-1          | [API-2] Received payment request: 0c62749f-31cc-4ff5-a125-dd852bef8672
+api2-1          | [API-2] Successfully queued payment: 0c62749f-31cc-4ff5-a125-dd852bef8672
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     446.743µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 0c62749f-31cc-4ff5-a125-dd852bef8672
+api1-1          | [API-1] Received payment request: 5f1458f4-9fa9-4ee2-ac53-603a1f320fbb
+api1-1          | [API-1] Successfully queued payment: 5f1458f4-9fa9-4ee2-ac53-603a1f320fbb
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     305.352µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 5f1458f4-9fa9-4ee2-ac53-603a1f320fbb
+api2-1          | [API-2] Received payment request: cdfc6a0c-d294-4fc3-8285-b38ff9869727
+api2-1          | [API-2] Successfully queued payment: cdfc6a0c-d294-4fc3-8285-b38ff9869727
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     360.556µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment cdfc6a0c-d294-4fc3-8285-b38ff9869727
+api1-1          | [API-1] Received payment request: 91c6cdc7-f380-4ff5-a661-c9fcfa4466b3
+api1-1          | [API-1] Successfully queued payment: 91c6cdc7-f380-4ff5-a661-c9fcfa4466b3
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     419.771µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 91c6cdc7-f380-4ff5-a661-c9fcfa4466b3
+api2-1          | [API-2] Received payment request: cfdeb07e-1c67-47bd-a9e9-dd563b4b9f2b
+api2-1          | [API-2] Successfully queued payment: cfdeb07e-1c67-47bd-a9e9-dd563b4b9f2b
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |      400.79µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment cfdeb07e-1c67-47bd-a9e9-dd563b4b9f2b
+api1-1          | [API-1] Received payment request: d5bd72ab-9069-4e89-b3c2-811e8258f4e7
+api1-1          | [API-1] Successfully queued payment: d5bd72ab-9069-4e89-b3c2-811e8258f4e7
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     389.069µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment d5bd72ab-9069-4e89-b3c2-811e8258f4e7
+api2-1          | [API-2] Received payment request: 6cadd3d1-9178-4501-9d14-be75a76bd9e7
+api2-1          | [API-2] Successfully queued payment: 6cadd3d1-9178-4501-9d14-be75a76bd9e7
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     426.722µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 6cadd3d1-9178-4501-9d14-be75a76bd9e7
+api1-1          | [API-1] Received payment request: b58cd156-bb9a-4ba3-b34d-82870c5e045b
+api1-1          | [API-1] Successfully queued payment: b58cd156-bb9a-4ba3-b34d-82870c5e045b
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |      418.25µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment b58cd156-bb9a-4ba3-b34d-82870c5e045b
+api2-1          | [API-2] Received payment request: 467d45e0-6204-425e-b241-1c58a29112c7
+api2-1          | [API-2] Successfully queued payment: 467d45e0-6204-425e-b241-1c58a29112c7
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     328.144µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 467d45e0-6204-425e-b241-1c58a29112c7
+api1-1          | [API-1] Received payment request: ac8c8d62-2468-4f6d-816c-8e45a602b3a5
+api1-1          | [API-1] Successfully queued payment: ac8c8d62-2468-4f6d-816c-8e45a602b3a5
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     347.956µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment ac8c8d62-2468-4f6d-816c-8e45a602b3a5
+api2-1          | [API-2] Received payment request: 43b21ab9-ccf1-40ba-8831-36b6950c2b4b
+api2-1          | [API-2] Successfully queued payment: 43b21ab9-ccf1-40ba-8831-36b6950c2b4b
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |      410.76µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 43b21ab9-ccf1-40ba-8831-36b6950c2b4b
+api1-1          | [API-1] Received payment request: 05e79d0f-0038-4cd7-a6c1-264a1ea89c9f
+api1-1          | [API-1] Successfully queued payment: 05e79d0f-0038-4cd7-a6c1-264a1ea89c9f
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     363.106µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 05e79d0f-0038-4cd7-a6c1-264a1ea89c9f
+api1-1          | [API-1] Received payment request: aa988353-d386-42a1-90c8-8e196bdfeffa
+api1-1          | [API-1] Successfully queued payment: aa988353-d386-42a1-90c8-8e196bdfeffa
+api1-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |     360.806µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment aa988353-d386-42a1-90c8-8e196bdfeffa
+api2-1          | [API-2] Received payment request: 0dbaec9a-de8a-452b-9860-82afb153acdd
+api2-1          | [API-2] Successfully queued payment: 0dbaec9a-de8a-452b-9860-82afb153acdd
+api2-1          | [GIN] 2025/08/21 - 16:20:53 | 202 |      415.86µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 0dbaec9a-de8a-452b-9860-82afb153acdd
+api1-1          | [API-1] Received payment request: 5027accf-c55f-4937-83dd-da048df0bb37
+api1-1          | [API-1] Successfully queued payment: 5027accf-c55f-4937-83dd-da048df0bb37
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     307.722µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 5027accf-c55f-4937-83dd-da048df0bb37
+api2-1          | [API-2] Received payment request: c7dabb81-3e08-4b76-a6d3-63b377624226
+api2-1          | [API-2] Successfully queued payment: c7dabb81-3e08-4b76-a6d3-63b377624226
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     331.544µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment c7dabb81-3e08-4b76-a6d3-63b377624226
+api1-1          | [API-1] Received payment request: 68d525b7-3cc4-4545-8079-00dc3673e631
+api1-1          | [API-1] Successfully queued payment: 68d525b7-3cc4-4545-8079-00dc3673e631
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     322.573µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 68d525b7-3cc4-4545-8079-00dc3673e631
+api2-1          | [API-2] Received payment request: 18619058-f653-4955-8256-8bac80693699
+api2-1          | [API-2] Successfully queued payment: 18619058-f653-4955-8256-8bac80693699
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |      279.55µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 18619058-f653-4955-8256-8bac80693699
+api1-1          | [API-1] Received payment request: 7b162d27-f65a-4811-b1ae-a87e37259fac
+api1-1          | [API-1] Successfully queued payment: 7b162d27-f65a-4811-b1ae-a87e37259fac
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     276.911µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 7b162d27-f65a-4811-b1ae-a87e37259fac
+api2-1          | [API-2] Received payment request: ed2b93af-c4c9-4080-b45e-4e095f4fb0a3
+api2-1          | [API-2] Successfully queued payment: ed2b93af-c4c9-4080-b45e-4e095f4fb0a3
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     384.158µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment ed2b93af-c4c9-4080-b45e-4e095f4fb0a3
+api1-1          | [API-1] Received payment request: 9bff85ab-eede-47fa-8278-a375fb209726
+api1-1          | [API-1] Successfully queued payment: 9bff85ab-eede-47fa-8278-a375fb209726
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |      422.75µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 9bff85ab-eede-47fa-8278-a375fb209726
+api2-1          | [API-2] Received payment request: 13ba8f1a-98af-4b89-9ce3-d2dc21c060aa
+api2-1          | [API-2] Successfully queued payment: 13ba8f1a-98af-4b89-9ce3-d2dc21c060aa
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     311.153µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 13ba8f1a-98af-4b89-9ce3-d2dc21c060aa
+api1-1          | [API-1] Received payment request: 74960b2b-b2dd-40af-b303-7da6733b311d
+api1-1          | [API-1] Successfully queued payment: 74960b2b-b2dd-40af-b303-7da6733b311d
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     344.695µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 74960b2b-b2dd-40af-b303-7da6733b311d
+api2-1          | [API-2] Received payment request: d9f88db7-ddda-4163-a0a1-bca198612914
+api2-1          | [API-2] Successfully queued payment: d9f88db7-ddda-4163-a0a1-bca198612914
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     334.445µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment d9f88db7-ddda-4163-a0a1-bca198612914
+api1-1          | [API-1] Received payment request: 1f7bd635-dc60-4f50-a1d4-9d491b2436bb
+api1-1          | [API-1] Successfully queued payment: 1f7bd635-dc60-4f50-a1d4-9d491b2436bb
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     307.692µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 1f7bd635-dc60-4f50-a1d4-9d491b2436bb
+api2-1          | [API-2] Received payment request: c0dddebf-2093-4325-9359-ff12c9dfc031
+api2-1          | [API-2] Successfully queued payment: c0dddebf-2093-4325-9359-ff12c9dfc031
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |      282.07µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment c0dddebf-2093-4325-9359-ff12c9dfc031
+api1-1          | [API-1] Received payment request: 90fdff1b-b358-46e2-bc75-1a2accf08e59
+api1-1          | [API-1] Successfully queued payment: 90fdff1b-b358-46e2-bc75-1a2accf08e59
+api1-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     358.657µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 90fdff1b-b358-46e2-bc75-1a2accf08e59
+api2-1          | [API-2] Received payment request: 7fcd15b2-15c1-45e7-b0a4-4bf7bb2e25fa
+api2-1          | [API-2] Successfully queued payment: 7fcd15b2-15c1-45e7-b0a4-4bf7bb2e25fa
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     318.663µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 7fcd15b2-15c1-45e7-b0a4-4bf7bb2e25fa
+api2-1          | [API-2] Received payment request: 01d14da9-034a-4be8-85aa-03024c8b0780
+api2-1          | [API-2] Successfully queued payment: 01d14da9-034a-4be8-85aa-03024c8b0780
+api2-1          | [GIN] 2025/08/21 - 16:20:54 | 202 |     468.394µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 01d14da9-034a-4be8-85aa-03024c8b0780
+api1-1          | [API-1] Received payment request: a3199fe7-5789-4196-8a3d-e9c3f02e911f
+api1-1          | [API-1] Successfully queued payment: a3199fe7-5789-4196-8a3d-e9c3f02e911f
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     401.439µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment a3199fe7-5789-4196-8a3d-e9c3f02e911f
+api2-1          | [API-2] Received payment request: 8b993a71-7a39-4528-b6b8-18627a09c2fc
+api2-1          | [API-2] Successfully queued payment: 8b993a71-7a39-4528-b6b8-18627a09c2fc
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     366.377µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 8b993a71-7a39-4528-b6b8-18627a09c2fc
+api1-1          | [API-1] Received payment request: 6717e818-af74-41d3-a8c8-d76744b0e1a5
+api1-1          | [API-1] Successfully queued payment: 6717e818-af74-41d3-a8c8-d76744b0e1a5
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     328.664µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 6717e818-af74-41d3-a8c8-d76744b0e1a5
+api2-1          | [API-2] Received payment request: a46aeb48-b480-483d-9850-ce19f001c18c
+api2-1          | [API-2] Successfully queued payment: a46aeb48-b480-483d-9850-ce19f001c18c
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     356.065µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment a46aeb48-b480-483d-9850-ce19f001c18c
+api1-1          | [API-1] Received payment request: a55fd451-5858-4527-825e-01734f922561
+api1-1          | [API-1] Successfully queued payment: a55fd451-5858-4527-825e-01734f922561
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     349.125µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment a55fd451-5858-4527-825e-01734f922561
+api2-1          | [API-2] Received payment request: dfc6c7c1-6f6a-4ff0-90f5-e5b044e2a22c
+api2-1          | [API-2] Successfully queued payment: dfc6c7c1-6f6a-4ff0-90f5-e5b044e2a22c
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     322.853µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment dfc6c7c1-6f6a-4ff0-90f5-e5b044e2a22c
+api1-1          | [API-1] Received payment request: d79f0040-810e-4c8d-94b9-969d5c3fb29f
+api1-1          | [API-1] Successfully queued payment: d79f0040-810e-4c8d-94b9-969d5c3fb29f
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     346.755µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment d79f0040-810e-4c8d-94b9-969d5c3fb29f
+api2-1          | [API-2] Received payment request: 41c543c3-47b9-4896-bd44-4cb4f1bb9060
+api2-1          | [API-2] Successfully queued payment: 41c543c3-47b9-4896-bd44-4cb4f1bb9060
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     391.299µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 41c543c3-47b9-4896-bd44-4cb4f1bb9060
+api1-1          | [API-1] Received payment request: fe8b2747-6804-4f3c-8e45-a5b07dd08893
+api1-1          | [API-1] Successfully queued payment: fe8b2747-6804-4f3c-8e45-a5b07dd08893
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     435.081µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment fe8b2747-6804-4f3c-8e45-a5b07dd08893
+api2-1          | [API-2] Received payment request: bc91c015-4877-4852-858f-11c3920f7053
+api2-1          | [API-2] Successfully queued payment: bc91c015-4877-4852-858f-11c3920f7053
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     327.724µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment bc91c015-4877-4852-858f-11c3920f7053
+api1-1          | [API-1] Received payment request: 8bd89e06-88e0-4315-83d5-98220b1e1593
+api1-1          | [API-1] Successfully queued payment: 8bd89e06-88e0-4315-83d5-98220b1e1593
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     383.528µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 8bd89e06-88e0-4315-83d5-98220b1e1593
+api2-1          | [API-2] Received payment request: a0794b15-a471-4a45-8161-d801871a5625
+api2-1          | [API-2] Successfully queued payment: a0794b15-a471-4a45-8161-d801871a5625
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     363.057µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment a0794b15-a471-4a45-8161-d801871a5625
+api1-1          | [API-1] Received payment request: 46cabc44-c330-42a7-bbe3-616027bae26e
+api1-1          | [API-1] Successfully queued payment: 46cabc44-c330-42a7-bbe3-616027bae26e
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     319.003µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 46cabc44-c330-42a7-bbe3-616027bae26e
+api2-1          | [API-2] Received payment request: 9e684de8-1674-48f4-a237-d8553b224465
+api2-1          | [API-2] Successfully queued payment: 9e684de8-1674-48f4-a237-d8553b224465
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |      401.26µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 9e684de8-1674-48f4-a237-d8553b224465
+api1-1          | [API-1] Received payment request: 931723df-1133-4e7b-8b41-bce9ef04fcda
+api1-1          | [API-1] Successfully queued payment: 931723df-1133-4e7b-8b41-bce9ef04fcda
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     329.694µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 931723df-1133-4e7b-8b41-bce9ef04fcda
+api1-1          | [API-1] Received payment request: 452bf488-59e7-4dea-b7a4-e144b374d156
+api1-1          | [API-1] Successfully queued payment: 452bf488-59e7-4dea-b7a4-e144b374d156
+api1-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     300.962µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 452bf488-59e7-4dea-b7a4-e144b374d156
+api2-1          | [API-2] Received payment request: 1c61bebb-50ce-47b2-a8c6-ccbcc5a5f1f4
+api2-1          | [API-2] Successfully queued payment: 1c61bebb-50ce-47b2-a8c6-ccbcc5a5f1f4
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     401.669µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 1c61bebb-50ce-47b2-a8c6-ccbcc5a5f1f4
+api2-1          | [API-2] Received payment request: fa61b5aa-ba7d-409d-8f4e-8be37abeb105
+api2-1          | [API-2] Successfully queued payment: fa61b5aa-ba7d-409d-8f4e-8be37abeb105
+api2-1          | [GIN] 2025/08/21 - 16:20:55 | 202 |     375.097µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment fa61b5aa-ba7d-409d-8f4e-8be37abeb105
+api1-1          | [API-1] Received payment request: 90464235-ed09-4189-9b93-4e725f7aea02
+api1-1          | [API-1] Successfully queued payment: 90464235-ed09-4189-9b93-4e725f7aea02
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     340.805µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 90464235-ed09-4189-9b93-4e725f7aea02
+api2-1          | [API-2] Received payment request: 41347cd2-4615-4e3e-bb9d-aca711fbdfa8
+api2-1          | [API-2] Successfully queued payment: 41347cd2-4615-4e3e-bb9d-aca711fbdfa8
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     381.177µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 41347cd2-4615-4e3e-bb9d-aca711fbdfa8
+api1-1          | [API-1] Received payment request: 81db917f-a5d5-42eb-a16d-e8415d00e6eb
+api1-1          | [API-1] Successfully queued payment: 81db917f-a5d5-42eb-a16d-e8415d00e6eb
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     332.084µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 81db917f-a5d5-42eb-a16d-e8415d00e6eb
+api2-1          | [API-2] Received payment request: fae88bc8-bb35-4bb1-a5bb-eefb95b8d534
+api2-1          | [API-2] Successfully queued payment: fae88bc8-bb35-4bb1-a5bb-eefb95b8d534
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     358.726µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment fae88bc8-bb35-4bb1-a5bb-eefb95b8d534
+api1-1          | [API-1] Received payment request: b9ed3d0f-1a0d-44b0-8a39-fb59bd3c8feb
+api1-1          | [API-1] Successfully queued payment: b9ed3d0f-1a0d-44b0-8a39-fb59bd3c8feb
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     251.718µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment b9ed3d0f-1a0d-44b0-8a39-fb59bd3c8feb
+api2-1          | [API-2] Received payment request: 8b02eada-74d5-4942-917a-6be3f7d97bec
+api2-1          | [API-2] Successfully queued payment: 8b02eada-74d5-4942-917a-6be3f7d97bec
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     396.789µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 8b02eada-74d5-4942-917a-6be3f7d97bec
+api1-1          | [API-1] Received payment request: 94e8d633-e9f6-4946-82ec-a196cd60b0b7
+api1-1          | [API-1] Successfully queued payment: 94e8d633-e9f6-4946-82ec-a196cd60b0b7
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     371.417µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 94e8d633-e9f6-4946-82ec-a196cd60b0b7
+api2-1          | [API-2] Received payment request: c32ab507-dc3d-4482-b29f-626a6d43eae4
+api2-1          | [API-2] Successfully queued payment: c32ab507-dc3d-4482-b29f-626a6d43eae4
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     466.604µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment c32ab507-dc3d-4482-b29f-626a6d43eae4
+api1-1          | [API-1] Received payment request: 9da39df6-864f-45ac-8013-329c429e3e21
+api1-1          | [API-1] Successfully queued payment: 9da39df6-864f-45ac-8013-329c429e3e21
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     403.259µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 9da39df6-864f-45ac-8013-329c429e3e21
+api2-1          | [API-2] Received payment request: fc81299f-bd4e-4728-91af-4829a4966196
+api2-1          | [API-2] Successfully queued payment: fc81299f-bd4e-4728-91af-4829a4966196
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     333.624µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1] Received payment request: bc172ec8-2c8a-43bb-a5e3-31202b9441d7
+api1-1          | [API-1] Successfully queued payment: bc172ec8-2c8a-43bb-a5e3-31202b9441d7
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     856.753µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment fc81299f-bd4e-4728-91af-4829a4966196
+api1-1          | [API-1-worker-1] Successfully processed payment bc172ec8-2c8a-43bb-a5e3-31202b9441d7
+api1-1          | [API-1] Received payment request: bf724a85-533e-4764-bcd0-a77f93982282
+api1-1          | [API-1] Successfully queued payment: bf724a85-533e-4764-bcd0-a77f93982282
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     321.593µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment bf724a85-533e-4764-bcd0-a77f93982282
+api2-1          | [API-2] Received payment request: 739e6fb3-a6d0-4322-8f5e-7a5229843133
+api2-1          | [API-2] Successfully queued payment: 739e6fb3-a6d0-4322-8f5e-7a5229843133
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     293.791µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 739e6fb3-a6d0-4322-8f5e-7a5229843133
+api1-1          | [API-1] Received payment request: 2019c9a3-d01a-4398-b617-8c83b9e0bb7c
+api1-1          | [API-1] Successfully queued payment: 2019c9a3-d01a-4398-b617-8c83b9e0bb7c
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |      278.63µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 2019c9a3-d01a-4398-b617-8c83b9e0bb7c
+api2-1          | [API-2] Received payment request: e3f95c01-165e-48c8-84f2-2d08bde79edb
+api2-1          | [API-2] Successfully queued payment: e3f95c01-165e-48c8-84f2-2d08bde79edb
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     333.894µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment e3f95c01-165e-48c8-84f2-2d08bde79edb
+api1-1          | [API-1] Received payment request: b48506e8-2077-41c0-a24a-cc5839657a4f
+api1-1          | [API-1] Successfully queued payment: b48506e8-2077-41c0-a24a-cc5839657a4f
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     299.881µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment b48506e8-2077-41c0-a24a-cc5839657a4f
+api2-1          | [API-2] Received payment request: 75b3d212-c85f-4a20-8eed-ac5a51c3df0e
+api2-1          | [API-2] Successfully queued payment: 75b3d212-c85f-4a20-8eed-ac5a51c3df0e
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     290.911µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 75b3d212-c85f-4a20-8eed-ac5a51c3df0e
+api2-1          | [API-2] Received payment request: c4dd2309-7c28-4c2c-af12-d097f57b736e
+api2-1          | [API-2] Successfully queued payment: c4dd2309-7c28-4c2c-af12-d097f57b736e
+api2-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     363.056µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment c4dd2309-7c28-4c2c-af12-d097f57b736e
+api1-1          | [API-1] Received payment request: 2e5e5975-ea6f-4c5f-85d1-fa3eaef130e7
+api1-1          | [API-1] Successfully queued payment: 2e5e5975-ea6f-4c5f-85d1-fa3eaef130e7
+api1-1          | [GIN] 2025/08/21 - 16:20:56 | 202 |     343.275µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 2e5e5975-ea6f-4c5f-85d1-fa3eaef130e7
+api2-1          | [API-2] Received payment request: 8aaab53f-9ec2-46f6-bf23-a250f304d587
+api2-1          | [API-2] Successfully queued payment: 8aaab53f-9ec2-46f6-bf23-a250f304d587
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     385.958µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 8aaab53f-9ec2-46f6-bf23-a250f304d587
+api1-1          | [API-1] Received payment request: 7f0fbec6-d2a1-4e4e-ba31-5803e41d0ec6
+api1-1          | [API-1] Successfully queued payment: 7f0fbec6-d2a1-4e4e-ba31-5803e41d0ec6
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     337.265µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 7f0fbec6-d2a1-4e4e-ba31-5803e41d0ec6
+api2-1          | [API-2] Received payment request: 70d7bf42-3dcc-4726-8186-b01811688b50
+api2-1          | [API-2] Successfully queued payment: 70d7bf42-3dcc-4726-8186-b01811688b50
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     302.202µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 70d7bf42-3dcc-4726-8186-b01811688b50
+api1-1          | [API-1] Received payment request: 5264d68a-90ec-4f43-91b2-f73bd2bc6898
+api1-1          | [API-1] Successfully queued payment: 5264d68a-90ec-4f43-91b2-f73bd2bc6898
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     338.104µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 5264d68a-90ec-4f43-91b2-f73bd2bc6898
+api2-1          | [API-2] Received payment request: 2a2185cd-a0ae-4466-a475-67118a720560
+api2-1          | [API-2] Successfully queued payment: 2a2185cd-a0ae-4466-a475-67118a720560
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     307.412µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 2a2185cd-a0ae-4466-a475-67118a720560
+api1-1          | [API-1] Received payment request: 0c127aec-b0f3-43ce-ba16-a5409b9088a3
+api1-1          | [API-1] Successfully queued payment: 0c127aec-b0f3-43ce-ba16-a5409b9088a3
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     317.533µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 0c127aec-b0f3-43ce-ba16-a5409b9088a3
+api2-1          | [API-2] Received payment request: 322a6089-5892-40c9-a2cb-6129b5f94f48
+api2-1          | [API-2] Successfully queued payment: 322a6089-5892-40c9-a2cb-6129b5f94f48
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |      278.97µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 322a6089-5892-40c9-a2cb-6129b5f94f48
+api1-1          | [API-1] Received payment request: abfee3b3-52d5-4d7b-b180-dd68b83731e1
+api1-1          | [API-1] Successfully queued payment: abfee3b3-52d5-4d7b-b180-dd68b83731e1
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     332.134µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment abfee3b3-52d5-4d7b-b180-dd68b83731e1
+api2-1          | [API-2] Received payment request: 3dd76bf3-fa5f-49ac-bd4b-f885149b02e6
+api2-1          | [API-2] Successfully queued payment: 3dd76bf3-fa5f-49ac-bd4b-f885149b02e6
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     452.683µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 3dd76bf3-fa5f-49ac-bd4b-f885149b02e6
+api2-1          | [API-2] Received payment request: 4e392073-7a76-4405-b599-71fbe2469234
+api2-1          | [API-2] Successfully queued payment: 4e392073-7a76-4405-b599-71fbe2469234
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     319.563µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 4e392073-7a76-4405-b599-71fbe2469234
+api1-1          | [API-1] Received payment request: afc30f91-9608-4b20-b5ce-07d1a2fa9239
+api1-1          | [API-1] Successfully queued payment: afc30f91-9608-4b20-b5ce-07d1a2fa9239
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     396.569µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment afc30f91-9608-4b20-b5ce-07d1a2fa9239
+api2-1          | [API-2] Received payment request: 62b3e429-6012-434e-a234-adf9f0c287ec
+api2-1          | [API-2] Successfully queued payment: 62b3e429-6012-434e-a234-adf9f0c287ec
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     306.132µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1] Received payment request: 6e04b490-82ab-43ea-8997-3c2a136c1f95
+api1-1          | [API-1] Successfully queued payment: 6e04b490-82ab-43ea-8997-3c2a136c1f95
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |       407.3µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment 62b3e429-6012-434e-a234-adf9f0c287ec
+api2-1          | [API-2-worker-0] Successfully processed payment 6e04b490-82ab-43ea-8997-3c2a136c1f95
+api1-1          | [API-1] Received payment request: b385a383-f910-4890-a93e-ae65e807418f
+api1-1          | [API-1] Successfully queued payment: b385a383-f910-4890-a93e-ae65e807418f
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     377.097µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment b385a383-f910-4890-a93e-ae65e807418f
+api2-1          | [API-2] Received payment request: ba2053d4-1e58-48f0-8fca-5a2a14e209d1
+api2-1          | [API-2] Successfully queued payment: ba2053d4-1e58-48f0-8fca-5a2a14e209d1
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     364.977µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment ba2053d4-1e58-48f0-8fca-5a2a14e209d1
+api1-1          | [API-1] Received payment request: 45f515ed-b768-473a-8f23-546502228393
+api1-1          | [API-1] Successfully queued payment: 45f515ed-b768-473a-8f23-546502228393
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |      287.45µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-1] Successfully processed payment 45f515ed-b768-473a-8f23-546502228393
+api2-1          | [API-2] Received payment request: 2799c0fd-07b3-4bd4-ac35-df62e056c912
+api2-1          | [API-2] Successfully queued payment: 2799c0fd-07b3-4bd4-ac35-df62e056c912
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     332.734µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [GIN] 2025/08/21 - 16:20:57 | 200 |    3.648666ms |      172.21.0.6 | GET      "/payments-summary?from=2025-08-21T16:20:42.527Z&to=2025-08-21T16:20:55.527Z"
+api1-1          | [API-1] Received payment request: 6186aa92-8d1f-486f-8040-256a9749c36d
+api1-1          | [API-1] Successfully queued payment: 6186aa92-8d1f-486f-8040-256a9749c36d
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     516.108µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment 6186aa92-8d1f-486f-8040-256a9749c36d
+api2-1          | [API-2-worker-1] Successfully processed payment 2799c0fd-07b3-4bd4-ac35-df62e056c912
+api1-1          | [API-1] Received payment request: e9057931-c654-4057-b69b-722a16e59192
+api1-1          | [API-1] Successfully queued payment: e9057931-c654-4057-b69b-722a16e59192
+api1-1          | [GIN] 2025/08/21 - 16:20:57 | 202 |     325.963µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment e9057931-c654-4057-b69b-722a16e59192
+api1-1          | [API-1] Received payment request: a9fe8daf-4c94-4835-b46d-51265d2bd999
+api2-1          | [API-2] Received payment request: b17936ac-cf63-4e47-986c-dce70f77b515
+api1-1          | [API-1] Successfully queued payment: a9fe8daf-4c94-4835-b46d-51265d2bd999
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     791.847µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2] Successfully queued payment: b17936ac-cf63-4e47-986c-dce70f77b515
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    1.746697ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2] Received payment request: 279a0478-56a8-437e-bff1-2e16788f3096
+api2-1          | [API-2] Received payment request: 25060b2b-2398-4d83-9227-d9dab6e19cb5
+api1-1          | [API-1] Received payment request: 2509cd40-cd6a-40dd-a99e-f5cea1047817
+api2-1          | [API-2] Successfully queued payment: 279a0478-56a8-437e-bff1-2e16788f3096
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    2.522193ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2] Successfully queued payment: 25060b2b-2398-4d83-9227-d9dab6e19cb5
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     1.64319ms |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1] Successfully queued payment: 2509cd40-cd6a-40dd-a99e-f5cea1047817
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    3.415409ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2] Received payment request: 8d275fa4-2188-4f7e-b7de-09d1d6120ed6
+api2-1          | [API-2-worker-2] Successfully processed payment 25060b2b-2398-4d83-9227-d9dab6e19cb5
+api2-1          | [API-2] Successfully queued payment: 8d275fa4-2188-4f7e-b7de-09d1d6120ed6
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    4.029013ms |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment 279a0478-56a8-437e-bff1-2e16788f3096
+api1-1          | [API-1] Received payment request: b7bbdc32-901e-46c7-9a2f-3e31c329370d
+api1-1          | [API-1] Successfully queued payment: b7bbdc32-901e-46c7-9a2f-3e31c329370d
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    1.890887ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2] Received payment request: 1969bf3f-2eae-44b0-88ca-36f9480fac77
+api2-1          | [API-2] Successfully queued payment: 1969bf3f-2eae-44b0-88ca-36f9480fac77
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    2.860648ms |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment b17936ac-cf63-4e47-986c-dce70f77b515
+api1-1          | [API-1] Received payment request: 2ae71c55-acbd-4bca-b361-3cdfa38533d2
+api1-1          | [API-1] Successfully queued payment: 2ae71c55-acbd-4bca-b361-3cdfa38533d2
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    1.052156ms |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment a9fe8daf-4c94-4835-b46d-51265d2bd999
+api2-1          | [API-2-worker-1] Successfully processed payment 8d275fa4-2188-4f7e-b7de-09d1d6120ed6
+api2-1          | [API-2] Received payment request: 5c8add60-e68b-4056-9c75-5b430690c66f
+api2-1          | [API-2] Successfully queued payment: 5c8add60-e68b-4056-9c75-5b430690c66f
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |      676.74µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 1969bf3f-2eae-44b0-88ca-36f9480fac77
+api2-1          | [API-2-worker-2] Successfully processed payment 5c8add60-e68b-4056-9c75-5b430690c66f
+api1-1          | [API-1-worker-3] Successfully processed payment 2ae71c55-acbd-4bca-b361-3cdfa38533d2
+api1-1          | [API-1] Received payment request: c9e84edb-0f12-4797-93fb-80a05709ee10
+api1-1          | [API-1] Successfully queued payment: c9e84edb-0f12-4797-93fb-80a05709ee10
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |    5.447016ms |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment c9e84edb-0f12-4797-93fb-80a05709ee10
+api1-1          | [API-1-worker-1] Successfully processed payment 2509cd40-cd6a-40dd-a99e-f5cea1047817
+api1-1          | [API-1-worker-2] Successfully processed payment b7bbdc32-901e-46c7-9a2f-3e31c329370d
+api1-1          | [API-1] Received payment request: 3820a7a5-672e-46f0-aa69-009f81e95087
+api1-1          | [API-1] Successfully queued payment: 3820a7a5-672e-46f0-aa69-009f81e95087
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     370.297µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-0] Successfully processed payment 3820a7a5-672e-46f0-aa69-009f81e95087
+api2-1          | [API-2] Received payment request: ffd6d555-a7bb-4fb0-aa7e-b685b6a21a70
+api2-1          | [API-2] Successfully queued payment: ffd6d555-a7bb-4fb0-aa7e-b685b6a21a70
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     296.121µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-3] Successfully processed payment ffd6d555-a7bb-4fb0-aa7e-b685b6a21a70
+api2-1          | [API-2] Received payment request: 9858eb6c-32b8-42ce-8f6e-6f837d9820cf
+api2-1          | [API-2] Successfully queued payment: 9858eb6c-32b8-42ce-8f6e-6f837d9820cf
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     338.295µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-1] Successfully processed payment 9858eb6c-32b8-42ce-8f6e-6f837d9820cf
+api1-1          | [API-1] Received payment request: c26948a9-5e9b-4039-a9a0-bbf5e7c7472e
+api1-1          | [API-1] Successfully queued payment: c26948a9-5e9b-4039-a9a0-bbf5e7c7472e
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     370.607µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-0] Successfully processed payment c26948a9-5e9b-4039-a9a0-bbf5e7c7472e
+api2-1          | [API-2] Received payment request: 73c40e69-cca6-48fa-b062-22f8266ec8c9
+api2-1          | [API-2] Successfully queued payment: 73c40e69-cca6-48fa-b062-22f8266ec8c9
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     324.083µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1] Received payment request: b53d4438-d452-4783-bb96-b90931a6c130
+api1-1          | [API-1] Successfully queued payment: b53d4438-d452-4783-bb96-b90931a6c130
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     346.425µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-3] Successfully processed payment 73c40e69-cca6-48fa-b062-22f8266ec8c9
+api1-1          | [API-1-worker-1] Successfully processed payment b53d4438-d452-4783-bb96-b90931a6c130
+api1-1          | [API-1] Received payment request: 01854aaf-8e12-431e-878f-a4ab0a8e750b
+api1-1          | [API-1] Successfully queued payment: 01854aaf-8e12-431e-878f-a4ab0a8e750b
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     332.354µs |      172.21.0.6 | POST     "/payments"
+api2-1          | [API-2-worker-2] Successfully processed payment 01854aaf-8e12-431e-878f-a4ab0a8e750b
+api2-1          | [API-2] Received payment request: a6479bf2-98ea-4a17-9ad3-f276cdcd7fc4
+api2-1          | [API-2] Successfully queued payment: a6479bf2-98ea-4a17-9ad3-f276cdcd7fc4
+api2-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |      417.71µs |      172.21.0.6 | POST     "/payments"
+api1-1          | [API-1-worker-2] Successfully processed payment a6479bf2-98ea-4a17-9ad3-f276cdcd7fc4
+api1-1          | [API-1] Received payment request: e0189002-2b22-4f59-bcf8-886ae5def714
+api1-1          | [API-1] Successfully queued payment: e0189002-2b22-4f59-bcf8-886ae5def714
+api1-1          | [GIN] 2025/08/21 - 16:20:58 | 202 |     394.029µs |      172.21.0.6 | POST     "/payments"
 log truncated at line 1000

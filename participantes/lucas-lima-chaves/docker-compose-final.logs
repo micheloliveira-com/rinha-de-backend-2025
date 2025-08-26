@@ -1,64 +1,184 @@
 
-time="2025-08-19T05:58:39Z" level=warning msg="/home/ubuntu/rinha-de-backend-2025/participantes/lucas-lima-chaves/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
- app2 Pulling 
+time="2025-08-21T14:15:14Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/lucas-lima-chaves/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ nginx Pulling 
+ redis Pulling 
  app Pulling 
+ app2 Pulling 
  9824c27679d3 Already exists 
  261c9d19fcd1 Pulling fs layer 
  6434add96c8d Pulling fs layer 
  259af3f4ea13 Pulling fs layer 
  893f7a6498a5 Pulling fs layer 
  893f7a6498a5 Waiting 
- 6434add96c8d Downloading [>                                                  ]  539.5kB/76.73MB
- 261c9d19fcd1 Downloading [>                                                  ]  39.83kB/3.935MB
  9824c27679d3 Already exists 
  261c9d19fcd1 Pulling fs layer 
- 261c9d19fcd1 Downloading [>                                                  ]  39.83kB/3.935MB
  6434add96c8d Pulling fs layer 
  259af3f4ea13 Pulling fs layer 
  893f7a6498a5 Pulling fs layer 
  893f7a6498a5 Waiting 
+ 261c9d19fcd1 Downloading [>                                                  ]  39.83kB/3.935MB
+ 261c9d19fcd1 Downloading [>                                                  ]  39.83kB/3.935MB
+ 261c9d19fcd1 Downloading [================>                                  ]   1.26MB/3.935MB
+ 261c9d19fcd1 Downloading [================>                                  ]   1.26MB/3.935MB
+ 0368fd46e3c6 Already exists 
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ 4e225d7a935a Waiting 
+ 311eca34042e Waiting 
+ 74ab898fdb32 Waiting 
+ bb1131de5e60 Waiting 
+ 407621d26c3b Waiting 
+ 87acabadf81b Waiting 
+ 4f4fb700ef54 Waiting 
+ 261c9d19fcd1 Downloading [===============================================>   ]  3.767MB/3.935MB
+ 261c9d19fcd1 Downloading [===============================================>   ]  3.767MB/3.935MB
+ 261c9d19fcd1 Verifying Checksum 
+ 261c9d19fcd1 Download complete 
+ 261c9d19fcd1 Download complete 
+ 261c9d19fcd1 Extracting [>                                                  ]  65.54kB/3.935MB
+ 261c9d19fcd1 Extracting [>                                                  ]  65.54kB/3.935MB
+ 261c9d19fcd1 Extracting [==================================================>]  3.935MB/3.935MB
+ 261c9d19fcd1 Extracting [==================================================>]  3.935MB/3.935MB
+ 261c9d19fcd1 Pull complete 
+ 261c9d19fcd1 Pull complete 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 403e3f251637 Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 9adfbae99cb7 Waiting 
+ 7a8a46741e18 Waiting 
+ 6bc572a340ec Waiting 
+ c9ebe2ff2d2c Waiting 
+ 259af3f4ea13 Downloading [==================================================>]      93B/93B
+ 259af3f4ea13 Downloading [==================================================>]      93B/93B
+ 259af3f4ea13 Verifying Checksum 
+ 259af3f4ea13 Download complete 
+ 259af3f4ea13 Verifying Checksum 
+ 259af3f4ea13 Download complete 
  6434add96c8d Downloading [>                                                  ]  539.5kB/76.73MB
- 261c9d19fcd1 Download complete 
- 261c9d19fcd1 Download complete 
- 261c9d19fcd1 Extracting [>                                                  ]  65.54kB/3.935MB
- 261c9d19fcd1 Extracting [>                                                  ]  65.54kB/3.935MB
- 259af3f4ea13 Downloading [==================================================>]      93B/93B
- 259af3f4ea13 Verifying Checksum 
- 259af3f4ea13 Download complete 
- 259af3f4ea13 Downloading [==================================================>]      93B/93B
- 259af3f4ea13 Verifying Checksum 
- 259af3f4ea13 Download complete 
- 6434add96c8d Downloading [==============>                                    ]  22.69MB/76.73MB
- 6434add96c8d Downloading [==============>                                    ]  22.69MB/76.73MB
- 261c9d19fcd1 Extracting [==================================================>]  3.935MB/3.935MB
- 261c9d19fcd1 Extracting [==================================================>]  3.935MB/3.935MB
- 261c9d19fcd1 Pull complete 
- 261c9d19fcd1 Pull complete 
- 6434add96c8d Downloading [==========================>                        ]  41.07MB/76.73MB
- 6434add96c8d Downloading [==========================>                        ]  41.07MB/76.73MB
- 893f7a6498a5 Downloading [>                                                  ]  63.11kB/6.28MB
- 893f7a6498a5 Downloading [>                                                  ]  63.11kB/6.28MB
+ 6434add96c8d Downloading [>                                                  ]  539.5kB/76.73MB
+ 893f7a6498a5 Downloading [>                                                  ]  62.93kB/6.28MB
+ 893f7a6498a5 Downloading [>                                                  ]  62.93kB/6.28MB
+ 6434add96c8d Downloading [==>                                                ]  4.309MB/76.73MB
+ 6434add96c8d Downloading [==>                                                ]  4.309MB/76.73MB
+ 893f7a6498a5 Downloading [==================================>                ]  4.325MB/6.28MB
+ 893f7a6498a5 Downloading [==================================>                ]  4.325MB/6.28MB
  893f7a6498a5 Verifying Checksum 
  893f7a6498a5 Download complete 
  893f7a6498a5 Verifying Checksum 
  893f7a6498a5 Download complete 
- 6434add96c8d Downloading [==========================================>        ]  64.78MB/76.73MB
- 6434add96c8d Downloading [==========================================>        ]  64.78MB/76.73MB
+ 6434add96c8d Downloading [=====>                                             ]  8.634MB/76.73MB
+ 6434add96c8d Downloading [=====>                                             ]  8.634MB/76.73MB
+ 6434add96c8d Downloading [========>                                          ]  12.96MB/76.73MB
+ 6434add96c8d Downloading [========>                                          ]  12.96MB/76.73MB
+ 4e225d7a935a Downloading [==================================================>]     948B/948B
+ 4e225d7a935a Verifying Checksum 
+ 4e225d7a935a Download complete 
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Extracting [==================================================>]     948B/948B
+ 4e225d7a935a Pull complete 
+ 6434add96c8d Downloading [===========>                                       ]  17.23MB/76.73MB
+ 6434add96c8d Downloading [===========>                                       ]  17.23MB/76.73MB
+ 6434add96c8d Downloading [==============>                                    ]  21.51MB/76.73MB
+ 6434add96c8d Downloading [==============>                                    ]  21.51MB/76.73MB
+ 6434add96c8d Downloading [================>                                  ]  25.77MB/76.73MB
+ 6434add96c8d Downloading [================>                                  ]  25.77MB/76.73MB
+ 74ab898fdb32 Downloading [>                                                  ]  2.416kB/173.2kB
+ 74ab898fdb32 Verifying Checksum 
+ 74ab898fdb32 Download complete 
+ 74ab898fdb32 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 74ab898fdb32 Extracting [==================================================>]  173.2kB/173.2kB
+ 6434add96c8d Downloading [===================>                               ]  30.05MB/76.73MB
+ 6434add96c8d Downloading [===================>                               ]  30.05MB/76.73MB
+ 74ab898fdb32 Pull complete 
+ 6434add96c8d Downloading [======================>                            ]  34.35MB/76.73MB
+ 6434add96c8d Downloading [======================>                            ]  34.35MB/76.73MB
+ 311eca34042e Downloading [>                                                  ]     11kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ 6434add96c8d Downloading [=========================>                         ]  38.64MB/76.73MB
+ 6434add96c8d Downloading [=========================>                         ]  38.64MB/76.73MB
+ 6434add96c8d Downloading [===========================>                       ]   42.9MB/76.73MB
+ 6434add96c8d Downloading [===========================>                       ]   42.9MB/76.73MB
+ 6434add96c8d Downloading [==============================>                    ]  47.19MB/76.73MB
+ 6434add96c8d Downloading [==============================>                    ]  47.19MB/76.73MB
+ bb1131de5e60 Downloading [>                                                  ]  122.9kB/12.01MB
+ 6434add96c8d Downloading [=================================>                 ]  51.46MB/76.73MB
+ 6434add96c8d Downloading [=================================>                 ]  51.46MB/76.73MB
+ bb1131de5e60 Downloading [===============================>                   ]   7.52MB/12.01MB
+ 6434add96c8d Downloading [====================================>              ]  55.75MB/76.73MB
+ 6434add96c8d Downloading [====================================>              ]  55.75MB/76.73MB
+ bb1131de5e60 Verifying Checksum 
+ bb1131de5e60 Download complete 
+ 407621d26c3b Downloading [==================================================>]      99B/99B
+ 407621d26c3b Verifying Checksum 
+ 407621d26c3b Download complete 
+ bb1131de5e60 Extracting [>                                                  ]  131.1kB/12.01MB
+ bb1131de5e60 Extracting [=========================>                         ]   6.16MB/12.01MB
+ 6434add96c8d Downloading [=======================================>           ]  60.05MB/76.73MB
+ 6434add96c8d Downloading [=======================================>           ]  60.05MB/76.73MB
+ bb1131de5e60 Extracting [==================================================>]  12.01MB/12.01MB
+ bb1131de5e60 Pull complete 
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 407621d26c3b Extracting [==================================================>]      99B/99B
+ 6434add96c8d Downloading [=========================================>         ]  64.34MB/76.73MB
+ 6434add96c8d Downloading [=========================================>         ]  64.34MB/76.73MB
+ 407621d26c3b Pull complete 
+ 6434add96c8d Downloading [============================================>      ]  68.62MB/76.73MB
+ 6434add96c8d Downloading [============================================>      ]  68.62MB/76.73MB
+ 6434add96c8d Downloading [===============================================>   ]   72.9MB/76.73MB
+ 6434add96c8d Downloading [===============================================>   ]   72.9MB/76.73MB
  6434add96c8d Verifying Checksum 
  6434add96c8d Download complete 
- 6434add96c8d Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
  6434add96c8d Extracting [>                                                  ]  557.1kB/76.73MB
  6434add96c8d Extracting [>                                                  ]  557.1kB/76.73MB
+ 87acabadf81b Download complete 
+ 4f4fb700ef54 Pull complete 
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Extracting [==================================================>]     573B/573B
+ 87acabadf81b Pull complete 
+ redis Pulled 
  6434add96c8d Extracting [===>                                               ]  5.014MB/76.73MB
  6434add96c8d Extracting [===>                                               ]  5.014MB/76.73MB
- 6434add96c8d Extracting [==========>                                        ]  16.15MB/76.73MB
- 6434add96c8d Extracting [==========>                                        ]  16.15MB/76.73MB
- 6434add96c8d Extracting [========================>                          ]  37.88MB/76.73MB
- 6434add96c8d Extracting [========================>                          ]  37.88MB/76.73MB
- 6434add96c8d Extracting [=======================================>           ]  61.28MB/76.73MB
- 6434add96c8d Extracting [=======================================>           ]  61.28MB/76.73MB
- 6434add96c8d Extracting [================================================>  ]  74.65MB/76.73MB
- 6434add96c8d Extracting [================================================>  ]  74.65MB/76.73MB
+ 6434add96c8d Extracting [===========>                                       ]  17.83MB/76.73MB
+ 6434add96c8d Extracting [===========>                                       ]  17.83MB/76.73MB
+ 6434add96c8d Extracting [==========================>                        ]  40.67MB/76.73MB
+ 6434add96c8d Extracting [==========================>                        ]  40.67MB/76.73MB
+ 6434add96c8d Extracting [=========================================>         ]   63.5MB/76.73MB
+ 6434add96c8d Extracting [=========================================>         ]   63.5MB/76.73MB
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6434add96c8d Extracting [=================================================> ]  75.76MB/76.73MB
+ 6434add96c8d Extracting [=================================================> ]  75.76MB/76.73MB
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
  6434add96c8d Extracting [==================================================>]  76.73MB/76.73MB
  6434add96c8d Extracting [==================================================>]  76.73MB/76.73MB
  6434add96c8d Pull complete 
@@ -69,6 +189,7 @@ time="2025-08-19T05:58:39Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  259af3f4ea13 Extracting [==================================================>]      93B/93B
  259af3f4ea13 Pull complete 
  259af3f4ea13 Pull complete 
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
  893f7a6498a5 Extracting [>                                                  ]  65.54kB/6.28MB
  893f7a6498a5 Extracting [>                                                  ]  65.54kB/6.28MB
  893f7a6498a5 Extracting [==================================================>]   6.28MB/6.28MB
@@ -77,25 +198,61 @@ time="2025-08-19T05:58:39Z" level=warning msg="/home/ubuntu/rinha-de-backend-202
  893f7a6498a5 Pull complete 
  app2 Pulled 
  app Pulled 
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Download complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Download complete 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ cb1ff4086f82 Downloading [>                                                  ]  168.5kB/16.84MB
+ cb1ff4086f82 Downloading [============>                                      ]  4.293MB/16.84MB
+ cb1ff4086f82 Downloading [=======================>                           ]  8.028MB/16.84MB
+ cb1ff4086f82 Downloading [====================================>              ]  12.17MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ cb1ff4086f82 Extracting [===========>                                       ]  3.736MB/16.84MB
+ cb1ff4086f82 Extracting [===================================>               ]   11.8MB/16.84MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
  Network lucas-lima-chaves_backend  Creating
  Network lucas-lima-chaves_backend  Created
  Container rinha-redis  Creating
  Container rinha-redis  Created
- Container lucas-lima-chaves-app-1  Creating
  Container lucas-lima-chaves-app2-1  Creating
+ Container lucas-lima-chaves-app-1  Creating
  Container lucas-lima-chaves-app2-1  Created
  Container lucas-lima-chaves-app-1  Created
  Container lucas-lima-chaves-nginx-1  Creating
  Container lucas-lima-chaves-nginx-1  Created
 Attaching to app-1, app2-1, nginx-1, rinha-redis
-rinha-redis  | 1:C 19 Aug 2025 05:58:42.270 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-rinha-redis  | 1:C 19 Aug 2025 05:58:42.271 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-rinha-redis  | 1:C 19 Aug 2025 05:58:42.319 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
-rinha-redis  | 1:C 19 Aug 2025 05:58:42.319 * Configuration loaded
-rinha-redis  | 1:M 19 Aug 2025 05:58:42.320 * monotonic clock: POSIX clock_gettime
-rinha-redis  | 1:M 19 Aug 2025 05:58:42.321 * Running mode=standalone, port=6379.
-rinha-redis  | 1:M 19 Aug 2025 05:58:42.321 * Server initialized
-rinha-redis  | 1:M 19 Aug 2025 05:58:42.322 * Ready to accept connections tcp
+rinha-redis  | 1:C 21 Aug 2025 14:15:21.572 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+rinha-redis  | 1:C 21 Aug 2025 14:15:21.572 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+rinha-redis  | 1:C 21 Aug 2025 14:15:21.572 * Redis version=7.2.10, bits=64, commit=00000000, modified=0, pid=1, just started
+rinha-redis  | 1:C 21 Aug 2025 14:15:21.572 * Configuration loaded
+rinha-redis  | 1:M 21 Aug 2025 14:15:21.572 * monotonic clock: POSIX clock_gettime
+rinha-redis  | 1:M 21 Aug 2025 14:15:21.573 * Running mode=standalone, port=6379.
+rinha-redis  | 1:M 21 Aug 2025 14:15:21.573 * Server initialized
+rinha-redis  | 1:M 21 Aug 2025 14:15:21.573 * Ready to accept connections tcp
 nginx-1      | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1      | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1      | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -114,7 +271,7 @@ app2-1       | SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for
 [Knginx-1 exited with code 0
 [Kapp2-1 exited with code 143
 [Kapp-1 exited with code 143
-rinha-redis  | 1:signal-handler (1755583433) Received SIGTERM scheduling shutdown...
-rinha-redis  | 1:M 19 Aug 2025 06:03:53.945 * User requested shutdown...
-rinha-redis  | 1:M 19 Aug 2025 06:03:53.945 # Redis is now ready to exit, bye bye...
+rinha-redis  | 1:signal-handler (1755786033) Received SIGTERM scheduling shutdown...
+rinha-redis  | 1:M 21 Aug 2025 14:20:33.664 * User requested shutdown...
+rinha-redis  | 1:M 21 Aug 2025 14:20:33.664 # Redis is now ready to exit, bye bye...
 log truncated at line 1000

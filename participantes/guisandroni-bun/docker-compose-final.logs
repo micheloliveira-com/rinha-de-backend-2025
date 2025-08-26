@@ -1,6 +1,10 @@
 
- api01 Pulling 
+ nginx Pulling 
+ redis Pulling 
  api02 Pulling 
- api02 Error Head "https://ghcr.io/v2/guisandroni/rinha-bun/manifests/latest": unauthorized
- api01  Interrupted
+ api01 Pulling 
+ api01 Error Head "https://ghcr.io/v2/guisandroni/rinha-bun/manifests/latest": unauthorized
+ api02  Interrupted
+ nginx  Interrupted
+ redis  Interrupted
 Error response from daemon: Head "https://ghcr.io/v2/guisandroni/rinha-bun/manifests/latest": unauthorized

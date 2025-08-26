@@ -1,28 +1,229 @@
 
+ publisher-consumer-2 Pulling 
+ redis Pulling 
+ nginx Pulling 
+ publisher-consumer-1 Pulling 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ e6fe6f07e192 Waiting 
+ a2cadbfeca72 Waiting 
+ 4f4fb700ef54 Waiting 
+ a976ed7e7808 Waiting 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ b1badc6e5066 Waiting 
+ a2da0c0f2353 Waiting 
+ 14a859b5ba24 Waiting 
+ e5d9bb0b85cc Waiting 
+ 716cdf61af59 Waiting 
+ c3741b707ce6 Waiting 
+ 14e422fd20a0 Waiting 
+ 38a8310d387e Pulling fs layer 
+ cf0c30f9c927 Pulling fs layer 
+ d3d842b783f4 Pulling fs layer 
+ 38a8310d387e Waiting 
+ cf0c30f9c927 Waiting 
+ d3d842b783f4 Waiting 
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Download complete 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 4c55286bbede Pull complete 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Download complete 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ 38a8310d387e Pulling fs layer 
+ cf0c30f9c927 Pulling fs layer 
+ d3d842b783f4 Pulling fs layer 
+ d3d842b783f4 Waiting 
+ 38a8310d387e Waiting 
+ cf0c30f9c927 Waiting 
+ 5e28347af205 Pull complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.3kB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Downloading [=========================>                         ]  6.308MB/12.41MB
+ e6fe6f07e192 Downloading [===========================================>       ]  10.79MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ e6fe6f07e192 Extracting [=========================>                         ]  6.423MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Verifying Checksum 
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ b1badc6e5066 Downloading [>                                                  ]  294.9kB/28.23MB
+ a976ed7e7808 Pull complete 
+ redis Pulled 
+ b1badc6e5066 Downloading [====>                                              ]  2.605MB/28.23MB
+ a2da0c0f2353 Downloading [>                                                  ]  442.4kB/44.07MB
+ b1badc6e5066 Downloading [========>                                          ]  4.932MB/28.23MB
+ a2da0c0f2353 Downloading [=======>                                           ]  6.697MB/44.07MB
+ b1badc6e5066 Downloading [============>                                      ]  6.967MB/28.23MB
+ a2da0c0f2353 Downloading [==============>                                    ]  12.94MB/44.07MB
+ b1badc6e5066 Downloading [===================>                               ]  11.01MB/28.23MB
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [==================>                                ]  16.07MB/44.07MB
+ b1badc6e5066 Downloading [========================>                          ]  13.93MB/28.23MB
+ a2da0c0f2353 Downloading [==========================>                        ]  23.67MB/44.07MB
+ b1badc6e5066 Downloading [===========================>                       ]   15.7MB/28.23MB
+ a2da0c0f2353 Downloading [===============================>                   ]  27.71MB/44.07MB
+ b1badc6e5066 Downloading [==============================>                    ]  17.15MB/28.23MB
+ a2da0c0f2353 Downloading [=======================================>           ]  34.39MB/44.07MB
+ b1badc6e5066 Downloading [=====================================>             ]   21.2MB/28.23MB
+ a2da0c0f2353 Downloading [===========================================>       ]  38.39MB/44.07MB
+ b1badc6e5066 Downloading [===============================================>   ]     27MB/28.23MB
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [=================================================> ]  43.29MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ b1badc6e5066 Extracting [================>                                  ]  9.437MB/28.23MB
+ b1badc6e5066 Extracting [======================>                            ]  12.68MB/28.23MB
+ b1badc6e5066 Extracting [====================================>              ]  20.64MB/28.23MB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ c3741b707ce6 Downloading [================================================>  ]  1.369kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ 38a8310d387e Downloading [>                                                  ]  37.72kB/3.644MB
+ 38a8310d387e Downloading [>                                                  ]  37.72kB/3.644MB
+ 38a8310d387e Verifying Checksum 
+ 38a8310d387e Download complete 
+ 38a8310d387e Verifying Checksum 
+ 38a8310d387e Download complete 
+ 38a8310d387e Extracting [>                                                  ]  65.54kB/3.644MB
+ 38a8310d387e Extracting [>                                                  ]  65.54kB/3.644MB
+ d3d842b783f4 Downloading [>                                                  ]  52.03kB/5.08MB
+ d3d842b783f4 Downloading [>                                                  ]  52.03kB/5.08MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ d3d842b783f4 Verifying Checksum 
+ d3d842b783f4 Download complete 
+ d3d842b783f4 Verifying Checksum 
+ d3d842b783f4 Download complete 
+ 38a8310d387e Extracting [===================================>               ]  2.556MB/3.644MB
+ 38a8310d387e Extracting [===================================>               ]  2.556MB/3.644MB
+ 38a8310d387e Extracting [==================================================>]  3.644MB/3.644MB
+ 38a8310d387e Extracting [==================================================>]  3.644MB/3.644MB
+ 38a8310d387e Extracting [==================================================>]  3.644MB/3.644MB
+ 38a8310d387e Extracting [==================================================>]  3.644MB/3.644MB
+ 38a8310d387e Pull complete 
+ 38a8310d387e Pull complete 
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ cf0c30f9c927 Downloading [==================================================>]      93B/93B
+ cf0c30f9c927 Download complete 
+ cf0c30f9c927 Download complete 
+ cf0c30f9c927 Extracting [==================================================>]      93B/93B
+ cf0c30f9c927 Extracting [==================================================>]      93B/93B
+ cf0c30f9c927 Extracting [==================================================>]      93B/93B
+ cf0c30f9c927 Extracting [==================================================>]      93B/93B
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ cf0c30f9c927 Pull complete 
+ cf0c30f9c927 Pull complete 
+ d3d842b783f4 Extracting [>                                                  ]  65.54kB/5.08MB
+ d3d842b783f4 Extracting [>                                                  ]  65.54kB/5.08MB
+ d3d842b783f4 Extracting [==================================================>]   5.08MB/5.08MB
+ d3d842b783f4 Extracting [==================================================>]   5.08MB/5.08MB
+ a2da0c0f2353 Extracting [========>                                          ]   7.34MB/44.07MB
+ d3d842b783f4 Pull complete 
+ d3d842b783f4 Pull complete 
+ publisher-consumer-1 Pulled 
+ publisher-consumer-2 Pulled 
+ a2da0c0f2353 Extracting [===============>                                   ]  13.76MB/44.07MB
+ a2da0c0f2353 Extracting [==========================>                        ]  22.94MB/44.07MB
+ a2da0c0f2353 Extracting [====================================>              ]  32.11MB/44.07MB
+ a2da0c0f2353 Extracting [===========================================>       ]  38.08MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ a2da0c0f2353 Extracting [=================================================> ]  44.04MB/44.07MB
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ nginx Pulled 
  Network suricat89-solucao1_backend  Creating
  Network suricat89-solucao1_backend  Created
  Container rinha-redis  Creating
  Container rinha-redis  Created
  Container rinha-publisher-consumer-2  Creating
  Container rinha-publisher-consumer-1  Creating
- Container rinha-publisher-consumer-2  Created
  Container rinha-publisher-consumer-1  Created
+ Container rinha-publisher-consumer-2  Created
  Container rinha-nginx  Creating
  Container rinha-nginx  Created
 Attaching to rinha-nginx, rinha-publisher-consumer-1, rinha-publisher-consumer-2, rinha-redis
-rinha-redis  | 1:C 19 Aug 2025 17:26:43.331 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-rinha-redis  | 1:C 19 Aug 2025 17:26:43.331 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-rinha-redis  | 1:C 19 Aug 2025 17:26:43.331 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-rinha-redis  | 1:C 19 Aug 2025 17:26:43.331 * Configuration loaded
-rinha-redis  | 1:M 19 Aug 2025 17:26:43.332 * monotonic clock: POSIX clock_gettime
-rinha-redis  | 1:M 19 Aug 2025 17:26:43.333 # Failed to write PID file: Permission denied
-rinha-redis  | 1:M 19 Aug 2025 17:26:43.334 * Running mode=standalone, port=6379.
-rinha-redis  | 1:M 19 Aug 2025 17:26:43.334 * Server initialized
-rinha-redis  | 1:M 19 Aug 2025 17:26:43.334 * Ready to accept connections tcp
-rinha-publisher-consumer-2  | 2025/08/19 17:26:49 Consumer started with 300 goroutines
-rinha-publisher-consumer-2  | 2025/08/19 17:26:49 Producer listening on port :8080...
-rinha-publisher-consumer-1  | 2025/08/19 17:26:49 Consumer started with 300 goroutines
-rinha-publisher-consumer-1  | 2025/08/19 17:26:49 Producer listening on port :8080...
+rinha-redis  | 1:C 21 Aug 2025 21:31:22.334 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+rinha-redis  | 1:C 21 Aug 2025 21:31:22.334 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+rinha-redis  | 1:C 21 Aug 2025 21:31:22.334 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+rinha-redis  | 1:C 21 Aug 2025 21:31:22.334 * Configuration loaded
+rinha-redis  | 1:M 21 Aug 2025 21:31:22.335 * monotonic clock: POSIX clock_gettime
+rinha-redis  | 1:M 21 Aug 2025 21:31:22.335 # Failed to write PID file: Permission denied
+rinha-redis  | 1:M 21 Aug 2025 21:31:22.335 * Running mode=standalone, port=6379.
+rinha-redis  | 1:M 21 Aug 2025 21:31:22.336 * Server initialized
+rinha-redis  | 1:M 21 Aug 2025 21:31:22.336 * Ready to accept connections tcp
+rinha-publisher-consumer-2  | 2025/08/21 21:31:28 Consumer started with 300 goroutines
+rinha-publisher-consumer-2  | 2025/08/21 21:31:28 Producer listening on port :8080...
+rinha-publisher-consumer-1  | 2025/08/21 21:31:28 Consumer started with 300 goroutines
+rinha-publisher-consumer-1  | 2025/08/21 21:31:28 Producer listening on port :8080...
 rinha-nginx                 | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 rinha-nginx                 | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 rinha-nginx                 | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -32,38 +233,36 @@ rinha-nginx                 | /docker-entrypoint.sh: Sourcing /docker-entrypoint
 rinha-nginx                 | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 rinha-nginx                 | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 rinha-nginx                 | /docker-entrypoint.sh: Configuration complete; ready for start up
-rinha-publisher-consumer-1  | 2025/08/19 17:26:52 [http://backend_servers/payments-summary]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:26:58 [http://backend_servers/payments-summary?from=2025-08-19T17%3A26%3A43.174Z&to=2025-08-19T17%3A26%3A56.174Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:27:08 [http://backend_servers/payments-summary?from=2025-08-19T17%3A26%3A53.180Z&to=2025-08-19T17%3A27%3A06.180Z]: {"default":{"totalRequests":79,"totalAmount":1583.95,"latestRequestedAt":"2025-08-19T17:27:05.683398362Z","latestResponseAt":"2025-08-19T17:27:05.683912289Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:27:18 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A03.184Z&to=2025-08-19T17%3A27%3A16.184Z]: {"default":{"totalRequests":322,"totalAmount":6456.1,"latestRequestedAt":"2025-08-19T17:27:12.129352908Z","latestResponseAt":"2025-08-19T17:27:12.130152825Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:27:28 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A13.187Z&to=2025-08-19T17%3A27%3A26.187Z]: {"default":{"totalRequests":581,"totalAmount":11649.05,"latestRequestedAt":"2025-08-19T17:27:25.179174418Z","latestResponseAt":"2025-08-19T17:27:25.179654224Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:27:38 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A23.195Z&to=2025-08-19T17%3A27%3A36.195Z]: {"default":{"totalRequests":841,"totalAmount":16862.05,"latestRequestedAt":"2025-08-19T17:27:35.665040396Z","latestResponseAt":"2025-08-19T17:27:36.665798778Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:27:48 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A33.203Z&to=2025-08-19T17%3A27%3A46.203Z]: {"default":{"totalRequests":1099,"totalAmount":22034.95,"latestRequestedAt":"2025-08-19T17:27:40.067736434Z","latestResponseAt":"2025-08-19T17:27:41.068670641Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:27:58 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A43.217Z&to=2025-08-19T17%3A27%3A56.217Z]: {"default":{"totalRequests":1360,"totalAmount":27268,"latestRequestedAt":"2025-08-19T17:27:49.631482766Z","latestResponseAt":"2025-08-19T17:27:50.632380543Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:28:08 [http://backend_servers/payments-summary?from=2025-08-19T17%3A27%3A53.237Z&to=2025-08-19T17%3A28%3A06.237Z]: {"default":{"totalRequests":1619,"totalAmount":32460.95,"latestRequestedAt":"2025-08-19T17:27:59.984391378Z","latestResponseAt":"2025-08-19T17:28:00.485084177Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:28:18 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A03.262Z&to=2025-08-19T17%3A28%3A16.262Z]: {"default":{"totalRequests":1877,"totalAmount":37633.85,"latestRequestedAt":"2025-08-19T17:28:09.549150183Z","latestResponseAt":"2025-08-19T17:28:10.050067112Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:28:28 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A13.295Z&to=2025-08-19T17%3A28%3A26.295Z]: {"default":{"totalRequests":2145,"totalAmount":43007.25,"latestRequestedAt":"2025-08-19T17:28:23.926536152Z","latestResponseAt":"2025-08-19T17:28:24.427526348Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:28:38 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A23.332Z&to=2025-08-19T17%3A28%3A36.332Z]: {"default":{"totalRequests":767,"totalAmount":15378.35,"latestRequestedAt":"2025-08-19T17:28:25.413391432Z","latestResponseAt":"2025-08-19T17:28:25.913906842Z"},"fallback":{"totalRequests":1636,"totalAmount":32801.8,"latestRequestedAt":"2025-08-19T17:28:28.229982648Z","latestResponseAt":"2025-08-19T17:28:29.231361249Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:28:48 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A33.381Z&to=2025-08-19T17%3A28%3A46.381Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":2677,"totalAmount":53673.85,"latestRequestedAt":"2025-08-19T17:28:39.934952019Z","latestResponseAt":"2025-08-19T17:28:40.935821083Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:28:58 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A43.469Z&to=2025-08-19T17%3A28%3A56.469Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":2933,"totalAmount":58806.65,"latestRequestedAt":"2025-08-19T17:28:45.683793035Z","latestResponseAt":"2025-08-19T17:28:46.68445319Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:29:08 [http://backend_servers/payments-summary?from=2025-08-19T17%3A28%3A53.570Z&to=2025-08-19T17%3A29%3A06.570Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":3193,"totalAmount":64019.65,"latestRequestedAt":"2025-08-19T17:29:01.345026266Z","latestResponseAt":"2025-08-19T17:29:01.350685728Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:29:18 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A03.686Z&to=2025-08-19T17%3A29%3A16.686Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":3455,"totalAmount":69272.75,"latestRequestedAt":"2025-08-19T17:29:09.850513123Z","latestResponseAt":"2025-08-19T17:29:09.856106405Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:29:28 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A13.801Z&to=2025-08-19T17%3A29%3A26.801Z]: {"default":{"totalRequests":2,"totalAmount":40.1,"latestRequestedAt":"2025-08-19T17:29:23.269442449Z","latestResponseAt":"2025-08-19T17:29:28.271089228Z"},"fallback":{"totalRequests":3728,"totalAmount":74746.4,"latestRequestedAt":"2025-08-19T17:29:24.836857172Z","latestResponseAt":"2025-08-19T17:29:24.842598291Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:29:39 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A23.920Z&to=2025-08-19T17%3A29%3A36.920Z]: {"default":{"totalRequests":2747,"totalAmount":55077.35,"latestRequestedAt":"2025-08-19T17:29:31.847591934Z","latestResponseAt":"2025-08-19T17:29:31.848322739Z"},"fallback":{"totalRequests":1241,"totalAmount":24882.05,"latestRequestedAt":"2025-08-19T17:29:27.56236138Z","latestResponseAt":"2025-08-19T17:29:27.568167301Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:29:49 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A34.081Z&to=2025-08-19T17%3A29%3A47.081Z]: {"default":{"totalRequests":4245,"totalAmount":85112.25,"latestRequestedAt":"2025-08-19T17:29:36.887909228Z","latestResponseAt":"2025-08-19T17:29:36.888662584Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:29:59 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A44.292Z&to=2025-08-19T17%3A29%3A57.292Z]: {"default":{"totalRequests":4514,"totalAmount":90505.7,"latestRequestedAt":"2025-08-19T17:29:45.494662805Z","latestResponseAt":"2025-08-19T17:29:45.495548875Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:30:09 [http://backend_servers/payments-summary?from=2025-08-19T17%3A29%3A54.521Z&to=2025-08-19T17%3A30%3A07.521Z]: {"default":{"totalRequests":4780,"totalAmount":95839,"latestRequestedAt":"2025-08-19T17:29:54.869713709Z","latestResponseAt":"2025-08-19T17:29:54.870449184Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:30:20 [http://backend_servers/payments-summary?from=2025-08-19T17%3A30%3A04.889Z&to=2025-08-19T17%3A30%3A17.889Z]: {"default":{"totalRequests":5043,"totalAmount":101112.15,"latestRequestedAt":"2025-08-19T17:30:15.751035783Z","latestResponseAt":"2025-08-19T17:30:15.851268073Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-2  | 2025/08/19 17:30:30 [http://backend_servers/payments-summary?from=2025-08-19T17%3A30%3A15.183Z&to=2025-08-19T17%3A30%3A28.183Z]: {"default":{"totalRequests":5310,"totalAmount":106465.5,"latestRequestedAt":"2025-08-19T17:30:24.660151659Z","latestResponseAt":"2025-08-19T17:30:24.76113761Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:30:40 [http://backend_servers/payments-summary?from=2025-08-19T17%3A30%3A25.514Z&to=2025-08-19T17%3A30%3A38.514Z]: {"default":{"totalRequests":5591,"totalAmount":112099.55,"latestRequestedAt":"2025-08-19T17:30:33.218726723Z","latestResponseAt":"2025-08-19T17:30:33.269515598Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-[Krinha-publisher-consumer-2 exited with code 137
-rinha-publisher-consumer-1  | 2025/08/19 17:30:51 [http://backend_servers/payments-summary?from=2025-08-19T17%3A30%3A35.972Z&to=2025-08-19T17%3A30%3A48.972Z]: {"default":{"totalRequests":5832,"totalAmount":116931.6,"latestRequestedAt":"2025-08-19T17:30:39.495051033Z","latestResponseAt":"2025-08-19T17:30:39.545268036Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:31:13 [http://backend_servers/payments-summary?from=2025-08-19T17%3A30%3A58.004Z&to=2025-08-19T17%3A31%3A11.004Z]: {"default":{"totalRequests":2432,"totalAmount":48761.6,"latestRequestedAt":"2025-08-19T17:31:03.997309245Z","latestResponseAt":"2025-08-19T17:31:04.10025531Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
-rinha-publisher-consumer-1  | 2025/08/19 17:31:24 [http://backend_servers/payments-summary?from=2025-08-19T17%3A31%3A08.502Z&to=2025-08-19T17%3A31%3A21.502Z]: {"default":{"totalRequests":1943,"totalAmount":38957.15,"latestRequestedAt":"2025-08-19T17:31:16.531692099Z","latestResponseAt":"2025-08-19T17:31:16.635076551Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:31:29 [http://backend_servers/payments-summary]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:31:34 [http://backend_servers/payments-summary?from=2025-08-21T21%3A31%3A19.835Z&to=2025-08-21T21%3A31%3A32.835Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:31:44 [http://backend_servers/payments-summary?from=2025-08-21T21%3A31%3A29.840Z&to=2025-08-21T21%3A31%3A42.840Z]: {"default":{"totalRequests":79,"totalAmount":1583.95,"latestRequestedAt":"2025-08-21T21:31:40.322400104Z","latestResponseAt":"2025-08-21T21:31:40.322924375Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:31:54 [http://backend_servers/payments-summary?from=2025-08-21T21%3A31%3A39.847Z&to=2025-08-21T21%3A31%3A52.847Z]: {"default":{"totalRequests":322,"totalAmount":6456.1,"latestRequestedAt":"2025-08-21T21:31:42.831895882Z","latestResponseAt":"2025-08-21T21:31:42.832380941Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:32:04 [http://backend_servers/payments-summary?from=2025-08-21T21%3A31%3A49.850Z&to=2025-08-21T21%3A32%3A02.850Z]: {"default":{"totalRequests":582,"totalAmount":11669.1,"latestRequestedAt":"2025-08-21T21:31:55.767080597Z","latestResponseAt":"2025-08-21T21:31:55.76780597Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:32:14 [http://backend_servers/payments-summary?from=2025-08-21T21%3A31%3A59.857Z&to=2025-08-21T21%3A32%3A12.857Z]: {"default":{"totalRequests":841,"totalAmount":16862.05,"latestRequestedAt":"2025-08-21T21:32:11.336075215Z","latestResponseAt":"2025-08-21T21:32:12.336981829Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:32:24 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A09.866Z&to=2025-08-21T21%3A32%3A22.866Z]: {"default":{"totalRequests":1100,"totalAmount":22055,"latestRequestedAt":"2025-08-21T21:32:10.331020017Z","latestResponseAt":"2025-08-21T21:32:11.332477443Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:32:34 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A19.877Z&to=2025-08-21T21%3A32%3A32.877Z]: {"default":{"totalRequests":1359,"totalAmount":27247.95,"latestRequestedAt":"2025-08-21T21:32:24.77725351Z","latestResponseAt":"2025-08-21T21:32:25.778040865Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:32:44 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A29.896Z&to=2025-08-21T21%3A32%3A42.896Z]: {"default":{"totalRequests":1620,"totalAmount":32481,"latestRequestedAt":"2025-08-21T21:32:33.304922512Z","latestResponseAt":"2025-08-21T21:32:34.30559967Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:32:54 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A39.918Z&to=2025-08-21T21%3A32%3A52.918Z]: {"default":{"totalRequests":1880,"totalAmount":37694,"latestRequestedAt":"2025-08-21T21:32:44.608606053Z","latestResponseAt":"2025-08-21T21:32:45.109100435Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:33:04 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A49.945Z&to=2025-08-21T21%3A33%3A02.945Z]: {"default":{"totalRequests":2141,"totalAmount":42927.05,"latestRequestedAt":"2025-08-21T21:32:56.370017676Z","latestResponseAt":"2025-08-21T21:32:56.871164166Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:33:15 [http://backend_servers/payments-summary?from=2025-08-21T21%3A32%3A59.979Z&to=2025-08-21T21%3A33%3A12.979Z]: {"default":{"totalRequests":770,"totalAmount":15438.5,"latestRequestedAt":"2025-08-21T21:33:00.64240442Z","latestResponseAt":"2025-08-21T21:33:01.143348418Z"},"fallback":{"totalRequests":1633,"totalAmount":32741.65,"latestRequestedAt":"2025-08-21T21:33:07.946228292Z","latestResponseAt":"2025-08-21T21:33:08.947344642Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:33:25 [http://backend_servers/payments-summary?from=2025-08-21T21%3A33%3A10.020Z&to=2025-08-21T21%3A33%3A23.020Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":2676,"totalAmount":53653.8,"latestRequestedAt":"2025-08-21T21:33:16.116226596Z","latestResponseAt":"2025-08-21T21:33:17.116965425Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:33:35 [http://backend_servers/payments-summary?from=2025-08-21T21%3A33%3A20.073Z&to=2025-08-21T21%3A33%3A33.073Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":2933,"totalAmount":58806.65,"latestRequestedAt":"2025-08-21T21:33:22.242982888Z","latestResponseAt":"2025-08-21T21:33:23.244033679Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:33:45 [http://backend_servers/payments-summary?from=2025-08-21T21%3A33%3A30.136Z&to=2025-08-21T21%3A33%3A43.136Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":3194,"totalAmount":64039.7,"latestRequestedAt":"2025-08-21T21:33:34.389431734Z","latestResponseAt":"2025-08-21T21:33:35.390763238Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:33:55 [http://backend_servers/payments-summary?from=2025-08-21T21%3A33%3A40.225Z&to=2025-08-21T21%3A33%3A53.225Z]: {"default":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"},"fallback":{"totalRequests":3459,"totalAmount":69352.95,"latestRequestedAt":"2025-08-21T21:33:46.851939286Z","latestResponseAt":"2025-08-21T21:33:46.857765952Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:34:05 [http://backend_servers/payments-summary?from=2025-08-21T21%3A33%3A50.356Z&to=2025-08-21T21%3A34%3A03.356Z]: {"default":{"totalRequests":2,"totalAmount":40.1,"latestRequestedAt":"2025-08-21T21:33:59.927690184Z","latestResponseAt":"2025-08-21T21:34:04.928672195Z"},"fallback":{"totalRequests":3718,"totalAmount":74545.9,"latestRequestedAt":"2025-08-21T21:34:00.929380143Z","latestResponseAt":"2025-08-21T21:34:00.934989087Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:34:15 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A00.462Z&to=2025-08-21T21%3A34%3A13.462Z]: {"default":{"totalRequests":2700,"totalAmount":54135,"latestRequestedAt":"2025-08-21T21:34:06.941832623Z","latestResponseAt":"2025-08-21T21:34:06.943773289Z"},"fallback":{"totalRequests":1284,"totalAmount":25744.2,"latestRequestedAt":"2025-08-21T21:34:02.747490948Z","latestResponseAt":"2025-08-21T21:34:02.75308224Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:34:25 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A10.623Z&to=2025-08-21T21%3A34%3A23.623Z]: {"default":{"totalRequests":4245,"totalAmount":85112.25,"latestRequestedAt":"2025-08-21T21:34:11.156411017Z","latestResponseAt":"2025-08-21T21:34:11.156963329Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:34:36 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A20.821Z&to=2025-08-21T21%3A34%3A33.821Z]: {"default":{"totalRequests":4506,"totalAmount":90345.3,"latestRequestedAt":"2025-08-21T21:34:29.985608297Z","latestResponseAt":"2025-08-21T21:34:29.986419015Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:34:46 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A31.062Z&to=2025-08-21T21%3A34%3A44.062Z]: {"default":{"totalRequests":4774,"totalAmount":95718.7,"latestRequestedAt":"2025-08-21T21:34:39.987059709Z","latestResponseAt":"2025-08-21T21:34:40.089871111Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:34:56 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A41.358Z&to=2025-08-21T21%3A34%3A54.358Z]: {"default":{"totalRequests":5042,"totalAmount":101092.1,"latestRequestedAt":"2025-08-21T21:34:53.597700303Z","latestResponseAt":"2025-08-21T21:34:53.699070338Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-2  | 2025/08/21 21:35:07 [http://backend_servers/payments-summary?from=2025-08-21T21%3A34%3A51.750Z&to=2025-08-21T21%3A35%3A04.750Z]: {"default":{"totalRequests":5324,"totalAmount":106746.2,"latestRequestedAt":"2025-08-21T21:34:55.57612938Z","latestResponseAt":"2025-08-21T21:34:55.676765661Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+rinha-publisher-consumer-1  | 2025/08/21 21:35:17 [http://backend_servers/payments-summary?from=2025-08-21T21%3A35%3A02.147Z&to=2025-08-21T21%3A35%3A15.147Z]: {"default":{"totalRequests":5588,"totalAmount":112039.4,"latestRequestedAt":"2025-08-21T21:35:09.1067209Z","latestResponseAt":"2025-08-21T21:35:09.157594832Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
 [Krinha-publisher-consumer-1 exited with code 137
+rinha-publisher-consumer-2  | 2025/08/21 21:35:29 [http://backend_servers/payments-summary?from=2025-08-21T21%3A35%3A12.564Z&to=2025-08-21T21%3A35%3A25.564Z]: {"default":{"totalRequests":5856,"totalAmount":117412.8,"latestRequestedAt":"2025-08-21T21:35:21.054611345Z","latestResponseAt":"2025-08-21T21:35:21.105299826Z"},"fallback":{"totalRequests":0,"totalAmount":0,"latestRequestedAt":"0001-01-01T00:00:00Z","latestResponseAt":"0001-01-01T00:00:00Z"}}
+[Krinha-publisher-consumer-2 exited with code 137
 [Krinha-nginx exited with code 0
-rinha-redis                 | 1:signal-handler (1755624726) Received SIGTERM scheduling shutdown...
-rinha-redis                 | 1:M 19 Aug 2025 17:32:06.734 * User requested shutdown...
-rinha-redis                 | 1:M 19 Aug 2025 17:32:06.734 * Removing the pid file.
-rinha-redis                 | 1:M 19 Aug 2025 17:32:06.734 # Redis is now ready to exit, bye bye...
+rinha-redis                 | 1:signal-handler (1755812203) Received SIGTERM scheduling shutdown...
+rinha-redis                 | 1:M 21 Aug 2025 21:36:43.120 * User requested shutdown...
+rinha-redis                 | 1:M 21 Aug 2025 21:36:43.120 * Removing the pid file.
+rinha-redis                 | 1:M 21 Aug 2025 21:36:43.120 # Redis is now ready to exit, bye bye...
 log truncated at line 1000

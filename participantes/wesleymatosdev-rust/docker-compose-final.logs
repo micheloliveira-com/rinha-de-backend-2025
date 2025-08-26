@@ -1,18 +1,1001 @@
 
+ worker Pulling 
+ postgres Pulling 
+ nats Pulling 
+ api02 Pulling 
+ api01 Pulling 
+ uxlb Pulling 
+ af7c915c8849 Pulling fs layer 
+ 4ad381291e18 Pulling fs layer 
+ 6af9f52ade47 Pulling fs layer 
+ 5f80120768ad Pulling fs layer 
+ de14fc49bb48 Pulling fs layer 
+ 5f80120768ad Waiting 
+ de14fc49bb48 Waiting 
+ 4ad381291e18 Downloading [>                                                  ]  211.8kB/20.91MB
+ af7c915c8849 Downloading [>                                                  ]  294.9kB/29.15MB
+ 6af9f52ade47 Downloading [==================================================>]      93B/93B
+ 6af9f52ade47 Verifying Checksum 
+ 6af9f52ade47 Download complete 
+ af7c915c8849 Pulling fs layer 
+ 4ad381291e18 Pulling fs layer 
+ 6af9f52ade47 Pulling fs layer 
+ 5f80120768ad Pulling fs layer 
+ af7c915c8849 Downloading [>                                                  ]  294.9kB/29.15MB
+ de14fc49bb48 Pulling fs layer 
+ 4ad381291e18 Downloading [>                                                  ]  211.8kB/20.91MB
+ de14fc49bb48 Waiting 
+ 6af9f52ade47 Download complete 
+ 5f80120768ad Waiting 
+ 4ad381291e18 Downloading [==========>                                        ]   4.26MB/20.91MB
+ 4ad381291e18 Downloading [==========>                                        ]   4.26MB/20.91MB
+ af7c915c8849 Downloading [=======>                                           ]  4.472MB/29.15MB
+ af7c915c8849 Downloading [=======>                                           ]  4.472MB/29.15MB
+ 4ad381291e18 Downloading [====================>                              ]   8.52MB/20.91MB
+ 4ad381291e18 Downloading [====================>                              ]   8.52MB/20.91MB
+ af7c915c8849 Pulling fs layer 
+ 4ad381291e18 Pulling fs layer 
+ 6af9f52ade47 Pulling fs layer 
+ 5f80120768ad Pulling fs layer 
+ de14fc49bb48 Pulling fs layer 
+ de14fc49bb48 Waiting 
+ 4ad381291e18 Downloading [====================>                              ]   8.52MB/20.91MB
+ af7c915c8849 Downloading [=======>                                           ]  4.472MB/29.15MB
+ 6af9f52ade47 Download complete 
+ 5f80120768ad Waiting 
+ af7c915c8849 Downloading [==============>                                    ]  8.671MB/29.15MB
+ af7c915c8849 Downloading [==============>                                    ]  8.671MB/29.15MB
+ af7c915c8849 Downloading [==============>                                    ]  8.671MB/29.15MB
+ 4ad381291e18 Downloading [==============================>                    ]  12.78MB/20.91MB
+ 4ad381291e18 Downloading [==============================>                    ]  12.78MB/20.91MB
+ 4ad381291e18 Downloading [==============================>                    ]  12.78MB/20.91MB
+ af7c915c8849 Downloading [======================>                            ]  12.89MB/29.15MB
+ af7c915c8849 Downloading [======================>                            ]  12.89MB/29.15MB
+ af7c915c8849 Downloading [======================>                            ]  12.89MB/29.15MB
+ 5f80120768ad Downloading [>                                                  ]  49.15kB/4.041MB
+ 5f80120768ad Downloading [>                                                  ]  49.15kB/4.041MB
+ 5f80120768ad Downloading [>                                                  ]  49.15kB/4.041MB
+ 5f80120768ad Verifying Checksum 
+ 5f80120768ad Verifying Checksum 
+ 5f80120768ad Verifying Checksum 
+ 5f80120768ad Download complete 
+ 5f80120768ad Download complete 
+ 5f80120768ad Download complete 
+ 4ad381291e18 Downloading [========================================>          ]  16.93MB/20.91MB
+ 4ad381291e18 Downloading [========================================>          ]  16.93MB/20.91MB
+ 4ad381291e18 Downloading [========================================>          ]  16.93MB/20.91MB
+ af7c915c8849 Downloading [=============================>                     ]   17.1MB/29.15MB
+ af7c915c8849 Downloading [=============================>                     ]   17.1MB/29.15MB
+ af7c915c8849 Downloading [=============================>                     ]   17.1MB/29.15MB
+ 4ad381291e18 Verifying Checksum 
+ 4ad381291e18 Download complete 
+ 4ad381291e18 Download complete 
+ 4ad381291e18 Verifying Checksum 
+ 4ad381291e18 Download complete 
+ 9824c27679d3 Already exists 
+ f7516fc3f287 Pulling fs layer 
+ 277eb8845882 Pulling fs layer 
+ ebc4062bdf6e Pulling fs layer 
+ 277eb8845882 Waiting 
+ ebc4062bdf6e Waiting 
+ af7c915c8849 Downloading [====================================>              ]  21.32MB/29.15MB
+ af7c915c8849 Downloading [====================================>              ]  21.32MB/29.15MB
+ af7c915c8849 Downloading [====================================>              ]  21.32MB/29.15MB
+ af7c915c8849 Downloading [===========================================>       ]  25.52MB/29.15MB
+ af7c915c8849 Downloading [===========================================>       ]  25.52MB/29.15MB
+ af7c915c8849 Downloading [===========================================>       ]  25.52MB/29.15MB
+ af7c915c8849 Verifying Checksum 
+ af7c915c8849 Download complete 
+ af7c915c8849 Verifying Checksum 
+ af7c915c8849 Verifying Checksum 
+ af7c915c8849 Download complete 
+ af7c915c8849 Download complete 
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ af7c915c8849 Extracting [>                                                  ]  294.9kB/29.15MB
+ de14fc49bb48 Downloading [>                                                  ]  45.34kB/4.416MB
+ de14fc49bb48 Downloading [>                                                  ]  45.34kB/4.416MB
+ de14fc49bb48 Downloading [>                                                  ]  45.34kB/4.416MB
+ af7c915c8849 Extracting [==========>                                        ]  5.898MB/29.15MB
+ af7c915c8849 Extracting [==========>                                        ]  5.898MB/29.15MB
+ af7c915c8849 Extracting [==========>                                        ]  5.898MB/29.15MB
+ 9824c27679d3 Already exists 
+ b1081a97a3be Pulling fs layer 
+ ded48071094b Pulling fs layer 
+ e43e8320d230 Pulling fs layer 
+ 36fec2e58807 Pulling fs layer 
+ b1081a97a3be Waiting 
+ b4b1d059ca05 Pulling fs layer 
+ ded48071094b Waiting 
+ 3f18e0be6935 Pulling fs layer 
+ e43e8320d230 Waiting 
+ 36fec2e58807 Waiting 
+ 317fcb0243fd Pulling fs layer 
+ b9f3455c5ed3 Pulling fs layer 
+ b4b1d059ca05 Waiting 
+ 9fc163e1a6c0 Pulling fs layer 
+ 3f18e0be6935 Waiting 
+ 317fcb0243fd Waiting 
+ b9f3455c5ed3 Waiting 
+ 9fc163e1a6c0 Waiting 
+ b84a74cde5af Pulling fs layer 
+ 823b46200779 Pulling fs layer 
+ ffe4ac8a2d59 Pulling fs layer 
+ ff7f4581edc7 Pulling fs layer 
+ 823b46200779 Waiting 
+ ffe4ac8a2d59 Waiting 
+ ff7f4581edc7 Waiting 
+ b84a74cde5af Waiting 
+ f7516fc3f287 Downloading [>                                                  ]   3.67kB/282.5kB
+ f7516fc3f287 Verifying Checksum 
+ f7516fc3f287 Download complete 
+ f7516fc3f287 Extracting [=====>                                             ]  32.77kB/282.5kB
+ de14fc49bb48 Downloading [===============================================>   ]  4.227MB/4.416MB
+ de14fc49bb48 Downloading [===============================================>   ]  4.227MB/4.416MB
+ de14fc49bb48 Downloading [===============================================>   ]  4.227MB/4.416MB
+ de14fc49bb48 Verifying Checksum 
+ de14fc49bb48 Download complete 
+ de14fc49bb48 Verifying Checksum 
+ de14fc49bb48 Download complete 
+ de14fc49bb48 Verifying Checksum 
+ de14fc49bb48 Download complete 
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ af7c915c8849 Extracting [================>                                  ]  9.732MB/29.15MB
+ f7516fc3f287 Extracting [==================================================>]  282.5kB/282.5kB
+ f7516fc3f287 Extracting [==================================================>]  282.5kB/282.5kB
+ f7516fc3f287 Pull complete 
+ af7c915c8849 Extracting [====================>                              ]   11.8MB/29.15MB
+ af7c915c8849 Extracting [====================>                              ]   11.8MB/29.15MB
+ af7c915c8849 Extracting [====================>                              ]   11.8MB/29.15MB
+ 277eb8845882 Downloading [>                                                  ]  3.669kB/323.9kB
+ 277eb8845882 Downloading [==================================================>]  323.9kB/323.9kB
+ 277eb8845882 Download complete 
+ 277eb8845882 Extracting [=====>                                             ]  32.77kB/323.9kB
+ 277eb8845882 Extracting [==================================================>]  323.9kB/323.9kB
+ 277eb8845882 Extracting [==================================================>]  323.9kB/323.9kB
+ 277eb8845882 Pull complete 
+ af7c915c8849 Extracting [================================>                  ]  18.87MB/29.15MB
+ af7c915c8849 Extracting [================================>                  ]  18.87MB/29.15MB
+ af7c915c8849 Extracting [================================>                  ]  18.87MB/29.15MB
+ af7c915c8849 Extracting [=========================================>         ]  24.48MB/29.15MB
+ af7c915c8849 Extracting [=========================================>         ]  24.48MB/29.15MB
+ af7c915c8849 Extracting [=========================================>         ]  24.48MB/29.15MB
+ ebc4062bdf6e Download complete 
+ ebc4062bdf6e Extracting [==================================================>]     935B/935B
+ ebc4062bdf6e Extracting [==================================================>]     935B/935B
+ ebc4062bdf6e Pull complete 
+ uxlb Pulled 
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ af7c915c8849 Extracting [==========================================>        ]  24.77MB/29.15MB
+ b1081a97a3be Downloading [==================================================>]     969B/969B
+ b1081a97a3be Verifying Checksum 
+ b1081a97a3be Download complete 
+ b1081a97a3be Extracting [==================================================>]     969B/969B
+ b1081a97a3be Extracting [==================================================>]     969B/969B
+ b1081a97a3be Pull complete 
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ af7c915c8849 Extracting [===============================================>   ]  27.72MB/29.15MB
+ ded48071094b Downloading [>                                                  ]     12kB/1.116MB
+ ded48071094b Verifying Checksum 
+ ded48071094b Download complete 
+ ded48071094b Extracting [=>                                                 ]  32.77kB/1.116MB
+ ded48071094b Extracting [==================================================>]  1.116MB/1.116MB
+ ded48071094b Pull complete 
+ e43e8320d230 Downloading [==================================================>]     116B/116B
+ e43e8320d230 Verifying Checksum 
+ e43e8320d230 Download complete 
+ e43e8320d230 Extracting [==================================================>]     116B/116B
+ e43e8320d230 Pull complete 
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ af7c915c8849 Extracting [================================================>  ]  28.31MB/29.15MB
+ 36fec2e58807 Downloading [>                                                  ]  528.1kB/105.8MB
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ af7c915c8849 Extracting [==================================================>]  29.15MB/29.15MB
+ 36fec2e58807 Downloading [===>                                               ]  6.398MB/105.8MB
+ af7c915c8849 Pull complete 
+ af7c915c8849 Pull complete 
+ af7c915c8849 Pull complete 
+ 4ad381291e18 Extracting [>                                                  ]  229.4kB/20.91MB
+ 4ad381291e18 Extracting [>                                                  ]  229.4kB/20.91MB
+ 4ad381291e18 Extracting [>                                                  ]  229.4kB/20.91MB
+ b4b1d059ca05 Downloading [======>                                            ]  1.369kB/9.884kB
+ b4b1d059ca05 Downloading [==================================================>]  9.884kB/9.884kB
+ b4b1d059ca05 Verifying Checksum 
+ b4b1d059ca05 Download complete 
+ 4ad381291e18 Extracting [==========>                                        ]  4.588MB/20.91MB
+ 4ad381291e18 Extracting [==========>                                        ]  4.588MB/20.91MB
+ 4ad381291e18 Extracting [==========>                                        ]  4.588MB/20.91MB
+ 36fec2e58807 Downloading [=====>                                             ]  12.26MB/105.8MB
+ 4ad381291e18 Extracting [==================================>                ]  14.45MB/20.91MB
+ 4ad381291e18 Extracting [==================================>                ]  14.45MB/20.91MB
+ 4ad381291e18 Extracting [==================================>                ]  14.45MB/20.91MB
+ 36fec2e58807 Downloading [=========>                                         ]  19.73MB/105.8MB
+ 3f18e0be6935 Downloading [==================================================>]     127B/127B
+ 3f18e0be6935 Verifying Checksum 
+ 3f18e0be6935 Download complete 
+ 4ad381291e18 Extracting [==================================================>]  20.91MB/20.91MB
+ 4ad381291e18 Extracting [==================================================>]  20.91MB/20.91MB
+ 4ad381291e18 Extracting [==================================================>]  20.91MB/20.91MB
+ 4ad381291e18 Pull complete 
+ 4ad381291e18 Pull complete 
+ 4ad381291e18 Pull complete 
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 6af9f52ade47 Extracting [==================================================>]      93B/93B
+ 36fec2e58807 Downloading [============>                                      ]   25.6MB/105.8MB
+ 6af9f52ade47 Pull complete 
+ 6af9f52ade47 Pull complete 
+ 6af9f52ade47 Pull complete 
+ 5f80120768ad Extracting [>                                                  ]  65.54kB/4.041MB
+ 5f80120768ad Extracting [>                                                  ]  65.54kB/4.041MB
+ 5f80120768ad Extracting [>                                                  ]  65.54kB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Extracting [==================================================>]  4.041MB/4.041MB
+ 5f80120768ad Pull complete 
+ 5f80120768ad Pull complete 
+ 5f80120768ad Pull complete 
+ 36fec2e58807 Downloading [==============>                                    ]  29.88MB/105.8MB
+ de14fc49bb48 Extracting [>                                                  ]  65.54kB/4.416MB
+ de14fc49bb48 Extracting [>                                                  ]  65.54kB/4.416MB
+ de14fc49bb48 Extracting [>                                                  ]  65.54kB/4.416MB
+ de14fc49bb48 Extracting [==================================================>]  4.416MB/4.416MB
+ de14fc49bb48 Extracting [==================================================>]  4.416MB/4.416MB
+ de14fc49bb48 Extracting [==================================================>]  4.416MB/4.416MB
+ de14fc49bb48 Pull complete 
+ de14fc49bb48 Pull complete 
+ de14fc49bb48 Pull complete 
+ 36fec2e58807 Downloading [=================>                                 ]  36.83MB/105.8MB
+ 317fcb0243fd Downloading [==================================================>]     167B/167B
+ 317fcb0243fd Verifying Checksum 
+ 317fcb0243fd Download complete 
+ api01 Pulled 
+ worker Pulled 
+ api02 Pulled 
+ 36fec2e58807 Downloading [====================>                              ]  43.78MB/105.8MB
+ 36fec2e58807 Downloading [======================>                            ]  48.58MB/105.8MB
+ b9f3455c5ed3 Downloading [========>                                          ]  1.049kB/5.93kB
+ b9f3455c5ed3 Downloading [==================================================>]   5.93kB/5.93kB
+ b9f3455c5ed3 Verifying Checksum 
+ b9f3455c5ed3 Download complete 
+ 36fec2e58807 Downloading [=========================>                         ]   53.4MB/105.8MB
+ 36fec2e58807 Downloading [============================>                      ]  60.37MB/105.8MB
+ 36fec2e58807 Downloading [=============================>                     ]  63.04MB/105.8MB
+ 9fc163e1a6c0 Downloading [==================================================>]     185B/185B
+ 9fc163e1a6c0 Download complete 
+ 36fec2e58807 Downloading [===============================>                   ]  67.34MB/105.8MB
+ 36fec2e58807 Downloading [==================================>                ]  72.17MB/105.8MB
+ b84a74cde5af Downloading [>                                                  ]  35.53kB/3.417MB
+ b84a74cde5af Downloading [==================================================>]  3.417MB/3.417MB
+ b84a74cde5af Download complete 
+ b84a74cde5af Extracting [>                                                  ]  65.54kB/3.417MB
+ 36fec2e58807 Downloading [=====================================>             ]  80.21MB/105.8MB
+ b84a74cde5af Extracting [==================================================>]  3.417MB/3.417MB
+ b84a74cde5af Pull complete 
+ 36fec2e58807 Downloading [=========================================>         ]  87.69MB/105.8MB
+ 36fec2e58807 Downloading [============================================>      ]  94.11MB/105.8MB
+ 36fec2e58807 Downloading [===============================================>   ]  101.6MB/105.8MB
+ 823b46200779 Downloading [>                                                  ]   63.2kB/6.3MB
+ 36fec2e58807 Verifying Checksum 
+ 36fec2e58807 Download complete 
+ 36fec2e58807 Extracting [>                                                  ]  557.1kB/105.8MB
+ ffe4ac8a2d59 Downloading [==================================================>]     560B/560B
+ ffe4ac8a2d59 Verifying Checksum 
+ ffe4ac8a2d59 Download complete 
+ 823b46200779 Downloading [==>                                                ]  344.1kB/6.3MB
+ 36fec2e58807 Extracting [==>                                                ]  5.014MB/105.8MB
+ 36fec2e58807 Extracting [======>                                            ]  13.37MB/105.8MB
+ 823b46200779 Downloading [======>                                            ]  802.8kB/6.3MB
+ 36fec2e58807 Extracting [==========>                                        ]  21.73MB/105.8MB
+ 823b46200779 Downloading [=========>                                         ]  1.196MB/6.3MB
+ 36fec2e58807 Extracting [==============>                                    ]  30.08MB/105.8MB
+ 823b46200779 Downloading [============>                                      ]  1.606MB/6.3MB
+ 36fec2e58807 Extracting [==================>                                ]  38.44MB/105.8MB
+ ff7f4581edc7 Downloading [==================================================>]     412B/412B
+ ff7f4581edc7 Verifying Checksum 
+ ff7f4581edc7 Download complete 
+ 823b46200779 Downloading [================>                                  ]  2.023MB/6.3MB
+ 36fec2e58807 Extracting [======================>                            ]  46.79MB/105.8MB
+ 36fec2e58807 Extracting [========================>                          ]  51.81MB/105.8MB
+ 823b46200779 Downloading [===================>                               ]   2.49MB/6.3MB
+ 36fec2e58807 Extracting [===========================>                       ]  57.93MB/105.8MB
+ 823b46200779 Downloading [=====================>                             ]  2.687MB/6.3MB
+ 36fec2e58807 Extracting [==============================>                    ]  65.18MB/105.8MB
+ 823b46200779 Downloading [=======================>                           ]  3.015MB/6.3MB
+ 36fec2e58807 Extracting [==================================>                ]  72.97MB/105.8MB
+ 823b46200779 Downloading [==========================>                        ]  3.342MB/6.3MB
+ 36fec2e58807 Extracting [===================================>               ]   75.2MB/105.8MB
+ 823b46200779 Downloading [=============================>                     ]   3.67MB/6.3MB
+ 823b46200779 Downloading [==============================>                    ]  3.867MB/6.3MB
+ 36fec2e58807 Extracting [====================================>              ]  76.32MB/105.8MB
+ 823b46200779 Downloading [================================>                  ]  4.129MB/6.3MB
+ 36fec2e58807 Extracting [=====================================>             ]   79.1MB/105.8MB
+ 823b46200779 Downloading [==================================>                ]  4.325MB/6.3MB
+ 36fec2e58807 Extracting [======================================>            ]  82.44MB/105.8MB
+ 36fec2e58807 Extracting [========================================>          ]  86.34MB/105.8MB
+ 823b46200779 Downloading [====================================>              ]  4.653MB/6.3MB
+ 36fec2e58807 Extracting [===========================================>       ]  91.36MB/105.8MB
+ 823b46200779 Downloading [=======================================>           ]  4.915MB/6.3MB
+ 36fec2e58807 Extracting [===========================================>       ]  93.03MB/105.8MB
+ 36fec2e58807 Extracting [================================================>  ]  103.1MB/105.8MB
+ 823b46200779 Downloading [=========================================>         ]  5.177MB/6.3MB
+ 36fec2e58807 Extracting [==================================================>]  105.8MB/105.8MB
+ 823b46200779 Downloading [=========================================>         ]  5.243MB/6.3MB
+ 36fec2e58807 Pull complete 
+ b4b1d059ca05 Extracting [==================================================>]  9.884kB/9.884kB
+ b4b1d059ca05 Extracting [==================================================>]  9.884kB/9.884kB
+ b4b1d059ca05 Pull complete 
+ 3f18e0be6935 Extracting [==================================================>]     127B/127B
+ 3f18e0be6935 Extracting [==================================================>]     127B/127B
+ 823b46200779 Downloading [==========================================>        ]  5.308MB/6.3MB
+ 3f18e0be6935 Pull complete 
+ 317fcb0243fd Extracting [==================================================>]     167B/167B
+ 317fcb0243fd Extracting [==================================================>]     167B/167B
+ 317fcb0243fd Pull complete 
+ b9f3455c5ed3 Extracting [==================================================>]   5.93kB/5.93kB
+ b9f3455c5ed3 Extracting [==================================================>]   5.93kB/5.93kB
+ b9f3455c5ed3 Pull complete 
+ 9fc163e1a6c0 Extracting [==================================================>]     185B/185B
+ 9fc163e1a6c0 Extracting [==================================================>]     185B/185B
+ 823b46200779 Downloading [==========================================>        ]  5.374MB/6.3MB
+ 9fc163e1a6c0 Pull complete 
+ postgres Pulled 
+ 823b46200779 Downloading [===========================================>       ]  5.439MB/6.3MB
+ 823b46200779 Downloading [============================================>      ]  5.571MB/6.3MB
+ 823b46200779 Downloading [============================================>      ]  5.636MB/6.3MB
+ 823b46200779 Downloading [=============================================>     ]  5.702MB/6.3MB
+ 823b46200779 Downloading [=============================================>     ]  5.767MB/6.3MB
+ 823b46200779 Downloading [==============================================>    ]  5.898MB/6.3MB
+ 823b46200779 Downloading [===============================================>   ]  5.964MB/6.3MB
+ 823b46200779 Downloading [===============================================>   ]  6.029MB/6.3MB
+ 823b46200779 Downloading [================================================>  ]  6.095MB/6.3MB
+ 823b46200779 Downloading [================================================>  ]   6.16MB/6.3MB
+ 823b46200779 Verifying Checksum 
+ 823b46200779 Download complete 
+ 823b46200779 Extracting [>                                                  ]  65.54kB/6.3MB
+ 823b46200779 Extracting [===============================>                   ]  3.932MB/6.3MB
+ 823b46200779 Extracting [=================================================> ]  6.226MB/6.3MB
+ 823b46200779 Extracting [==================================================>]    6.3MB/6.3MB
+ 823b46200779 Pull complete 
+ ffe4ac8a2d59 Extracting [==================================================>]     560B/560B
+ ffe4ac8a2d59 Extracting [==================================================>]     560B/560B
+ ffe4ac8a2d59 Pull complete 
+ ff7f4581edc7 Extracting [==================================================>]     412B/412B
+ ff7f4581edc7 Extracting [==================================================>]     412B/412B
+ ff7f4581edc7 Pull complete 
+ nats Pulled 
  Network wesleymatosdev-rust_backend  Creating
  Network wesleymatosdev-rust_backend  Created
+ Volume "wesleymatosdev-rust_sockets"  Creating
+ Volume "wesleymatosdev-rust_sockets"  Created
  Volume "wesleymatosdev-rust_nats_data"  Creating
  Volume "wesleymatosdev-rust_nats_data"  Created
  Volume "wesleymatosdev-rust_postgres_data"  Creating
  Volume "wesleymatosdev-rust_postgres_data"  Created
- Volume "wesleymatosdev-rust_sockets"  Creating
- Volume "wesleymatosdev-rust_sockets"  Created
- Container wesleymatosdev-rust-nats-1  Creating
  Container wesleymatosdev-rust-postgres-1  Creating
- Container wesleymatosdev-rust-postgres-1  Created
+ Container wesleymatosdev-rust-nats-1  Creating
  Container wesleymatosdev-rust-nats-1  Created
- Container wesleymatosdev-rust-api01-1  Creating
+ Container wesleymatosdev-rust-postgres-1  Created
  Container wesleymatosdev-rust-worker-1  Creating
  Container wesleymatosdev-rust-api02-1  Creating
- Container wesleymatosdev-rust-api01-1  Error response from daemon: failed to create symlink: /var/lib/docker/volumes/wesleymatosdev-rust_sockets/_data/run: symlink /run /var/lib/docker/volumes/wesleymatosdev-rust_sockets/_data/run: file exists
-Error response from daemon: failed to create symlink: /var/lib/docker/volumes/wesleymatosdev-rust_sockets/_data/run: symlink /run /var/lib/docker/volumes/wesleymatosdev-rust_sockets/_data/run: file exists
+ Container wesleymatosdev-rust-api01-1  Creating
+ Container wesleymatosdev-rust-api01-1  Created
+ Container wesleymatosdev-rust-worker-1  Created
+ Container wesleymatosdev-rust-api02-1  Created
+ Container wesleymatosdev-rust-uxlb-1  Creating
+ Container wesleymatosdev-rust-uxlb-1  Created
+Attaching to api01-1, api02-1, nats-1, postgres-1, uxlb-1, worker-1
+nats-1  | [1] 2025/08/21 19:48:08.369094 [INF] Starting nats-server
+nats-1  | [1] 2025/08/21 19:48:08.369459 [INF]   Version:  2.10.16
+nats-1  | [1] 2025/08/21 19:48:08.369482 [INF]   Git:      [80e29794]
+nats-1  | [1] 2025/08/21 19:48:08.369501 [INF]   Name:     NCZSQZ5D3M5YIKEEYQU2QM6ZO6MMIGDM7IVVDAFVG4DCT5MFRK4XQ4FI
+nats-1  | [1] 2025/08/21 19:48:08.369516 [INF]   ID:       NCZSQZ5D3M5YIKEEYQU2QM6ZO6MMIGDM7IVVDAFVG4DCT5MFRK4XQ4FI
+nats-1  | [1] 2025/08/21 19:48:08.370108 [INF] Starting http monitor on 0.0.0.0:8222
+nats-1  | [1] 2025/08/21 19:48:08.370183 [INF] Listening for client connections on 0.0.0.0:4222
+nats-1  | [1] 2025/08/21 19:48:08.370433 [INF] Server is ready
+postgres-1  | The files belonging to this database system will be owned by user "postgres".
+postgres-1  | This user must also own the server process.
+postgres-1  | 
+postgres-1  | The database cluster will be initialized with locale "en_US.utf8".
+postgres-1  | The default database encoding has accordingly been set to "UTF8".
+postgres-1  | The default text search configuration will be set to "english".
+postgres-1  | 
+postgres-1  | Data page checksums are disabled.
+postgres-1  | 
+postgres-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+postgres-1  | creating subdirectories ... ok
+postgres-1  | selecting dynamic shared memory implementation ... posix
+postgres-1  | selecting default "max_connections" ... 100
+postgres-1  | selecting default "shared_buffers" ... 128MB
+postgres-1  | selecting default time zone ... UTC
+postgres-1  | creating configuration files ... ok
+uxlb-1      | UXLB listening on port 9999
+uxlb-1      | Backends: ["/var/rinha01.sock", "/var/rinha02.sock"]
+uxlb-1      | FAF routes: []
+uxlb-1      | Workers: 1
+postgres-1  | running bootstrap script ... ok
+postgres-1  | sh: locale: not found
+postgres-1  | 2025-08-21 19:48:10.432 UTC [35] WARNING:  no usable system locales were found
+postgres-1  | performing post-bootstrap initialization ... ok
+postgres-1  | initdb: warning: enabling "trust" authentication for local connections
+postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+postgres-1  | syncing data to disk ... ok
+postgres-1  | 
+postgres-1  | 
+postgres-1  | Success. You can now start the database server using:
+postgres-1  | 
+postgres-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+postgres-1  | 
+postgres-1  | waiting for server to start....2025-08-21 19:48:14.236 UTC [41] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 19:48:14.240 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 19:48:14.250 UTC [44] LOG:  database system was shut down at 2025-08-21 19:48:13 UTC
+postgres-1  | 2025-08-21 19:48:14.258 UTC [41] LOG:  database system is ready to accept connections
+postgres-1  |  done
+postgres-1  | server started
+postgres-1  | CREATE DATABASE
+postgres-1  | 
+postgres-1  | 
+postgres-1  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/init.sql
+postgres-1  | CREATE TABLE
+postgres-1  | 
+postgres-1  | 
+postgres-1  | waiting for server to shut down...2025-08-21 19:48:14.651 UTC [41] LOG:  received fast shutdown request
+postgres-1  | .2025-08-21 19:48:14.654 UTC [41] LOG:  aborting any active transactions
+postgres-1  | 2025-08-21 19:48:14.735 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+postgres-1  | 2025-08-21 19:48:14.735 UTC [42] LOG:  shutting down
+postgres-1  | 2025-08-21 19:48:14.738 UTC [42] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-08-21 19:48:14.852 UTC [42] LOG:  checkpoint complete: wrote 930 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.097 s, sync=0.010 s, total=0.118 s; sync files=303, longest=0.003 s, average=0.001 s; distance=4268 kB, estimate=4268 kB; lsn=0/19185B8, redo lsn=0/19185B8
+postgres-1  | 2025-08-21 19:48:14.861 UTC [41] LOG:  database system is shut down
+postgres-1  |  done
+postgres-1  | server stopped
+postgres-1  | 
+postgres-1  | PostgreSQL init process complete; ready for start up.
+postgres-1  | 
+postgres-1  | 2025-08-21 19:48:14.978 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 19:48:14.978 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-08-21 19:48:14.978 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1  | 2025-08-21 19:48:14.985 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 19:48:14.992 UTC [59] LOG:  database system was shut down at 2025-08-21 19:48:14 UTC
+postgres-1  | 2025-08-21 19:48:15.034 UTC [1] LOG:  database system is ready to accept connections
+api02-1     | [2025-08-21T19:48:19Z INFO  rinha_rust_warp::routes] Starting server on Unix socket...
+api01-1     | [2025-08-21T19:48:19Z INFO  rinha_rust_warp::routes] Starting server on Unix socket...
+worker-1    | [2025-08-21T19:48:28Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:28Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:29Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:29Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:29Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:29Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:30Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:31Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:32Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:33Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:34Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:35Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:36Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:37Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:38Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:39Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:40Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:41Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:42Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:43Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:44Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:45Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:46Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:47Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:48Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:49Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+worker-1    | [2025-08-21T19:48:50Z INFO  rinha_rust_warp::process_payment] Payment processed successfully with default gateway
+log truncated at line 1000

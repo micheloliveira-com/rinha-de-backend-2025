@@ -1,6 +1,36 @@
 
+ redis Pulling 
+ nginx Pulling 
  api1 Pulling 
  api2 Pulling 
- api1 Error pull access denied for juliopeixoto/rinha-fastapi, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
- api2  Interrupted
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ 13fcfbc94648 Waiting 
+ 0368fd46e3c6 Already exists 
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ 74ab898fdb32 Waiting 
+ 311eca34042e Waiting 
+ 4f4fb700ef54 Waiting 
+ bb1131de5e60 Waiting 
+ 4e225d7a935a Waiting 
+ 87acabadf81b Waiting 
+ 407621d26c3b Waiting 
+ api2 Error pull access denied for juliopeixoto/rinha-fastapi, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+ api1  Interrupted
 Error response from daemon: pull access denied for juliopeixoto/rinha-fastapi, repository does not exist or may require 'docker login': denied: requested access to the resource is denied

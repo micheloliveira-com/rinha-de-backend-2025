@@ -1,8 +1,41 @@
 
-time="2025-08-18T15:14:56Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
-time="2025-08-18T15:14:56Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
-time="2025-08-18T15:14:56Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
- backend1 Pulling 
+time="2025-08-21T13:16:58Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
+time="2025-08-21T13:16:58Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
+time="2025-08-21T13:16:58Z" level=warning msg="The \"container_name\" variable is not set. Defaulting to a blank string."
+ redis Pulling 
  backend2 Pulling 
- backend2  Interrupted
+ nginx Pulling 
+ backend1 Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ c9ebe2ff2d2c Waiting 
+ 7a8a46741e18 Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 0368fd46e3c6 Already exists 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 4e225d7a935a Pulling fs layer 
+ 74ab898fdb32 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ bb1131de5e60 Pulling fs layer 
+ 407621d26c3b Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 87acabadf81b Pulling fs layer 
+ 4e225d7a935a Waiting 
+ 74ab898fdb32 Waiting 
+ 311eca34042e Waiting 
+ 4f4fb700ef54 Waiting 
+ bb1131de5e60 Waiting 
+ 87acabadf81b Waiting 
+ 407621d26c3b Waiting 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ backend1  Interrupted
 no matching manifest for linux/amd64 in the manifest list entries

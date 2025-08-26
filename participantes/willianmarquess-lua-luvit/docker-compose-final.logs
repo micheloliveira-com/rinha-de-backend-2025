@@ -1,118 +1,515 @@
 
+ service6 Pulling 
+ service8 Pulling 
+ service5 Pulling 
+ service3 Pulling 
+ nginx Pulling 
+ redis Pulling 
+ service2 Pulling 
+ service7 Pulling 
+ service1 Pulling 
+ service4 Pulling 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ 14a859b5ba24 Waiting 
+ e5d9bb0b85cc Downloading [==================================================>]     629B/629B
+ e5d9bb0b85cc Verifying Checksum 
+ e5d9bb0b85cc Download complete 
+ a2da0c0f2353 Downloading [>                                                  ]  446.5kB/44.07MB
+ b1badc6e5066 Downloading [>                                                  ]  282.6kB/28.23MB
+ b1badc6e5066 Downloading [==========>                                        ]  6.025MB/28.23MB
+ a2da0c0f2353 Downloading [========>                                          ]   7.16MB/44.07MB
+ b1badc6e5066 Downloading [==================>                                ]  10.63MB/28.23MB
+ a2da0c0f2353 Downloading [===============>                                   ]  13.86MB/44.07MB
+ b1badc6e5066 Downloading [=========================>                         ]  14.38MB/28.23MB
+ a2da0c0f2353 Downloading [=======================>                           ]  20.59MB/44.07MB
+ b1badc6e5066 Downloading [===============================>                   ]  17.89MB/28.23MB
+ da9db072f522 Pulling fs layer 
+ 7f5759c0b9cd Pulling fs layer 
+ 08af2cb52a29 Pulling fs layer 
+ 2707993c1d0c Pulling fs layer 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ da9db072f522 Waiting 
+ 08af2cb52a29 Waiting 
+ 7f5759c0b9cd Waiting 
+ 2707993c1d0c Waiting 
+ 4f4fb700ef54 Waiting 
+ efa280b5ceb5 Waiting 
+ a2da0c0f2353 Downloading [===========================>                       ]  24.18MB/44.07MB
+ 14a859b5ba24 Downloading [==================================================>]     955B/955B
+ 14a859b5ba24 Verifying Checksum 
+ 14a859b5ba24 Download complete 
+ b1badc6e5066 Downloading [=======================================>           ]  22.22MB/28.23MB
+ a2da0c0f2353 Downloading [==================================>                ]  30.47MB/44.07MB
+ b1badc6e5066 Downloading [===========================================>       ]  24.52MB/28.23MB
+ a2da0c0f2353 Downloading [=======================================>           ]  34.91MB/44.07MB
+ b1badc6e5066 Download complete 
+ b1badc6e5066 Extracting [>                                                  ]  294.9kB/28.23MB
+ a2da0c0f2353 Downloading [============================================>      ]  38.94MB/44.07MB
+ b1badc6e5066 Extracting [=========>                                         ]  5.308MB/28.23MB
+ a2da0c0f2353 Downloading [================================================>  ]   42.5MB/44.07MB
+ a2da0c0f2353 Verifying Checksum 
+ a2da0c0f2353 Download complete 
+ b1badc6e5066 Extracting [================>                                  ]  9.142MB/28.23MB
+ 716cdf61af59 Downloading [==================================================>]     404B/404B
+ 716cdf61af59 Verifying Checksum 
+ 716cdf61af59 Download complete 
+ b1badc6e5066 Extracting [===================>                               ]  11.21MB/28.23MB
+ da9db072f522 Pulling fs layer 
+ 7f5759c0b9cd Pulling fs layer 
+ 08af2cb52a29 Pulling fs layer 
+ 2707993c1d0c Pulling fs layer 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 7f5759c0b9cd Waiting 
+ da9db072f522 Waiting 
+ 2707993c1d0c Waiting 
+ efa280b5ceb5 Waiting 
+ 08af2cb52a29 Waiting 
+ b1badc6e5066 Extracting [=================================>                 ]  18.87MB/28.23MB
+ 14e422fd20a0 Downloading [===========================================>       ]  1.049kB/1.209kB
+ 14e422fd20a0 Downloading [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Verifying Checksum 
+ 14e422fd20a0 Download complete 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ b1badc6e5066 Extracting [=================================>                 ]  18.87MB/28.23MB
+ e51f60c71d8e Waiting 
+ 311d9cf20af5 Waiting 
+ 6f34ca96de3f Waiting 
+ 4f4fb700ef54 Waiting 
+ f22261c94fe4 Waiting 
+ 63edde0222ea Waiting 
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ b1badc6e5066 Extracting [==========================================>        ]  23.89MB/28.23MB
+ c3741b707ce6 Downloading [=====================================>             ]  1.049kB/1.398kB
+ c3741b707ce6 Downloading [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Verifying Checksum 
+ c3741b707ce6 Download complete 
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ b1badc6e5066 Extracting [===============================================>   ]  26.84MB/28.23MB
+ da9db072f522 Pulling fs layer 
+ 7f5759c0b9cd Pulling fs layer 
+ 08af2cb52a29 Pulling fs layer 
+ 2707993c1d0c Pulling fs layer 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ da9db072f522 Waiting 
+ 7f5759c0b9cd Waiting 
+ 08af2cb52a29 Waiting 
+ 2707993c1d0c Waiting 
+ efa280b5ceb5 Waiting 
+ da9db072f522 Downloading [>                                                  ]  36.88kB/3.624MB
+ da9db072f522 Downloading [>                                                  ]  36.88kB/3.624MB
+ da9db072f522 Downloading [>                                                  ]  36.88kB/3.624MB
+ da9db072f522 Download complete 
+ da9db072f522 Verifying Checksum 
+ da9db072f522 Download complete 
+ da9db072f522 Download complete 
+ da9db072f522 Extracting [>                                                  ]  65.54kB/3.624MB
+ da9db072f522 Extracting [>                                                  ]  65.54kB/3.624MB
+ da9db072f522 Extracting [>                                                  ]  65.54kB/3.624MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ b1badc6e5066 Extracting [================================================>  ]  27.43MB/28.23MB
+ da9db072f522 Extracting [==================================================>]  3.624MB/3.624MB
+ da9db072f522 Extracting [==================================================>]  3.624MB/3.624MB
+ da9db072f522 Extracting [==================================================>]  3.624MB/3.624MB
+ da9db072f522 Pull complete 
+ da9db072f522 Pull complete 
+ da9db072f522 Pull complete 
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Extracting [==================================================>]  28.23MB/28.23MB
+ b1badc6e5066 Pull complete 
+ b1badc6e5066 Pull complete 
+ a2da0c0f2353 Extracting [>                                                  ]  458.8kB/44.07MB
+ a2da0c0f2353 Extracting [=========>                                         ]  8.258MB/44.07MB
+ 7f5759c0b9cd Downloading [>                                                  ]  1.369kB/73.44kB
+ 7f5759c0b9cd Downloading [>                                                  ]  1.369kB/73.44kB
+ 7f5759c0b9cd Downloading [>                                                  ]  1.369kB/73.44kB
+ 7f5759c0b9cd Downloading [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Verifying Checksum 
+ 7f5759c0b9cd Download complete 
+ 7f5759c0b9cd Downloading [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Verifying Checksum 
+ 7f5759c0b9cd Downloading [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Verifying Checksum 
+ 7f5759c0b9cd Download complete 
+ 7f5759c0b9cd Download complete 
+ 7f5759c0b9cd Extracting [======================>                            ]  32.77kB/73.44kB
+ 7f5759c0b9cd Extracting [======================>                            ]  32.77kB/73.44kB
+ 7f5759c0b9cd Extracting [======================>                            ]  32.77kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Extracting [==================================================>]  73.44kB/73.44kB
+ 7f5759c0b9cd Pull complete 
+ 7f5759c0b9cd Pull complete 
+ 7f5759c0b9cd Pull complete 
+ da9db072f522 Already exists 
+ 7f5759c0b9cd Already exists 
+ 08af2cb52a29 Pulling fs layer 
+ 2707993c1d0c Pulling fs layer 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 2707993c1d0c Waiting 
+ 08af2cb52a29 Waiting 
+ efa280b5ceb5 Waiting 
+ a2da0c0f2353 Extracting [===============>                                   ]   13.3MB/44.07MB
+ a2da0c0f2353 Extracting [=========================>                         ]  22.48MB/44.07MB
+ 08af2cb52a29 Downloading [>                                                  ]  39.77kB/3.887MB
+ 08af2cb52a29 Downloading [>                                                  ]  39.77kB/3.887MB
+ 08af2cb52a29 Downloading [>                                                  ]  39.77kB/3.887MB
+ 08af2cb52a29 Downloading [>                                                  ]  39.77kB/3.887MB
+ 08af2cb52a29 Verifying Checksum 
+ 08af2cb52a29 Download complete 
+ 08af2cb52a29 Download complete 
+ 08af2cb52a29 Download complete 
+ 08af2cb52a29 Extracting [>                                                  ]  65.54kB/3.887MB
+ 08af2cb52a29 Extracting [>                                                  ]  65.54kB/3.887MB
+ 08af2cb52a29 Extracting [>                                                  ]  65.54kB/3.887MB
+ 08af2cb52a29 Extracting [>                                                  ]  65.54kB/3.887MB
+ a2da0c0f2353 Extracting [==================================>                ]  30.74MB/44.07MB
+ 08af2cb52a29 Extracting [==================================================>]  3.887MB/3.887MB
+ 08af2cb52a29 Extracting [==================================================>]  3.887MB/3.887MB
+ 08af2cb52a29 Extracting [==================================================>]  3.887MB/3.887MB
+ 08af2cb52a29 Extracting [==================================================>]  3.887MB/3.887MB
+ 08af2cb52a29 Pull complete 
+ 08af2cb52a29 Pull complete 
+ 08af2cb52a29 Pull complete 
+ 08af2cb52a29 Pull complete 
+ a2da0c0f2353 Extracting [==========================================>        ]  37.16MB/44.07MB
+ a2da0c0f2353 Extracting [===============================================>   ]  41.75MB/44.07MB
+ 2707993c1d0c Downloading [==================================================>]      93B/93B
+ 2707993c1d0c Downloading [==================================================>]      93B/93B
+ 2707993c1d0c Downloading [==================================================>]      93B/93B
+ 2707993c1d0c Downloading [==================================================>]      93B/93B
+ 2707993c1d0c Verifying Checksum 
+ 2707993c1d0c Verifying Checksum 
+ 2707993c1d0c Verifying Checksum 
+ 2707993c1d0c Download complete 
+ 2707993c1d0c Download complete 
+ 2707993c1d0c Download complete 
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Extracting [==================================================>]      93B/93B
+ 2707993c1d0c Pull complete 
+ 2707993c1d0c Pull complete 
+ da9db072f522 Already exists 
+ 2707993c1d0c Pull complete 
+ 2707993c1d0c Pull complete 
+ a2da0c0f2353 Extracting [=================================================> ]  43.58MB/44.07MB
+ 7f5759c0b9cd Already exists 
+ 08af2cb52a29 Already exists 
+ 2707993c1d0c Already exists 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Download complete 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Download complete 
+ efa280b5ceb5 Waiting 
+ a2da0c0f2353 Extracting [==================================================>]  44.07MB/44.07MB
+ a2da0c0f2353 Pull complete 
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Extracting [==================================================>]     629B/629B
+ e5d9bb0b85cc Pull complete 
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Extracting [==================================================>]     955B/955B
+ 14a859b5ba24 Pull complete 
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Extracting [==================================================>]     404B/404B
+ 716cdf61af59 Pull complete 
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Extracting [==================================================>]  1.209kB/1.209kB
+ 14e422fd20a0 Pull complete 
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Extracting [==================================================>]  1.398kB/1.398kB
+ c3741b707ce6 Pull complete 
+ e51f60c71d8e Downloading [===============================================>   ]  1.049kB/1.103kB
+ e51f60c71d8e Downloading [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Verifying Checksum 
+ e51f60c71d8e Download complete 
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Extracting [==================================================>]  1.103kB/1.103kB
+ e51f60c71d8e Pull complete 
+ da9db072f522 Already exists 
+ 7f5759c0b9cd Already exists 
+ 08af2cb52a29 Already exists 
+ 311d9cf20af5 Downloading [==================================================>]     876B/876B
+ 311d9cf20af5 Download complete 
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 311d9cf20af5 Extracting [==================================================>]     876B/876B
+ 2707993c1d0c Already exists 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Download complete 
+ efa280b5ceb5 Waiting 
+ 311d9cf20af5 Pull complete 
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [>                                                  ]  5.476kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [=========================>                         ]  245.8kB/481.4kB
+ efa280b5ceb5 Downloading [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Verifying Checksum 
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Verifying Checksum 
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Verifying Checksum 
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ efa280b5ceb5 Downloading [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ efa280b5ceb5 Downloading [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Verifying Checksum 
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ efa280b5ceb5 Downloading [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Verifying Checksum 
+ efa280b5ceb5 Download complete 
+ efa280b5ceb5 Extracting [===>                                               ]  32.77kB/481.4kB
+ da9db072f522 Already exists 
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ 7f5759c0b9cd Already exists 
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ nginx Pulled 
+ 08af2cb52a29 Already exists 
+ 2707993c1d0c Already exists 
+ efa280b5ceb5 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 4f4fb700ef54 Download complete 
+ efa280b5ceb5 Extracting [==================================================>]  481.4kB/481.4kB
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ efa280b5ceb5 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ service1 Pulled 
+ service5 Pulled 
+ service2 Pulled 
+ service6 Pulled 
+ service4 Pulled 
+ service3 Pulled 
+ f22261c94fe4 Downloading [>                                                  ]  250.5kB/24.19MB
+ 6f34ca96de3f Downloading [==================================================>]      97B/97B
+ 6f34ca96de3f Download complete 
+ f22261c94fe4 Downloading [=============>                                     ]  6.734MB/24.19MB
+ service7 Pulled 
+ service8 Pulled 
+ f22261c94fe4 Downloading [============================>                      ]  13.75MB/24.19MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ f22261c94fe4 Downloading [========================================>          ]  19.79MB/24.19MB
+ f22261c94fe4 Verifying Checksum 
+ f22261c94fe4 Download complete 
+ f22261c94fe4 Extracting [>                                                  ]  262.1kB/24.19MB
+ f22261c94fe4 Extracting [=================>                                 ]  8.389MB/24.19MB
+ f22261c94fe4 Extracting [==================================>                ]  16.52MB/24.19MB
+ 63edde0222ea Downloading [========================>                          ]  1.049kB/2.117kB
+ 63edde0222ea Downloading [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Verifying Checksum 
+ 63edde0222ea Download complete 
+ f22261c94fe4 Extracting [==================================================>]  24.19MB/24.19MB
+ f22261c94fe4 Pull complete 
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ 6f34ca96de3f Extracting [==================================================>]      97B/97B
+ 6f34ca96de3f Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Extracting [==================================================>]  2.117kB/2.117kB
+ 63edde0222ea Pull complete 
+ redis Pulled 
  Network willianmarquess-lua-luvit_backend  Creating
  Network willianmarquess-lua-luvit_backend  Created
  Container redis  Creating
  Container redis  Created
- Container willianmarquess-lua-luvit-service3-1  Creating
- Container willianmarquess-lua-luvit-service8-1  Creating
- Container willianmarquess-lua-luvit-service4-1  Creating
- Container willianmarquess-lua-luvit-service6-1  Creating
  Container willianmarquess-lua-luvit-service7-1  Creating
  Container willianmarquess-lua-luvit-service2-1  Creating
- Container willianmarquess-lua-luvit-service1-1  Creating
+ Container willianmarquess-lua-luvit-service4-1  Creating
+ Container willianmarquess-lua-luvit-service6-1  Creating
+ Container willianmarquess-lua-luvit-service8-1  Creating
  Container willianmarquess-lua-luvit-service5-1  Creating
- Container willianmarquess-lua-luvit-service3-1  Created
- Container willianmarquess-lua-luvit-service6-1  Created
- Container willianmarquess-lua-luvit-service8-1  Created
- Container willianmarquess-lua-luvit-service1-1  Created
- Container willianmarquess-lua-luvit-service4-1  Created
+ Container willianmarquess-lua-luvit-service1-1  Creating
+ Container willianmarquess-lua-luvit-service3-1  Creating
  Container willianmarquess-lua-luvit-service7-1  Created
+ Container willianmarquess-lua-luvit-service4-1  Created
  Container willianmarquess-lua-luvit-service2-1  Created
  Container willianmarquess-lua-luvit-service5-1  Created
+ Container willianmarquess-lua-luvit-service8-1  Created
+ Container willianmarquess-lua-luvit-service6-1  Created
+ Container willianmarquess-lua-luvit-service1-1  Created
+ Container willianmarquess-lua-luvit-service3-1  Created
  Container willianmarquess-lua-luvit-nginx-1  Creating
  Container willianmarquess-lua-luvit-nginx-1  Created
 Attaching to redis, nginx-1, service1-1, service2-1, service3-1, service4-1, service5-1, service6-1, service7-1, service8-1
 redis  | Starting Redis Server
-redis  | 1:C 19 Aug 2025 21:05:10.686 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis  | 1:C 19 Aug 2025 21:05:10.686 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis  | 1:C 19 Aug 2025 21:05:10.686 * Redis version=8.2.0, bits=64, commit=00000000, modified=1, pid=1, just started
-redis  | 1:C 19 Aug 2025 21:05:10.686 * Configuration loaded
-redis  | 1:M 19 Aug 2025 21:05:10.687 * monotonic clock: POSIX clock_gettime
-redis  | 1:M 19 Aug 2025 21:05:10.688 * Running mode=standalone, port=6379.
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> RedisBloom version 8.2.0 (Git=unknown)
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ bf-error-rate       :      0.01 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ bf-initial-size     :       100 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ bf-expansion-factor :         2 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ cf-bucket-size      :         2 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ cf-initial-size     :      1024 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ cf-max-iterations   :        20 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ cf-expansion-factor :         1 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> 	{ cf-max-expansions   :        32 }
-redis  | 1:M 19 Aug 2025 21:05:10.689 * <bf> ]
-redis  | 1:M 19 Aug 2025 21:05:10.689 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> Redis version found by RedisSearch : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> RediSearch version 8.2.0 (Git=d81ebce)
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> Low level api version 1 initialized successfully
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> Initialized thread pools!
-redis  | 1:M 19 Aug 2025 21:05:10.776 * <search> Disabled workers threadpool of size 0
-redis  | 1:M 19 Aug 2025 21:05:10.777 * <search> Subscribe to config changes
-redis  | 1:M 19 Aug 2025 21:05:10.777 * <search> Enabled role change notification
-redis  | 1:M 19 Aug 2025 21:05:10.777 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
-redis  | 1:M 19 Aug 2025 21:05:10.777 * <search> Register write commands
-redis  | 1:M 19 Aug 2025 21:05:10.777 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> Redis version found by RedisTimeSeries : 8.2.0 - oss
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> Registering configuration options: [
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-compaction-policy   :              }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-num-threads         :            3 }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-retention-policy    :            0 }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-duplicate-policy    :        block }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-encoding            :   compressed }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> ]
-redis  | 1:M 19 Aug 2025 21:05:10.778 * <timeseries> Detected redis oss
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <timeseries> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 21:05:10.779 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Created new data type 'ReJSON-RL'
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> version: 80200 git sha: unknown branch: unknown
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Exported RedisJSON_V1 API
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Exported RedisJSON_V2 API
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Exported RedisJSON_V3 API
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Exported RedisJSON_V4 API
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Exported RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Enabled diskless replication
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <ReJSON> Initialized shared string cache, thread safe: false.
-redis  | 1:M 19 Aug 2025 21:05:10.779 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
-redis  | 1:M 19 Aug 2025 21:05:10.779 * <search> Acquired RedisJSON_V5 API
-redis  | 1:M 19 Aug 2025 21:05:10.780 * Server initialized
-redis  | 1:M 19 Aug 2025 21:05:10.780 * Ready to accept connections tcp
-redis  | 1:M 19 Aug 2025 21:05:11.261 * DB saved on disk
-service1-1  | Weblit server listening at:
-service1-1  |     http://0.0.0.0:3333/
-service1-1  |     http://0.0.0.0:3333/
-redis       | 1:M 19 Aug 2025 21:05:11.292 * DB saved on disk
-service6-1  | Weblit server listening at:
-service6-1  |     http://0.0.0.0:3333/
-service6-1  |     http://0.0.0.0:3333/
-redis       | 1:M 19 Aug 2025 21:05:11.404 * DB saved on disk
+redis  | 1:C 21 Aug 2025 20:06:22.819 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 20:06:22.819 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis  | 1:C 21 Aug 2025 20:06:22.819 * Redis version=8.2.1, bits=64, commit=00000000, modified=1, pid=1, just started
+redis  | 1:C 21 Aug 2025 20:06:22.819 * Configuration loaded
+redis  | 1:M 21 Aug 2025 20:06:22.820 * monotonic clock: POSIX clock_gettime
+redis  | 1:M 21 Aug 2025 20:06:22.820 * Running mode=standalone, port=6379.
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> RedisBloom version 8.2.0 (Git=unknown)
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ bf-error-rate       :      0.01 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ bf-initial-size     :       100 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ bf-expansion-factor :         2 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ cf-bucket-size      :         2 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ cf-initial-size     :      1024 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ cf-max-iterations   :        20 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ cf-expansion-factor :         1 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> 	{ cf-max-expansions   :        32 }
+redis  | 1:M 21 Aug 2025 20:06:22.821 * <bf> ]
+redis  | 1:M 21 Aug 2025 20:06:22.821 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Redis version found by RedisSearch : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> RediSearch version 8.2.1 (Git=dba8dd0)
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Low level api version 1 initialized successfully
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Initialized thread pools!
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Disabled workers threadpool of size 0
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Subscribe to config changes
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Enabled role change notification
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
+redis  | 1:M 21 Aug 2025 20:06:22.826 * <search> Register write commands
+redis  | 1:M 21 Aug 2025 20:06:22.826 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> RedisTimeSeries version 80200, git_sha=1439d4a439ca9c063e6ef124a510abff09a5d493
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> Redis version found by RedisTimeSeries : 8.2.1 - oss
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> Registering configuration options: [
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-compaction-policy   :              }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-num-threads         :            3 }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-retention-policy    :            0 }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-duplicate-policy    :        block }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-encoding            :   compressed }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> ]
+redis  | 1:M 21 Aug 2025 20:06:22.827 * <timeseries> Detected redis oss
+redis  | 1:M 21 Aug 2025 20:06:22.828 * <timeseries> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 20:06:22.828 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Created new data type 'ReJSON-RL'
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> version: 80200 git sha: unknown branch: unknown
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Exported RedisJSON_V1 API
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Exported RedisJSON_V2 API
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Exported RedisJSON_V3 API
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Exported RedisJSON_V4 API
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Exported RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Enabled diskless replication
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <ReJSON> Initialized shared string cache, thread safe: false.
+redis  | 1:M 21 Aug 2025 20:06:22.829 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
+redis  | 1:M 21 Aug 2025 20:06:22.829 * <search> Acquired RedisJSON_V5 API
+redis  | 1:M 21 Aug 2025 20:06:22.830 * Server initialized
+redis  | 1:M 21 Aug 2025 20:06:22.830 * Ready to accept connections tcp
+redis  | 1:M 21 Aug 2025 20:06:23.220 * DB saved on disk
 service4-1  | Weblit server listening at:
 service4-1  |     http://0.0.0.0:3333/
 service4-1  |     http://0.0.0.0:3333/
-redis       | 1:M 19 Aug 2025 21:05:11.412 * DB saved on disk
+redis       | 1:M 21 Aug 2025 20:06:23.258 * DB saved on disk
 service8-1  | Weblit server listening at:
 service8-1  |     http://0.0.0.0:3333/
 service8-1  |     http://0.0.0.0:3333/
-redis       | 1:M 19 Aug 2025 21:05:11.471 * DB saved on disk
-redis       | 1:M 19 Aug 2025 21:05:11.476 * DB saved on disk
-service5-1  | Weblit server listening at:
-service5-1  |     http://0.0.0.0:3333/
-service5-1  |     http://0.0.0.0:3333/
-service3-1  | Weblit server listening at:
-service3-1  |     http://0.0.0.0:3333/
-service3-1  |     http://0.0.0.0:3333/
-redis       | 1:M 19 Aug 2025 21:05:11.482 * DB saved on disk
+redis       | 1:M 21 Aug 2025 20:06:23.348 * DB saved on disk
 service7-1  | Weblit server listening at:
 service7-1  |     http://0.0.0.0:3333/
 service7-1  |     http://0.0.0.0:3333/
+redis       | 1:M 21 Aug 2025 20:06:23.368 * DB saved on disk
+service5-1  | Weblit server listening at:
+service5-1  |     http://0.0.0.0:3333/
+service5-1  |     http://0.0.0.0:3333/
 service2-1  | Payment chosen: default
-redis       | 1:M 19 Aug 2025 21:05:11.536 * DB saved on disk
+redis       | 1:M 21 Aug 2025 20:06:23.470 * DB saved on disk
 service2-1  | Weblit server listening at:
 service2-1  |     http://0.0.0.0:3333/
 service2-1  |     http://0.0.0.0:3333/
+redis       | 1:M 21 Aug 2025 20:06:23.477 * DB saved on disk
+service3-1  | Weblit server listening at:
+service3-1  |     http://0.0.0.0:3333/
+service3-1  |     http://0.0.0.0:3333/
+redis       | 1:M 21 Aug 2025 20:06:23.511 * DB saved on disk
+service6-1  | Weblit server listening at:
+service6-1  |     http://0.0.0.0:3333/
+service6-1  |     http://0.0.0.0:3333/
+redis       | 1:M 21 Aug 2025 20:06:23.518 * DB saved on disk
+service1-1  | Weblit server listening at:
+service1-1  |     http://0.0.0.0:3333/
+service1-1  |     http://0.0.0.0:3333/
 service2-1  | Payment chosen: default
 nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
@@ -123,6 +520,7 @@ nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-reso
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
+service2-1  | Payment chosen: default
 service1-1  | [!] Pagamentos zerados na tentativa 1, tentando novamente...
 service1-1  | [!] Pagamentos zerados na tentativa 2, tentando novamente...
 service1-1  | [!] Pagamentos zerados na tentativa 3, tentando novamente...
@@ -134,15 +532,15 @@ service4-1  | processordefault
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | processordefault
 service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
 service2-1  | Payment chosen: default
+service6-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
+service7-1  | processordefault
+service7-1  | [✓] Enviado com sucesso via default
+service8-1  | processordefault
+service1-1  | processordefault
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
 service2-1  | processordefault
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | processordefault
@@ -159,8 +557,8 @@ service8-1  | processordefault
 service1-1  | processordefault
 service2-1  | processordefault
 service3-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
 service4-1  | processordefault
@@ -206,62 +604,31 @@ service7-1  | [✓] Enviado com sucesso via default
 service8-1  | processordefault
 service1-1  | processordefault
 service2-1  | processordefault
+service2-1  | [✓] Enviado com sucesso via default
 service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
 service2-1  | Payment chosen: default
-service4-1  | processordefault
-service5-1  | processordefault
 service6-1  | processordefault
 service7-1  | processordefault
 service8-1  | processordefault
 service1-1  | processordefault
 service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
 service3-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service4-1  | processordefault
 service7-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
 service5-1  | processordefault
-service4-1  | processordefault
 service6-1  | processordefault
 service7-1  | processordefault
 service8-1  | processordefault
@@ -269,7 +636,6 @@ service1-1  | processordefault
 service2-1  | processordefault
 service3-1  | processordefault
 service5-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
@@ -284,12 +650,44 @@ service8-1  | processordefault
 service1-1  | processordefault
 service2-1  | processordefault
 service3-1  | processordefault
-service4-1  | processordefault
 service4-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service4-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
@@ -304,74 +702,12 @@ service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
 service5-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
 service6-1  | processordefault
@@ -383,20 +719,37 @@ service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
 service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
 service7-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service5-1  | processordefault
+service4-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
 service8-1  | processordefault
 service8-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | processordefault
+service1-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
 service2-1  | processordefault
 service3-1  | processordefault
 service4-1  | processordefault
@@ -405,44 +758,41 @@ service6-1  | processordefault
 service7-1  | processordefault
 service8-1  | processordefault
 service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
 service3-1  | processordefault
 service3-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
 service4-1  | processordefault
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service5-1  | processordefault
 service5-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
 service6-1  | processordefault
-service7-1  | processordefault
 service8-1  | processordefault
+service7-1  | processordefault
 service1-1  | processordefault
 service2-1  | processordefault
 service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
 service6-1  | processordefault
+service7-1  | processordefault
 service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
 service8-1  | processordefault
+service7-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service2-1  | Payment chosen: default
 service1-1  | processordefault
@@ -455,475 +805,10 @@ service6-1  | processordefault
 service7-1  | processordefault
 service8-1  | processordefault
 service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service2-1  | processordefault
-service1-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
 service2-1  | processordefault
 service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
 service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service1-1  | processordefault
-service8-1  | processordefault
 service3-1  | processordefault
-service2-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service8-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service8-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service8-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service2-1  | Payment chosen: default
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service4-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service7-1  | processordefault
-service7-1  | processordefault
-service6-1  | processordefault
-service8-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service5-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service6-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service2-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | processordefault
-service7-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service2-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service7-1  | processordefault
-service6-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service4-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service6-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service1-1  | processordefault
-service3-1  | processordefault
-service4-1  | processordefault
-service5-1  | processordefault
-service7-1  | processordefault
-service6-1  | processordefault
-service8-1  | processordefault
-service8-1  | processordefault
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | processordefault
-service7-1  | [✓] Enviado com sucesso via default
-service7-1  | processordefault
-service6-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service1-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
 service4-1  | processordefault
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
@@ -944,35 +829,19 @@ service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
 service6-1  | processordefault
-service7-1  | processordefault
-service5-1  | [✓] Enviado com sucesso via default
-service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | processordefault
-service8-1  | [✓] Enviado com sucesso via default
-service1-1  | processordefault
-service1-1  | [✓] Enviado com sucesso via default
-service2-1  | processordefault
-service2-1  | [✓] Enviado com sucesso via default
-service3-1  | processordefault
-service3-1  | [✓] Enviado com sucesso via default
-service4-1  | processordefault
-service4-1  | [✓] Enviado com sucesso via default
-service5-1  | processordefault
 service5-1  | [✓] Enviado com sucesso via default
 service7-1  | processordefault
-service6-1  | processordefault
 service6-1  | [✓] Enviado com sucesso via default
 service7-1  | [✓] Enviado com sucesso via default
 service8-1  | processordefault
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | [✓] Enviado com sucesso via default
-service3-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
 service6-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
 service8-1  | [✓] Enviado com sucesso via default
 service1-1  | processordefault
 service2-1  | processordefault
@@ -980,22 +849,153 @@ service3-1  | processordefault
 service4-1  | processordefault
 service5-1  | processordefault
 service6-1  | processordefault
-service8-1  | processordefault
 service7-1  | processordefault
+service8-1  | processordefault
 service1-1  | processordefault
 service1-1  | [✓] Enviado com sucesso via default
 service2-1  | processordefault
 service2-1  | [✓] Enviado com sucesso via default
 service3-1  | processordefault
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | processordefault
+service5-1  | processordefault
+service4-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
+service7-1  | processordefault
+service8-1  | processordefault
+service7-1  | [✓] Enviado com sucesso via default
+service1-1  | processordefault
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | processordefault
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service3-1  | processordefault
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service4-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service5-1  | processordefault
+service5-1  | [✓] Enviado com sucesso via default
+service6-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
+service7-1  | processordefault
+service7-1  | [✓] Enviado com sucesso via default
+service8-1  | processordefault
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
 service4-1  | processordefault
 service3-1  | [✓] Enviado com sucesso via default
 service4-1  | [✓] Enviado com sucesso via default
 service5-1  | processordefault
+service6-1  | processordefault
+service6-1  | [✓] Enviado com sucesso via default
 service5-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service5-1  | processordefault
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service8-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service3-1  | processordefault
+service2-1  | processordefault
+service2-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service4-1  | processordefault
+service4-1  | [✓] Enviado com sucesso via default
+service5-1  | [✓] Enviado com sucesso via default
+service6-1  | [✓] Enviado com sucesso via default
+service7-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service8-1  | [✓] Enviado com sucesso via default
+service3-1  | [✓] Enviado com sucesso via default
+service2-1  | [✓] Enviado com sucesso via default
+service4-1  | [✓] Enviado com sucesso via default
+service6-1  | processordefault
+service7-1  | processordefault
+service8-1  | processordefault
+service1-1  | processordefault
+service2-1  | processordefault
+service3-1  | processordefault
+service4-1  | processordefault
+service5-1  | processordefault
+service5-1  | processordefault
 service6-1  | processordefault
 service7-1  | processordefault
 service6-1  | [✓] Enviado com sucesso via default
-service7-1  | [✓] Enviado com sucesso via default
-service8-1  | [✓] Enviado com sucesso via default
 service8-1  | processordefault
+service7-1  | [✓] Enviado com sucesso via default
+service1-1  | processordefault
+service8-1  | [✓] Enviado com sucesso via default
+service1-1  | [✓] Enviado com sucesso via default
+service2-1  | processordefault
+service2-1  | [✓] Enviado com sucesso via default
 log truncated at line 1000

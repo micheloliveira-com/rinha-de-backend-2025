@@ -1,9 +1,14 @@
 
-time="2025-08-19T21:04:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-19T21:04:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 942 vs 962" source=console
-time="2025-08-19T21:04:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
-time="2025-08-19T21:04:35Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
-time="2025-08-19T21:04:35Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 20" source=console
-time="2025-08-19T21:04:35Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 11920 vs 11920" source=console
-time="2025-08-19T21:04:57Z" level=info msg="summaries from 2025-08-19T21:03:47.087Z to 2025-08-19T21:04:57.087Z" source=console
+time="2025-08-21T20:05:13Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T20:05:13Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 1022 vs 1030" source=console
+time="2025-08-21T20:05:13Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 0" source=console
+time="2025-08-21T20:05:24Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T20:05:24Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 52 vs 72" source=console
+time="2025-08-21T20:05:24Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 14834 vs 14834" source=console
+time="2025-08-21T20:05:36Z" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-08-21T20:05:19.681Z&to=2025-08-21T20:05:32.681Z\": request timeout"
+time="2025-08-21T20:05:36Z" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-08-21T20:05:19.681Z&to=2025-08-21T20:05:32.681Z' para o backend (HTTP 0)" source=console
+time="2025-08-21T20:05:36Z" level=warning msg="================ [inconsistências encontradas] ================" source=console
+time="2025-08-21T20:05:36Z" level=warning msg="backend.default.totalRequests vs default.totalRequests: 0 vs 0" source=console
+time="2025-08-21T20:05:36Z" level=warning msg="backend.fallback.totalRequests vs fallback.totalRequests: 0 vs 22235" source=console
+time="2025-08-21T20:05:46Z" level=info msg="summaries from 2025-08-21T19:59:46.185Z to 2025-08-21T20:05:46.185Z" source=console
 log truncated at line 1000

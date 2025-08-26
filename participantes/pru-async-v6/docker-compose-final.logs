@@ -1,16 +1,664 @@
 
+ api01 Pulling 
+ api02 Pulling 
+ redis Pulling 
+ nginx Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 0368fd46e3c6 Already exists 
+ 4c55286bbede Pulling fs layer 
+ 5e28347af205 Pulling fs layer 
+ 311eca34042e Pulling fs layer 
+ e6fe6f07e192 Pulling fs layer 
+ a2cadbfeca72 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ a976ed7e7808 Pulling fs layer 
+ 5e28347af205 Waiting 
+ 311eca34042e Waiting 
+ e6fe6f07e192 Waiting 
+ 4c55286bbede Waiting 
+ a2cadbfeca72 Waiting 
+ a976ed7e7808 Waiting 
+ 4f4fb700ef54 Waiting 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  19.14kB/1.806MB
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 6bc572a340ec Downloading [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ 80b7316254b3 Pulling fs layer 
+ 36e4db86de6e Pulling fs layer 
+ 8ea45766c644 Pulling fs layer 
+ 3cb1455cf185 Pulling fs layer 
+ 80b7316254b3 Waiting 
+ da874a28f022 Pulling fs layer 
+ 36e4db86de6e Waiting 
+ 8ea45766c644 Waiting 
+ 751edacf48fe Pulling fs layer 
+ 3cb1455cf185 Waiting 
+ bc6d128e2a51 Pulling fs layer 
+ da874a28f022 Waiting 
+ ef67c4e1b7f0 Pulling fs layer 
+ 751edacf48fe Waiting 
+ 341b660298b3 Pulling fs layer 
+ bc6d128e2a51 Waiting 
+ ec5d1af7ebfe Pulling fs layer 
+ ef67c4e1b7f0 Waiting 
+ e51b350ae03d Pulling fs layer 
+ 341b660298b3 Waiting 
+ 114dd3a42b49 Pulling fs layer 
+ ec5d1af7ebfe Waiting 
+ e51b350ae03d Waiting 
+ 114dd3a42b49 Waiting 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Download complete 
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ 80b7316254b3 Pulling fs layer 
+ 36e4db86de6e Pulling fs layer 
+ 8ea45766c644 Pulling fs layer 
+ 3cb1455cf185 Pulling fs layer 
+ da874a28f022 Pulling fs layer 
+ 751edacf48fe Pulling fs layer 
+ bc6d128e2a51 Pulling fs layer 
+ ef67c4e1b7f0 Pulling fs layer 
+ 341b660298b3 Pulling fs layer 
+ 3cb1455cf185 Waiting 
+ ec5d1af7ebfe Pulling fs layer 
+ e51b350ae03d Pulling fs layer 
+ 114dd3a42b49 Pulling fs layer 
+ 114dd3a42b49 Waiting 
+ da874a28f022 Waiting 
+ 751edacf48fe Waiting 
+ bc6d128e2a51 Waiting 
+ ef67c4e1b7f0 Waiting 
+ 341b660298b3 Waiting 
+ ec5d1af7ebfe Waiting 
+ e51b350ae03d Waiting 
+ 36e4db86de6e Waiting 
+ 80b7316254b3 Waiting 
+ 8ea45766c644 Waiting 
+ cb1ff4086f82 Downloading [>                                                  ]  172.6kB/16.84MB
+ 4c55286bbede Downloading [==================================================>]     950B/950B
+ 4c55286bbede Verifying Checksum 
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Extracting [==================================================>]     950B/950B
+ 4c55286bbede Pull complete 
+ 5e28347af205 Downloading [>                                                  ]  2.416kB/173.2kB
+ 5e28347af205 Verifying Checksum 
+ 5e28347af205 Extracting [=========>                                         ]  32.77kB/173.2kB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ cb1ff4086f82 Downloading [======================>                            ]  7.635MB/16.84MB
+ 5e28347af205 Extracting [==================================================>]  173.2kB/173.2kB
+ cb1ff4086f82 Downloading [============================================>      ]  14.89MB/16.84MB
+ 5e28347af205 Pull complete 
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ cb1ff4086f82 Extracting [===========>                                       ]  3.932MB/16.84MB
+ cb1ff4086f82 Extracting [===================================>               ]   11.8MB/16.84MB
+ 311eca34042e Downloading [>                                                  ]  10.63kB/1.003MB
+ 311eca34042e Verifying Checksum 
+ 311eca34042e Download complete 
+ 311eca34042e Extracting [=>                                                 ]  32.77kB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Extracting [==================================================>]  1.003MB/1.003MB
+ 311eca34042e Pull complete 
+ e6fe6f07e192 Downloading [>                                                  ]  127.9kB/12.41MB
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
+ e6fe6f07e192 Downloading [====>                                              ]  1.184MB/12.41MB
+ a2cadbfeca72 Downloading [==================================================>]      99B/99B
+ a2cadbfeca72 Verifying Checksum 
+ a2cadbfeca72 Download complete 
+ e6fe6f07e192 Downloading [===================>                               ]  4.751MB/12.41MB
+ e6fe6f07e192 Downloading [========================================>          ]  10.15MB/12.41MB
+ e6fe6f07e192 Verifying Checksum 
+ e6fe6f07e192 Download complete 
+ e6fe6f07e192 Extracting [>                                                  ]  131.1kB/12.41MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ e6fe6f07e192 Extracting [=========================>                         ]  6.423MB/12.41MB
+ e6fe6f07e192 Extracting [==================================================>]  12.41MB/12.41MB
+ e6fe6f07e192 Pull complete 
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Extracting [==================================================>]      99B/99B
+ a2cadbfeca72 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ a976ed7e7808 Downloading [==================================================>]     574B/574B
+ a976ed7e7808 Download complete 
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Extracting [==================================================>]     574B/574B
+ a976ed7e7808 Pull complete 
+ 80b7316254b3 Downloading [>                                                  ]  502.2kB/49.28MB
+ 80b7316254b3 Downloading [>                                                  ]  502.2kB/49.28MB
+ redis Pulled 
+ 36e4db86de6e Downloading [>                                                  ]  260.5kB/25.61MB
+ 36e4db86de6e Downloading [>                                                  ]  260.5kB/25.61MB
+ 80b7316254b3 Downloading [======>                                            ]  6.003MB/49.28MB
+ 80b7316254b3 Downloading [======>                                            ]  6.003MB/49.28MB
+ 36e4db86de6e Downloading [==========>                                        ]  5.258MB/25.61MB
+ 36e4db86de6e Downloading [==========>                                        ]  5.258MB/25.61MB
+ 80b7316254b3 Downloading [==============>                                    ]  14.01MB/49.28MB
+ 80b7316254b3 Downloading [==============>                                    ]  14.01MB/49.28MB
+ 36e4db86de6e Downloading [========================>                          ]  12.63MB/25.61MB
+ 36e4db86de6e Downloading [========================>                          ]  12.63MB/25.61MB
+ 80b7316254b3 Downloading [==================>                                ]  18.53MB/49.28MB
+ 80b7316254b3 Downloading [==================>                                ]  18.53MB/49.28MB
+ 36e4db86de6e Downloading [===============================>                   ]  16.07MB/25.61MB
+ 36e4db86de6e Downloading [===============================>                   ]  16.07MB/25.61MB
+ 8ea45766c644 Downloading [>                                                  ]  539.1kB/67.78MB
+ 8ea45766c644 Downloading [>                                                  ]  539.1kB/67.78MB
+ 80b7316254b3 Downloading [======================>                            ]  22.04MB/49.28MB
+ 80b7316254b3 Downloading [======================>                            ]  22.04MB/49.28MB
+ 36e4db86de6e Downloading [========================================>          ]  20.83MB/25.61MB
+ 36e4db86de6e Downloading [========================================>          ]  20.83MB/25.61MB
+ 80b7316254b3 Downloading [===========================>                       ]  27.57MB/49.28MB
+ 80b7316254b3 Downloading [===========================>                       ]  27.57MB/49.28MB
+ 8ea45766c644 Downloading [==>                                                ]    3.2MB/67.78MB
+ 8ea45766c644 Downloading [==>                                                ]    3.2MB/67.78MB
+ 36e4db86de6e Downloading [===============================================>   ]  24.54MB/25.61MB
+ 36e4db86de6e Downloading [===============================================>   ]  24.54MB/25.61MB
+ 36e4db86de6e Verifying Checksum 
+ 36e4db86de6e Verifying Checksum 
+ 36e4db86de6e Download complete 
+ 36e4db86de6e Download complete 
+ 80b7316254b3 Downloading [=================================>                 ]  33.09MB/49.28MB
+ 80b7316254b3 Downloading [=================================>                 ]  33.09MB/49.28MB
+ 8ea45766c644 Downloading [===>                                               ]  5.352MB/67.78MB
+ 8ea45766c644 Downloading [===>                                               ]  5.352MB/67.78MB
+ 80b7316254b3 Downloading [========================================>          ]  40.14MB/49.28MB
+ 80b7316254b3 Downloading [========================================>          ]  40.14MB/49.28MB
+ 8ea45766c644 Downloading [======>                                            ]   8.57MB/67.78MB
+ 8ea45766c644 Downloading [======>                                            ]   8.57MB/67.78MB
+ 80b7316254b3 Verifying Checksum 
+ 80b7316254b3 Download complete 
+ 80b7316254b3 Download complete 
+ 80b7316254b3 Extracting [>                                                  ]  524.3kB/49.28MB
+ 80b7316254b3 Extracting [>                                                  ]  524.3kB/49.28MB
+ 8ea45766c644 Downloading [========>                                          ]  11.76MB/67.78MB
+ 8ea45766c644 Downloading [========>                                          ]  11.76MB/67.78MB
+ 80b7316254b3 Extracting [======>                                            ]  6.816MB/49.28MB
+ 80b7316254b3 Extracting [======>                                            ]  6.816MB/49.28MB
+ 8ea45766c644 Downloading [==========>                                        ]  13.89MB/67.78MB
+ 8ea45766c644 Downloading [==========>                                        ]  13.89MB/67.78MB
+ 3cb1455cf185 Downloading [>                                                  ]  539.1kB/235.8MB
+ 3cb1455cf185 Downloading [>                                                  ]  539.1kB/235.8MB
+ 80b7316254b3 Extracting [==========>                                        ]  10.49MB/49.28MB
+ 80b7316254b3 Extracting [==========>                                        ]  10.49MB/49.28MB
+ 8ea45766c644 Downloading [============>                                      ]   17.1MB/67.78MB
+ 8ea45766c644 Downloading [============>                                      ]   17.1MB/67.78MB
+ 3cb1455cf185 Downloading [=====>                                             ]  26.23MB/235.8MB
+ 3cb1455cf185 Downloading [=====>                                             ]  26.23MB/235.8MB
+ 80b7316254b3 Extracting [=============>                                     ]  13.63MB/49.28MB
+ 80b7316254b3 Extracting [=============>                                     ]  13.63MB/49.28MB
+ 8ea45766c644 Downloading [==============>                                    ]  20.29MB/67.78MB
+ 8ea45766c644 Downloading [==============>                                    ]  20.29MB/67.78MB
+ 3cb1455cf185 Downloading [==========>                                        ]  50.28MB/235.8MB
+ 3cb1455cf185 Downloading [==========>                                        ]  50.28MB/235.8MB
+ 80b7316254b3 Extracting [====================>                              ]  19.92MB/49.28MB
+ 80b7316254b3 Extracting [====================>                              ]  19.92MB/49.28MB
+ 8ea45766c644 Downloading [================>                                  ]  22.95MB/67.78MB
+ 8ea45766c644 Downloading [================>                                  ]  22.95MB/67.78MB
+ 3cb1455cf185 Downloading [==============>                                    ]  66.86MB/235.8MB
+ 3cb1455cf185 Downloading [==============>                                    ]  66.86MB/235.8MB
+ 80b7316254b3 Extracting [==========================>                        ]  25.69MB/49.28MB
+ 80b7316254b3 Extracting [==========================>                        ]  25.69MB/49.28MB
+ 8ea45766c644 Downloading [==================>                                ]  25.09MB/67.78MB
+ 8ea45766c644 Downloading [==================>                                ]  25.09MB/67.78MB
+ 3cb1455cf185 Downloading [================>                                  ]  77.56MB/235.8MB
+ 3cb1455cf185 Downloading [================>                                  ]  77.56MB/235.8MB
+ 8ea45766c644 Downloading [====================>                              ]  27.77MB/67.78MB
+ 8ea45766c644 Downloading [====================>                              ]  27.77MB/67.78MB
+ 3cb1455cf185 Downloading [===================>                               ]  91.97MB/235.8MB
+ 3cb1455cf185 Downloading [===================>                               ]  91.97MB/235.8MB
+ da874a28f022 Downloading [==================================================>]     188B/188B
+ da874a28f022 Downloading [==================================================>]     188B/188B
+ da874a28f022 Verifying Checksum 
+ da874a28f022 Verifying Checksum 
+ da874a28f022 Download complete 
+ da874a28f022 Download complete 
+ 80b7316254b3 Extracting [==========================>                        ]  26.21MB/49.28MB
+ 80b7316254b3 Extracting [==========================>                        ]  26.21MB/49.28MB
+ 8ea45766c644 Downloading [=======================>                           ]  32.05MB/67.78MB
+ 8ea45766c644 Downloading [=======================>                           ]  32.05MB/67.78MB
+ 3cb1455cf185 Downloading [====================>                              ]  98.37MB/235.8MB
+ 3cb1455cf185 Downloading [====================>                              ]  98.37MB/235.8MB
+ 80b7316254b3 Extracting [=============================>                     ]  28.84MB/49.28MB
+ 80b7316254b3 Extracting [=============================>                     ]  28.84MB/49.28MB
+ 8ea45766c644 Downloading [==========================>                        ]   35.8MB/67.78MB
+ 8ea45766c644 Downloading [==========================>                        ]   35.8MB/67.78MB
+ 3cb1455cf185 Downloading [========================>                          ]  116.6MB/235.8MB
+ 3cb1455cf185 Downloading [========================>                          ]  116.6MB/235.8MB
+ 80b7316254b3 Extracting [=================================>                 ]  33.03MB/49.28MB
+ 80b7316254b3 Extracting [=================================>                 ]  33.03MB/49.28MB
+ 8ea45766c644 Downloading [============================>                      ]  38.46MB/67.78MB
+ 8ea45766c644 Downloading [============================>                      ]  38.46MB/67.78MB
+ 3cb1455cf185 Downloading [==========================>                        ]    124MB/235.8MB
+ 3cb1455cf185 Downloading [==========================>                        ]    124MB/235.8MB
+ 80b7316254b3 Extracting [=====================================>             ]   36.7MB/49.28MB
+ 80b7316254b3 Extracting [=====================================>             ]   36.7MB/49.28MB
+ 3cb1455cf185 Downloading [=============================>                     ]    139MB/235.8MB
+ 3cb1455cf185 Downloading [=============================>                     ]    139MB/235.8MB
+ 8ea45766c644 Downloading [=============================>                     ]  40.61MB/67.78MB
+ 8ea45766c644 Downloading [=============================>                     ]  40.61MB/67.78MB
+ 751edacf48fe Downloading [>                                                  ]  429.5kB/42.14MB
+ 751edacf48fe Downloading [>                                                  ]  429.5kB/42.14MB
+ 80b7316254b3 Extracting [========================================>          ]  39.85MB/49.28MB
+ 80b7316254b3 Extracting [========================================>          ]  39.85MB/49.28MB
+ 3cb1455cf185 Downloading [==================================>                ]  164.1MB/235.8MB
+ 3cb1455cf185 Downloading [==================================>                ]  164.1MB/235.8MB
+ 8ea45766c644 Downloading [===============================>                   ]  43.28MB/67.78MB
+ 8ea45766c644 Downloading [===============================>                   ]  43.28MB/67.78MB
+ 751edacf48fe Downloading [=========>                                         ]  8.141MB/42.14MB
+ 751edacf48fe Downloading [=========>                                         ]  8.141MB/42.14MB
+ 80b7316254b3 Extracting [===========================================>       ]  42.47MB/49.28MB
+ 80b7316254b3 Extracting [===========================================>       ]  42.47MB/49.28MB
+ 3cb1455cf185 Downloading [=======================================>           ]  187.1MB/235.8MB
+ 3cb1455cf185 Downloading [=======================================>           ]  187.1MB/235.8MB
+ 8ea45766c644 Downloading [==================================>                ]   46.5MB/67.78MB
+ 8ea45766c644 Downloading [==================================>                ]   46.5MB/67.78MB
+ 751edacf48fe Downloading [=================>                                 ]  14.53MB/42.14MB
+ 751edacf48fe Downloading [=================>                                 ]  14.53MB/42.14MB
+ 80b7316254b3 Extracting [==============================================>    ]  45.61MB/49.28MB
+ 80b7316254b3 Extracting [==============================================>    ]  45.61MB/49.28MB
+ 8ea45766c644 Downloading [====================================>              ]  49.71MB/67.78MB
+ 8ea45766c644 Downloading [====================================>              ]  49.71MB/67.78MB
+ 3cb1455cf185 Downloading [==========================================>        ]  200.5MB/235.8MB
+ 3cb1455cf185 Downloading [==========================================>        ]  200.5MB/235.8MB
+ 751edacf48fe Downloading [=============================>                     ]  25.25MB/42.14MB
+ 751edacf48fe Downloading [=============================>                     ]  25.25MB/42.14MB
+ 80b7316254b3 Extracting [===============================================>   ]  47.19MB/49.28MB
+ 80b7316254b3 Extracting [===============================================>   ]  47.19MB/49.28MB
+ 8ea45766c644 Downloading [======================================>            ]  52.38MB/67.78MB
+ 8ea45766c644 Downloading [======================================>            ]  52.38MB/67.78MB
+ 3cb1455cf185 Downloading [==============================================>    ]  217.6MB/235.8MB
+ 3cb1455cf185 Downloading [==============================================>    ]  217.6MB/235.8MB
+ 751edacf48fe Downloading [======================================>            ]  32.53MB/42.14MB
+ 751edacf48fe Downloading [======================================>            ]  32.53MB/42.14MB
+ 80b7316254b3 Extracting [================================================>  ]  48.23MB/49.28MB
+ 80b7316254b3 Extracting [================================================>  ]  48.23MB/49.28MB
+ 8ea45766c644 Downloading [========================================>          ]  54.52MB/67.78MB
+ 8ea45766c644 Downloading [========================================>          ]  54.52MB/67.78MB
+ 3cb1455cf185 Downloading [===============================================>   ]  225.5MB/235.8MB
+ 3cb1455cf185 Downloading [===============================================>   ]  225.5MB/235.8MB
+ 751edacf48fe Downloading [===============================================>   ]  39.83MB/42.14MB
+ 751edacf48fe Downloading [===============================================>   ]  39.83MB/42.14MB
+ 751edacf48fe Verifying Checksum 
+ 751edacf48fe Download complete 
+ 751edacf48fe Verifying Checksum 
+ 751edacf48fe Download complete 
+ 3cb1455cf185 Verifying Checksum 
+ 3cb1455cf185 Verifying Checksum 
+ 3cb1455cf185 Download complete 
+ 3cb1455cf185 Download complete 
+ 8ea45766c644 Downloading [==========================================>        ]  57.18MB/67.78MB
+ 8ea45766c644 Downloading [==========================================>        ]  57.18MB/67.78MB
+ 80b7316254b3 Extracting [=================================================> ]  48.76MB/49.28MB
+ 80b7316254b3 Extracting [=================================================> ]  48.76MB/49.28MB
+ 8ea45766c644 Downloading [============================================>      ]  60.92MB/67.78MB
+ 8ea45766c644 Downloading [============================================>      ]  60.92MB/67.78MB
+ 80b7316254b3 Extracting [==================================================>]  49.28MB/49.28MB
+ 80b7316254b3 Extracting [==================================================>]  49.28MB/49.28MB
+ 80b7316254b3 Extracting [==================================================>]  49.28MB/49.28MB
+ 80b7316254b3 Extracting [==================================================>]  49.28MB/49.28MB
+ 8ea45766c644 Downloading [===============================================>   ]  64.65MB/67.78MB
+ 8ea45766c644 Downloading [===============================================>   ]  64.65MB/67.78MB
+ 80b7316254b3 Pull complete 
+ 80b7316254b3 Pull complete 
+ 36e4db86de6e Extracting [>                                                  ]  262.1kB/25.61MB
+ 36e4db86de6e Extracting [>                                                  ]  262.1kB/25.61MB
+ 8ea45766c644 Verifying Checksum 
+ 8ea45766c644 Download complete 
+ 8ea45766c644 Verifying Checksum 
+ 8ea45766c644 Download complete 
+ ef67c4e1b7f0 Verifying Checksum 
+ ef67c4e1b7f0 Downloading [==================================================>]      93B/93B
+ ef67c4e1b7f0 Verifying Checksum 
+ ef67c4e1b7f0 Download complete 
+ ef67c4e1b7f0 Download complete 
+ bc6d128e2a51 Downloading [==================================================>]     142B/142B
+ bc6d128e2a51 Verifying Checksum 
+ bc6d128e2a51 Download complete 
+ bc6d128e2a51 Downloading [==================================================>]     142B/142B
+ bc6d128e2a51 Download complete 
+ 36e4db86de6e Extracting [=============>                                     ]  6.816MB/25.61MB
+ 36e4db86de6e Extracting [=============>                                     ]  6.816MB/25.61MB
+ 36e4db86de6e Extracting [============================>                      ]  14.68MB/25.61MB
+ 36e4db86de6e Extracting [============================>                      ]  14.68MB/25.61MB
+ 36e4db86de6e Extracting [===================================>               ]  18.09MB/25.61MB
+ 36e4db86de6e Extracting [===================================>               ]  18.09MB/25.61MB
+ 36e4db86de6e Extracting [=========================================>         ]  21.23MB/25.61MB
+ 36e4db86de6e Extracting [=========================================>         ]  21.23MB/25.61MB
+ 341b660298b3 Downloading [==================================================>]     291B/291B
+ 341b660298b3 Verifying Checksum 
+ 341b660298b3 Download complete 
+ 341b660298b3 Verifying Checksum 
+ 341b660298b3 Download complete 
+ e51b350ae03d Downloading [>                                                  ]  135.8kB/13.17MB
+ e51b350ae03d Downloading [>                                                  ]  135.8kB/13.17MB
+ ec5d1af7ebfe Downloading [=================================================> ]     936B/942B
+ ec5d1af7ebfe Downloading [=================================================> ]     936B/942B
+ ec5d1af7ebfe Verifying Checksum 
+ ec5d1af7ebfe Download complete 
+ ec5d1af7ebfe Verifying Checksum 
+ ec5d1af7ebfe Download complete 
+ 36e4db86de6e Extracting [===============================================>   ]  24.38MB/25.61MB
+ 36e4db86de6e Extracting [===============================================>   ]  24.38MB/25.61MB
+ e51b350ae03d Downloading [=================>                                 ]  4.717MB/13.17MB
+ e51b350ae03d Downloading [=================>                                 ]  4.717MB/13.17MB
+ 36e4db86de6e Extracting [=================================================> ]  25.17MB/25.61MB
+ 36e4db86de6e Extracting [=================================================> ]  25.17MB/25.61MB
+ 36e4db86de6e Extracting [==================================================>]  25.61MB/25.61MB
+ 36e4db86de6e Extracting [==================================================>]  25.61MB/25.61MB
+ e51b350ae03d Downloading [===============================>                   ]  8.391MB/13.17MB
+ e51b350ae03d Downloading [===============================>                   ]  8.391MB/13.17MB
+ 36e4db86de6e Pull complete 
+ 36e4db86de6e Pull complete 
+ 8ea45766c644 Extracting [>                                                  ]  557.1kB/67.78MB
+ 8ea45766c644 Extracting [>                                                  ]  557.1kB/67.78MB
+ e51b350ae03d Verifying Checksum 
+ e51b350ae03d Download complete 
+ e51b350ae03d Verifying Checksum 
+ e51b350ae03d Download complete 
+ 8ea45766c644 Extracting [======>                                            ]  8.356MB/67.78MB
+ 8ea45766c644 Extracting [======>                                            ]  8.356MB/67.78MB
+ 8ea45766c644 Extracting [===========>                                       ]   15.6MB/67.78MB
+ 8ea45766c644 Extracting [===========>                                       ]   15.6MB/67.78MB
+ 8ea45766c644 Extracting [================>                                  ]  22.84MB/67.78MB
+ 8ea45766c644 Extracting [================>                                  ]  22.84MB/67.78MB
+ 114dd3a42b49 Downloading [>                                                  ]  6.483kB/523.6kB
+ 114dd3a42b49 Downloading [>                                                  ]  6.483kB/523.6kB
+ 8ea45766c644 Extracting [==================>                                ]  25.62MB/67.78MB
+ 8ea45766c644 Extracting [==================>                                ]  25.62MB/67.78MB
+ 114dd3a42b49 Verifying Checksum 
+ 114dd3a42b49 Downloading [==================================================>]  523.6kB/523.6kB
+ 114dd3a42b49 Verifying Checksum 
+ 114dd3a42b49 Download complete 
+ 114dd3a42b49 Download complete 
+ 8ea45766c644 Extracting [====================>                              ]  28.41MB/67.78MB
+ 8ea45766c644 Extracting [====================>                              ]  28.41MB/67.78MB
+ 8ea45766c644 Extracting [=======================>                           ]   31.2MB/67.78MB
+ 8ea45766c644 Extracting [=======================>                           ]   31.2MB/67.78MB
+ 8ea45766c644 Extracting [=========================>                         ]  33.98MB/67.78MB
+ 8ea45766c644 Extracting [=========================>                         ]  33.98MB/67.78MB
+ 8ea45766c644 Extracting [==========================>                        ]  35.65MB/67.78MB
+ 8ea45766c644 Extracting [==========================>                        ]  35.65MB/67.78MB
+ 8ea45766c644 Extracting [===========================>                       ]  37.88MB/67.78MB
+ 8ea45766c644 Extracting [===========================>                       ]  37.88MB/67.78MB
+ 8ea45766c644 Extracting [=============================>                     ]  39.55MB/67.78MB
+ 8ea45766c644 Extracting [=============================>                     ]  39.55MB/67.78MB
+ 8ea45766c644 Extracting [================================>                  ]  43.45MB/67.78MB
+ 8ea45766c644 Extracting [================================>                  ]  43.45MB/67.78MB
+ 8ea45766c644 Extracting [==================================>                ]  46.79MB/67.78MB
+ 8ea45766c644 Extracting [==================================>                ]  46.79MB/67.78MB
+ 8ea45766c644 Extracting [=====================================>             ]  50.69MB/67.78MB
+ 8ea45766c644 Extracting [=====================================>             ]  50.69MB/67.78MB
+ 8ea45766c644 Extracting [=====================================>             ]  51.25MB/67.78MB
+ 8ea45766c644 Extracting [=====================================>             ]  51.25MB/67.78MB
+ 8ea45766c644 Extracting [========================================>          ]  54.59MB/67.78MB
+ 8ea45766c644 Extracting [========================================>          ]  54.59MB/67.78MB
+ 8ea45766c644 Extracting [============================================>      ]  60.16MB/67.78MB
+ 8ea45766c644 Extracting [============================================>      ]  60.16MB/67.78MB
+ 8ea45766c644 Extracting [==============================================>    ]  62.39MB/67.78MB
+ 8ea45766c644 Extracting [==============================================>    ]  62.39MB/67.78MB
+ 8ea45766c644 Extracting [===============================================>   ]  64.06MB/67.78MB
+ 8ea45766c644 Extracting [===============================================>   ]  64.06MB/67.78MB
+ 8ea45766c644 Extracting [================================================>  ]  65.18MB/67.78MB
+ 8ea45766c644 Extracting [================================================>  ]  65.18MB/67.78MB
+ 8ea45766c644 Extracting [=================================================> ]   67.4MB/67.78MB
+ 8ea45766c644 Extracting [=================================================> ]   67.4MB/67.78MB
+ 8ea45766c644 Extracting [==================================================>]  67.78MB/67.78MB
+ 8ea45766c644 Extracting [==================================================>]  67.78MB/67.78MB
+ 8ea45766c644 Pull complete 
+ 8ea45766c644 Pull complete 
+ 3cb1455cf185 Extracting [>                                                  ]  557.1kB/235.8MB
+ 3cb1455cf185 Extracting [>                                                  ]  557.1kB/235.8MB
+ 3cb1455cf185 Extracting [=>                                                 ]  6.128MB/235.8MB
+ 3cb1455cf185 Extracting [=>                                                 ]  6.128MB/235.8MB
+ 3cb1455cf185 Extracting [===>                                               ]  15.04MB/235.8MB
+ 3cb1455cf185 Extracting [===>                                               ]  15.04MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]   19.5MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]   19.5MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  20.05MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  20.05MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  21.17MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  21.17MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  21.73MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  21.73MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  22.84MB/235.8MB
+ 3cb1455cf185 Extracting [====>                                              ]  22.84MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  23.95MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  23.95MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  24.51MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  24.51MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  25.07MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  25.07MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  25.62MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  25.62MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  26.18MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  26.18MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]   27.3MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]   27.3MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  27.85MB/235.8MB
+ 3cb1455cf185 Extracting [=====>                                             ]  27.85MB/235.8MB
+ 3cb1455cf185 Extracting [======>                                            ]  28.97MB/235.8MB
+ 3cb1455cf185 Extracting [======>                                            ]  28.97MB/235.8MB
+ 3cb1455cf185 Extracting [=======>                                           ]  36.21MB/235.8MB
+ 3cb1455cf185 Extracting [=======>                                           ]  36.21MB/235.8MB
+ 3cb1455cf185 Extracting [=======>                                           ]  36.77MB/235.8MB
+ 3cb1455cf185 Extracting [=======>                                           ]  36.77MB/235.8MB
+ 3cb1455cf185 Extracting [========>                                          ]  38.44MB/235.8MB
+ 3cb1455cf185 Extracting [========>                                          ]  38.44MB/235.8MB
+ 3cb1455cf185 Extracting [========>                                          ]  41.22MB/235.8MB
+ 3cb1455cf185 Extracting [========>                                          ]  41.22MB/235.8MB
+ 3cb1455cf185 Extracting [==========>                                        ]  48.46MB/235.8MB
+ 3cb1455cf185 Extracting [==========>                                        ]  48.46MB/235.8MB
+ 3cb1455cf185 Extracting [===========>                                       ]  55.71MB/235.8MB
+ 3cb1455cf185 Extracting [===========>                                       ]  55.71MB/235.8MB
+ 3cb1455cf185 Extracting [=============>                                     ]  62.39MB/235.8MB
+ 3cb1455cf185 Extracting [=============>                                     ]  62.39MB/235.8MB
+ 3cb1455cf185 Extracting [==============>                                    ]  69.63MB/235.8MB
+ 3cb1455cf185 Extracting [==============>                                    ]  69.63MB/235.8MB
+ 3cb1455cf185 Extracting [================>                                  ]  76.32MB/235.8MB
+ 3cb1455cf185 Extracting [================>                                  ]  76.32MB/235.8MB
+ 3cb1455cf185 Extracting [=================>                                 ]  83.56MB/235.8MB
+ 3cb1455cf185 Extracting [=================>                                 ]  83.56MB/235.8MB
+ 3cb1455cf185 Extracting [===================>                               ]  93.59MB/235.8MB
+ 3cb1455cf185 Extracting [===================>                               ]  93.59MB/235.8MB
+ 3cb1455cf185 Extracting [=====================>                             ]  102.5MB/235.8MB
+ 3cb1455cf185 Extracting [=====================>                             ]  102.5MB/235.8MB
+ 3cb1455cf185 Extracting [=======================>                           ]  111.4MB/235.8MB
+ 3cb1455cf185 Extracting [=======================>                           ]  111.4MB/235.8MB
+ 3cb1455cf185 Extracting [=========================>                         ]  118.7MB/235.8MB
+ 3cb1455cf185 Extracting [=========================>                         ]  118.7MB/235.8MB
+ 3cb1455cf185 Extracting [==========================>                        ]  124.8MB/235.8MB
+ 3cb1455cf185 Extracting [==========================>                        ]  124.8MB/235.8MB
+ 3cb1455cf185 Extracting [===========================>                       ]    132MB/235.8MB
+ 3cb1455cf185 Extracting [===========================>                       ]    132MB/235.8MB
+ 3cb1455cf185 Extracting [=============================>                     ]  139.8MB/235.8MB
+ 3cb1455cf185 Extracting [=============================>                     ]  139.8MB/235.8MB
+ 3cb1455cf185 Extracting [==============================>                    ]  144.3MB/235.8MB
+ 3cb1455cf185 Extracting [==============================>                    ]  144.3MB/235.8MB
+ 3cb1455cf185 Extracting [================================>                  ]  153.2MB/235.8MB
+ 3cb1455cf185 Extracting [================================>                  ]  153.2MB/235.8MB
+ 3cb1455cf185 Extracting [==================================>                ]  161.5MB/235.8MB
+ 3cb1455cf185 Extracting [==================================>                ]  161.5MB/235.8MB
+ 3cb1455cf185 Extracting [====================================>              ]  170.5MB/235.8MB
+ 3cb1455cf185 Extracting [====================================>              ]  170.5MB/235.8MB
+ 3cb1455cf185 Extracting [=====================================>             ]  178.3MB/235.8MB
+ 3cb1455cf185 Extracting [=====================================>             ]  178.3MB/235.8MB
+ 3cb1455cf185 Extracting [=======================================>           ]  186.6MB/235.8MB
+ 3cb1455cf185 Extracting [=======================================>           ]  186.6MB/235.8MB
+ 3cb1455cf185 Extracting [========================================>          ]  189.4MB/235.8MB
+ 3cb1455cf185 Extracting [========================================>          ]  189.4MB/235.8MB
+ 3cb1455cf185 Extracting [========================================>          ]  193.3MB/235.8MB
+ 3cb1455cf185 Extracting [========================================>          ]  193.3MB/235.8MB
+ 3cb1455cf185 Extracting [==========================================>        ]  198.3MB/235.8MB
+ 3cb1455cf185 Extracting [==========================================>        ]  198.3MB/235.8MB
+ 3cb1455cf185 Extracting [==========================================>        ]  202.8MB/235.8MB
+ 3cb1455cf185 Extracting [==========================================>        ]  202.8MB/235.8MB
+ 3cb1455cf185 Extracting [============================================>      ]  207.8MB/235.8MB
+ 3cb1455cf185 Extracting [============================================>      ]  207.8MB/235.8MB
+ 3cb1455cf185 Extracting [============================================>      ]  211.1MB/235.8MB
+ 3cb1455cf185 Extracting [============================================>      ]  211.1MB/235.8MB
+ 3cb1455cf185 Extracting [=============================================>     ]  216.1MB/235.8MB
+ 3cb1455cf185 Extracting [=============================================>     ]  216.1MB/235.8MB
+ 3cb1455cf185 Extracting [==============================================>    ]  217.8MB/235.8MB
+ 3cb1455cf185 Extracting [==============================================>    ]  217.8MB/235.8MB
+ 3cb1455cf185 Extracting [==============================================>    ]  220.6MB/235.8MB
+ 3cb1455cf185 Extracting [==============================================>    ]  220.6MB/235.8MB
+ 3cb1455cf185 Extracting [===============================================>   ]  224.5MB/235.8MB
+ 3cb1455cf185 Extracting [===============================================>   ]  224.5MB/235.8MB
+ 3cb1455cf185 Extracting [================================================>  ]  228.4MB/235.8MB
+ 3cb1455cf185 Extracting [================================================>  ]  228.4MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  231.2MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  231.2MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  232.3MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  232.3MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  232.8MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  232.8MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]    234MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]    234MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  235.1MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  235.1MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  235.6MB/235.8MB
+ 3cb1455cf185 Extracting [=================================================> ]  235.6MB/235.8MB
+ 3cb1455cf185 Extracting [==================================================>]  235.8MB/235.8MB
+ 3cb1455cf185 Extracting [==================================================>]  235.8MB/235.8MB
+ 3cb1455cf185 Pull complete 
+ 3cb1455cf185 Pull complete 
+ da874a28f022 Extracting [==================================================>]     188B/188B
+ da874a28f022 Extracting [==================================================>]     188B/188B
+ da874a28f022 Extracting [==================================================>]     188B/188B
+ da874a28f022 Extracting [==================================================>]     188B/188B
+ da874a28f022 Pull complete 
+ da874a28f022 Pull complete 
+ 751edacf48fe Extracting [>                                                  ]    426kB/42.14MB
+ 751edacf48fe Extracting [>                                                  ]    426kB/42.14MB
+ 751edacf48fe Extracting [================>                                  ]  13.63MB/42.14MB
+ 751edacf48fe Extracting [================>                                  ]  13.63MB/42.14MB
+ 751edacf48fe Extracting [====================>                              ]  17.47MB/42.14MB
+ 751edacf48fe Extracting [====================>                              ]  17.47MB/42.14MB
+ 751edacf48fe Extracting [=====================>                             ]  18.32MB/42.14MB
+ 751edacf48fe Extracting [=====================>                             ]  18.32MB/42.14MB
+ 751edacf48fe Extracting [======================>                            ]  19.17MB/42.14MB
+ 751edacf48fe Extracting [======================>                            ]  19.17MB/42.14MB
+ 751edacf48fe Extracting [==================================>                ]  29.39MB/42.14MB
+ 751edacf48fe Extracting [==================================>                ]  29.39MB/42.14MB
+ 751edacf48fe Extracting [=============================================>     ]  38.34MB/42.14MB
+ 751edacf48fe Extracting [=============================================>     ]  38.34MB/42.14MB
+ 751edacf48fe Extracting [===============================================>   ]  40.04MB/42.14MB
+ 751edacf48fe Extracting [===============================================>   ]  40.04MB/42.14MB
+ 751edacf48fe Extracting [=================================================> ]  41.32MB/42.14MB
+ 751edacf48fe Extracting [=================================================> ]  41.32MB/42.14MB
+ 751edacf48fe Extracting [==================================================>]  42.14MB/42.14MB
+ 751edacf48fe Extracting [==================================================>]  42.14MB/42.14MB
+ 751edacf48fe Pull complete 
+ 751edacf48fe Pull complete 
+ bc6d128e2a51 Extracting [==================================================>]     142B/142B
+ bc6d128e2a51 Extracting [==================================================>]     142B/142B
+ bc6d128e2a51 Extracting [==================================================>]     142B/142B
+ bc6d128e2a51 Extracting [==================================================>]     142B/142B
+ bc6d128e2a51 Pull complete 
+ bc6d128e2a51 Pull complete 
+ ef67c4e1b7f0 Extracting [==================================================>]      93B/93B
+ ef67c4e1b7f0 Extracting [==================================================>]      93B/93B
+ ef67c4e1b7f0 Extracting [==================================================>]      93B/93B
+ ef67c4e1b7f0 Extracting [==================================================>]      93B/93B
+ ef67c4e1b7f0 Pull complete 
+ ef67c4e1b7f0 Pull complete 
+ 341b660298b3 Extracting [==================================================>]     291B/291B
+ 341b660298b3 Extracting [==================================================>]     291B/291B
+ 341b660298b3 Extracting [==================================================>]     291B/291B
+ 341b660298b3 Extracting [==================================================>]     291B/291B
+ 341b660298b3 Pull complete 
+ 341b660298b3 Pull complete 
+ ec5d1af7ebfe Extracting [==================================================>]     942B/942B
+ ec5d1af7ebfe Extracting [==================================================>]     942B/942B
+ ec5d1af7ebfe Extracting [==================================================>]     942B/942B
+ ec5d1af7ebfe Extracting [==================================================>]     942B/942B
+ ec5d1af7ebfe Pull complete 
+ ec5d1af7ebfe Pull complete 
+ e51b350ae03d Extracting [>                                                  ]  163.8kB/13.17MB
+ e51b350ae03d Extracting [>                                                  ]  163.8kB/13.17MB
+ e51b350ae03d Extracting [===>                                               ]  819.2kB/13.17MB
+ e51b350ae03d Extracting [===>                                               ]  819.2kB/13.17MB
+ e51b350ae03d Extracting [==============================>                    ]  8.028MB/13.17MB
+ e51b350ae03d Extracting [==============================>                    ]  8.028MB/13.17MB
+ e51b350ae03d Extracting [=========================================>         ]  10.81MB/13.17MB
+ e51b350ae03d Extracting [=========================================>         ]  10.81MB/13.17MB
+ e51b350ae03d Extracting [=================================================> ]  12.94MB/13.17MB
+ e51b350ae03d Extracting [=================================================> ]  12.94MB/13.17MB
+ e51b350ae03d Extracting [==================================================>]  13.17MB/13.17MB
+ e51b350ae03d Extracting [==================================================>]  13.17MB/13.17MB
+ e51b350ae03d Pull complete 
+ e51b350ae03d Pull complete 
+ 114dd3a42b49 Extracting [===>                                               ]  32.77kB/523.6kB
+ 114dd3a42b49 Extracting [===>                                               ]  32.77kB/523.6kB
+ 114dd3a42b49 Extracting [========================================>          ]    426kB/523.6kB
+ 114dd3a42b49 Extracting [========================================>          ]    426kB/523.6kB
+ 114dd3a42b49 Extracting [==================================================>]  523.6kB/523.6kB
+ 114dd3a42b49 Extracting [==================================================>]  523.6kB/523.6kB
+ 114dd3a42b49 Extracting [==================================================>]  523.6kB/523.6kB
+ 114dd3a42b49 Extracting [==================================================>]  523.6kB/523.6kB
+ 114dd3a42b49 Pull complete 
+ 114dd3a42b49 Pull complete 
+ api02 Pulled 
+ api01 Pulled 
  Network pru-async-v6_net  Creating
  Network pru-async-v6_net  Created
  Container redis  Creating
  Container redis  Created
- Container api01  Creating
  Container api02  Creating
- Container api02  Created
+ Container api01  Creating
  Container api01  Created
+ Container api02  Created
  Container nginx  Creating
  Container nginx  Created
 Attaching to api01, api02, nginx, redis
-redis  | 1:C 19 Aug 2025 13:50:46.684 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis  | 1:C 21 Aug 2025 17:12:17.607 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
 nginx  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -20,135 +668,135 @@ nginx  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers
 nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx  | /docker-entrypoint.sh: Configuration complete; ready for start up
-nginx  | 2025/08/19 13:50:47 [warn] 1#1: load balancing method redefined in /etc/nginx/nginx.conf:48
+nginx  | 2025/08/21 17:12:18 [warn] 1#1: load balancing method redefined in /etc/nginx/nginx.conf:48
 nginx  | nginx: [warn] load balancing method redefined in /etc/nginx/nginx.conf:48
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":864,"fiber_id":872,"subject":"Falcon::Command::Serve","message":"Falcon v0.52.3 taking flight! Using Async::Container::Forked {count: 1, restart: false, health_check_timeout: 30.0}.\n- Running on ruby 3.4.5 (2025-07-16 revision 20cda200d3) +YJIT +PRISM [x86_64-linux]\n- Binding to: #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>\n- To terminate: Ctrl-C or kill 1\n- To reload configuration: kill -HUP 1\n"}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":864,"fiber_id":872,"subject":"Falcon::Command::Serve","message":"Falcon v0.52.3 taking flight! Using Async::Container::Forked {count: 1, restart: false, health_check_timeout: 30.0}.\n- Running on ruby 3.4.5 (2025-07-16 revision 20cda200d3) +YJIT +PRISM [x86_64-linux]\n- Binding to: #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>\n- To terminate: Ctrl-C or kill 1\n- To reload configuration: kill -HUP 1\n"}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"status":"Initializing controller..."}}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"status":"Initializing controller..."}}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Preloading server.rb..."}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Preloading server.rb..."}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Starting http://0.0.0.0:3000 on #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>"}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller starting..."}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Starting http://0.0.0.0:3000 on #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>"}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller starting..."}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"ready":true,"size":1}}
-api01  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller started..."}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"ready":true,"size":1}}
-api02  | {"time":"2025-08-19T13:50:48+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller started..."}
-api02  | {"time":"2025-08-19T13:50:56+00:00","severity":"info","pid":9,"oid":944,"fiber_id":952,"subject":"metrics","bucket":0,"bucket_size":500,"accepted":1,"processed_events":1,"successes":1,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:50:57+00:00","severity":"info","pid":9,"oid":944,"fiber_id":952,"subject":"metrics","bucket":0,"bucket_size":500,"accepted":1,"processed_events":1,"successes":1,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:51:46+00:00","severity":"info","pid":9,"oid":960,"fiber_id":968,"subject":"metrics","bucket":1,"bucket_size":500,"accepted":1306,"processed_events":500,"successes":500,"errors":0,"primary_q":805,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:51:56+00:00","severity":"info","pid":9,"oid":960,"fiber_id":968,"subject":"metrics","bucket":1,"bucket_size":500,"accepted":1849,"processed_events":500,"successes":500,"errors":0,"primary_q":1348,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:00+00:00","severity":"warn","pid":9,"oid":992,"fiber_id":1000,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:00+00:00","severity":"warn","pid":9,"oid":992,"fiber_id":1000,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:00+00:00","severity":"warn","pid":9,"oid":1024,"fiber_id":1032,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:00+00:00","severity":"warn","pid":9,"oid":1024,"fiber_id":1032,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:04+00:00","severity":"warn","pid":9,"oid":1056,"fiber_id":1064,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:04+00:00","severity":"warn","pid":9,"oid":1056,"fiber_id":1064,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:04+00:00","severity":"warn","pid":9,"oid":1088,"fiber_id":1096,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:04+00:00","severity":"warn","pid":9,"oid":1088,"fiber_id":1096,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:08+00:00","severity":"warn","pid":9,"oid":1120,"fiber_id":1128,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:08+00:00","severity":"warn","pid":9,"oid":1120,"fiber_id":1128,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:08+00:00","severity":"warn","pid":9,"oid":1152,"fiber_id":1160,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:08+00:00","severity":"warn","pid":9,"oid":1152,"fiber_id":1160,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:12+00:00","severity":"warn","pid":9,"oid":1184,"fiber_id":1192,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:12+00:00","severity":"warn","pid":9,"oid":1184,"fiber_id":1192,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:12+00:00","severity":"warn","pid":9,"oid":1216,"fiber_id":1224,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:12+00:00","severity":"warn","pid":9,"oid":1216,"fiber_id":1224,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:16+00:00","severity":"warn","pid":9,"oid":1248,"fiber_id":1256,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:16+00:00","severity":"warn","pid":9,"oid":1248,"fiber_id":1256,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:16+00:00","severity":"warn","pid":9,"oid":1280,"fiber_id":1288,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:16+00:00","severity":"warn","pid":9,"oid":1280,"fiber_id":1288,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:20+00:00","severity":"warn","pid":9,"oid":1312,"fiber_id":1320,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:20+00:00","severity":"warn","pid":9,"oid":1312,"fiber_id":1320,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:20+00:00","severity":"warn","pid":9,"oid":1344,"fiber_id":1352,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:20+00:00","severity":"warn","pid":9,"oid":1344,"fiber_id":1352,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:24+00:00","severity":"warn","pid":9,"oid":1376,"fiber_id":1384,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:24+00:00","severity":"warn","pid":9,"oid":1376,"fiber_id":1384,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:24+00:00","severity":"warn","pid":9,"oid":1408,"fiber_id":1416,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:24+00:00","severity":"warn","pid":9,"oid":1408,"fiber_id":1416,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:28+00:00","severity":"warn","pid":9,"oid":1440,"fiber_id":1448,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:28+00:00","severity":"warn","pid":9,"oid":1440,"fiber_id":1448,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api01  | {"time":"2025-08-19T13:53:28+00:00","severity":"warn","pid":9,"oid":1472,"fiber_id":1480,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:28+00:00","severity":"warn","pid":9,"oid":1488,"fiber_id":1496,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
-api02  | {"time":"2025-08-19T13:53:28+00:00","severity":"info","pid":9,"oid":1536,"fiber_id":1544,"subject":"metrics","bucket":2,"bucket_size":500,"accepted":11751,"processed_events":1000,"successes":953,"errors":0,"primary_q":10796,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:28+00:00","severity":"info","pid":9,"oid":1520,"fiber_id":1528,"subject":"metrics","bucket":2,"bucket_size":500,"accepted":11782,"processed_events":1000,"successes":953,"errors":0,"primary_q":10827,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:29+00:00","severity":"info","pid":9,"oid":1536,"fiber_id":1544,"subject":"metrics","bucket":3,"bucket_size":500,"accepted":11851,"processed_events":1500,"successes":1453,"errors":0,"primary_q":10397,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:29+00:00","severity":"info","pid":9,"oid":1552,"fiber_id":1560,"subject":"metrics","bucket":3,"bucket_size":500,"accepted":11831,"processed_events":1500,"successes":1453,"errors":0,"primary_q":10377,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:29+00:00","severity":"info","pid":9,"oid":1552,"fiber_id":1560,"subject":"metrics","bucket":4,"bucket_size":500,"accepted":11927,"processed_events":2000,"successes":1953,"errors":0,"primary_q":9973,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:29+00:00","severity":"info","pid":9,"oid":1568,"fiber_id":1576,"subject":"metrics","bucket":4,"bucket_size":500,"accepted":11904,"processed_events":2000,"successes":1953,"errors":0,"primary_q":9950,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:30+00:00","severity":"info","pid":9,"oid":1568,"fiber_id":1576,"subject":"metrics","bucket":5,"bucket_size":500,"accepted":12003,"processed_events":2500,"successes":2453,"errors":0,"primary_q":9549,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:30+00:00","severity":"info","pid":9,"oid":1584,"fiber_id":1592,"subject":"metrics","bucket":5,"bucket_size":500,"accepted":11984,"processed_events":2500,"successes":2453,"errors":0,"primary_q":9530,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:30+00:00","severity":"info","pid":9,"oid":1584,"fiber_id":1592,"subject":"metrics","bucket":6,"bucket_size":500,"accepted":12081,"processed_events":3000,"successes":2953,"errors":0,"primary_q":9127,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:30+00:00","severity":"info","pid":9,"oid":1600,"fiber_id":1608,"subject":"metrics","bucket":6,"bucket_size":500,"accepted":12060,"processed_events":3000,"successes":2953,"errors":0,"primary_q":9106,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:31+00:00","severity":"info","pid":9,"oid":1600,"fiber_id":1608,"subject":"metrics","bucket":7,"bucket_size":500,"accepted":12152,"processed_events":3500,"successes":3453,"errors":0,"primary_q":8698,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:31+00:00","severity":"info","pid":9,"oid":1616,"fiber_id":1624,"subject":"metrics","bucket":7,"bucket_size":500,"accepted":12132,"processed_events":3500,"successes":3453,"errors":0,"primary_q":8678,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:31+00:00","severity":"info","pid":9,"oid":1616,"fiber_id":1624,"subject":"metrics","bucket":8,"bucket_size":500,"accepted":12230,"processed_events":4000,"successes":3953,"errors":0,"primary_q":8276,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:31+00:00","severity":"info","pid":9,"oid":1632,"fiber_id":1640,"subject":"metrics","bucket":8,"bucket_size":500,"accepted":12221,"processed_events":4000,"successes":3953,"errors":0,"primary_q":8267,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:32+00:00","severity":"info","pid":9,"oid":1632,"fiber_id":1640,"subject":"metrics","bucket":9,"bucket_size":500,"accepted":12300,"processed_events":4500,"successes":4453,"errors":0,"primary_q":7846,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:32+00:00","severity":"info","pid":9,"oid":1648,"fiber_id":1656,"subject":"metrics","bucket":9,"bucket_size":500,"accepted":12295,"processed_events":4500,"successes":4453,"errors":0,"primary_q":7841,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:32+00:00","severity":"info","pid":9,"oid":1648,"fiber_id":1656,"subject":"metrics","bucket":10,"bucket_size":500,"accepted":12379,"processed_events":5000,"successes":4953,"errors":0,"primary_q":7425,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:32+00:00","severity":"info","pid":9,"oid":1664,"fiber_id":1672,"subject":"metrics","bucket":10,"bucket_size":500,"accepted":12372,"processed_events":5000,"successes":4953,"errors":0,"primary_q":7418,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:33+00:00","severity":"info","pid":9,"oid":1664,"fiber_id":1672,"subject":"metrics","bucket":11,"bucket_size":500,"accepted":12455,"processed_events":5500,"successes":5453,"errors":0,"primary_q":7001,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:33+00:00","severity":"info","pid":9,"oid":1680,"fiber_id":1688,"subject":"metrics","bucket":11,"bucket_size":500,"accepted":12452,"processed_events":5500,"successes":5453,"errors":0,"primary_q":6998,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:33+00:00","severity":"info","pid":9,"oid":1680,"fiber_id":1688,"subject":"metrics","bucket":12,"bucket_size":500,"accepted":12535,"processed_events":6000,"successes":5953,"errors":0,"primary_q":6581,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:33+00:00","severity":"info","pid":9,"oid":1696,"fiber_id":1704,"subject":"metrics","bucket":12,"bucket_size":500,"accepted":12529,"processed_events":6000,"successes":5953,"errors":0,"primary_q":6575,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:34+00:00","severity":"info","pid":9,"oid":1696,"fiber_id":1704,"subject":"metrics","bucket":13,"bucket_size":500,"accepted":12611,"processed_events":6500,"successes":6453,"errors":0,"primary_q":6157,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:34+00:00","severity":"info","pid":9,"oid":1712,"fiber_id":1720,"subject":"metrics","bucket":13,"bucket_size":500,"accepted":12613,"processed_events":6500,"successes":6453,"errors":0,"primary_q":6159,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:34+00:00","severity":"info","pid":9,"oid":1712,"fiber_id":1720,"subject":"metrics","bucket":14,"bucket_size":500,"accepted":12689,"processed_events":7000,"successes":6953,"errors":0,"primary_q":5735,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:34+00:00","severity":"info","pid":9,"oid":1728,"fiber_id":1736,"subject":"metrics","bucket":14,"bucket_size":500,"accepted":12703,"processed_events":7000,"successes":6953,"errors":0,"primary_q":5749,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:35+00:00","severity":"info","pid":9,"oid":1728,"fiber_id":1736,"subject":"metrics","bucket":15,"bucket_size":500,"accepted":12770,"processed_events":7500,"successes":7453,"errors":0,"primary_q":5316,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:35+00:00","severity":"info","pid":9,"oid":1744,"fiber_id":1752,"subject":"metrics","bucket":15,"bucket_size":500,"accepted":12777,"processed_events":7500,"successes":7453,"errors":0,"primary_q":5323,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:35+00:00","severity":"info","pid":9,"oid":1744,"fiber_id":1752,"subject":"metrics","bucket":16,"bucket_size":500,"accepted":12854,"processed_events":8000,"successes":7953,"errors":0,"primary_q":4900,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:35+00:00","severity":"info","pid":9,"oid":1760,"fiber_id":1768,"subject":"metrics","bucket":16,"bucket_size":500,"accepted":12851,"processed_events":8000,"successes":7953,"errors":0,"primary_q":4897,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:36+00:00","severity":"info","pid":9,"oid":1776,"fiber_id":1784,"subject":"metrics","bucket":17,"bucket_size":500,"accepted":12930,"processed_events":8500,"successes":8453,"errors":0,"primary_q":4476,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:36+00:00","severity":"info","pid":9,"oid":1760,"fiber_id":1768,"subject":"metrics","bucket":17,"bucket_size":500,"accepted":12934,"processed_events":8500,"successes":8453,"errors":0,"primary_q":4480,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:36+00:00","severity":"info","pid":9,"oid":1792,"fiber_id":1800,"subject":"metrics","bucket":18,"bucket_size":500,"accepted":13059,"processed_events":9000,"successes":8953,"errors":0,"primary_q":4105,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:36+00:00","severity":"info","pid":9,"oid":1776,"fiber_id":1784,"subject":"metrics","bucket":18,"bucket_size":500,"accepted":13014,"processed_events":9000,"successes":8953,"errors":0,"primary_q":4060,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:37+00:00","severity":"info","pid":9,"oid":1808,"fiber_id":1816,"subject":"metrics","bucket":19,"bucket_size":500,"accepted":13137,"processed_events":9500,"successes":9453,"errors":0,"primary_q":3683,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:37+00:00","severity":"info","pid":9,"oid":1792,"fiber_id":1800,"subject":"metrics","bucket":19,"bucket_size":500,"accepted":13093,"processed_events":9500,"successes":9453,"errors":0,"primary_q":3639,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:37+00:00","severity":"info","pid":9,"oid":1824,"fiber_id":1832,"subject":"metrics","bucket":20,"bucket_size":500,"accepted":13225,"processed_events":10000,"successes":9953,"errors":0,"primary_q":3271,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:37+00:00","severity":"info","pid":9,"oid":1808,"fiber_id":1816,"subject":"metrics","bucket":20,"bucket_size":500,"accepted":13171,"processed_events":10000,"successes":9953,"errors":0,"primary_q":3217,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:38+00:00","severity":"info","pid":9,"oid":1840,"fiber_id":1848,"subject":"metrics","bucket":21,"bucket_size":500,"accepted":13307,"processed_events":10500,"successes":10453,"errors":0,"primary_q":2853,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:38+00:00","severity":"info","pid":9,"oid":1824,"fiber_id":1832,"subject":"metrics","bucket":21,"bucket_size":500,"accepted":13239,"processed_events":10500,"successes":10453,"errors":0,"primary_q":2785,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:38+00:00","severity":"info","pid":9,"oid":1856,"fiber_id":1864,"subject":"metrics","bucket":22,"bucket_size":500,"accepted":13394,"processed_events":11000,"successes":10953,"errors":0,"primary_q":2440,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:38+00:00","severity":"info","pid":9,"oid":1840,"fiber_id":1848,"subject":"metrics","bucket":22,"bucket_size":500,"accepted":13328,"processed_events":11000,"successes":10953,"errors":0,"primary_q":2374,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:39+00:00","severity":"info","pid":9,"oid":1872,"fiber_id":1880,"subject":"metrics","bucket":23,"bucket_size":500,"accepted":13471,"processed_events":11500,"successes":11453,"errors":0,"primary_q":2017,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:39+00:00","severity":"info","pid":9,"oid":1856,"fiber_id":1864,"subject":"metrics","bucket":23,"bucket_size":500,"accepted":13396,"processed_events":11500,"successes":11453,"errors":0,"primary_q":1942,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:39+00:00","severity":"info","pid":9,"oid":1888,"fiber_id":1896,"subject":"metrics","bucket":24,"bucket_size":500,"accepted":13557,"processed_events":12000,"successes":11953,"errors":0,"primary_q":1603,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:39+00:00","severity":"info","pid":9,"oid":1872,"fiber_id":1880,"subject":"metrics","bucket":24,"bucket_size":500,"accepted":13488,"processed_events":12000,"successes":11953,"errors":0,"primary_q":1534,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:40+00:00","severity":"info","pid":9,"oid":1904,"fiber_id":1912,"subject":"metrics","bucket":25,"bucket_size":500,"accepted":13633,"processed_events":12500,"successes":12453,"errors":0,"primary_q":1179,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:40+00:00","severity":"info","pid":9,"oid":1888,"fiber_id":1896,"subject":"metrics","bucket":25,"bucket_size":500,"accepted":13559,"processed_events":12500,"successes":12453,"errors":0,"primary_q":1105,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:40+00:00","severity":"info","pid":9,"oid":1920,"fiber_id":1928,"subject":"metrics","bucket":26,"bucket_size":500,"accepted":13716,"processed_events":13000,"successes":12953,"errors":0,"primary_q":762,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:40+00:00","severity":"info","pid":9,"oid":1904,"fiber_id":1912,"subject":"metrics","bucket":26,"bucket_size":500,"accepted":13644,"processed_events":13000,"successes":12953,"errors":0,"primary_q":690,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:41+00:00","severity":"info","pid":9,"oid":1936,"fiber_id":1944,"subject":"metrics","bucket":27,"bucket_size":500,"accepted":13794,"processed_events":13500,"successes":13453,"errors":0,"primary_q":340,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:41+00:00","severity":"info","pid":9,"oid":1920,"fiber_id":1928,"subject":"metrics","bucket":27,"bucket_size":500,"accepted":13727,"processed_events":13500,"successes":13453,"errors":0,"primary_q":273,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:42+00:00","severity":"info","pid":9,"oid":1952,"fiber_id":1960,"subject":"metrics","bucket":28,"bucket_size":500,"accepted":13953,"processed_events":14000,"successes":13953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:42+00:00","severity":"info","pid":9,"oid":1936,"fiber_id":1944,"subject":"metrics","bucket":28,"bucket_size":500,"accepted":13954,"processed_events":14000,"successes":13953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:45+00:00","severity":"info","pid":9,"oid":1968,"fiber_id":1976,"subject":"metrics","bucket":29,"bucket_size":500,"accepted":14453,"processed_events":14500,"successes":14453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:45+00:00","severity":"info","pid":9,"oid":1952,"fiber_id":1960,"subject":"metrics","bucket":29,"bucket_size":500,"accepted":14453,"processed_events":14500,"successes":14453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:48+00:00","severity":"info","pid":9,"oid":1968,"fiber_id":1976,"subject":"metrics","bucket":30,"bucket_size":500,"accepted":14953,"processed_events":15000,"successes":14953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:48+00:00","severity":"info","pid":9,"oid":1984,"fiber_id":1992,"subject":"metrics","bucket":30,"bucket_size":500,"accepted":14953,"processed_events":15000,"successes":14953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:51+00:00","severity":"info","pid":9,"oid":1984,"fiber_id":1992,"subject":"metrics","bucket":31,"bucket_size":500,"accepted":15453,"processed_events":15500,"successes":15453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:51+00:00","severity":"info","pid":9,"oid":2000,"fiber_id":2008,"subject":"metrics","bucket":31,"bucket_size":500,"accepted":15453,"processed_events":15500,"successes":15453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:53:53+00:00","severity":"info","pid":9,"oid":2000,"fiber_id":2008,"subject":"metrics","bucket":32,"bucket_size":500,"accepted":15953,"processed_events":16000,"successes":15953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:53:54+00:00","severity":"info","pid":9,"oid":2016,"fiber_id":2024,"subject":"metrics","bucket":32,"bucket_size":500,"accepted":15953,"processed_events":16000,"successes":15953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:54:03+00:00","severity":"info","pid":9,"oid":2016,"fiber_id":2024,"subject":"metrics","bucket":33,"bucket_size":500,"accepted":17790,"processed_events":16500,"successes":16453,"errors":0,"primary_q":1336,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:54:07+00:00","severity":"info","pid":9,"oid":2032,"fiber_id":2040,"subject":"metrics","bucket":33,"bucket_size":500,"accepted":18535,"processed_events":16500,"successes":16453,"errors":0,"primary_q":2081,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:54:40+00:00","severity":"info","pid":9,"oid":2032,"fiber_id":2040,"subject":"metrics","bucket":34,"bucket_size":500,"accepted":25375,"processed_events":17000,"successes":16953,"errors":0,"primary_q":8421,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:54:42+00:00","severity":"info","pid":9,"oid":2048,"fiber_id":2056,"subject":"metrics","bucket":34,"bucket_size":500,"accepted":25861,"processed_events":17000,"successes":16953,"errors":0,"primary_q":8907,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api01  | {"time":"2025-08-19T13:55:16+00:00","severity":"info","pid":9,"oid":2048,"fiber_id":2056,"subject":"metrics","bucket":35,"bucket_size":500,"accepted":34225,"processed_events":17500,"successes":17453,"errors":0,"primary_q":16771,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
-api02  | {"time":"2025-08-19T13:55:20+00:00","severity":"info","pid":9,"oid":2064,"fiber_id":2072,"subject":"metrics","bucket":35,"bucket_size":500,"accepted":35281,"processed_events":17500,"successes":17453,"errors":0,"primary_q":17827,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:12:18+00:00","severity":"info","pid":1,"oid":864,"fiber_id":872,"subject":"Falcon::Command::Serve","message":"Falcon v0.52.3 taking flight! Using Async::Container::Forked {count: 1, restart: false, health_check_timeout: 30.0}.\n- Running on ruby 3.4.5 (2025-07-16 revision 20cda200d3) +YJIT +PRISM [x86_64-linux]\n- Binding to: #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>\n- To terminate: Ctrl-C or kill 1\n- To reload configuration: kill -HUP 1\n"}
+api01  | {"time":"2025-08-21T17:12:18+00:00","severity":"info","pid":1,"oid":864,"fiber_id":872,"subject":"Falcon::Command::Serve","message":"Falcon v0.52.3 taking flight! Using Async::Container::Forked {count: 1, restart: false, health_check_timeout: 30.0}.\n- Running on ruby 3.4.5 (2025-07-16 revision 20cda200d3) +YJIT +PRISM [x86_64-linux]\n- Binding to: #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>\n- To terminate: Ctrl-C or kill 1\n- To reload configuration: kill -HUP 1\n"}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"status":"Initializing controller..."}}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Preloading server.rb..."}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"status":"Initializing controller..."}}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Preloading server.rb..."}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Starting http://0.0.0.0:3000 on #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>"}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller starting..."}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":896,"fiber_id":872,"subject":"Falcon::Service::Server","message":"Starting http://0.0.0.0:3000 on #<Falcon::Endpoint http://0.0.0.0:3000/ {timeout: 5.0}>"}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller starting..."}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"ready":true,"size":1}}
+api02  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller started..."}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":880,"fiber_id":872,"subject":"Async::Container::Notify::Console","message":{"ready":true,"size":1}}
+api01  | {"time":"2025-08-21T17:12:19+00:00","severity":"info","pid":1,"oid":904,"fiber_id":872,"subject":"Async::Service::Controller","message":"Controller started..."}
+api02  | {"time":"2025-08-21T17:12:25+00:00","severity":"info","pid":9,"oid":944,"fiber_id":952,"subject":"metrics","bucket":0,"bucket_size":500,"accepted":1,"processed_events":1,"successes":1,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:12:26+00:00","severity":"info","pid":9,"oid":944,"fiber_id":952,"subject":"metrics","bucket":0,"bucket_size":500,"accepted":1,"processed_events":1,"successes":1,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:13:16+00:00","severity":"info","pid":9,"oid":960,"fiber_id":968,"subject":"metrics","bucket":1,"bucket_size":500,"accepted":1346,"processed_events":500,"successes":500,"errors":0,"primary_q":845,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:13:23+00:00","severity":"info","pid":9,"oid":960,"fiber_id":968,"subject":"metrics","bucket":1,"bucket_size":500,"accepted":1730,"processed_events":500,"successes":500,"errors":0,"primary_q":1229,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:29+00:00","severity":"warn","pid":9,"oid":992,"fiber_id":1000,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:29+00:00","severity":"warn","pid":9,"oid":992,"fiber_id":1000,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:29+00:00","severity":"warn","pid":9,"oid":1024,"fiber_id":1032,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:29+00:00","severity":"warn","pid":9,"oid":1024,"fiber_id":1032,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:33+00:00","severity":"warn","pid":9,"oid":1056,"fiber_id":1064,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:33+00:00","severity":"warn","pid":9,"oid":1056,"fiber_id":1064,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:33+00:00","severity":"warn","pid":9,"oid":1088,"fiber_id":1096,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:33+00:00","severity":"warn","pid":9,"oid":1088,"fiber_id":1096,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:37+00:00","severity":"warn","pid":9,"oid":1120,"fiber_id":1128,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:37+00:00","severity":"warn","pid":9,"oid":1120,"fiber_id":1128,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:37+00:00","severity":"warn","pid":9,"oid":1152,"fiber_id":1160,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:37+00:00","severity":"warn","pid":9,"oid":1152,"fiber_id":1160,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:41+00:00","severity":"warn","pid":9,"oid":1184,"fiber_id":1192,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:41+00:00","severity":"warn","pid":9,"oid":1184,"fiber_id":1192,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:41+00:00","severity":"warn","pid":9,"oid":1216,"fiber_id":1224,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:41+00:00","severity":"warn","pid":9,"oid":1216,"fiber_id":1224,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:45+00:00","severity":"warn","pid":9,"oid":1248,"fiber_id":1256,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:45+00:00","severity":"warn","pid":9,"oid":1248,"fiber_id":1256,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:45+00:00","severity":"warn","pid":9,"oid":1280,"fiber_id":1288,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:45+00:00","severity":"warn","pid":9,"oid":1280,"fiber_id":1288,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:49+00:00","severity":"warn","pid":9,"oid":1312,"fiber_id":1320,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:49+00:00","severity":"warn","pid":9,"oid":1312,"fiber_id":1320,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:49+00:00","severity":"warn","pid":9,"oid":1344,"fiber_id":1352,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:49+00:00","severity":"warn","pid":9,"oid":1344,"fiber_id":1352,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:53+00:00","severity":"warn","pid":9,"oid":1376,"fiber_id":1384,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:53+00:00","severity":"warn","pid":9,"oid":1376,"fiber_id":1384,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:53+00:00","severity":"warn","pid":9,"oid":1408,"fiber_id":1416,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:53+00:00","severity":"warn","pid":9,"oid":1408,"fiber_id":1416,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:57+00:00","severity":"warn","pid":9,"oid":1440,"fiber_id":1448,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:57+00:00","severity":"warn","pid":9,"oid":1440,"fiber_id":1448,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api01  | {"time":"2025-08-21T17:14:57+00:00","severity":"warn","pid":9,"oid":1488,"fiber_id":1496,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:57+00:00","severity":"warn","pid":9,"oid":1472,"fiber_id":1480,"subject":"Error processing payment default: Async::TimeoutError: execution expired"}
+api02  | {"time":"2025-08-21T17:14:57+00:00","severity":"info","pid":9,"oid":1520,"fiber_id":1528,"subject":"metrics","bucket":2,"bucket_size":500,"accepted":11709,"processed_events":1000,"successes":953,"errors":0,"primary_q":10754,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:57+00:00","severity":"info","pid":9,"oid":1536,"fiber_id":1544,"subject":"metrics","bucket":2,"bucket_size":500,"accepted":11825,"processed_events":1000,"successes":953,"errors":0,"primary_q":10870,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:14:58+00:00","severity":"info","pid":9,"oid":1536,"fiber_id":1544,"subject":"metrics","bucket":3,"bucket_size":500,"accepted":11780,"processed_events":1500,"successes":1453,"errors":0,"primary_q":10326,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:58+00:00","severity":"info","pid":9,"oid":1552,"fiber_id":1560,"subject":"metrics","bucket":3,"bucket_size":500,"accepted":11902,"processed_events":1500,"successes":1453,"errors":0,"primary_q":10448,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:14:58+00:00","severity":"info","pid":9,"oid":1552,"fiber_id":1560,"subject":"metrics","bucket":4,"bucket_size":500,"accepted":11857,"processed_events":2000,"successes":1953,"errors":0,"primary_q":9903,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:58+00:00","severity":"info","pid":9,"oid":1568,"fiber_id":1576,"subject":"metrics","bucket":4,"bucket_size":500,"accepted":11975,"processed_events":2000,"successes":1953,"errors":0,"primary_q":10021,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:14:59+00:00","severity":"info","pid":9,"oid":1568,"fiber_id":1576,"subject":"metrics","bucket":5,"bucket_size":500,"accepted":11926,"processed_events":2500,"successes":2453,"errors":0,"primary_q":9472,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:59+00:00","severity":"info","pid":9,"oid":1584,"fiber_id":1592,"subject":"metrics","bucket":5,"bucket_size":500,"accepted":12046,"processed_events":2500,"successes":2453,"errors":0,"primary_q":9592,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:14:59+00:00","severity":"info","pid":9,"oid":1584,"fiber_id":1592,"subject":"metrics","bucket":6,"bucket_size":500,"accepted":12006,"processed_events":3000,"successes":2953,"errors":0,"primary_q":9052,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:14:59+00:00","severity":"info","pid":9,"oid":1600,"fiber_id":1608,"subject":"metrics","bucket":6,"bucket_size":500,"accepted":12124,"processed_events":3000,"successes":2953,"errors":0,"primary_q":9170,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:14:59+00:00","severity":"info","pid":9,"oid":1600,"fiber_id":1608,"subject":"metrics","bucket":7,"bucket_size":500,"accepted":12076,"processed_events":3500,"successes":3453,"errors":0,"primary_q":8622,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:00+00:00","severity":"info","pid":9,"oid":1616,"fiber_id":1624,"subject":"metrics","bucket":7,"bucket_size":500,"accepted":12200,"processed_events":3500,"successes":3453,"errors":0,"primary_q":8746,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:00+00:00","severity":"info","pid":9,"oid":1616,"fiber_id":1624,"subject":"metrics","bucket":8,"bucket_size":500,"accepted":12154,"processed_events":4000,"successes":3953,"errors":0,"primary_q":8200,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:00+00:00","severity":"info","pid":9,"oid":1632,"fiber_id":1640,"subject":"metrics","bucket":8,"bucket_size":500,"accepted":12276,"processed_events":4000,"successes":3953,"errors":0,"primary_q":8322,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:00+00:00","severity":"info","pid":9,"oid":1648,"fiber_id":1656,"subject":"metrics","bucket":9,"bucket_size":500,"accepted":12346,"processed_events":4500,"successes":4453,"errors":0,"primary_q":7892,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:00+00:00","severity":"info","pid":9,"oid":1632,"fiber_id":1640,"subject":"metrics","bucket":9,"bucket_size":500,"accepted":12234,"processed_events":4500,"successes":4453,"errors":0,"primary_q":7780,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:01+00:00","severity":"info","pid":9,"oid":1664,"fiber_id":1672,"subject":"metrics","bucket":10,"bucket_size":500,"accepted":12421,"processed_events":5000,"successes":4953,"errors":0,"primary_q":7467,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:01+00:00","severity":"info","pid":9,"oid":1648,"fiber_id":1656,"subject":"metrics","bucket":10,"bucket_size":500,"accepted":12315,"processed_events":5000,"successes":4953,"errors":0,"primary_q":7361,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:01+00:00","severity":"info","pid":9,"oid":1664,"fiber_id":1672,"subject":"metrics","bucket":11,"bucket_size":500,"accepted":12388,"processed_events":5500,"successes":5453,"errors":0,"primary_q":6934,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:01+00:00","severity":"info","pid":9,"oid":1680,"fiber_id":1688,"subject":"metrics","bucket":11,"bucket_size":500,"accepted":12502,"processed_events":5500,"successes":5453,"errors":0,"primary_q":7048,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:02+00:00","severity":"info","pid":9,"oid":1680,"fiber_id":1688,"subject":"metrics","bucket":12,"bucket_size":500,"accepted":12468,"processed_events":6000,"successes":5953,"errors":0,"primary_q":6514,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:02+00:00","severity":"info","pid":9,"oid":1696,"fiber_id":1704,"subject":"metrics","bucket":12,"bucket_size":500,"accepted":12578,"processed_events":6000,"successes":5953,"errors":0,"primary_q":6624,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:02+00:00","severity":"info","pid":9,"oid":1696,"fiber_id":1704,"subject":"metrics","bucket":13,"bucket_size":500,"accepted":12545,"processed_events":6500,"successes":6453,"errors":0,"primary_q":6091,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:02+00:00","severity":"info","pid":9,"oid":1712,"fiber_id":1720,"subject":"metrics","bucket":13,"bucket_size":500,"accepted":12653,"processed_events":6500,"successes":6453,"errors":0,"primary_q":6199,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:03+00:00","severity":"info","pid":9,"oid":1728,"fiber_id":1736,"subject":"metrics","bucket":14,"bucket_size":500,"accepted":12727,"processed_events":7000,"successes":6953,"errors":0,"primary_q":5773,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:03+00:00","severity":"info","pid":9,"oid":1712,"fiber_id":1720,"subject":"metrics","bucket":14,"bucket_size":500,"accepted":12624,"processed_events":7000,"successes":6953,"errors":0,"primary_q":5670,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:03+00:00","severity":"info","pid":9,"oid":1728,"fiber_id":1736,"subject":"metrics","bucket":15,"bucket_size":500,"accepted":12691,"processed_events":7500,"successes":7453,"errors":0,"primary_q":5237,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:03+00:00","severity":"info","pid":9,"oid":1744,"fiber_id":1752,"subject":"metrics","bucket":15,"bucket_size":500,"accepted":12813,"processed_events":7500,"successes":7453,"errors":0,"primary_q":5359,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:04+00:00","severity":"info","pid":9,"oid":1744,"fiber_id":1752,"subject":"metrics","bucket":16,"bucket_size":500,"accepted":12778,"processed_events":8000,"successes":7953,"errors":0,"primary_q":4824,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:04+00:00","severity":"info","pid":9,"oid":1760,"fiber_id":1768,"subject":"metrics","bucket":16,"bucket_size":500,"accepted":12889,"processed_events":8000,"successes":7953,"errors":0,"primary_q":4935,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:04+00:00","severity":"info","pid":9,"oid":1760,"fiber_id":1768,"subject":"metrics","bucket":17,"bucket_size":500,"accepted":12854,"processed_events":8500,"successes":8453,"errors":0,"primary_q":4400,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:04+00:00","severity":"info","pid":9,"oid":1776,"fiber_id":1784,"subject":"metrics","bucket":17,"bucket_size":500,"accepted":12960,"processed_events":8500,"successes":8453,"errors":0,"primary_q":4506,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:05+00:00","severity":"info","pid":9,"oid":1776,"fiber_id":1784,"subject":"metrics","bucket":18,"bucket_size":500,"accepted":12964,"processed_events":9000,"successes":8953,"errors":0,"primary_q":4010,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:05+00:00","severity":"info","pid":9,"oid":1792,"fiber_id":1800,"subject":"metrics","bucket":18,"bucket_size":500,"accepted":13022,"processed_events":9000,"successes":8953,"errors":0,"primary_q":4068,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:05+00:00","severity":"info","pid":9,"oid":1792,"fiber_id":1800,"subject":"metrics","bucket":19,"bucket_size":500,"accepted":13056,"processed_events":9500,"successes":9453,"errors":0,"primary_q":3602,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:05+00:00","severity":"info","pid":9,"oid":1808,"fiber_id":1816,"subject":"metrics","bucket":19,"bucket_size":500,"accepted":13098,"processed_events":9500,"successes":9453,"errors":0,"primary_q":3644,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:06+00:00","severity":"info","pid":9,"oid":1808,"fiber_id":1816,"subject":"metrics","bucket":20,"bucket_size":500,"accepted":13129,"processed_events":10000,"successes":9953,"errors":0,"primary_q":3175,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:06+00:00","severity":"info","pid":9,"oid":1824,"fiber_id":1832,"subject":"metrics","bucket":20,"bucket_size":500,"accepted":13181,"processed_events":10000,"successes":9953,"errors":0,"primary_q":3227,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:06+00:00","severity":"info","pid":9,"oid":1824,"fiber_id":1832,"subject":"metrics","bucket":21,"bucket_size":500,"accepted":13211,"processed_events":10500,"successes":10453,"errors":0,"primary_q":2757,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:06+00:00","severity":"info","pid":9,"oid":1840,"fiber_id":1848,"subject":"metrics","bucket":21,"bucket_size":500,"accepted":13254,"processed_events":10500,"successes":10453,"errors":0,"primary_q":2800,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:07+00:00","severity":"info","pid":9,"oid":1840,"fiber_id":1848,"subject":"metrics","bucket":22,"bucket_size":500,"accepted":13288,"processed_events":11000,"successes":10953,"errors":0,"primary_q":2334,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:07+00:00","severity":"info","pid":9,"oid":1856,"fiber_id":1864,"subject":"metrics","bucket":22,"bucket_size":500,"accepted":13328,"processed_events":11000,"successes":10953,"errors":0,"primary_q":2374,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:07+00:00","severity":"info","pid":9,"oid":1856,"fiber_id":1864,"subject":"metrics","bucket":23,"bucket_size":500,"accepted":13373,"processed_events":11500,"successes":11453,"errors":0,"primary_q":1919,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:07+00:00","severity":"info","pid":9,"oid":1872,"fiber_id":1880,"subject":"metrics","bucket":23,"bucket_size":500,"accepted":13409,"processed_events":11500,"successes":11453,"errors":0,"primary_q":1955,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:08+00:00","severity":"info","pid":9,"oid":1872,"fiber_id":1880,"subject":"metrics","bucket":24,"bucket_size":500,"accepted":13456,"processed_events":12000,"successes":11953,"errors":0,"primary_q":1502,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:08+00:00","severity":"info","pid":9,"oid":1888,"fiber_id":1896,"subject":"metrics","bucket":24,"bucket_size":500,"accepted":13486,"processed_events":12000,"successes":11953,"errors":0,"primary_q":1532,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:08+00:00","severity":"info","pid":9,"oid":1888,"fiber_id":1896,"subject":"metrics","bucket":25,"bucket_size":500,"accepted":13533,"processed_events":12500,"successes":12453,"errors":0,"primary_q":1079,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:08+00:00","severity":"info","pid":9,"oid":1904,"fiber_id":1912,"subject":"metrics","bucket":25,"bucket_size":500,"accepted":13570,"processed_events":12500,"successes":12453,"errors":0,"primary_q":1116,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:09+00:00","severity":"info","pid":9,"oid":1904,"fiber_id":1912,"subject":"metrics","bucket":26,"bucket_size":500,"accepted":13624,"processed_events":13000,"successes":12953,"errors":0,"primary_q":670,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:09+00:00","severity":"info","pid":9,"oid":1920,"fiber_id":1928,"subject":"metrics","bucket":26,"bucket_size":500,"accepted":13647,"processed_events":13000,"successes":12953,"errors":0,"primary_q":693,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:09+00:00","severity":"info","pid":9,"oid":1920,"fiber_id":1928,"subject":"metrics","bucket":27,"bucket_size":500,"accepted":13703,"processed_events":13500,"successes":13453,"errors":0,"primary_q":249,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:09+00:00","severity":"info","pid":9,"oid":1936,"fiber_id":1944,"subject":"metrics","bucket":27,"bucket_size":500,"accepted":13728,"processed_events":13500,"successes":13453,"errors":0,"primary_q":274,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:11+00:00","severity":"info","pid":9,"oid":1952,"fiber_id":1960,"subject":"metrics","bucket":28,"bucket_size":500,"accepted":13953,"processed_events":14000,"successes":13953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:11+00:00","severity":"info","pid":9,"oid":1936,"fiber_id":1944,"subject":"metrics","bucket":28,"bucket_size":500,"accepted":13953,"processed_events":14000,"successes":13953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:14+00:00","severity":"info","pid":9,"oid":1968,"fiber_id":1976,"subject":"metrics","bucket":29,"bucket_size":500,"accepted":14453,"processed_events":14500,"successes":14453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:14+00:00","severity":"info","pid":9,"oid":1952,"fiber_id":1960,"subject":"metrics","bucket":29,"bucket_size":500,"accepted":14453,"processed_events":14500,"successes":14453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:17+00:00","severity":"info","pid":9,"oid":1968,"fiber_id":1976,"subject":"metrics","bucket":30,"bucket_size":500,"accepted":14953,"processed_events":15000,"successes":14953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:17+00:00","severity":"info","pid":9,"oid":1984,"fiber_id":1992,"subject":"metrics","bucket":30,"bucket_size":500,"accepted":14954,"processed_events":15000,"successes":14953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:19+00:00","severity":"info","pid":9,"oid":1984,"fiber_id":1992,"subject":"metrics","bucket":31,"bucket_size":500,"accepted":15454,"processed_events":15500,"successes":15453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:20+00:00","severity":"info","pid":9,"oid":2000,"fiber_id":2008,"subject":"metrics","bucket":31,"bucket_size":500,"accepted":15454,"processed_events":15500,"successes":15453,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:22+00:00","severity":"info","pid":9,"oid":2000,"fiber_id":2008,"subject":"metrics","bucket":32,"bucket_size":500,"accepted":15953,"processed_events":16000,"successes":15953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:22+00:00","severity":"info","pid":9,"oid":2016,"fiber_id":2024,"subject":"metrics","bucket":32,"bucket_size":500,"accepted":15953,"processed_events":16000,"successes":15953,"errors":0,"primary_q":0,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:15:31+00:00","severity":"info","pid":9,"oid":2016,"fiber_id":2024,"subject":"metrics","bucket":33,"bucket_size":500,"accepted":17586,"processed_events":16500,"successes":16453,"errors":0,"primary_q":1132,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:15:37+00:00","severity":"info","pid":9,"oid":2032,"fiber_id":2040,"subject":"metrics","bucket":33,"bucket_size":500,"accepted":18678,"processed_events":16500,"successes":16453,"errors":0,"primary_q":2224,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:16:08+00:00","severity":"info","pid":9,"oid":2032,"fiber_id":2040,"subject":"metrics","bucket":34,"bucket_size":500,"accepted":25252,"processed_events":17000,"successes":16953,"errors":0,"primary_q":8298,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:16:11+00:00","severity":"info","pid":9,"oid":2048,"fiber_id":2056,"subject":"metrics","bucket":34,"bucket_size":500,"accepted":25931,"processed_events":17000,"successes":16953,"errors":0,"primary_q":8977,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api02  | {"time":"2025-08-21T17:16:44+00:00","severity":"info","pid":9,"oid":2064,"fiber_id":2072,"subject":"metrics","bucket":35,"bucket_size":500,"accepted":33834,"processed_events":17500,"successes":17453,"errors":0,"primary_q":16380,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
+api01  | {"time":"2025-08-21T17:16:50+00:00","severity":"info","pid":9,"oid":2064,"fiber_id":2072,"subject":"metrics","bucket":35,"bucket_size":500,"accepted":35497,"processed_events":17500,"successes":17453,"errors":0,"primary_q":18043,"retry_q":0,"dead_q":0,"inflight_primary":1,"inflight_retry":0,"inflight_dead":0,"primary_conc":1,"retry_conc":1,"dead_conc":1}
 [Knginx exited with code 0
-api02  | {"time":"2025-08-19T13:55:57+00:00","severity":"info","pid":1,"oid":928,"fiber_id":872,"subject":"Async::Container::Group","message":"Sending terminate to 1 running processes..."}
-api01  | {"time":"2025-08-19T13:55:57+00:00","severity":"info","pid":1,"oid":928,"fiber_id":872,"subject":"Async::Container::Group","message":"Sending terminate to 1 running processes..."}
-api02  | {"time":"2025-08-19T13:55:57+00:00","severity":"error","pid":9,"oid":2080,"fiber_id":2088,"subject":"Async::Container::Forked::Child","message":"SIGTERM","event":{"type":"failure","root":"/app","class":"Async::Container::Terminate","message":"SIGTERM","backtrace":["/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Async::Scheduler#run_loop'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:567:in 'Async::Scheduler#run'","/usr/local/bundle/gems/async-2.27.2/lib/kernel/async.rb:34:in 'Kernel#Async'","/usr/local/bundle/gems/falcon-0.52.3/lib/falcon/service/server.rb:61:in 'block in Falcon::Service::Server#setup'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:110:in 'block (3 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'block (2 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'Process.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'block in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:146:in 'Async::Container::Forked::Child#initialize'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Class#new'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:263:in 'Async::Container::Forked#start'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/generic.rb:176:in 'block in Async::Container::Generic#spawn'"]}}
-api01  | {"time":"2025-08-19T13:55:57+00:00","severity":"error","pid":9,"oid":2064,"fiber_id":2072,"subject":"Async::Container::Forked::Child","message":"SIGTERM","event":{"type":"failure","root":"/app","class":"Async::Container::Terminate","message":"SIGTERM","backtrace":["/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Async::Scheduler#run_loop'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:567:in 'Async::Scheduler#run'","/usr/local/bundle/gems/async-2.27.2/lib/kernel/async.rb:34:in 'Kernel#Async'","/usr/local/bundle/gems/falcon-0.52.3/lib/falcon/service/server.rb:61:in 'block in Falcon::Service::Server#setup'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:110:in 'block (3 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'block (2 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'Process.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'block in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:146:in 'Async::Container::Forked::Child#initialize'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Class#new'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:263:in 'Async::Container::Forked#start'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/generic.rb:176:in 'block in Async::Container::Generic#spawn'"]}}
-api01  | {"time":"2025-08-19T13:55:57+00:00","severity":"error","pid":1,"oid":936,"fiber_id":944,"subject":"Async::Container::Forked","status":"pid 9 exit 1"}
-api02  | {"time":"2025-08-19T13:55:57+00:00","severity":"error","pid":1,"oid":936,"fiber_id":944,"subject":"Async::Container::Forked","status":"pid 9 exit 1"}
-[Kapi01 exited with code 0
+api02  | {"time":"2025-08-21T17:17:26+00:00","severity":"info","pid":1,"oid":928,"fiber_id":872,"subject":"Async::Container::Group","message":"Sending terminate to 1 running processes..."}
+api01  | {"time":"2025-08-21T17:17:26+00:00","severity":"info","pid":1,"oid":928,"fiber_id":872,"subject":"Async::Container::Group","message":"Sending terminate to 1 running processes..."}
+api02  | {"time":"2025-08-21T17:17:26+00:00","severity":"error","pid":9,"oid":2080,"fiber_id":2088,"subject":"Async::Container::Forked::Child","message":"SIGTERM","event":{"type":"failure","root":"/app","class":"Async::Container::Terminate","message":"SIGTERM","backtrace":["/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Async::Scheduler#run_loop'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:567:in 'Async::Scheduler#run'","/usr/local/bundle/gems/async-2.27.2/lib/kernel/async.rb:34:in 'Kernel#Async'","/usr/local/bundle/gems/falcon-0.52.3/lib/falcon/service/server.rb:61:in 'block in Falcon::Service::Server#setup'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:110:in 'block (3 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'block (2 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'Process.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'block in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:146:in 'Async::Container::Forked::Child#initialize'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Class#new'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:263:in 'Async::Container::Forked#start'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/generic.rb:176:in 'block in Async::Container::Generic#spawn'"]}}
+api01  | {"time":"2025-08-21T17:17:26+00:00","severity":"error","pid":9,"oid":2080,"fiber_id":2088,"subject":"Async::Container::Forked::Child","message":"SIGTERM","event":{"type":"failure","root":"/app","class":"Async::Container::Terminate","message":"SIGTERM","backtrace":["/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:525:in 'Async::Scheduler#run_loop'","/usr/local/bundle/gems/async-2.27.2/lib/async/scheduler.rb:567:in 'Async::Scheduler#run'","/usr/local/bundle/gems/async-2.27.2/lib/kernel/async.rb:34:in 'Kernel#Async'","/usr/local/bundle/gems/falcon-0.52.3/lib/falcon/service/server.rb:61:in 'block in Falcon::Service::Server#setup'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:110:in 'block (3 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'Thread.handle_interrupt'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:109:in 'block (2 levels) in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'Process.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:102:in 'block in Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:146:in 'Async::Container::Forked::Child#initialize'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Class#new'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:101:in 'Async::Container::Forked::Child.fork'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/forked.rb:263:in 'Async::Container::Forked#start'","/usr/local/bundle/gems/async-container-0.25.0/lib/async/container/generic.rb:176:in 'block in Async::Container::Generic#spawn'"]}}
+api02  | {"time":"2025-08-21T17:17:26+00:00","severity":"error","pid":1,"oid":936,"fiber_id":944,"subject":"Async::Container::Forked","status":"pid 9 exit 1"}
+api01  | {"time":"2025-08-21T17:17:26+00:00","severity":"error","pid":1,"oid":936,"fiber_id":944,"subject":"Async::Container::Forked","status":"pid 9 exit 1"}
 [Kapi02 exited with code 0
-redis  | 1:signal-handler (1755611758) Received SIGTERM scheduling shutdown...
-redis  | 1:M 19 Aug 2025 13:55:58.117 # Redis is now ready to exit, bye bye...
+[Kapi01 exited with code 0
+redis  | 1:signal-handler (1755796647) Received SIGTERM scheduling shutdown...
+redis  | 1:M 21 Aug 2025 17:17:27.236 # Redis is now ready to exit, bye bye...
 log truncated at line 1000

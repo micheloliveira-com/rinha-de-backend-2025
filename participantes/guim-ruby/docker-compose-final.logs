@@ -1,7 +1,59 @@
 
- api2 Pulling 
  api1 Pulling 
- 396b1da7636e Already exists 
+ postgres Pulling 
+ api2 Pulling 
+ nginx Pulling 
+ 9824c27679d3 Already exists 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 9adfbae99cb7 Downloading [==================================================>]     955B/955B
+ 9adfbae99cb7 Verifying Checksum 
+ 9adfbae99cb7 Download complete 
+ 396b1da7636e Pulling fs layer 
+ 5bcff7d1818b Pulling fs layer 
+ 01fe067ff411 Pulling fs layer 
+ 725f87e6d9fb Pulling fs layer 
+ 0a0adef2ef8b Pulling fs layer 
+ c8c3ee5bd548 Pulling fs layer 
+ 2a489ca70292 Pulling fs layer 
+ 396b1da7636e Waiting 
+ 300c9c60a6c7 Pulling fs layer 
+ 5bcff7d1818b Waiting 
+ 01fe067ff411 Waiting 
+ 9298048eec61 Pulling fs layer 
+ 725f87e6d9fb Waiting 
+ 56e86803cc28 Pulling fs layer 
+ c8c3ee5bd548 Waiting 
+ 2a489ca70292 Waiting 
+ 0a0adef2ef8b Waiting 
+ 300c9c60a6c7 Waiting 
+ 56e86803cc28 Waiting 
+ 9298048eec61 Waiting 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 6bc572a340ec Extracting [>                                                  ]  32.77kB/1.806MB
+ 6bc572a340ec Extracting [==================================================>]  1.806MB/1.806MB
+ 6bc572a340ec Pull complete 
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Extracting [==================================================>]     628B/628B
+ 403e3f251637 Pull complete 
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Extracting [==================================================>]     955B/955B
+ 9adfbae99cb7 Pull complete 
+ 396b1da7636e Pulling fs layer 
  5bcff7d1818b Pulling fs layer 
  01fe067ff411 Pulling fs layer 
  725f87e6d9fb Pulling fs layer 
@@ -11,202 +63,349 @@
  300c9c60a6c7 Pulling fs layer 
  9298048eec61 Pulling fs layer 
  56e86803cc28 Pulling fs layer 
- 2a489ca70292 Waiting 
- 300c9c60a6c7 Waiting 
- 9298048eec61 Waiting 
  56e86803cc28 Waiting 
  0a0adef2ef8b Waiting 
- c8c3ee5bd548 Waiting 
- 396b1da7636e Already exists 
- 5bcff7d1818b Pulling fs layer 
- 01fe067ff411 Pulling fs layer 
- 725f87e6d9fb Pulling fs layer 
- 0a0adef2ef8b Pulling fs layer 
- c8c3ee5bd548 Pulling fs layer 
- 2a489ca70292 Pulling fs layer 
- 300c9c60a6c7 Pulling fs layer 
- 9298048eec61 Pulling fs layer 
- 56e86803cc28 Pulling fs layer 
- c8c3ee5bd548 Waiting 
- 56e86803cc28 Waiting 
- 0a0adef2ef8b Waiting 
+ 396b1da7636e Waiting 
+ 5bcff7d1818b Waiting 
+ 01fe067ff411 Waiting 
+ 725f87e6d9fb Waiting 
  2a489ca70292 Waiting 
+ c8c3ee5bd548 Waiting 
  300c9c60a6c7 Waiting 
  9298048eec61 Waiting 
- 01fe067ff411 Download complete 
- 01fe067ff411 Download complete 
- 0a0adef2ef8b Downloading [==================================================>]     143B/143B
- 0a0adef2ef8b Verifying Checksum 
- 0a0adef2ef8b Download complete 
- 0a0adef2ef8b Downloading [==================================================>]     143B/143B
- 0a0adef2ef8b Verifying Checksum 
- 0a0adef2ef8b Download complete 
- 5bcff7d1818b Downloading [>                                                  ]  16.38kB/1.277MB
- 5bcff7d1818b Downloading [>                                                  ]  16.38kB/1.277MB
- c8c3ee5bd548 Downloading [==================================================>]      93B/93B
- c8c3ee5bd548 Downloading [==================================================>]      93B/93B
- c8c3ee5bd548 Verifying Checksum 
- c8c3ee5bd548 Download complete 
- c8c3ee5bd548 Verifying Checksum 
- c8c3ee5bd548 Download complete 
+ 9824c27679d3 Already exists 
+ 61a7421693bd Pulling fs layer 
+ 51a939567803 Pulling fs layer 
+ a612d38c9b48 Pulling fs layer 
+ 901a9540064a Pulling fs layer 
+ 6c13c55b4b82 Pulling fs layer 
+ 0f940631c13f Pulling fs layer 
+ a15854d6fd91 Pulling fs layer 
+ 685be96195b7 Pulling fs layer 
+ ce414b3fa674 Pulling fs layer 
+ 61a7421693bd Waiting 
+ 51a939567803 Waiting 
+ 6afcd9ec0fd9 Pulling fs layer 
+ a612d38c9b48 Waiting 
+ 6c13c55b4b82 Waiting 
+ 901a9540064a Waiting 
+ 685be96195b7 Waiting 
+ 0f940631c13f Waiting 
+ 6afcd9ec0fd9 Waiting 
+ a15854d6fd91 Waiting 
+ ce414b3fa674 Waiting 
+ 7a8a46741e18 Downloading [==================================================>]     405B/405B
+ 7a8a46741e18 Verifying Checksum 
+ 7a8a46741e18 Download complete 
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Extracting [==================================================>]     405B/405B
+ 7a8a46741e18 Pull complete 
+ c9ebe2ff2d2c Downloading [===========================================>       ]  1.049kB/1.209kB
+ c9ebe2ff2d2c Downloading [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Verifying Checksum 
+ c9ebe2ff2d2c Download complete 
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ c9ebe2ff2d2c Extracting [==================================================>]  1.209kB/1.209kB
+ a992fbc61ecc Downloading [=====================================>             ]  1.049kB/1.398kB
+ a992fbc61ecc Downloading [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Verifying Checksum 
+ a992fbc61ecc Download complete 
+ c9ebe2ff2d2c Pull complete 
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Extracting [==================================================>]  1.398kB/1.398kB
+ a992fbc61ecc Pull complete 
+ 396b1da7636e Downloading [>                                                  ]  303.1kB/29.77MB
+ 396b1da7636e Downloading [>                                                  ]  303.1kB/29.77MB
+ 5bcff7d1818b Downloading [>                                                  ]  13.77kB/1.277MB
+ 5bcff7d1818b Downloading [>                                                  ]  13.77kB/1.277MB
  5bcff7d1818b Verifying Checksum 
  5bcff7d1818b Download complete 
- 5bcff7d1818b Verifying Checksum 
  5bcff7d1818b Download complete 
- 5bcff7d1818b Extracting [=>                                                 ]  32.77kB/1.277MB
- 5bcff7d1818b Extracting [=>                                                 ]  32.77kB/1.277MB
- 725f87e6d9fb Downloading [>                                                  ]  398.8kB/38.35MB
- 725f87e6d9fb Downloading [>                                                  ]  398.8kB/38.35MB
+ cb1ff4086f82 Downloading [>                                                  ]  171.9kB/16.84MB
+ 396b1da7636e Verifying Checksum 
+ 396b1da7636e Download complete 
+ 396b1da7636e Verifying Checksum 
+ 396b1da7636e Download complete 
+ 396b1da7636e Extracting [>                                                  ]  327.7kB/29.77MB
+ 396b1da7636e Extracting [>                                                  ]  327.7kB/29.77MB
+ cb1ff4086f82 Downloading [=================================>                 ]  11.21MB/16.84MB
+ cb1ff4086f82 Verifying Checksum 
+ cb1ff4086f82 Download complete 
+ 396b1da7636e Extracting [==========>                                        ]  6.226MB/29.77MB
+ 396b1da7636e Extracting [==========>                                        ]  6.226MB/29.77MB
+ cb1ff4086f82 Extracting [>                                                  ]  196.6kB/16.84MB
+ cb1ff4086f82 Extracting [=========>                                         ]  3.146MB/16.84MB
+ 396b1da7636e Extracting [=================>                                 ]  10.16MB/29.77MB
+ 396b1da7636e Extracting [=================>                                 ]  10.16MB/29.77MB
+ 01fe067ff411 Downloading [==================================================>]     190B/190B
+ 01fe067ff411 Verifying Checksum 
+ 01fe067ff411 Download complete 
+ 01fe067ff411 Downloading [==================================================>]     190B/190B
+ 01fe067ff411 Verifying Checksum 
+ 01fe067ff411 Download complete 
+ cb1ff4086f82 Extracting [==============================>                    ]  10.22MB/16.84MB
+ 396b1da7636e Extracting [======================>                            ]  13.11MB/29.77MB
+ 396b1da7636e Extracting [======================>                            ]  13.11MB/29.77MB
+ 725f87e6d9fb Downloading [>                                                  ]  397.4kB/38.35MB
+ 725f87e6d9fb Downloading [>                                                  ]  397.4kB/38.35MB
+ cb1ff4086f82 Extracting [============================================>      ]  15.14MB/16.84MB
+ 396b1da7636e Extracting [==============================>                    ]  18.02MB/29.77MB
+ 396b1da7636e Extracting [==============================>                    ]  18.02MB/29.77MB
+ 725f87e6d9fb Downloading [===================================>               ]  27.03MB/38.35MB
+ 725f87e6d9fb Downloading [===================================>               ]  27.03MB/38.35MB
+ 0a0adef2ef8b Downloading [==================================================>]     143B/143B
+ 0a0adef2ef8b Downloading [==================================================>]     143B/143B
+ 0a0adef2ef8b Verifying Checksum 
+ 0a0adef2ef8b Verifying Checksum 
+ 0a0adef2ef8b Download complete 
+ 0a0adef2ef8b Download complete 
+ 725f87e6d9fb Verifying Checksum 
+ 725f87e6d9fb Download complete 
+ 725f87e6d9fb Verifying Checksum 
+ 725f87e6d9fb Download complete 
+ cb1ff4086f82 Extracting [==================================================>]  16.84MB/16.84MB
+ 396b1da7636e Extracting [========================================>          ]  23.92MB/29.77MB
+ 396b1da7636e Extracting [========================================>          ]  23.92MB/29.77MB
+ cb1ff4086f82 Pull complete 
+ nginx Pulled 
+ c8c3ee5bd548 Downloading [==================================================>]      93B/93B
+ c8c3ee5bd548 Download complete 
+ c8c3ee5bd548 Download complete 
+ 396b1da7636e Extracting [============================================>      ]  26.21MB/29.77MB
+ 396b1da7636e Extracting [============================================>      ]  26.21MB/29.77MB
+ 396b1da7636e Extracting [===============================================>   ]  28.51MB/29.77MB
+ 396b1da7636e Extracting [===============================================>   ]  28.51MB/29.77MB
+ 2a489ca70292 Downloading [>                                                  ]  540.1kB/120.7MB
+ 2a489ca70292 Downloading [>                                                  ]  540.1kB/120.7MB
  300c9c60a6c7 Downloading [==================================================>]     796B/796B
  300c9c60a6c7 Verifying Checksum 
  300c9c60a6c7 Download complete 
+ 300c9c60a6c7 Verifying Checksum 
  300c9c60a6c7 Download complete 
- 5bcff7d1818b Extracting [===================================>               ]  917.5kB/1.277MB
- 5bcff7d1818b Extracting [===================================>               ]  917.5kB/1.277MB
- 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
- 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
- 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
- 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
- 5bcff7d1818b Pull complete 
- 5bcff7d1818b Pull complete 
- 2a489ca70292 Downloading [>                                                  ]  539.8kB/120.7MB
- 2a489ca70292 Downloading [>                                                  ]  539.8kB/120.7MB
- 01fe067ff411 Extracting [==================================================>]     190B/190B
- 01fe067ff411 Extracting [==================================================>]     190B/190B
- 01fe067ff411 Extracting [==================================================>]     190B/190B
- 01fe067ff411 Extracting [==================================================>]     190B/190B
- 725f87e6d9fb Downloading [=======================>                           ]  18.07MB/38.35MB
- 725f87e6d9fb Downloading [=======================>                           ]  18.07MB/38.35MB
- 01fe067ff411 Pull complete 
- 01fe067ff411 Pull complete 
- 9298048eec61 Downloading [>                                                  ]  113.6kB/11.32MB
- 9298048eec61 Downloading [>                                                  ]  113.6kB/11.32MB
- 725f87e6d9fb Downloading [===========================================>       ]  33.74MB/38.35MB
- 725f87e6d9fb Downloading [===========================================>       ]  33.74MB/38.35MB
- 9298048eec61 Downloading [================================================>  ]  11.08MB/11.32MB
- 9298048eec61 Downloading [================================================>  ]  11.08MB/11.32MB
- 9298048eec61 Verifying Checksum 
+ 2a489ca70292 Downloading [============>                                      ]  30.44MB/120.7MB
+ 2a489ca70292 Downloading [============>                                      ]  30.44MB/120.7MB
+ 9298048eec61 Downloading [>                                                  ]  114.8kB/11.32MB
+ 9298048eec61 Downloading [>                                                  ]  114.8kB/11.32MB
+ 396b1da7636e Extracting [================================================>  ]  29.16MB/29.77MB
+ 396b1da7636e Extracting [================================================>  ]  29.16MB/29.77MB
+ 2a489ca70292 Downloading [===================>                               ]     47MB/120.7MB
+ 2a489ca70292 Downloading [===================>                               ]     47MB/120.7MB
  9298048eec61 Verifying Checksum 
  9298048eec61 Download complete 
+ 9298048eec61 Verifying Checksum 
  9298048eec61 Download complete 
- 725f87e6d9fb Verifying Checksum 
- 725f87e6d9fb Download complete 
- 725f87e6d9fb Download complete 
- 2a489ca70292 Downloading [=======>                                           ]   18.9MB/120.7MB
- 725f87e6d9fb Extracting [>                                                  ]  393.2kB/38.35MB
- 2a489ca70292 Downloading [=======>                                           ]   18.9MB/120.7MB
- 725f87e6d9fb Extracting [>                                                  ]  393.2kB/38.35MB
+ 2a489ca70292 Downloading [===============================>                   ]  76.38MB/120.7MB
+ 2a489ca70292 Downloading [===============================>                   ]  76.38MB/120.7MB
+ 396b1da7636e Extracting [==================================================>]  29.77MB/29.77MB
+ 396b1da7636e Extracting [==================================================>]  29.77MB/29.77MB
+ 56e86803cc28 Downloading [==========>                                        ]     935B/4.443kB
+ 56e86803cc28 Downloading [==========>                                        ]     935B/4.443kB
+ 56e86803cc28 Downloading [==================================================>]  4.443kB/4.443kB
  56e86803cc28 Downloading [==================================================>]  4.443kB/4.443kB
  56e86803cc28 Verifying Checksum 
  56e86803cc28 Download complete 
- 56e86803cc28 Downloading [==================================================>]  4.443kB/4.443kB
  56e86803cc28 Verifying Checksum 
  56e86803cc28 Download complete 
- 725f87e6d9fb Extracting [===========>                                       ]  8.651MB/38.35MB
- 725f87e6d9fb Extracting [===========>                                       ]  8.651MB/38.35MB
- 2a489ca70292 Downloading [=============>                                     ]  33.35MB/120.7MB
- 2a489ca70292 Downloading [=============>                                     ]  33.35MB/120.7MB
- 725f87e6d9fb Extracting [=====================>                             ]  16.12MB/38.35MB
- 725f87e6d9fb Extracting [=====================>                             ]  16.12MB/38.35MB
- 2a489ca70292 Downloading [==============>                                    ]  33.88MB/120.7MB
- 2a489ca70292 Downloading [==============>                                    ]  33.88MB/120.7MB
- 725f87e6d9fb Extracting [======================>                            ]   17.3MB/38.35MB
- 725f87e6d9fb Extracting [======================>                            ]   17.3MB/38.35MB
- 725f87e6d9fb Extracting [========================>                          ]  18.87MB/38.35MB
- 725f87e6d9fb Extracting [========================>                          ]  18.87MB/38.35MB
- 725f87e6d9fb Extracting [===========================================>       ]  33.03MB/38.35MB
- 725f87e6d9fb Extracting [===========================================>       ]  33.03MB/38.35MB
- 2a489ca70292 Downloading [==================>                                ]   45.6MB/120.7MB
- 2a489ca70292 Downloading [==================>                                ]   45.6MB/120.7MB
- 725f87e6d9fb Extracting [==============================================>    ]  35.78MB/38.35MB
- 725f87e6d9fb Extracting [==============================================>    ]  35.78MB/38.35MB
- 2a489ca70292 Downloading [=====================>                             ]   52.5MB/120.7MB
- 2a489ca70292 Downloading [=====================>                             ]   52.5MB/120.7MB
- 725f87e6d9fb Extracting [=================================================> ]  37.75MB/38.35MB
- 725f87e6d9fb Extracting [=================================================> ]  37.75MB/38.35MB
- 725f87e6d9fb Extracting [==================================================>]  38.35MB/38.35MB
- 725f87e6d9fb Extracting [==================================================>]  38.35MB/38.35MB
- 2a489ca70292 Downloading [===========================>                       ]  67.46MB/120.7MB
- 2a489ca70292 Downloading [===========================>                       ]  67.46MB/120.7MB
- 725f87e6d9fb Pull complete 
- 725f87e6d9fb Pull complete 
- 0a0adef2ef8b Extracting [==================================================>]     143B/143B
- 0a0adef2ef8b Extracting [==================================================>]     143B/143B
- 0a0adef2ef8b Extracting [==================================================>]     143B/143B
- 0a0adef2ef8b Extracting [==================================================>]     143B/143B
- 0a0adef2ef8b Pull complete 
- 0a0adef2ef8b Pull complete 
- c8c3ee5bd548 Extracting [==================================================>]      93B/93B
- c8c3ee5bd548 Extracting [==================================================>]      93B/93B
- c8c3ee5bd548 Extracting [==================================================>]      93B/93B
- c8c3ee5bd548 Extracting [==================================================>]      93B/93B
- c8c3ee5bd548 Pull complete 
- c8c3ee5bd548 Pull complete 
- 2a489ca70292 Downloading [===================================>               ]  85.18MB/120.7MB
- 2a489ca70292 Downloading [===================================>               ]  85.18MB/120.7MB
- 2a489ca70292 Downloading [=========================================>         ]  100.7MB/120.7MB
- 2a489ca70292 Downloading [=========================================>         ]  100.7MB/120.7MB
- 2a489ca70292 Downloading [=============================================>     ]  109.8MB/120.7MB
- 2a489ca70292 Downloading [=============================================>     ]  109.8MB/120.7MB
- 2a489ca70292 Downloading [=================================================> ]  118.8MB/120.7MB
- 2a489ca70292 Downloading [=================================================> ]  118.8MB/120.7MB
+ 396b1da7636e Pull complete 
+ 396b1da7636e Pull complete 
+ 5bcff7d1818b Extracting [=>                                                 ]  32.77kB/1.277MB
+ 5bcff7d1818b Extracting [=>                                                 ]  32.77kB/1.277MB
+ 2a489ca70292 Downloading [===========================================>       ]  104.2MB/120.7MB
+ 2a489ca70292 Downloading [===========================================>       ]  104.2MB/120.7MB
  2a489ca70292 Verifying Checksum 
  2a489ca70292 Download complete 
+ 2a489ca70292 Verifying Checksum 
  2a489ca70292 Download complete 
+ 5bcff7d1818b Extracting [===================================>               ]  917.5kB/1.277MB
+ 5bcff7d1818b Extracting [===================================>               ]  917.5kB/1.277MB
+ 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
+ 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
+ 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
+ 5bcff7d1818b Extracting [==================================================>]  1.277MB/1.277MB
+ 5bcff7d1818b Pull complete 
+ 5bcff7d1818b Pull complete 
+ 01fe067ff411 Extracting [==================================================>]     190B/190B
+ 01fe067ff411 Extracting [==================================================>]     190B/190B
+ 01fe067ff411 Extracting [==================================================>]     190B/190B
+ 01fe067ff411 Extracting [==================================================>]     190B/190B
+ 01fe067ff411 Pull complete 
+ 01fe067ff411 Pull complete 
+ 725f87e6d9fb Extracting [>                                                  ]  393.2kB/38.35MB
+ 725f87e6d9fb Extracting [>                                                  ]  393.2kB/38.35MB
+ 725f87e6d9fb Extracting [===========>                                       ]  9.044MB/38.35MB
+ 725f87e6d9fb Extracting [===========>                                       ]  9.044MB/38.35MB
+ 61a7421693bd Downloading [==================================================>]     969B/969B
+ 61a7421693bd Download complete 
+ 61a7421693bd Extracting [==================================================>]     969B/969B
+ 61a7421693bd Extracting [==================================================>]     969B/969B
+ 61a7421693bd Pull complete 
+ 725f87e6d9fb Extracting [=====================>                             ]  16.12MB/38.35MB
+ 725f87e6d9fb Extracting [=====================>                             ]  16.12MB/38.35MB
+ 51a939567803 Downloading [>                                                  ]     12kB/1.116MB
+ 51a939567803 Downloading [==================================================>]  1.116MB/1.116MB
+ 51a939567803 Verifying Checksum 
+ 51a939567803 Download complete 
+ 51a939567803 Extracting [=>                                                 ]  32.77kB/1.116MB
+ 51a939567803 Extracting [==================================================>]  1.116MB/1.116MB
+ 51a939567803 Pull complete 
+ 725f87e6d9fb Extracting [======================>                            ]  16.91MB/38.35MB
+ 725f87e6d9fb Extracting [======================>                            ]  16.91MB/38.35MB
+ a612d38c9b48 Download complete 
+ a612d38c9b48 Extracting [==================================================>]     175B/175B
+ a612d38c9b48 Extracting [==================================================>]     175B/175B
+ a612d38c9b48 Pull complete 
+ 725f87e6d9fb Extracting [=======================>                           ]  17.69MB/38.35MB
+ 725f87e6d9fb Extracting [=======================>                           ]  17.69MB/38.35MB
+ 725f87e6d9fb Extracting [=====================================>             ]   29.1MB/38.35MB
+ 725f87e6d9fb Extracting [=====================================>             ]   29.1MB/38.35MB
+ 901a9540064a Downloading [==================================================>]     116B/116B
+ 901a9540064a Verifying Checksum 
+ 901a9540064a Download complete 
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 901a9540064a Extracting [==================================================>]     116B/116B
+ 901a9540064a Pull complete 
+ 725f87e6d9fb Extracting [==============================================>    ]  35.78MB/38.35MB
+ 725f87e6d9fb Extracting [==============================================>    ]  35.78MB/38.35MB
+ 6c13c55b4b82 Downloading [>                                                  ]  528.4kB/103.9MB
+ 725f87e6d9fb Extracting [=================================================> ]  37.75MB/38.35MB
+ 725f87e6d9fb Extracting [=================================================> ]  37.75MB/38.35MB
+ 0f940631c13f Downloading [=====>                                             ]  1.049kB/9.448kB
+ 0f940631c13f Downloading [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Verifying Checksum 
+ 0f940631c13f Download complete 
+ 6c13c55b4b82 Downloading [=======>                                           ]  15.46MB/103.9MB
+ 725f87e6d9fb Extracting [==================================================>]  38.35MB/38.35MB
+ 725f87e6d9fb Extracting [==================================================>]  38.35MB/38.35MB
+ 6c13c55b4b82 Downloading [==============>                                    ]  29.87MB/103.9MB
+ 725f87e6d9fb Pull complete 
+ 725f87e6d9fb Pull complete 
+ 0a0adef2ef8b Extracting [==================================================>]     143B/143B
+ 0a0adef2ef8b Extracting [==================================================>]     143B/143B
+ 0a0adef2ef8b Extracting [==================================================>]     143B/143B
+ 0a0adef2ef8b Extracting [==================================================>]     143B/143B
+ 0a0adef2ef8b Pull complete 
+ 0a0adef2ef8b Pull complete 
+ 6c13c55b4b82 Downloading [=====================>                             ]  43.71MB/103.9MB
+ c8c3ee5bd548 Extracting [==================================================>]      93B/93B
+ c8c3ee5bd548 Extracting [==================================================>]      93B/93B
+ c8c3ee5bd548 Extracting [==================================================>]      93B/93B
+ c8c3ee5bd548 Extracting [==================================================>]      93B/93B
+ c8c3ee5bd548 Pull complete 
+ c8c3ee5bd548 Pull complete 
  2a489ca70292 Extracting [>                                                  ]  557.1kB/120.7MB
  2a489ca70292 Extracting [>                                                  ]  557.1kB/120.7MB
- 2a489ca70292 Extracting [===>                                               ]  7.799MB/120.7MB
- 2a489ca70292 Extracting [===>                                               ]  7.799MB/120.7MB
- 2a489ca70292 Extracting [======>                                            ]   15.6MB/120.7MB
- 2a489ca70292 Extracting [======>                                            ]   15.6MB/120.7MB
- 2a489ca70292 Extracting [=========>                                         ]  23.95MB/120.7MB
- 2a489ca70292 Extracting [=========>                                         ]  23.95MB/120.7MB
+ a15854d6fd91 Downloading [==================================================>]     129B/129B
+ a15854d6fd91 Verifying Checksum 
+ a15854d6fd91 Download complete 
+ 6c13c55b4b82 Downloading [===========================>                       ]  58.16MB/103.9MB
+ 2a489ca70292 Extracting [==>                                                ]  6.685MB/120.7MB
+ 2a489ca70292 Extracting [==>                                                ]  6.685MB/120.7MB
+ 6c13c55b4b82 Downloading [==================================>                ]  72.55MB/103.9MB
+ 685be96195b7 Download complete 
+ 2a489ca70292 Extracting [=====>                                             ]  13.37MB/120.7MB
+ 2a489ca70292 Extracting [=====>                                             ]  13.37MB/120.7MB
+ 6c13c55b4b82 Downloading [=========================================>         ]  85.88MB/103.9MB
+ 2a489ca70292 Extracting [=========>                                         ]  21.73MB/120.7MB
+ 2a489ca70292 Extracting [=========>                                         ]  21.73MB/120.7MB
+ 6c13c55b4b82 Downloading [================================================>  ]  100.3MB/103.9MB
+ 6c13c55b4b82 Verifying Checksum 
+ 6c13c55b4b82 Download complete 
+ 6c13c55b4b82 Extracting [>                                                  ]  557.1kB/103.9MB
  2a489ca70292 Extracting [===========>                                       ]   27.3MB/120.7MB
  2a489ca70292 Extracting [===========>                                       ]   27.3MB/120.7MB
+ 6c13c55b4b82 Extracting [==>                                                ]  4.456MB/103.9MB
+ ce414b3fa674 Downloading [========>                                          ]  1.049kB/5.927kB
+ ce414b3fa674 Downloading [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Verifying Checksum 
+ ce414b3fa674 Download complete 
+ 6c13c55b4b82 Extracting [=====>                                             ]  12.26MB/103.9MB
  2a489ca70292 Extracting [===========>                                       ]  28.41MB/120.7MB
  2a489ca70292 Extracting [===========>                                       ]  28.41MB/120.7MB
+ 6c13c55b4b82 Extracting [=========>                                         ]  20.05MB/103.9MB
+ 6afcd9ec0fd9 Downloading [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Verifying Checksum 
+ 6afcd9ec0fd9 Download complete 
  2a489ca70292 Extracting [============>                                      ]  29.52MB/120.7MB
  2a489ca70292 Extracting [============>                                      ]  29.52MB/120.7MB
+ 6c13c55b4b82 Extracting [=============>                                     ]   27.3MB/103.9MB
  2a489ca70292 Extracting [============>                                      ]  30.08MB/120.7MB
  2a489ca70292 Extracting [============>                                      ]  30.08MB/120.7MB
+ 6c13c55b4b82 Extracting [================>                                  ]  35.09MB/103.9MB
+ 6c13c55b4b82 Extracting [====================>                              ]  42.89MB/103.9MB
  2a489ca70292 Extracting [============>                                      ]  30.64MB/120.7MB
  2a489ca70292 Extracting [============>                                      ]  30.64MB/120.7MB
+ 6c13c55b4b82 Extracting [========================>                          ]  50.14MB/103.9MB
  2a489ca70292 Extracting [============>                                      ]   31.2MB/120.7MB
  2a489ca70292 Extracting [============>                                      ]   31.2MB/120.7MB
+ 6c13c55b4b82 Extracting [=========================>                         ]  54.03MB/103.9MB
+ 6c13c55b4b82 Extracting [=============================>                     ]  60.72MB/103.9MB
  2a489ca70292 Extracting [=============>                                     ]  31.75MB/120.7MB
  2a489ca70292 Extracting [=============>                                     ]  31.75MB/120.7MB
- 2a489ca70292 Extracting [===============>                                   ]  37.32MB/120.7MB
- 2a489ca70292 Extracting [===============>                                   ]  37.32MB/120.7MB
+ 6c13c55b4b82 Extracting [===============================>                   ]  66.29MB/103.9MB
+ 2a489ca70292 Extracting [==============>                                    ]  35.65MB/120.7MB
+ 2a489ca70292 Extracting [==============>                                    ]  35.65MB/120.7MB
+ 6c13c55b4b82 Extracting [==================================>                ]  72.42MB/103.9MB
+ 6c13c55b4b82 Extracting [===================================>               ]  74.65MB/103.9MB
  2a489ca70292 Extracting [================>                                  ]  39.55MB/120.7MB
  2a489ca70292 Extracting [================>                                  ]  39.55MB/120.7MB
- 2a489ca70292 Extracting [==================>                                ]  44.01MB/120.7MB
- 2a489ca70292 Extracting [==================>                                ]  44.01MB/120.7MB
- 2a489ca70292 Extracting [=====================>                             ]  50.69MB/120.7MB
- 2a489ca70292 Extracting [=====================>                             ]  50.69MB/120.7MB
- 2a489ca70292 Extracting [========================>                          ]  57.93MB/120.7MB
- 2a489ca70292 Extracting [========================>                          ]  57.93MB/120.7MB
- 2a489ca70292 Extracting [===========================>                       ]  65.18MB/120.7MB
- 2a489ca70292 Extracting [===========================>                       ]  65.18MB/120.7MB
- 2a489ca70292 Extracting [===========================>                       ]   67.4MB/120.7MB
- 2a489ca70292 Extracting [===========================>                       ]   67.4MB/120.7MB
+ 2a489ca70292 Extracting [==================>                                ]  43.45MB/120.7MB
+ 2a489ca70292 Extracting [==================>                                ]  43.45MB/120.7MB
+ 6c13c55b4b82 Extracting [====================================>              ]  75.76MB/103.9MB
+ 2a489ca70292 Extracting [====================>                              ]  49.02MB/120.7MB
+ 2a489ca70292 Extracting [====================>                              ]  49.02MB/120.7MB
+ 6c13c55b4b82 Extracting [=====================================>             ]  77.99MB/103.9MB
+ 2a489ca70292 Extracting [=======================>                           ]  55.71MB/120.7MB
+ 2a489ca70292 Extracting [=======================>                           ]  55.71MB/120.7MB
+ 6c13c55b4b82 Extracting [=======================================>           ]  81.33MB/103.9MB
+ 2a489ca70292 Extracting [=========================>                         ]  61.83MB/120.7MB
+ 2a489ca70292 Extracting [=========================>                         ]  61.83MB/120.7MB
+ 6c13c55b4b82 Extracting [========================================>          ]  84.67MB/103.9MB
+ 2a489ca70292 Extracting [===========================>                       ]  65.73MB/120.7MB
+ 2a489ca70292 Extracting [===========================>                       ]  65.73MB/120.7MB
+ 6c13c55b4b82 Extracting [==========================================>        ]  89.13MB/103.9MB
+ 2a489ca70292 Extracting [============================>                      ]  68.52MB/120.7MB
+ 2a489ca70292 Extracting [============================>                      ]  68.52MB/120.7MB
+ 6c13c55b4b82 Extracting [===========================================>       ]   90.8MB/103.9MB
  2a489ca70292 Extracting [=============================>                     ]  70.75MB/120.7MB
  2a489ca70292 Extracting [=============================>                     ]  70.75MB/120.7MB
- 2a489ca70292 Extracting [=================================>                 ]  79.66MB/120.7MB
- 2a489ca70292 Extracting [=================================>                 ]  79.66MB/120.7MB
- 2a489ca70292 Extracting [====================================>              ]  88.01MB/120.7MB
- 2a489ca70292 Extracting [====================================>              ]  88.01MB/120.7MB
- 2a489ca70292 Extracting [========================================>          ]  96.93MB/120.7MB
- 2a489ca70292 Extracting [========================================>          ]  96.93MB/120.7MB
- 2a489ca70292 Extracting [===========================================>       ]  104.7MB/120.7MB
- 2a489ca70292 Extracting [===========================================>       ]  104.7MB/120.7MB
- 2a489ca70292 Extracting [==============================================>    ]  113.1MB/120.7MB
- 2a489ca70292 Extracting [==============================================>    ]  113.1MB/120.7MB
- 2a489ca70292 Extracting [================================================>  ]  115.9MB/120.7MB
- 2a489ca70292 Extracting [================================================>  ]  115.9MB/120.7MB
- 2a489ca70292 Extracting [================================================>  ]  117.5MB/120.7MB
- 2a489ca70292 Extracting [================================================>  ]  117.5MB/120.7MB
- 2a489ca70292 Extracting [=================================================> ]  118.7MB/120.7MB
- 2a489ca70292 Extracting [=================================================> ]  118.7MB/120.7MB
+ 6c13c55b4b82 Extracting [==============================================>    ]  96.93MB/103.9MB
+ 2a489ca70292 Extracting [===============================>                   ]  76.32MB/120.7MB
+ 2a489ca70292 Extracting [===============================>                   ]  76.32MB/120.7MB
+ 6c13c55b4b82 Extracting [=================================================> ]  103.1MB/103.9MB
+ 6c13c55b4b82 Extracting [==================================================>]  103.9MB/103.9MB
+ 2a489ca70292 Extracting [==================================>                ]  83.56MB/120.7MB
+ 2a489ca70292 Extracting [==================================>                ]  83.56MB/120.7MB
+ 2a489ca70292 Extracting [======================================>            ]  91.91MB/120.7MB
+ 2a489ca70292 Extracting [======================================>            ]  91.91MB/120.7MB
+ 6c13c55b4b82 Pull complete 
+ 0f940631c13f Extracting [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Extracting [==================================================>]  9.448kB/9.448kB
+ 0f940631c13f Pull complete 
+ a15854d6fd91 Extracting [==================================================>]     129B/129B
+ a15854d6fd91 Extracting [==================================================>]     129B/129B
+ a15854d6fd91 Pull complete 
+ 685be96195b7 Extracting [==================================================>]     171B/171B
+ 685be96195b7 Extracting [==================================================>]     171B/171B
+ 685be96195b7 Pull complete 
+ ce414b3fa674 Extracting [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Extracting [==================================================>]  5.927kB/5.927kB
+ ce414b3fa674 Pull complete 
+ 2a489ca70292 Extracting [=========================================>         ]  99.71MB/120.7MB
+ 2a489ca70292 Extracting [=========================================>         ]  99.71MB/120.7MB
+ 6afcd9ec0fd9 Extracting [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Extracting [==================================================>]     185B/185B
+ 6afcd9ec0fd9 Pull complete 
+ postgres Pulled 
+ 2a489ca70292 Extracting [============================================>      ]  108.1MB/120.7MB
+ 2a489ca70292 Extracting [============================================>      ]  108.1MB/120.7MB
+ 2a489ca70292 Extracting [===============================================>   ]  115.3MB/120.7MB
+ 2a489ca70292 Extracting [===============================================>   ]  115.3MB/120.7MB
+ 2a489ca70292 Extracting [================================================>  ]    117MB/120.7MB
+ 2a489ca70292 Extracting [================================================>  ]    117MB/120.7MB
+ 2a489ca70292 Extracting [================================================>  ]  118.1MB/120.7MB
+ 2a489ca70292 Extracting [================================================>  ]  118.1MB/120.7MB
+ 2a489ca70292 Extracting [=================================================> ]  119.8MB/120.7MB
+ 2a489ca70292 Extracting [=================================================> ]  119.8MB/120.7MB
  2a489ca70292 Extracting [=================================================> ]  120.3MB/120.7MB
  2a489ca70292 Extracting [=================================================> ]  120.3MB/120.7MB
  2a489ca70292 Extracting [==================================================>]  120.7MB/120.7MB
@@ -221,8 +420,8 @@
  300c9c60a6c7 Pull complete 
  9298048eec61 Extracting [>                                                  ]  131.1kB/11.32MB
  9298048eec61 Extracting [>                                                  ]  131.1kB/11.32MB
- 9298048eec61 Extracting [=======================>                           ]  5.243MB/11.32MB
- 9298048eec61 Extracting [=======================>                           ]  5.243MB/11.32MB
+ 9298048eec61 Extracting [=========================>                         ]  5.767MB/11.32MB
+ 9298048eec61 Extracting [=========================>                         ]  5.767MB/11.32MB
  9298048eec61 Extracting [==========================================>        ]  9.568MB/11.32MB
  9298048eec61 Extracting [==========================================>        ]  9.568MB/11.32MB
  9298048eec61 Extracting [===========================================>       ]  9.961MB/11.32MB
@@ -237,8 +436,8 @@
  56e86803cc28 Extracting [==================================================>]  4.443kB/4.443kB
  56e86803cc28 Pull complete 
  56e86803cc28 Pull complete 
- api2 Pulled 
  api1 Pulled 
+ api2 Pulled 
  Network guim-ruby_rinha-network  Creating
  Network guim-ruby_rinha-network  Created
  Volume "guim-ruby_postgres_data"  Creating
@@ -247,8 +446,8 @@
  Container guim-ruby-postgres-1  Created
  Container guim-ruby-api2-1  Creating
  Container guim-ruby-api1-1  Creating
- Container guim-ruby-api2-1  Created
  Container guim-ruby-api1-1  Created
+ Container guim-ruby-api2-1  Created
  Container guim-ruby-nginx-1  Creating
  Container guim-ruby-nginx-1  Created
 Attaching to api1-1, api2-1, nginx-1, postgres-1
@@ -273,13 +472,13 @@ nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will at
 nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
 nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+postgres-1  | sh: locale: not found
+postgres-1  | 2025-08-21 07:43:22.207 UTC [35] WARNING:  no usable system locales were found
 nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
 nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
-postgres-1  | sh: locale: not found
-postgres-1  | 2025-08-18 18:59:45.177 UTC [35] WARNING:  no usable system locales were found
 postgres-1  | performing post-bootstrap initialization ... ok
 postgres-1  | syncing data to disk ... ok
 postgres-1  | 
@@ -290,10 +489,10 @@ postgres-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
 postgres-1  | 
 postgres-1  | initdb: warning: enabling "trust" authentication for local connections
 postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
-postgres-1  | waiting for server to start....2025-08-18 18:59:46.078 UTC [41] LOG:  starting PostgreSQL 15.13 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-postgres-1  | 2025-08-18 18:59:46.081 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-18 18:59:46.093 UTC [44] LOG:  database system was shut down at 2025-08-18 18:59:45 UTC
-postgres-1  | 2025-08-18 18:59:46.100 UTC [41] LOG:  database system is ready to accept connections
+postgres-1  | waiting for server to start....2025-08-21 07:43:23.094 UTC [41] LOG:  starting PostgreSQL 15.14 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 07:43:23.097 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 07:43:23.107 UTC [44] LOG:  database system was shut down at 2025-08-21 07:43:22 UTC
+postgres-1  | 2025-08-21 07:43:23.114 UTC [41] LOG:  database system is ready to accept connections
 postgres-1  |  done
 postgres-1  | server started
 postgres-1  | CREATE DATABASE
@@ -305,697 +504,498 @@ postgres-1  | CREATE TABLE
 postgres-1  | CREATE INDEX
 postgres-1  | 
 postgres-1  | 
-postgres-1  | waiting for server to shut down...2025-08-18 18:59:46.251 UTC [41] LOG:  received fast shutdown request
-postgres-1  | .2025-08-18 18:59:46.254 UTC [41] LOG:  aborting any active transactions
-postgres-1  | 2025-08-18 18:59:46.278 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
-postgres-1  | 2025-08-18 18:59:46.279 UTC [42] LOG:  shutting down
-postgres-1  | 2025-08-18 18:59:46.282 UTC [42] LOG:  checkpoint starting: shutdown immediate
-postgres-1  | 2025-08-18 18:59:46.330 UTC [42] LOG:  checkpoint complete: wrote 926 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.033 s, sync=0.006 s, total=0.052 s; sync files=311, longest=0.003 s, average=0.001 s; distance=4257 kB, estimate=4257 kB
-postgres-1  | 2025-08-18 18:59:46.339 UTC [41] LOG:  database system is shut down
+postgres-1  | waiting for server to shut down...2025-08-21 07:43:23.292 UTC [41] LOG:  received fast shutdown request
+postgres-1  | .2025-08-21 07:43:23.294 UTC [41] LOG:  aborting any active transactions
+postgres-1  | 2025-08-21 07:43:23.297 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+postgres-1  | 2025-08-21 07:43:23.297 UTC [42] LOG:  shutting down
+postgres-1  | 2025-08-21 07:43:23.300 UTC [42] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-08-21 07:43:23.349 UTC [42] LOG:  checkpoint complete: wrote 926 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.035 s, sync=0.006 s, total=0.052 s; sync files=311, longest=0.003 s, average=0.001 s; distance=4257 kB, estimate=4257 kB
+postgres-1  | 2025-08-21 07:43:23.358 UTC [41] LOG:  database system is shut down
 postgres-1  |  done
 postgres-1  | server stopped
 postgres-1  | 
 postgres-1  | PostgreSQL init process complete; ready for start up.
 postgres-1  | 
-postgres-1  | 2025-08-18 18:59:46.378 UTC [1] LOG:  starting PostgreSQL 15.13 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
-postgres-1  | 2025-08-18 18:59:46.378 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-postgres-1  | 2025-08-18 18:59:46.378 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-postgres-1  | 2025-08-18 18:59:46.384 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-postgres-1  | 2025-08-18 18:59:46.392 UTC [59] LOG:  database system was shut down at 2025-08-18 18:59:46 UTC
-postgres-1  | 2025-08-18 18:59:46.400 UTC [1] LOG:  database system is ready to accept connections
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:49 +0000] "GET /payments-summary HTTP/1.1" 200 94 "-" "curl/8.5.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:54 +0000] "POST /purge-payments HTTP/1.1" 200 18 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:54 +0000] "GET /payments-summary?from=2025-08-18T18:59:39.672Z&to=2025-08-18T18:59:52.672Z HTTP/1.1" 200 94 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:54 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:55 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:55 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:55 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:56 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:56 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:56 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:56 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:56 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:57 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:58 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:18:59:59 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:00 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:01 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:02 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:03 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "GET /payments-summary?from=2025-08-18T18:59:49.678Z&to=2025-08-18T19:00:02.678Z HTTP/1.1" 200 107 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:04 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:05 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:06 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:07 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:08 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:09 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:10 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:11 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:12 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:13 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "GET /payments-summary?from=2025-08-18T18:59:59.693Z&to=2025-08-18T19:00:12.693Z HTTP/1.1" 200 106 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:14 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:15 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:16 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:17 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:18 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
-nginx-1     | 172.21.0.1 - - [18/Aug/2025:19:00:19 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.1.0"
+postgres-1  | 2025-08-21 07:43:23.418 UTC [1] LOG:  starting PostgreSQL 15.14 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-08-21 07:43:23.418 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-08-21 07:43:23.418 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1  | 2025-08-21 07:43:23.424 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-08-21 07:43:23.432 UTC [59] LOG:  database system was shut down at 2025-08-21 07:43:23 UTC
+postgres-1  | 2025-08-21 07:43:23.440 UTC [1] LOG:  database system is ready to accept connections
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:27 +0000] "GET /payments-summary HTTP/1.1" 200 94 "-" "curl/8.14.1"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:32 +0000] "POST /purge-payments HTTP/1.1" 200 18 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:32 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:32 +0000] "GET /payments-summary?from=2025-08-21T07:43:17.769Z&to=2025-08-21T07:43:30.769Z HTTP/1.1" 200 94 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:33 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:33 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:33 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:34 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:34 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:34 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:34 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:34 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:35 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:36 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:37 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:38 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:39 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:40 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:41 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "GET /payments-summary?from=2025-08-21T07:43:27.774Z&to=2025-08-21T07:43:40.774Z HTTP/1.1" 200 107 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:42 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:43 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:44 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:45 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:46 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:47 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:48 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:49 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:50 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:51 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "GET /payments-summary?from=2025-08-21T07:43:37.779Z&to=2025-08-21T07:43:50.779Z HTTP/1.1" 200 107 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:52 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
+nginx-1     | 172.20.0.1 - - [21/Aug/2025:07:43:53 +0000] "POST /payments HTTP/1.1" 200 0 "-" "Grafana k6/1.2.2"
 log truncated at line 1000
